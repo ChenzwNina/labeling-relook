@@ -1,0 +1,19 @@
+#:schema node_modules/wrangler/config-schema.json
+name = "rate"
+main = "backend.js"
+compatibility_date = "2024-12-24"
+compatibility_flags = ["nodejs_compat"]
+
+# Workers Logs
+# Docs: https://developers.cloudflare.com/workers/observability/logs/workers-logs/
+# Configuration: https://developers.cloudflare.com/workers/observability/logs/workers-logs/#enable-workers-logs
+[observability]
+enabled = true
+
+[env.production]
+account_id = "0a54c51ce4290ec2bb59f10871e4e25d"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "data-relook"
+id = "73747974b8b745ed8e39fd984e2f9043"

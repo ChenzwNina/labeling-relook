@@ -1,0 +1,219 @@
+{
+  "immortal-accounts-vote": {
+    "name": "immortal accounts",
+    "meso-level": "roach motel",
+    "high-level": "obstruction"
+  },
+  "dead-end-vote": {
+    "name": "dead ends",
+    "meso-level": "roach motel",
+    "high-level": "obstruction"
+  },
+  "no-way-back": {
+    "name": "no way back",
+    "meso-level": "roach motel",
+    "high-level": "obstruction"
+  },
+  "price-comparison-prevention-vote": {
+    "name": "price comparison prevention",
+    "meso-level": "creating barriers",
+    "high-level": "obstruction"
+  },
+  "intermediate-currency-vote": {
+    "name": "intermediate currencies",
+    "meso-level": "creating barriers",
+    "high-level": "obstruction"
+  },
+  "discount-framing-manipulation": {
+    "name": "discount framing manipulation",
+    "meso-level": "creating barriers",
+    "high-level": "obstruction"
+  },
+  "privacy-maze-vote": {
+    "name": "privacy mazes",
+    "meso-level": "adding steps",
+    "high-level": "obstruction"
+  },
+  "extra-burden-vote": {
+    "name": "extra burden",
+    "meso-level": "adding steps",
+    "high-level": "obstruction"
+  },
+  "disguised-ad-vote": {
+    "name": "disguised ads",
+    "meso-level": "bait and switch",
+    "high-level": "sneaking"
+  },
+  "sneak-into-basket-vote": {
+    "name": "sneak into basket",
+    "meso-level": "hiding information",
+    "high-level": "sneaking"
+  },
+  "drip-pricing-vote": {
+    "name": "drip pricing, hidden costs, or partitioned pricing",
+    "meso-level": "hiding information",
+    "high-level": "sneaking"
+  },
+  "reference-pricing-vote": {
+    "name": "reference pricing",
+    "meso-level": "hiding information",
+    "high-level": "sneaking"
+  },
+  "conflicting-information-vote": {
+    "name": "confliciting information",
+    "meso-level": "(de)contextualizing cues",
+    "high-level": "sneaking"
+  },
+  "information-without-context-vote": {
+    "name": "information without context",
+    "meso-level": "(de)contextualizing cues",
+    "high-level": "sneaking"
+  },
+  "false-hierarchy-vote": {
+    "name": "false hierarchy",
+    "meso-level": "manipulating choice architecture",
+    "high-level": "interface interference"
+  },
+  "visual-prominence-vote": {
+    "name": "visual prominence",
+    "meso-level": "manipulating choice architecture",
+    "high-level": "interface interference"
+  },
+  "bundling-vote": {
+    "name": "bundling",
+    "meso-level": "manipulating choice architecture",
+    "high-level": "interface interference"
+  },
+  "pressured-selling-vote": {
+    "name": "pressured selling",
+    "meso-level": "manipulating choice architecture",
+    "high-level": "interface interference"
+  },
+  "bad-defaults-sum": {
+    "name": "bad defaults",
+    "high-level": "interface interference"
+  },
+  "cuteness-vote": {
+    "name": "cuteness",
+    "meso-level": "emotional or sensory manipulation",
+    "high-level": "interface interference"
+  },
+  "positive-vote": {
+    "name": "positive or negative framing",
+    "meso-level": "emotional or sensory manipulation",
+    "high-level": "interface interference"
+  },
+  "trick-questions-sum": {
+    "name": "trick questions",
+    "high-level": "interface interference"
+  },
+  "choice-overload-sum": {
+    "name": "choice overload",
+    "high-level": "interface interference"
+  },
+  "hidden-information-sum": {
+    "name": "hidden information",
+    "high-level": "interface interference"
+  },
+  "wrong-language-vote": {
+    "name": "wrong language",
+    "meso-level": "language inaccessibility",
+    "high-level": "interface interference"
+  },
+  "complex-language-vote": {
+    "name": "complex lanaguage",
+    "meso-level": "language inaccessibility",
+    "high-level": "interface interference"
+  },
+  "feedward-ambiguity-sum": {
+    "name": "feedforward ambiguity",
+    "high-level": "interface interference"
+  },
+  "nagging-sum": {
+    "name": "nagging",
+    "high-level": "forced action"
+  },
+  "forced-continuity-sum": {
+    "name": "forced continuity",
+    "high-level": "forced action"
+  },
+  "forced-registration-sum": {
+    "name": "forced registration or sign-in",
+    "high-level": "forced action"
+  },
+  "privacy-zukering-vote": {
+    "name": "privacy zuckering",
+    "meso-level":"forced communication or disclosure",
+    "high-level": "forced action"
+  },
+  "friend-spam-vote": {
+    "name": "friend spam",
+    "meso-level":"forced communication or disclosure",
+    "high-level": "forced action"
+  },
+  "address-book-leeching-vote": {
+    "name": "address book leeching",
+    "meso-level":"forced communication or disclosure",
+    "high-level": "forced action"
+  },
+  "social-pyramid-vote": {
+    "name": "social pyramid",
+    "meso-level":"forced communication or disclosure",
+    "high-level": "forced action"
+  },
+  "pay-to-play-vote": {
+    "name": "pay-to-play",
+    "meso-level":"gamification",
+    "high-level": "forced action"
+  },
+  "grinding-vote": {
+    "name": "grinding",
+    "meso-level":"gamification",
+    "high-level": "forced action"
+  },
+  "auto-play-vote": {
+    "name": "auto play",
+    "meso-level":"attention capture",
+    "high-level": "forced action"
+  },
+  "high-demand-vote": {
+    "name": "high demand",
+    "meso-level":"scarcity and popularity claims",
+    "high-level": "social engineering"
+  },
+  "low-stock-vote": {
+    "name": "low stock",
+    "meso-level":"social proof",
+    "high-level": "social engineering"
+  },
+  "endorsement-vote": {
+    "name": "endorsements and testimonials",
+    "meso-level":"social proof",
+    "high-level": "social engineering"
+  },
+  "parasocial-vote": {
+    "name": "parasocial pressure",
+    "meso-level":"social proof",
+    "high-level": "social engineering"
+  },
+  "activity-messages-vote": {
+    "name": "activity messages",
+    "meso-level":"urgency",
+    "high-level": "social engineering"
+  },
+  "countdown-timer-vote": {
+    "name": "countdown timers",
+    "meso-level":"urgency",
+    "high-level": "social engineering"
+  },
+  "limited-time-vote": {
+    "name": "limited time messages",
+    "meso-level":"urgency",
+    "high-level": "social engineering"
+  },
+  "confirmshaming-vote": {
+    "name": "confirmshaming",
+    "meso-level":"personalization",
+    "high-level": "social engineering"
+}
+}

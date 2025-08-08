@@ -268,10 +268,12 @@
             checkbox.type = "checkbox";
             checkbox.id = `category-${index}`; // unique ID
 
+            const mapping_category = findMapping(value);
+
             // Create label linked to checkbox
             const label = document.createElement("label");
             label.setAttribute("for", checkbox.id);
-            label.textContent = value;
+            label.textContent = mapping_category;
 
             // Add checkbox and label to wrapper
             wrapper.appendChild(checkbox);
@@ -282,6 +284,13 @@
             });
         }
         
+        async function findMapping(category) {
+            const data = await (await fetch('category_mapping.json')).json();
+            mapping_category = data[category]["name"];
+            return mapping_category;
+        }
+
+
         // Example: get selected values
         function getSelectedCategories() {
             select_categories = []; // reset each time
@@ -424,17 +433,18 @@
                 Toast('Uploading data...', 1000);
 
                 let myuuid = crypto.randomUUID();
+                const videoIndex = getQueryParameter('videoIndex');
                 const user = getQueryParameter('user');
 
-                if (!widgetIndex || !user) {
-                    console.error("Missing required parameters:", {widgetIndex, user });
+                if (!videoIndex || !user) {
+                    console.error("Missing required parameters:", { videoIndex, user });
                     await Toast("Error: Missing videoIndex or user parameter", 3000);
                     return;
                 }
 
                 console.log("Uploading to /upload with:", {
                     key: myuuid,
-                    index: widgetIndex,
+                    index: videoIndex,
                     rater: user
                 });
 
@@ -464,7 +474,7 @@
                 console.log("Upload response:", uploadResult);
 
                 // Second request to /put with validation
-                const putKey = widgetIndex + user;
+                const putKey = videoIndex + user;
                 const putPayload = {
                     key: putKey,
                     rater: user,
