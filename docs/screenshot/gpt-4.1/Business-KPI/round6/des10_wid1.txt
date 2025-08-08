@@ -1,0 +1,7 @@
+4.1: The widget features a bold blue gradient background with white and gold accents. Key elements include a circular hero badge image, a large headline ("Join ShopSmart+ Membership"), a highlighted limited-time offer in a gold pill, and a checklist of membership benefits in clean, readable text. The signup input and bright orange call-to-action button are prominent and separate from content. Compact below 650px, it stays mobile-friendly. These choices ensure instant recognition, easy action, and convey valuable rewards, driving signups and conversions.
+  
+  4.2: This widget appears automatically at the top of the landing page and any high-traffic category pages, especially for users who are not logged in as members. This ensures maximum visibility to new and returning visitors likely to benefit from membership.
+  
+  4.3: Users can enter their email and submit the form to start the membership signup process. The highlighted offer and benefit checklist encourage exploration; the bright CTA encourages interaction. Upon completion, users receive feedback (eg. popup/modal, as with the sample alert). Interactive trust badges and highlighted perks invite further clicks. On smaller screens, all interactivity remains easy and touch-friendly.
+  -->
+</body>

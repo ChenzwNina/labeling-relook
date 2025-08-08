@@ -1,0 +1,9 @@
+4.1 Question 1:
+The widget uses a white, card-style panel with soft shadows and rounded corners for a premium feel. The 38px brand logo is shown left, and a bright, rectangular ad button right to maximize ad clicks. The main search row is bold and spacious, with a blue "Search" CTA button to draw focus. A light blue background on category/select and hints of color on quick-suggestion buttons make options scannable and tap-friendly. The component is up to 700px wide and responsive, collapsing vertically on mobile. All choices (large inputs, color contrast, quick links) drive conversion and engagement.
+
+4.2 Question 2:
+This search panel appears at the very top of every page of the e-commerce site. It is always visible upon page load, ensuring immediate access for visitors and minimizing bounce and fostering longer session times.
+
+4.3 Question 3:
+Users can select a category, type or paste their query, hit Enter or click "Search" to browse products. Clicking quick suggestions immediately populates the search box to speed discovery. The "Advanced Search" link brings up more granular filters. The ad banner links out, driving clicks to promotions. The entire panel remains accessible and improves navigation, supporting both mouse and keyboard.
+-->

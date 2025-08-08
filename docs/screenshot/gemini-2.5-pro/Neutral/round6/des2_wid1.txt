@@ -1,0 +1,16 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The component is a clean, horizontal navigation bar with a white background, fixed 20 pixels from the top of the viewport. It features a subtle bottom border and a soft shadow, making it float above the page content. The layout is a centered, single row of main category links. These links are styled in an uppercase, bold, dark grey 'Lato' font (14px) for clarity and a modern feel. Categories with sub-menus, like "Women" and "Men," are indicated by a small dropdown arrow.
+
+    These choices were made to create a professional and user-friendly experience. The white background and dark text offer high contrast for readability. Using a sans-serif font like 'Lato' is standard for modern web design. The fixed position ensures navigation is always accessible, reducing clicks and improving user journey. Hover effects—changing link color to a brand blue and revealing an underline—provide clear, immediate feedback to the user.
+
+    ### Question 2: What triggers the appearance of this widget?
+
+    This widget is a primary site navigation element, so its appearance is not triggered by a specific user action like a click or scroll event. Instead, it is a persistent component of the user interface. It loads and appears instantly with the rest of the webpage and remains fixed at the top of the viewport. This design ensures that the main product categories are always visible and accessible to the user, no matter how far they scroll down the page. This constant availability is crucial for facilitating easy exploration and navigation throughout the e-commerce site.
+
+    ### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users can interact with the widget in several ways. Firstly, they can **hover** over any main category link. This provides visual feedback as the link text turns blue and a blue underline appears. For categories marked with a dropdown arrow (e.g., "Women," "Men"), hovering also triggers the appearance of a dropdown menu, which slides down smoothly. Secondly, users can **move their cursor** into this dropdown menu to hover over and select sub-categories, which also highlight on hover. Finally, users can **click** on any link—either a main category or a sub-category link in a dropdown menu. This action navigates them to the corresponding product listing page for that category. When the cursor is moved away, the dropdown menu gracefully disappears.
+    
+    -->
+</body>

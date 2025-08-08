@@ -1,0 +1,9 @@
+Question 1:
+This category navigation bar sits at the top of the viewport with a 20px margin above. It has a white background, slight drop-shadow, and rounded corners for a clean modern look, mimicking popular e-commerce platforms. Categories are horizontally listed with bold, dark text. Hovering or focusing highlights a category with a colorful orange gradient and white text, while the currently active category is highlighted the same way. The navigation includes a circular "Shop Logo" placeholder on the left. Spacing, font size, and button-like rounded shapes ensure clarity and easy touch targets. The design is responsive, shrinking gaps and sizing on smaller screens.
+
+Question 2:
+This navigation widget appears by default at the top of every e-commerce webpage, offering primary access to product category pages. Its sticky positioning ensures it remains visible as users scroll, making category switching always accessible.
+
+Question 3:
+Users can interact by clicking any category link, which navigates them to the relevant category page. The ‘active’ category visually updates to indicate the user’s current location. Category links highlight on hover or focus (keyboard navigation supported), enhancing both accessibility and usability. The logo is non-interactive in this example but could be linked to the homepage.
+-->

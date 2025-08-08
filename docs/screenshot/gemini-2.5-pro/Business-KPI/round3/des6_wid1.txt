@@ -1,0 +1,19 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The component is a clean, modern product card with a vertical layout, designed to maximize clarity and appeal. At the top, a large, high-quality product image (280px high) immediately grabs attention. The card itself has a white background and rounded corners with a subtle shadow, making it "pop" against the light gray page background. The color scheme is intentional: a vibrant, trustworthy green (#28a745) is used exclusively for the "Add to Cart" button to make it the primary call-to-action. Gold stars provide immediate social proof. Text is a highly readable sans-serif font, with the price rendered in a large, bold font size (1.5rem) to ensure it's unmissable. This layout and color hierarchy is designed to guide the user's eye from the appealing image to the trust-building reviews, then to the clear price, and finally to the compelling "Add to Cart" button, streamlining the path to conversion.
+
+    4.2 Question 2: What triggers the appearance of this widget?
+
+    This product card is a static component, meaning its appearance is not triggered by a specific user action like a click or hover. Instead, it appears on page load as part of the primary content layout. It's designed to be placed within a grid or list on key e-commerce pages. For example, it would appear on a "Category" page (e.g., "Mirrorless Cameras"), a "Search Results" page, or in a curated section on the homepage like "Featured Products" or "New Arrivals". Its purpose is to be an integral part of the browsing and discovery experience, presenting products to the user as soon as they navigate to a relevant section of the website, thereby minimizing bounce rate by immediately showing valuable content.
+
+    4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users can interact with the widget in several ways, each designed to encourage engagement and sales.
+    1.  **Card Hover:** Hovering over the entire card lifts it with a subtle shadow animation, providing tactile feedback and inviting a click.
+    2.  **Image/Title Click:** Clicking the product image or its title navigates the user to the full product detail page. The image also has a slight zoom effect on hover to enhance visual appeal.
+    3.  **Add to Cart:** Clicking the prominent green button adds the item to the user's shopping cart. This is the primary conversion action. The button has hover and active states for better user experience.
+    4.  **Add to Wishlist:** Clicking the heart icon on the top-right of the image adds the product to a personal wishlist, which encourages account creation and repeat visits for users not ready to purchase immediately. The icon changes color on hover to indicate interactivity.
+    5.  **View Reviews:** While not a direct link, the visible star rating and review count encourages users to click through to the product page to read reviews, a key factor in building trust.
+
+    *****Response***** -->
+</body>

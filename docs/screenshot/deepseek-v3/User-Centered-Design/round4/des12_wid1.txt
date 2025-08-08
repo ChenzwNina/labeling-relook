@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with white background and blue accents. It's 350px wide with rounded corners and subtle shadow for depth. Input fields are full-width with proper spacing, and the submit button is prominent. These choices create visual hierarchy, ensure usability, and match common ecommerce design patterns for familiarity.
+
+    Question 2: This widget would appear when users click "Sign Up" or "Create Account" links, typically in the website header or when attempting to checkout without an account. It might also appear as part of a multi-step onboarding process.
+
+    Question 3: Users can: 1) Fill in form fields with their information, 2) See validation feedback (not fully implemented here), 3) Submit the form, 4) Click the login link to switch to login view, and 5) Close the widget if implemented as a modal (not shown in this basic version).
+    -->

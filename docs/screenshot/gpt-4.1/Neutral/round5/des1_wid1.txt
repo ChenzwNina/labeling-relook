@@ -1,0 +1,6 @@
+Question 1: This deals banner features a warm, bright gradient (yellow to orange) background evocative of summer, with bold accent text in deep oranges. It's fixed at the top of the viewport with a 20px margin. A product/deal image sits to the left, followed by a two-line message with a headline and supporting details. The prominent “Shop Deals” button is orange gradient, rounded, and offers a slight shadow. All elements maintain ample spacing and legible sizes, ensuring visibility and an inviting feel—typical of high-conversion e-commerce banners.
+
+Question 2: The widget (banner) is designed to appear immediately on page load at the very top of the viewport. It is persistent and always visible unless explicitly hidden or dismissed by further development.
+
+Question 3: Currently, users interact by clicking the large "Shop Deals" button, which navigates to the deals page. On hover or focus, the button color deepens for feedback. The banner is responsive on mobile, stacking its layout vertically. No dismissal option is present, but this could be added for further interactivity if desired.
+-->

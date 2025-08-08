@@ -1,0 +1,25 @@
+## 3.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The category navigation widget is a horizontal bar with a clean, modern aesthetic.
+**Colors:** It features a white background (`#ffffff`), providing a bright and neutral base common in e-commerce to ensure product focus. Category links use dark gray text (`#333333`) for high readability. On hover or focus, links change to a vibrant blue background (`#007bff`) with white text (`#ffffff`), offering clear interactive feedback. A subtle gray shadow (`rgba(0,0,0,0.1)`) beneath the bar adds depth, making it appear to float.
+**Size of Elements:** The bar has `15px` vertical padding. Category links have a `16px` font size, `10px` vertical and `18px` horizontal padding for ample click targets, and `4px` border-radius for slightly softened edges.
+**Layout:** The widget is a full-width bar, fixed `20px` from the top of the viewport. Inside, category links are arranged horizontally (`display: inline-block`) and the entire list is centered on the page.
+
+**Design Choices Rationale:** These choices aim for a user-friendly, professional e-commerce experience. The fixed position ensures categories are always accessible. The white background and clear typography prioritize readability. Centered navigation is a common and intuitive layout. Hover effects provide immediate visual confirmation of interactivity, guiding the user. The color scheme is chosen to be widely applicable and to highlight interactive elements effectively.
+
+## 3.2 Question 2: What triggers the appearance of this widget?
+
+The category navigation widget is a primary site navigation element, crucial for browsing an e-commerce store. Therefore, its appearance is not triggered by a specific user action. Instead, it loads and becomes visible by default as soon as any page of the e-commerce website is loaded. It is designed to be persistently visible at the top of the viewport (with its 20px top margin), remaining in place even as the user scrolls down the page. This ensures that users can easily navigate between different product categories at any point during their shopping experience.
+
+## 3.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the category navigation widget in the following ways:
+
+1.  **Visual Scanning:** Users can quickly scan the horizontally listed category names (e.g., "Electronics," "Fashion & Apparel") to understand the range of products offered and find their desired section.
+2.  **Hovering:** When a user moves their mouse cursor over a specific category link, its appearance changes: the background becomes blue, and the text turns white. This visual feedback indicates that the element is clickable and currently under the cursor's focus.
+3.  **Clicking:** Clicking on any category link (e.g., "Home & Garden") will navigate the user to the corresponding category page, displaying products within that specific category.
+4.  **Keyboard Navigation:** Users can use the 'Tab' key to cycle through the category links sequentially. The currently focused link will display the same visual style as the hover state (blue background, white text). Pressing the 'Enter' key while a link is focused will trigger navigation to that category page.
+
+The navigation bar itself is static; interactions are focused on the individual category links within it.
+-->
+</body>

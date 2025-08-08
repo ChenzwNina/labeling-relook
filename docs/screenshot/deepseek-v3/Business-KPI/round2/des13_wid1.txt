@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, minimalist design with a white container (350px wide) on a light gray background. Input fields have ample padding (12px) for comfortable typing, with blue focus states (#4a90e2) for visual feedback. The blue sign-in button provides good contrast against white. These choices prioritize usability - clear hierarchy, sufficient spacing, and visual feedback create an intuitive experience that aligns with modern ecommerce standards while maintaining accessibility.
+
+    Question 2: This widget would typically appear when users click a "Sign In" link in the website header, or when attempting to access account-specific features like order history. It could also appear as a modal overlay when users try to checkout without being logged in, with an option to continue as guest.
+
+    Question 3: Users can: 1) Enter email and password in the form fields, 2) Submit the form (with validation for proper email format and password length), 3) See error messages if validation fails, 4) Click the "Create one" link to navigate to registration, and 5) Receive feedback on successful submission. The form provides real-time validation and clear error messages to guide users.
+    -->

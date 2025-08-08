@@ -1,0 +1,28 @@
+Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The component is a large modal window centered horizontally against a semi-transparent dark overlay, positioned 20px from the top of the viewport. The modal has a clean, white background with generous padding and rounded corners for a modern, friendly feel.
+
+    Design choices are driven by user psychology and business goals. The layout uses a strong visual hierarchy. The headline, "Wait! Are you sure you want to go?", is large and bold to grab attention. The most desired action, accepting a 50% discount, is encapsulated in a bright green button labeled with a benefit ("Keep My Benefits & Get 50% Off"). Green connotes "go" and positivity. The alternative, pausing the membership, is a smaller, neutral gray button, presenting it as a safe secondary option. The least desired action, final cancellation, is a simple, understated text link. This hierarchy intentionally guides the user towards retention, maximizing revenue and minimizing membership churn (Rules 3.1, 3.8).
+
+    *****Response*****
+    Question 4.2: What triggers the appearance of this widget?
+
+    This widget is triggered when a currently subscribed member, who is logged into their account, navigates to their "Account Settings" or "Manage Membership" page and clicks on a button or link explicitly labeled "Cancel Membership" or "End Subscription".
+
+    This trigger point is crucial for effectiveness. By intervening at the exact moment of cancellation intent, the modal presents its retention offers when they are most relevant and likely to be considered. Triggering it too early would be annoying, and triggering it after the cancellation is complete would be too late. This precise timing is key to influencing the user's decision, directly addressing the goal of minimizing the shopping cart abandonment rate—where the "product" being abandoned is the membership itself (Rule 3.8). It also creates an opportunity to keep the user on-site, reducing the bounce rate for that page (Rule 3.9).
+    
+    *****Response*****
+    Question 4.3: Can you describe the full range of interactions users can have with the widget?
+    
+    Users have four distinct interaction paths designed to guide them away from cancellation while providing a clear exit:
+
+    1.  **Accept the Offer:** The user can click the primary green button, "Keep My Benefits & Get 50% Off". This would immediately apply the discount to their account, close the modal, and keep them as a paying customer, thus maximizing revenue (Rule 3.1).
+
+    2.  **Pause Membership:** The user can click the secondary gray button, "Pause Your Membership". This action would lead to a confirmation to pause their subscription for a set period (e.g., 3 months), closing the modal and retaining them as a future customer. This minimizes immediate churn (Rule 3.8).
+
+    3.  **Proceed to Cancel:** The user can click the "No thanks, continue to cancel" text link. This is the only path to finalize cancellation and would likely navigate them to a final, simple confirmation page, possibly with a short, optional exit survey.
+
+    4.  **Close the Widget:** The user can click the 'X' icon in the corner. This acts as an implicit "never mind," closing the modal and aborting the cancellation process, returning them to their account page.
+    -->
+
+</body>

@@ -1,0 +1,21 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The deals banner is a sleek, rectangular component positioned at the top of the screen. It uses a vibrant blue gradient background (`#0052D4` to `#6FB1FC`) to attract user attention immediately, with crisp white text for high readability. The layout is managed by flexbox, ensuring content is neatly aligned horizontally. On the left, a "🎉" emoji icon adds a celebratory feel, followed by the bolded "Mid-Season Sale!" headline and descriptive text. On the right, a bright yellow call-to-action (CTA) button with "Shop Deals" stands out, creating a clear focal point. Next to it is a subtle "×" for closing.
+
+These choices are deliberate. The high-contrast colors and prominent CTA enhance function visibility (Rule 3.1). The clean, organized layout supports efficient task execution (Rule 3.6), allowing users to instantly grasp the offer and decide whether to engage or dismiss it. The friendly emoji and appealing colors contribute to a satisfying user experience (Rule 3.7). The overall design is consistent with modern e-commerce aesthetics (Rule 3.4).
+
+### Question 2: What triggers the appearance of this widget?
+
+The banner’s appearance is triggered on page load for a user's new session. This strategy maximizes visibility for the promotion without being overly repetitive. For example, it would appear when a user first visits the site or returns after a significant period (e.g., 24 hours). Once the user dismisses the banner by clicking the close button, it would ideally be hidden for the remainder of their session (using a session cookie or local storage) to respect their choice and prevent annoyance. This provides a helpful nudge about current deals without disrupting the user's journey on subsequent page views within the same visit, balancing business goals with a positive user experience.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three primary interactions with the banner, each designed for clarity and efficiency:
+
+1.  **Engage with the Offer:** The user can click the yellow "Shop Deals" button. This is the primary call-to-action. Clicking it would navigate them directly to the main sales or product category page, allowing them to efficiently act on the promotion (Rule 3.6). Hovering over the button provides visual feedback by making it slightly brighter and lifting it, clearly indicating its clickability (Rules 3.2 & 3.5).
+
+2.  **Dismiss the Banner:** If the user is not interested, they can click the "×" close button. This action provides immediate feedback by triggering a smooth fade-out and slide-up animation, hiding the banner from view (Rule 3.2). This interaction applies a user-controlled constraint, giving them power over their interface and creating a more helpful experience (Rules 3.3 & 3.7).
+
+3.  **Visual Exploration (Hover):** Users can hover their mouse over the interactive elements (the CTA button and the close button). Both elements provide visual feedback on hover—the button brightens and the close icon becomes more opaque—confirming they are interactive elements (affordances) before a click is even made.
+-->
+</body>

@@ -1,0 +1,6 @@
+4.1 The widget features a clean, modern card layout with a white background and soft shadow, ensuring focus. Key features: subtle blue gradients for CTA and borders, blue and green highlights for selected/free options, with readable, accessible font sizes (titles 20-24px, descriptions 14-16px). Layout uses vertical stacking for clarity, radio buttons for mutually exclusive shipping options, and checkboxes for add-ons. These choices maximize clarity and engagement, supporting conversion and average order size.
+
+4.2 This widget appears at the top of the checkout or shipping selection page, triggered when a customer proceeds from cart review to choosing delivery and add-ons.
+
+4.3 Users can: 1) Select one shipping method via radio buttons (Standard, Express, In-Store Pickup). 2) Select zero or more add-ons via checkboxes (Gift Wrap, Shipping Protection, Priority Support). 3) See price breakdowns, promos, and info tooltips. 4) Click the “Continue to Checkout” button to save choices and advance. 5) Optionally click a help link for support. Option selections highlight interactively, giving instant feedback and clarity.
+-->

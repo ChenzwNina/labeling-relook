@@ -1,0 +1,6 @@
+Question 1: The banner features a vibrant gradient background (red to yellow) to grab attention, with white text for contrast. The layout is centered, with a bold 28px title and 18px subtitle for hierarchy. Deal items are displayed in a flex grid, each 250px wide with hover effects (scale transform) to encourage interaction. Images are 150px tall for visual appeal. These choices create urgency and excitement, driving sales and engagement by highlighting discounts visually.
+
+Question 2: The banner appears automatically at the top of the page on load, positioned 20px from the viewport top. It is triggered on every page visit to ensure maximum visibility of current promotions, especially for new and returning users, reducing bounce rates.
+
+Question 3: Users can interact by hovering over deal items for a visual feedback effect (scale and color change), clicking individual items to view product details, and clicking the "Shop All Deals" CTA button to explore more offers. These interactions are designed to guide users deeper into the site, increasing time on site, page views, and conversion rates.
+-->

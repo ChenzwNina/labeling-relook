@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, responsive grid layout with product cards (250px min width) that have a subtle hover effect. I chose a blue color scheme (#2a6496) for buttons and prices as it conveys trust and works well for ecommerce. Cards have white backgrounds with light gray borders for clarity. The design prioritizes product visibility with consistent image sizes (200px height) and clear CTAs.
+
+    Question 2: This widget would typically appear on the homepage or landing pages of an ecommerce site, triggered by page load. It could also appear after user actions like completing a search or returning from a product page, as part of personalized recommendations.
+
+    Question 3: Users can: 1) Hover over products to see elevation effect, 2) Click product images/titles to view details, 3) Click "Add to Cart" buttons, 4) Scroll horizontally if space is limited (responsive design), and 5) Potentially swipe through products on mobile devices.
+    -->

@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The search panel is positioned at the top with a 20px margin, spanning the full width for accessibility. It features a white background with a subtle shadow for elevation. The search bar is centered, taking 60% of the width for focus, with a coral (#ff6f61) search button for contrast and visibility, inspired by e-commerce branding. The category dropdown and input have soft gray borders (#ddd) for a clean, modern look. Design choices prioritize usability, ensuring the panel is prominent yet unobtrusive, mimicking real-world e-commerce layouts like Amazon. -->
+
+    <!-- Question 2: The search panel appears persistently at the top of the viewport on every page of the e-commerce website. It is a fixed element, ensuring users can access search functionality at any time without scrolling, which is critical for navigation and product discovery in an online shopping environment. -->
+
+    <!-- Question 3: Users can interact with the widget by typing queries in the search input field, selecting a category from the dropdown to filter results, and clicking the search button to initiate a search. Hover effects on the button and dropdown provide visual feedback, enhancing usability. These interactions allow users to refine searches and quickly locate products or brands. -->
+</body>

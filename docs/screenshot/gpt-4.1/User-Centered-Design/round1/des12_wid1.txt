@@ -1,0 +1,10 @@
+4.1 Question 1: 
+  The widget features a clean, rounded white card with a soft box-shadow, 20px from the top of the viewport and centered. The layout is vertically stacked: a logo and title header, followed by a neat, spaced form using high-contrast blue and grey colors for actionable elements and feedback. Form fields and the button are full-width for clarity, with visible constraints and feedback messages. The primary action button uses a vibrant blue gradient, giving visual affordance and high visibility. Margins and font sizes are tuned for comfort and readability. These choices foster trust, clarity, and usability, akin to modern ecommerce registration flows.
+
+  4.2 Question 2:
+  The widget is displayed when a user chooses to create a new account, typically by clicking "Create Account" or "Sign Up" at the top of the site, or when the user is redirected to an account creation requirement at checkout.
+
+  4.3 Question 3:
+  Users can interact by filling their name, email, and desired password, toggling the checkbox to accept terms (which is required), and submit the form. Real-time feedback prevents invalid entries and disables the submit button if any requirement is unmet. Upon successful submission, a success message is shown. The footer "Sign in" link offers a direct route back to login. All actions provide immediate feedback, guiding the user through a smooth, error-minimized process.
+
+  -->

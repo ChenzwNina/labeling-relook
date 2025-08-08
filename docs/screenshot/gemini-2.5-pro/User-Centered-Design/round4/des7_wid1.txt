@@ -1,0 +1,18 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is presented as a clean, modern card with a white background, rounded corners, and a subtle shadow, making it stand out against the light gray page background. 
+*   **Colors:** The color palette is professional and minimalist. Dark gray (`#2d3748`) is used for primary text for high readability. A striking amber-gold (`#ffc107`) is used for the stars and rating bars, drawing immediate attention to the positive sentiment. The "Write a Review" button uses a prominent blue (`#3182ce`) to signify a primary call-to-action (CTA).
+*   **Size & Layout:** The layout is a two-column design for the summary section. The left column features a large, bold "4.7" average rating to be scannable at a glance. The right column provides a detailed breakdown with horizontal bars. This structure follows a natural F-shaped reading pattern, presenting the most critical information first. On smaller screens, the layout stacks vertically to ensure usability. These choices prioritize clarity, quick comprehension, and guide the user's focus toward key data and actions.
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is not triggered by a user action like a click or hover. It is a static and integral part of a product's detail page. It loads along with the rest of the page content as soon as a user navigates to a specific product. Its prominent position near the top of the content area ensures that the customer's first impression of a product is informed by the feedback of previous buyers, which is crucial for building trust and aiding in the purchasing decision process. It serves as a permanent summary, not a temporary notification.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+User interactions are designed to be intuitive and efficient:
+1.  **Reading and Scanning:** The primary interaction is passive; users can quickly scan the overall score, star visualization, and rating distribution to gauge product quality in seconds.
+2.  **Clicking "Write a Review":** The most prominent interactive element is the blue CTA button. Clicking it would typically trigger a modal window or navigate the user to a separate page with a form to submit their own review and rating. The button provides clear visual feedback by changing color on hover and shrinking slightly when pressed.
+3.  **Filtering Reviews (Implied Interaction):** The rating breakdown rows (e.g., "5 star") are designed with hover effects (underline, color change) to suggest they are clickable. In a fully implemented site, clicking one of these rows would filter the complete list of reviews on the page, showing only those with the selected star rating. This provides an efficient way for users to investigate specific feedback.
+-->
+</body>

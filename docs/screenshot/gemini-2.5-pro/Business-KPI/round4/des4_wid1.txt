@@ -1,0 +1,31 @@
+-->
+<!--
+Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a clean, modern-looking horizontal carousel housed in a white container with a soft shadow, making it float above the light gray page background. The layout consists of a main heading, "Inspired by Your Browsing History," followed by a horizontally scrollable list of product cards.
+
+Colors: The primary action color is a vibrant blue (#0065ff), used for the "Add to Cart" buttons and current prices. This high-contrast color draws the user's eye, maximizing clicks and conversions. Star ratings are a warm gold (#ffab00) to be instantly recognizable. The text is a dark, near-black color (#172b4d) for maximum readability.
+
+Element Sizes: Product images are large (200px height) to visually showcase the items effectively, which is critical for sales. The "Add to Cart" button is large and spans the full width of the card's info section, making it an easy click target. Typography is clear and hierarchical, with a larger font size for the current price to emphasize value. This design system is built to minimize cognitive load and guide the user toward making a purchase.
+-->
+<!--
+Question 4.2: What triggers the appearance of this widget?
+
+This widget is not a pop-up and does not have a trigger in the traditional sense of appearing after a user action. Instead, it is an integral, static component of key pages within the e-commerce site. It would typically be positioned "above the fold" (visible without scrolling) on high-traffic pages like the Homepage, Category Pages, or even below the main product on a Product Detail Page.
+
+Its *content* is what's dynamically triggered by a personalization engine. The heading, "Inspired by Your Browsing History," explicitly states the trigger: the user's recent on-site behavior. The list of products is populated based on algorithms analyzing items the user has viewed, added to their cart, or purchased, as well as products similar to those. This relevance is crucial for engaging users immediately, increasing time on site, and minimizing the bounce rate by showing them things they are already interested in.
+-->
+<!--
+Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+The widget is designed for seamless interaction to encourage exploration and conversion. Users can:
+
+1.  **Scroll Horizontally:** Users can click and drag or use their trackpad/mouse wheel to scroll through the list of recommended products. This encourages discovery of multiple items without leaving the current page, increasing page views and time on site.
+
+2.  **Hover for Emphasis:** When a user hovers their mouse over a product card, it lifts slightly with an enhanced shadow effect. This provides satisfying visual feedback and isolates the product, focusing the user's attention.
+
+3.  **Click to View Details:** The product image and title are clickable links. Clicking either will navigate the user to that specific Product Detail Page (PDP), allowing them to learn more, see more images, and read reviews. This interaction directly drives page views per visit.
+
+4.  **One-Click "Add to Cart":** Each card features a prominent "Add to Cart" button. Clicking this button adds the item directly to the user's shopping cart, streamlining the purchase funnel and minimizing the steps required for conversion, which helps reduce cart abandonment.
+-->
+</body>

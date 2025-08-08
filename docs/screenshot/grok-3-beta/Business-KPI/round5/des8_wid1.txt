@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background, subtle shadow, and rounded corners for a professional look. It uses a bold orange (#e44d26) for pricing and the checkout button to create urgency and draw attention, maximizing conversions. The layout is compact (350px width) to avoid clutter, positioned at the top-right for easy access. Text and images are balanced for readability, encouraging users to review items and proceed to checkout, thus reducing cart abandonment. -->
+
+    <!-- Question 2: The widget appears when a user clicks the cart icon (🛒) located at the top-right of the page. It can also be triggered programmatically after adding an item to the cart (though not shown in code) to provide immediate feedback and encourage checkout. -->
+
+    <!-- Question 3: Users can interact with the widget by clicking the cart icon to open/close it, viewing cart contents (product images, names, quantities, and prices), and clicking the "Proceed to Checkout" button to finalize their purchase. Hover effects on the button provide visual feedback, enhancing user engagement and reducing bounce rates by guiding them through the purchase funnel. -->
+</body>

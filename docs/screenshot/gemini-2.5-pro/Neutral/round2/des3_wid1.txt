@@ -1,0 +1,29 @@
+**3.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The search panel is a sleek, rectangular bar with softly rounded corners (8px radius for the container, 6px for input/button edges). It features a clean white background (#ffffff) and a subtle shadow, giving it a modern, elevated appearance. The layout is horizontal: a wide search input field on the left and a "Search" button on the right.
+
+The input field has a light gray border (#ced4da) and uses a standard 16px font size for readability. Its placeholder text ("Search for electronics, fashion, home goods...") is a slightly muted gray (#6c757d). Upon focus, the input border turns a vibrant blue (#007bff) with a gentle blue glow, guiding the user's attention.
+
+The "Search" button is prominent with a solid blue background (#007bff) and white text, ensuring it's a clear call to action. It also uses a 16px font. Both input and button have 12px vertical padding, making them comfortably sized for interaction.
+
+Design choices emphasize clarity, ease of use, and a contemporary e-commerce aesthetic. The white background and clear typography promote focus. The blue accent color for the button and focus states is common for primary actions, providing strong visual cues. The horizontal layout is universally understood for search functionality.
+
+*****Response*****
+**3.2 Question 2: What triggers the appearance of this widget?**
+
+This search panel is designed to be a persistently visible component. It appears automatically as soon as the e-commerce webpage loads. It is fixed to the top of the viewport, 20 pixels down from the top edge, and remains in this position even when the user scrolls down the page. There is no specific user action, like a click or hover, that triggers its initial appearance; it's an integral part of the site's interface, always available for the user to initiate a search. This ensures immediate and constant access to the search functionality, which is crucial for e-commerce navigation and product discovery.
+
+*****Response*****
+**3.3 Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users can interact with the search panel in several ways:
+1.  **Typing a Query:** Users can click or tap inside the search input field. The placeholder text ("Search for electronics, fashion, home goods...") will disappear, and they can type their desired search terms (e.g., "women's running shoes," "4K television").
+2.  **Submitting the Search:**
+    *   **Button Click:** After typing their query, users can click the "Search" button. This will typically submit the form and navigate them to a search results page.
+    *   **Enter Key:** Alternatively, while the cursor is active in the search input field, pressing the "Enter" key on their keyboard will also submit the search query.
+3.  **Visual Feedback:**
+    *   **Focus State:** When the input field is selected, its border changes color to blue and a subtle shadow appears, indicating it's active.
+    *   **Hover State:** Hovering over the "Search" button causes its background color to darken slightly, providing visual feedback before a click.
+4.  **Clearing/Editing:** Users can select, delete, or modify the text they've typed in the input field using standard text editing controls (backspace, delete, selecting text).
+While not explicitly implemented in this basic version, in a full e-commerce site, typing might also trigger auto-suggestions or search history dropdowns.
+-->

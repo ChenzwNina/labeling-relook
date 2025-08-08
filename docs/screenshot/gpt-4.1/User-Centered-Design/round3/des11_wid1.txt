@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a card-shaped modal at the screen top with a 420px width (responsive on small screens). It uses a white background, soft gray border, and blue accent (#2879ff) for action buttons. The Cancel button is outlined, while Stay Member is solid blue, providing clear affordance. Large, friendly icons are used for visual clarity. All text is specific and relevant, and feedback (a popup) confirms cancellation. Design is clean, highly visible, and space is efficiently used for actions and explanations.
+
+  Question 2:
+  This widget is triggered either from a user's account dashboard (Manage Membership) or a dedicated "Cancel Membership" action. It appears as a top modal (dialog) overlay to focus attention and reduce mistakes.
+
+  Question 3:
+  Users can: (1) Select a cancellation reason (required to proceed); (2) Confirm cancellation (triggers a feedback popup); (3) Click "Stay a Member" to abort and return; (4) Close the feedback popup. The "Confirm" button is disabled until a reason is selected, preventing incomplete actions.
+  -->
+</body>

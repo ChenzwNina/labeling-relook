@@ -1,0 +1,10 @@
+Question 1: 
+  The widget is a horizontally-oriented product card with a clean white background and subtle shadow, a left-aligned product image in a light gray area, and details on the right. The product info shows a bold title, a brief description, star-based rating with count, price in bright red, and a blue rounded "Add to Cart" button. Colors are standard for e-commerce clarity: blue for the action, red for price. The overall design ensures quick scanning, intuitive interaction, and mobile responsiveness.
+
+  Question 2:
+  The widget appears whenever a product needs to be displayed individually, such as on a product listing page, a featured product slider, or as part of recommendations. It is loaded with product-specific data either statically (as seen here) or dynamically via templates or JS.
+
+  Question 3: 
+  Users can visually scan all product info, read the description, see the rating, and click the "Add to Cart" button, which would add the product to their shopping cart (if hooked up to JS/backend logic). The button provides a hover/focus visual effect, improving usability. On mobile, the layout stacks for easier touch interaction. Otherwise, the widget itself is for display and add-to-cart action.
+  -->
+</body>

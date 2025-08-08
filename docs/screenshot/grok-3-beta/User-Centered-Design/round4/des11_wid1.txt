@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, centered layout with a white background and subtle shadow for elevation, ensuring it stands out at the top of the viewport. The color scheme uses red (#e74c3c) for the initial cancel button to signify caution, blue (#3498db) for confirmation to indicate progression, and green (#2ecc71) for feedback to convey success. Text is sized for readability (24px header, 16px body), and buttons are large enough for easy clicking. These choices ensure visibility, consistency, and a professional e-commerce aesthetic. -->
+
+    <!-- Question 2: This widget appears when a user navigates to the membership settings page or selects an option to cancel their subscription from their account dashboard. It is triggered by a deliberate user action to ensure relevance and prevent accidental cancellations. -->
+
+    <!-- Question 3: Users can initiate cancellation by clicking the 'Cancel Membership' button, which triggers a confirmation step with a 'Yes, Cancel Now' button. Feedback is provided post-confirmation, displaying a success message. A warning appears during confirmation to prevent unintended actions. Interactions are constrained to a two-step process for safety, with clear visual feedback at each stage. -->
+</body>

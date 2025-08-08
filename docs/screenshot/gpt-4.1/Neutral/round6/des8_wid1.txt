@@ -1,0 +1,10 @@
+Question 1:
+  The shopping cart appears as a fixed, white rounded box at the top center of the viewport, 400px wide (responsive for mobile), with a soft shadow. A blue header shows a cart icon, title, and close button. Each cart item row has a thumbnail (54x54px), product name, details, and a red remove button. The footer displays the cart total on a pale background. Two buttons allow users to continue shopping or proceed to checkout. This design closely mirrors leading e-commerce sites for clarity, hierarchy, and usability.
+
+  Question 2:
+  The cart widget appears when the user clicks a shopping cart icon or "View Cart" button anywhere on the website—typically located in the header or after adding an item to the cart.
+
+  Question 3:
+  Users can close the widget, remove items with the red × button, click "Continue Shopping" to return to browsing, or click "Checkout" to begin the purchase process. The scrolling cart list supports multiple items, and total price updates as items are removed in a dynamic implementation.
+  -->
+</body>

@@ -1,0 +1,9 @@
+**Question 1: Description of Widget Look and Design Choices**  
+The widget features a clean, modern card layout with a max-width of 300px, centered with a white background and subtle shadow for a premium feel. The image (200px height) dominates visually to attract attention, while a bold red badge highlights a discount. The title is large (1.2em) for clarity, price in red emphasizes value, and the description is concise for quick reading. The "Add to Cart" button is wide, red, and hover-interactive to drive conversions. These choices prioritize visual appeal, urgency (discount badge), and ease of action to maximize sales and reduce bounce rates.
+
+**Question 2: Triggers for Widget Appearance**  
+This widget appears on product listing pages, category pages, or as a featured item on the homepage of the e-commerce site. It is triggered by user navigation to these sections or through search results displaying specific products. It may also appear in recommendation sections like "You Might Also Like" based on user browsing history.
+
+**Question 3: Range of User Interactions**  
+Users can hover over the card for a subtle lift effect, enhancing engagement. They can click the "Add to Cart" button to purchase, triggering a cart update or modal confirmation. Clicking the image or title may lead to a detailed product page for more info, increasing time on site. These interactions aim to streamline purchasing and encourage exploration.
+-->

@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth. It displays the average rating (4.8) in large bold text, followed by gold stars and review count. The rating distribution is shown as horizontal bars with percentages. I chose gold stars for visual recognition, a clean layout for readability, and green for the CTA button to encourage action. The design prioritizes quick comprehension of the product's rating at a glance.
+
+    Question 2: This widget would typically appear on a product detail page, automatically loading with the page to show the product's ratings. It might also appear in a modal when users click "View Ratings" from a product listing or after they submit their own review.
+
+    Question 3: Users can: 1) View the average rating and distribution at a glance, 2) Hover over stars to see tooltips with exact percentages, 3) Click "Write a Review" to open a review form, and 4) Potentially click on individual star ratings to filter reviews (though this functionality isn't shown in the current implementation).
+    -->
+</body>

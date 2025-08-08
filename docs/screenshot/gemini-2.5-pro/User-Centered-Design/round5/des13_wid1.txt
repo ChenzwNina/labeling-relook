@@ -1,0 +1,24 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a clean, modal-like card with a white background (`#FFFFFF`) and soft, rounded corners, creating a modern and friendly appearance. It's set against a light gray page background (`#f4f5f7`) with a subtle box-shadow, making it float above the content and command user focus. The layout is a single, centered column with generous padding (32px) for a spacious feel.
+
+The primary color is a strong, trustworthy blue (`#0052cc`), used for the main "Sign In" button and all links, establishing a clear and consistent visual hierarchy for primary actions. Text is a dark, highly-readable blue-gray (`#172B4D` for the heading, `#333` for body text), while input fields have light gray borders that turn blue on focus, providing clear feedback. Social login buttons are styled secondary to the main email sign-in, using a white background and light gray border. This entire design system is chosen to build trust, ensure clarity, and provide a professional, frictionless user experience.
+
+### Question 2: What triggers the appearance of this widget?
+
+This sign-in widget is typically triggered by a direct user action indicating a desire to access account-specific features. The most common trigger is the user clicking a "Sign In" or "My Account" link, usually located in the website's main navigation header.
+
+Alternatively, its appearance can be triggered contextually. For instance, if a non-authenticated user attempts to perform an action that requires a login—such as adding an item to a "Wishlist," writing a product review, or proceeding to checkout with a saved address—the website would present this widget to prompt them to sign in before they can continue. This "just-in-time" authentication approach minimizes disruption to the user's journey, only asking for credentials when absolutely necessary.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several clear paths of interaction with this widget, designed for efficiency and choice:
+
+1.  **Primary Sign-In:** A user can type their email and password into the respective fields and click the prominent blue "Sign In" button to submit their credentials.
+2.  **Social Logins:** For convenience, users can bypass the form by clicking "Continue with Google" or "Continue with Apple" to authenticate using their existing social accounts.
+3.  **Password Recovery:** If a user has forgotten their password, they can click the "Forgot your password?" link to be redirected to a password reset flow.
+4.  **New User Registration:** New users can click the "Sign up now" link at the bottom, which will take them to the account creation page.
+5.  **Dismissal:** Users can close the widget without signing in by clicking the "×" icon in the top-right corner, allowing them to return to their previous browsing state. All interactive elements like buttons and inputs provide visual feedback on hover and focus to confirm interactivity.
+
+-->
+</body>

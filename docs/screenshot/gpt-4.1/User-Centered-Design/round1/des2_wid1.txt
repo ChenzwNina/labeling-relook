@@ -1,0 +1,16 @@
+Question 1:
+The navigation widget is a fixed bar at the top, with a 20px top margin. It features a white background, soft shadow, rounded corners, and prominent blue accent branding. The logo area (“ShopMate”) sits leftmost. Next, horizontally-arranged category links (“All”, “Electronics”, etc.) have pill-shaped backgrounds and clear hover/active states: blue for selected, light gray on hover, and a grayed-out style for disabled (“Groceries”). On the right, a “Quick Search” field with a search icon enables fast category search. Spacing and responsive sizing ensure clarity and tap target accessibility. Design choices prioritize clarity, feedback, and a modern, consistent look matching real e-commerce sites.
+
+Question 2:
+This widget is ever-present at the top of the viewport on all site pages (category, product, or search pages). Its fixed position and persistent display allow visitors to navigate or filter products by category at any browsing stage, a common pattern in large e-commerce sites to maximize discoverability and speed.
+
+Question 3:
+Users can: 
+- Click a category to filter products (the current category gets highlighted).
+- Use hover/keyboard to preview interaction feedback.
+- See unavailable categories as unclickable (“Groceries”).
+- Use Tab to keyboard-navigate (ARIA roles/selected/a11y).
+- Enter text in “Quick Search” to quickly find and jump to a specific category.
+All navigation is immediate, giving clear visual cues and disabling unavailable actions for efficient, unambiguous category navigation.
+
+-->

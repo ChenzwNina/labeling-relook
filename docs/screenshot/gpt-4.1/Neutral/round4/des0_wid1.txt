@@ -1,0 +1,15 @@
+3.1 Question 1:
+  The widget appears as a modern card-based layout with a white container, rounded corners, and a subtle shadow for depth. It contains a headline, description, and a horizontal row of product cards. Each card features a product image, title, user rating, price, and a prominent blue gradient "Add to Cart" button. Element sizes are optimized for clarity: card width is ~240px, product images are large, and texts are readable. Colors are chosen for clarity and professionalism: white and light gray backgrounds, navy/blue branding, and green for prices. These choices make the component visually appealing and resonate with established e-commerce design standards.
+
+  3.2 Question 2:
+  This widget is designed to appear at the top of the homepage or on a landing page of the e-commerce website by default, as a static featured section. Its purpose is to direct attention to highlighted or best-selling items.
+
+  3.3 Question 3:
+  Users can: 
+  - Hover over cards for a subtle shadow animation.
+  - Click "Add to Cart" buttons for each product (in real implementation, this would add to their shopping cart).
+  - View product ratings and reviews for credibility.
+  - View product names and prices.
+  On mobile, the component responsively scales and stacks cards for optimal usability.
+  -->
+</body>

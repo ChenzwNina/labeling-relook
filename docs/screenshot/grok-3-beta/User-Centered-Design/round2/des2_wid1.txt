@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, white background with a subtle shadow for elevation, ensuring it stands out at the top of the page. Categories are displayed in a horizontal list with evenly spaced items, using a blue hover effect (#007bff) for interactivity. Text is dark gray (#555) for readability, turning white on hover for contrast. The layout is responsive, wrapping on smaller screens for accessibility. These choices prioritize visibility, consistency, and a professional e-commerce aesthetic. -->
+
+    <!-- Question 2: The widget appears statically at the top of every page on the e-commerce website, positioned with a 20px margin from the top. It is a persistent navigation element, visible upon page load to facilitate immediate category browsing without any specific trigger like user action or event. -->
+
+    <!-- Question 3: Users can interact with the widget by hovering over category links, which change color for feedback, and clicking them to navigate to specific product sections. The design prevents invalid actions by offering only predefined categories. The consistent styling and clear hover states guide efficient task execution, ensuring a seamless browsing experience. -->
+</body>

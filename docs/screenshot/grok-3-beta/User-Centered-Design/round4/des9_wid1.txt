@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean white background with subtle shadows for elevation, ensuring high visibility. Colors include blue (#007bff) for interactive elements like prices and buttons, and green (#28a745) for feedback messages, promoting clarity and trust. Elements are sized consistently, with cards having uniform padding (15px) and rounded corners (5px) for a cohesive look. The layout is vertical, with clear section titles and a prominent "Continue" button, optimizing readability and task flow on an e-commerce checkout page. These choices align with user expectations for a professional, intuitive interface. -->
+
+    <!-- Question 2: This widget appears during the checkout process, specifically after the user has added items to their cart and proceeds to finalize shipping details. It is triggered by navigating to the shipping selection step, ensuring users can customize their order before payment. -->
+
+    <!-- Question 3: Users can interact with the widget by selecting a shipping option via radio buttons, which updates instantly with visual feedback (highlighted card). They can toggle add-ons using checkboxes, with confirmation messages appearing briefly. Hover effects on cards and the "Continue" button provide visual cues, while the button remains disabled until a shipping option is confirmed, preventing errors. These interactions ensure a seamless, guided experience. -->
+</body>

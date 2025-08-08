@@ -1,0 +1,6 @@
+Question 1: The widget sits at the top center of the viewport, inside a white rounded box with soft box-shadow and a 20px top margin. It features a large blue average rating (4.6), five vivid yellow stars (with partial star for half-ratings), and muted gray text for the ratings count. Rating bars for each star level use yellow gradients and soft backgrounds for clarity. The rating input uses large clickable gray/yellow stars and a prominent blue button. Colors are chosen for trust, high contrast, and familiar UX, enhancing visibility, feedback, and affordance.
+
+    Question 2: The widget appears persistently at the top of the page, visible for every product or as a fixed user interface for ratings summary and input, ensuring accessibility and immediate visibility to any visiting user.
+
+    Question 3: Users can view average product rating, see the distribution of ratings in color-coded bars, and submit their own ratings. Input is by clicking or keyboard controls. Users must select a star before submitting; submitting triggers a confirmation message and disables input briefly—providing feedback and preventing duplicate/invalid actions.
+    -->

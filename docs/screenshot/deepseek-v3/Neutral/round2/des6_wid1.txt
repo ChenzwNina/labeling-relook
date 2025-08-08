@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based design with white background, subtle shadow, and rounded corners. The image takes top space (200px height), followed by product info. I used green for price and button (#2a7f62) to evoke positive associations with money and action. Text sizes create hierarchy (title 18px, price 20px, description 14px). The hover effect lifts the card slightly for interactivity feedback. This design balances aesthetics with usability, drawing attention to key elements while maintaining readability.
+
+    Question 2: This product widget would appear as part of a product listing page, category page, or search results in an ecommerce site. It could also appear in recommendation sections ("Customers also bought") or promotional displays. The appearance is triggered by the page loading or dynamic content loading when users browse or filter products.
+
+    Question 3: Users can: 1) Click the product image/title to view details, 2) Click "Add to Cart" to purchase, 3) Hover to see elevation effect (visual feedback), 4) Read product specs/description, and 5) View ratings. On mobile, touch interactions replace hover. The button changes color on hover to indicate clickability. The design supports both quick scanning and deliberate purchasing decisions.
+    -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with white background and subtle shadows for depth. Shipping options are listed vertically with radio buttons, descriptions, and prices clearly aligned. Add-ons use checkboxes below the shipping options. I chose a color scheme with blue price accents for visibility, sufficient padding for touch friendliness, and clear visual hierarchy to guide users through the decision-making process.
+
+    Question 2: This widget typically appears during checkout after the user enters their shipping address but before payment. It triggers when the system needs shipping method selection and offers relevant add-ons based on the cart contents.
+
+    Question 3: Users can: 1) Select one shipping option via radio buttons, 2) Choose multiple add-ons with checkboxes, 3) See price updates when changing selections, and 4) Click the Continue button to proceed. The widget provides immediate visual feedback when interacting with any element.
+    -->

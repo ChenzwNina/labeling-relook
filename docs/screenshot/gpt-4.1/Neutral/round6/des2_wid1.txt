@@ -1,0 +1,7 @@
+Question 1: The widget appears as a modern horizontal navigation bar with a white background and a subtle shadow, positioned at the top of the page with a 20-pixel margin. Each category link features a circular icon (using "placeholder_image.jpg"), bold label, ample spacing, and gentle hover/active effects (blue background, white text) for clarity and accessibility. Font sizes are set for readability, and layout is responsive for a large product range. These choices create a visually clear, familiar e-commerce navigation.
+
+  Question 2: The widget is triggered on all pages where product category browsing is needed—typically the homepage, category indexes, or even in sticky headers, always present to let users jump between major product categories efficiently.
+
+  Question 3: Users can scroll horizontally if categories overflow, click or tap on any category to navigate (highlighting the current category as "active"), and experience visual feedback on hover (background and icon highlight). Screen readers can use the nav/aria-label for accessibility. No further interactivity is present unless additional scripting is added for popovers or subcategories.
+
+  -->

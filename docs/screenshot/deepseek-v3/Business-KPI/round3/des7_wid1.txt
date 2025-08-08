@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth. Gold stars (★) represent ratings, with green progress bars showing rating distribution. The layout is organized hierarchically: average rating at top, followed by rating breakdown, then individual reviews. Font sizes vary to establish visual hierarchy (18px for average rating, 14px for details). These choices enhance readability while drawing attention to key information (average rating) first.
+
+    Question 2: The widget appears when users view a product page, automatically loading ratings data. It may also appear in a modal when clicking "View Ratings" or similar links. The component is static in this implementation but would typically fetch data dynamically from a backend in production.
+
+    Question 3: Users can: 1) Scroll through reviews, 2) Click to expand/collapse long reviews, 3) Filter reviews by star rating (not implemented here), 4) Sort reviews by date/helpfulness, and 5) Click "Write a review" to submit their own rating (triggering a submission form). Hover effects could highlight interactive elements.
+    -->
+</body>

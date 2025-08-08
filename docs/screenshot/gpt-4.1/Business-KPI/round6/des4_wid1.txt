@@ -1,0 +1,7 @@
+4.1: The widget is horizontally full-width (max 1220px), has a modern white background, subtle box shadow, and rounded corners to elevate its presence at the top of the page. Each product card uses a soft off-white background, slightly elevated. Images, brand logos, rating stars, colorful badges (like "Best Seller" in yellow), and action buttons with gradients or brand colors make elements distinct and actionable. Font is modern and readable, price stands out in blue, and savings (“old price”) is shown for value emphasis. Elements are generously sized for easy scanning, and a grid layout provides visual cadence.
+
+  4.2: The widget appears immediately upon page load at the top, 20px from the viewport’s top edge. It is a persistent, fixed part of the homepage or category page for maximum visibility and engagement. No additional triggers are required; it primes users to browse products instantly.
+
+  4.3: Users can view detailed product images, read key data (title, price, reviews, badges), hover for product card highlighting, and click “Add to Cart” for quick purchase or the heart “Wishlist” button for later. Clicking on the product card (or brand link) can redirect to the product details. The top “View All Deals” link invites further exploration. All actions are optimized for conversion, discovery, and user engagement.
+  -->
+</body>

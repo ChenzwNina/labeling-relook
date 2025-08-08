@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle box shadow for elevation. It uses a two-column layout for shipping options and add-ons, ensuring clarity. Colors include blue (#007bff) for interactive elements and pricing to draw attention, with neutral grays for text to maintain readability. Font sizes are hierarchical (1.5rem for titles, smaller for descriptions) to guide users. I chose this design to mimic e-commerce standards like Amazon, focusing on usability and visual hierarchy for quick decision-making. -->
+
+    <!-- Question 2: This widget appears during the checkout process, typically after users have added items to their cart and are finalizing their purchase. It is triggered when users navigate to the shipping or payment page, ensuring they can select delivery preferences and optional services before completing the order. -->
+
+    <!-- Question 3: Users can interact with the widget by clicking on shipping options to select their preferred method, with visual feedback (border and background color change) indicating the active choice. They can also toggle checkboxes for add-ons to include or exclude them. Hover effects on shipping options provide subtle interactivity, guiding user focus. These interactions allow customization of the purchase experience. -->
+</body>

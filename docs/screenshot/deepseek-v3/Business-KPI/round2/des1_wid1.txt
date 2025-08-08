@@ -1,0 +1,6 @@
+Question 1: The widget features a gradient banner (reddish to dark blue) with white text for high contrast. Deal items have semi-transparent white backgrounds with yellow accent prices. The layout uses flexbox for responsive arrangement. These choices create visual hierarchy (titles bold, prices larger/yellow), while the gradient and shadows add depth without overwhelming content.
+    
+    Question 2: The banner appears automatically on page load as it's part of the initial HTML. In a real implementation, it might be triggered by session cookies (first visit) or timed popups, but this basic version is always visible until manually closed.
+    
+    Question 3: Users can: 1) Click the × button to dismiss the banner, 2) Hover over deal items for slight elevation (visual feedback), and 3) Click any deal item (though no link is implemented here, this would typically navigate to the promoted products).
+    -->

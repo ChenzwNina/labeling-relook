@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation. It uses a blue (#007bff) and green (#28a745) color scheme to indicate progress and active states, ensuring high visibility. The layout is centered with a max-width of 1200px for readability, and elements like circles (30x30px) and text are sized for clarity. The progress bar and steps are aligned horizontally for intuitive tracking. These choices enhance consistency, visibility, and user satisfaction by mimicking familiar e-commerce designs. -->
+
+    <!-- Question 2: The widget appears when a user navigates to the order tracking page or clicks on a specific order from their account dashboard. It can also be triggered post-purchase via email links or notifications, ensuring users can access tracking information at relevant moments. -->
+
+    <!-- Question 3: Users can view order details (ID, dates) and tracking progress visually through the step indicators. They can click the "View Detailed Tracking" button for more granular updates, with hover feedback on the button for clarity. The button is disabled if no further details are available, preventing invalid actions. This supports efficient task execution and clear feedback. -->
+</body>

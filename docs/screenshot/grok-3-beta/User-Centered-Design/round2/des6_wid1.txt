@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The product item widget has a clean, modern look with a white card background, subtle shadow, and rounded corners for a polished appearance. The image occupies the top with a fixed height of 200px for consistency. Text elements use a clear hierarchy with bold titles (#333), vibrant pricing (#e44d26), and gold ratings (#f1c40f) for visibility. The 'Add to Cart' button is full-width, orange, and changes shade on hover for feedback. These choices ensure high visibility, consistency with e-commerce standards, and an inviting, professional aesthetic. -->
+
+    <!-- Question 2: This widget appears on product listing pages or search result pages of an e-commerce website. It is triggered when a user browses a catalog, searches for items, or navigates to a category page, displaying individual products dynamically based on the backend data or user query. -->
+
+    <!-- Question 3: Users can hover over the widget for a subtle lift effect, indicating interactivity. Clicking the product card may redirect to a detailed product page. The 'Add to Cart' button allows adding items to the cart with color feedback on hover and click. If out of stock, the button grays out and disables clicks, preventing invalid actions. These interactions ensure clear affordances and efficient task execution. -->
+</body>

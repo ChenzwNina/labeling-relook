@@ -1,0 +1,43 @@
+-->
+    <!-- 
+        Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The component is a sleek, horizontally-aligned search panel with soft, rounded corners, positioned at the top center of the page. It has a subtle shadow to make it 'pop'. The layout consists of three parts: a category dropdown, a main search input field, and a primary search button. 
+
+        Colors:
+        - Panel: Clean white (#ffffff) for clarity and to fit any site design.
+        - Button: A vibrant, trustworthy blue (#007bff) to serve as a strong, unmissable call-to-action (CTA). This color psychology encourages clicks and boosts conversion.
+        - Inputs: Light gray borders (#dcdcdc) that turn blue on focus, guiding the user's attention.
+
+        Sizing:
+        - The panel is wide (max-width 800px) to feel substantial and important.
+        - Font size is 16px, ensuring readability and accessibility.
+        - Padding is generous to avoid a cramped feeling, improving user experience.
+
+        This design is intentional: the prominent, high-contrast CTA button maximizes clicks, while the organized layout and category filter help users quickly find what they need, reducing bounce rate and directly supporting sales.
+    -->
+
+    <!-- 
+        Question 4.2: What triggers the appearance of this widget?
+
+        This search panel is a persistent, core component of the user interface, not a triggered pop-up or modal. Its appearance is triggered by the loading of any primary page on the website, such as the homepage, category pages, or product listing pages. 
+
+        The rationale behind this is based on established e-commerce best practices. Search is a primary navigation tool for users with high purchase intent. Hiding it behind a click or another event would add friction and increase the time it takes for a user to find a product, potentially leading to frustration and a higher bounce rate. By making it immediately visible and accessible at the top of the viewport (`position: fixed`), it serves as a constant, reliable tool for the user, maximizing its utility and thereby supporting conversion rates and user retention. It's a foundational element, not a conditional one.
+    -->
+
+    <!-- 
+        Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+        The user has several direct and intuitive interactions designed for efficiency:
+
+        1.  **Typing a Search Query:** The user can click into the main input field and type their desired product, brand, or keyword. The engaging placeholder text ("Search for smartwatches, laptops, books...") guides them on what to search for.
+
+        2.  **Filtering by Category:** Before or after typing, the user can click the "All Categories" dropdown. This reveals a list of specific store departments, allowing them to pre-filter their search. This narrows down results, leading to higher relevance and faster product discovery, which boosts conversion.
+
+        3.  **Submitting the Search:** The user can submit the search in two ways:
+            a. Clicking the prominent blue "Search" button.
+            b. Pressing the "Enter" key on their keyboard after typing in the input field.
+
+        4.  **Visual Feedback:** When the user clicks on the input field or the category selector, the border of the element highlights in blue, providing clear visual feedback that it is the active element. The search button also darkens slightly on hover, indicating it's clickable.
+    -->
+</body>

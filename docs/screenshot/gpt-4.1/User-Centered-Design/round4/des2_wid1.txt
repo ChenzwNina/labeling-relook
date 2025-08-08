@@ -1,0 +1,9 @@
+Question 1: 
+The widget is a fixed, horizontal navigation bar positioned 20px from the top of the viewport. It has a white background with subtle box shadow and rounded top corners for a modern, elevated look. Each category is represented by an icon (using "placeholder_image.jpg") and text label, laid out side-by-side with clear spacing. The active category (“Electronics” by default) appears with a blue background and white text for high contrast and clarity. Other links have dark text, and highlight blue upon hover or focus for visibility. The design is fully responsive, using smaller padding and horizontal scrolling on mobile. Icons and text remain clearly legible at all sizes.
+
+Question 2:
+The widget is always visible at the top of the viewport on any page where category navigation is required, such as on the homepage or product listing pages. It is intended to serve as a global navigation mechanism for browsing product categories.
+
+Question 3:
+Users can click (or use keyboard Tab+Enter) on a category to navigate to its product listing. The active category is visually highlighted and disabled from further selection (pointer-events: none). On hover or keyboard focus, categories receive a blue highlight to signal interactivity. Icons and category names serve as affordances for selection (click or Enter/Space). The design naturally prevents unintentional multiple activations of the same tab and supports accessible navigation via tabindex and aria-current attributes.
+-->

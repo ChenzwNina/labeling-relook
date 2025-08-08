@@ -1,0 +1,9 @@
+Question 1:
+This filter panel appears as a white, rounded rectangular bar with a subtle shadow, positioned fixed 20px from the top of the viewport and centered horizontally. Each filter (Category, Brand, Price Range, Minimum Rating) is displayed as a section with a bold blue label and a neatly styled dropdown or range slider. The "Apply Filters" button is a bold blue gradient with white font, sized for comfortable clicking. Elements are spaced with modern, generous padding and gaps for clarity and touch-friendliness. The design echoes contemporary e-commerce sites by using a clean palette (white, blue, light gray), mild hover effects, and good spacing for readability and usability.
+
+Question 2:
+This widget is always visible at the top of the page whenever a user browses a product listing or category page. It is not modal or popup-based; instead, it serves as a persistent, accessible filtering tool.
+
+Question 3:
+Users can select a product category, brand, set a max price via slider (with dynamic value update), and select a minimum product rating. Users may change one or several filters simultaneously and then click the "Apply Filters" button to submit their choices. The slider provides immediate visual feedback, while dropdowns allow selection of only one item per filter. The button is keyboard and touch accessible.
+-->

@@ -1,0 +1,5 @@
+-->
+    <!-- Question 1: The filter panel uses a clean white background with a subtle shadow for elevation, ensuring high visibility against the light gray body background. Text is dark for readability, with blue highlights on selected options for feedback. The layout is responsive, using flexbox to adapt to screen sizes, with equal spacing and minimum widths for sections. Buttons are bold and centered for prominence. These choices align with e-commerce standards, prioritizing clarity and ease of use. -->
+    <!-- Question 2: The widget appears at the top of product listing pages, positioned with a 20px margin from the viewport top. It is triggered by default when users navigate to a category or search results page, aiding in refining product searches immediately. -->
+    <!-- Question 3: Users can interact by selecting multiple filter options via checkboxes for categories, price ranges, and brands, with visual feedback on selections. They can apply filters using the 'Apply Filters' button to update results or reset all choices with the 'Reset' button, ensuring efficient and constrained interactions within the panel. -->
+</body>

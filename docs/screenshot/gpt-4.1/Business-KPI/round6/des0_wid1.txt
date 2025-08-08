@@ -1,0 +1,7 @@
+4.1 The widget sits at the top of the viewport inside a card with soft white background, rounded corners, and subtle shadow. Headline and "See All Deals" link are spaced with justified flex, while featured product cards are in a horizontal scrollable flex row. Each card uses neutral backgrounds, a colored badge, image, product name, ratings, both old and new prices, and add-to-cart/wishlist actions. Visual hierarchy, bold deals, and calls to action help maximize conversion and engagement.
+
+  4.2 The widget appears on page load at the top of the home page, category pages, and other high-traffic landing pages to showcase attractive or curated product deals and maximize user engagement.
+
+  4.3 Users can (1) click "See All Deals" to view more featured products, (2) click "Add to Cart" on a product for instant cart addition, (3) click the heart/wishlist icon to save products, and (4) click anywhere on the product card or image to open the product detail page (could be linked in a real site). Product badges, hover states, visible discounts, and ratings offer cues that increase engagement and minimize cart abandonment.
+  -->
+</body>

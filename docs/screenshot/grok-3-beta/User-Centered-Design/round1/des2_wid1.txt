@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, white background with a subtle shadow for elevation, ensuring it stands out at the top of the page with a 20px margin. Category icons are circular (60x60px on desktop, 50x50px on mobile) with a hover effect (blue border and text color change to #007bff), enhancing visibility and feedback. The layout is centered with evenly spaced items for consistency and clarity. Blue accents align with common e-commerce branding, promoting trust and familiarity. -->
+
+    <!-- Question 2: The widget appears statically at the top of the viewport on every page of the e-commerce site as a primary navigation tool. It remains sticky to ensure constant access while scrolling, triggered by the initial page load without requiring user action. -->
+
+    <!-- Question 3: Users can interact with the widget by hovering over category items for visual feedback (border and color change), indicating clickability. Clicking an item navigates to the respective category page. The design prevents incorrect actions by limiting interactions to clicks on defined items. On mobile, horizontal scrolling accommodates all categories, maintaining accessibility and efficiency. -->
+</body>

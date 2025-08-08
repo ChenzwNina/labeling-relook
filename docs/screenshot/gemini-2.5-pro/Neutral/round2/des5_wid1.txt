@@ -1,0 +1,21 @@
+Q1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The filter panel is a vertical rectangle, 280px wide, with a white background (`#ffffff`) and a light gray border (`#e0e0e0`), positioned on the left side of the viewport. It has a subtle box shadow for depth. The main title "Refine Your Search" is 22px and uses a dark blue-gray color (`#2c3e50`). Section titles (e.g., "Price Range", "Brand") are 16px in a slightly lighter gray (`#34495e`). Filter options (checkboxes, radio buttons) use 14px text. Input fields are styled with light gray borders. The primary action button "Apply Filters" is a prominent blue (`#3498db`), while "Clear All Filters" is a lighter gray (`#ecf0f1`) with a border.
+These choices aim for a clean, modern, and trustworthy e-commerce aesthetic. The layout is hierarchical for easy scanning. Colors provide clear visual cues: blue for primary actions, neutral tones for readability and structure. Rounded corners (10px for panel, 5-6px for inputs/buttons) soften the look. The sizing ensures readability and comfortable interaction on typical desktop screens.
+*****Response***** -->
+<!-- *****Response*****
+Q2: What triggers the appearance of this widget?
+
+The widget is designed to be persistently visible when a user navigates to a page where product filtering is relevant, such as a product category page or a search results page. Its appearance is triggered by the loading of such a page. Due to its `position: fixed` CSS styling with `top: 20px` and `left: 20px`, it's rendered immediately as part of the page layout, 20 pixels from the top and left edges of the viewport. It does not require a specific user action (like clicking a button) to appear; it is an integral part of the interface for these page types, ensuring filters are always readily accessible.
+*****Response***** -->
+<!-- *****Response*****
+Q3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the filter panel in several ways:
+1.  **Select/Deselect Options:** They can click checkboxes for multi-select categories (like Brand, Color, Category) to include or exclude specific criteria. For single-select categories like "Customer Rating", they use radio buttons, where selecting one automatically deselects any other in that group.
+2.  **Define Price Range:** Users can type numerical values into the "Min $" and "Max $" input fields to specify a desired price bracket for products.
+3.  **Apply Filters:** Clicking the "Apply Filters" button signals intent to update the product listing based on the selected criteria. (This typically triggers a data refresh, though not implemented here).
+4.  **Clear Filters:** Clicking the "Clear All Filters" button resets all selections (checkboxes, radio buttons) and clears input fields, allowing users to start over or view unfiltered results.
+5.  **Scroll Panel:** If the number of filter options exceeds the visible height of the panel, users can scroll vertically within the panel itself to access all available options, thanks to `overflow-y: auto`.
+Labels for checkboxes and radio buttons are also clickable, improving usability.
+*****Response***** -->

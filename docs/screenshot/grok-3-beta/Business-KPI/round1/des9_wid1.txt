@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background, subtle shadows, and rounded corners for a professional look. It uses a blue color scheme (#007bff) for prices and CTA buttons to draw attention and encourage action. The layout is split into two flexible sections for shipping options and add-ons, ensuring responsiveness across devices. Elements are sized for readability (1.5rem titles, 1rem text) with hover effects for interactivity. These choices maximize conversion rates by providing clarity and visual hierarchy, encouraging purchases and upsells. -->
+
+    <!-- Question 2: This widget appears during the checkout process, specifically after users have added items to their cart and are finalizing their order. It is triggered when navigating to the shipping or payment page, ensuring users consider shipping speed and add-ons before completing their purchase. -->
+
+    <!-- Question 3: Users can interact with the widget by selecting a preferred shipping option, with visual feedback (border highlight) on selection. They can toggle optional add-ons by clicking cards to include/exclude them. Hover effects provide cues for interactivity. The "Proceed to Checkout" button finalizes choices, guiding users to payment. These interactions reduce cart abandonment by simplifying decisions and enhancing user engagement. -->
+</body>

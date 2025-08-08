@@ -1,0 +1,18 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    Answer 1: The component is a clean, modern navigation bar with a horizontal layout. It has a white background (`#FFFFFF`) and a subtle bottom shadow, which makes it "float" above the page content, clearly defining its space. The main navigation links use a highly readable, dark grey font (`#333333`) sized at 16px for clarity. The layout is centered within the viewport, a common pattern that feels balanced and professional. For interaction feedback, hovering over a link changes its color to a pleasant blue (`#007bff`) and reveals a matching underline, clearly indicating a clickable element. This minimalist color scheme is chosen to be non-distracting, ensuring that the product categories are the main focus, while the accent color provides clear, intuitive feedback without overwhelming the user. The dropdown menus continue the clean aesthetic with ample padding and rounded corners for a softer, more modern feel.
+
+    Question 2: What triggers the appearance of this widget?
+
+    Answer 2: The widget is a primary site navigation bar, so it does not have a trigger for its appearance. It is a persistent element that is visible as soon as the web page loads. It is styled with `position: sticky` and `top: 20px`, which means it will initially be positioned 20px from the top of the viewport. As the user scrolls down the page, the navigation bar will "stick" to that position, remaining constantly visible and accessible. This design choice ensures that users can navigate to any product category from anywhere on the page, which supports efficient task execution and reduces the effort required to explore the site.
+
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Answer 3: Users can perform several interactions with this navigation widget.
+    1.  **Hovering:** When a user hovers their mouse over a main category link (e.g., "Women"), they receive immediate visual feedback: the text color changes to blue, and a blue underline animates into view.
+    2.  **Dropdown Activation:** For categories with sub-menus ("Women", "Men", "Accessories"), hovering also triggers a dropdown menu to appear smoothly. A small arrow icon next to the link name serves as an affordance, indicating the presence of this menu.
+    3.  **Navigation:** Users can click on any link. Clicking a top-level link like "New Arrivals" or "Sale" navigates them directly to that category page.
+    4.  **Sub-category Navigation:** After a dropdown menu appears, users can move their cursor into it and click on a specific sub-category link (e.g., "Dresses" or "Wallets") to go to that more refined product listing. The links within the dropdown also provide hover feedback by changing their background and text color.
+    
+    *****Response***** -->
+</body>

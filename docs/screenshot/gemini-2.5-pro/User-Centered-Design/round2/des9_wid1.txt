@@ -1,0 +1,32 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a clean, modern card positioned 20px from the top of the viewport and centered horizontally (on larger screens; on smaller screens it adapts to near full width with 10px side margins). It has a white background (`#ffffff`), rounded corners (12px), and a subtle box shadow for a floating effect.
+**Layout:** It features a main title ("Finalize Your Shipment"), followed by two clearly demarcated sections: "Select Shipping Method" (using radio buttons) and "Consider These Add-ons" (using checkboxes). Each section has its own heading. A prominent call-to-action button ("Proceed to Payment Details") is at the bottom.
+**Colors:**
+- Primary Text & Headings: Dark blues/grays (`#1a3b5d`, `#34495e`, `#212529`) for strong readability.
+- Secondary Text (details, descriptions): Lighter gray (`#6c757d`).
+- Prices: Bright green (`#28a745`) for easy scanning and positive financial association.
+- Interactive Elements: Primary blue (`#007bff`) for input `accent-color` and hover/focus states on option items.
+- CTA Button: A vibrant green (`#28a745`), with darker shades on hover/active states.
+**Sizes:** The widget is `max-width: 580px`. Font sizes range from `26px` for the main title to `14px` for details, ensuring hierarchy and legibility. Interactive elements like radio/checkboxes are `20x20px`, and option items have ample padding (`18px`) for easy targeting.
+
+**Design Choices Rationale:** These choices aim for high clarity, ease of use, and a trustworthy e-commerce feel. The layout guides users logically. Colors provide contrast and highlight key information (prices, actions). Sizes and spacing ensure comfortable interaction and readability, adhering to usability best practices. The floating card design focuses user attention on this crucial checkout step.
+
+## Question 2: What triggers the appearance of this widget?
+
+This widget typically appears as a modal or a distinct section during an e-commerce checkout flow. The most common triggers are:
+1.  **Advancing from Cart/Address Entry:** After a user reviews their cart and clicks "Checkout," or after they've entered their shipping address. Shipping options often depend on the destination, so appearing after address entry is logical.
+2.  **A Dedicated Step in Checkout:** It can be a specific page or step in a multi-page checkout process explicitly labeled "Shipping & Options" or similar.
+Its appearance signifies that the user is ready to finalize order details related to delivery and any optional extras before proceeding to payment. It's designed to focus attention on these specific choices.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the widget in several ways:
+1.  **Select Shipping Method:** Click a radio button or its associated label to choose one shipping option. Only one can be active. The selected option is visually highlighted.
+2.  **Select Add-ons:** Click a checkbox or its label to select or deselect optional add-ons. Multiple add-ons can be chosen. Selected add-ons are visually marked.
+3.  **Proceed:** Click the "Proceed to Payment Details" button to move to the next checkout stage. This button has clear hover and active states.
+4.  **Review Information:** Read names, details (like delivery estimates, descriptions), and prices for each option to make informed choices.
+5.  **Keyboard Navigation:** Use Tab to move between interactive elements (shipping options, add-ons, button) and Spacebar/Enter to select/activate them. Focused elements receive a distinct visual outline, and selected items show a change in background/border if CSS `:has()` is supported, or through the `accent-color` of the input.
+Hovering over any option item provides visual feedback (border color change, shadow) indicating it's interactive.
+*****Response***** -->
+</body>

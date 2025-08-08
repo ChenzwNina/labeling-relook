@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a centered, fixed panel with a white background, rounded corners, and a subtle shadow for depth. Primary blue is used for buttons and accent text, providing a trustworthy, modern e-commerce feel. Form fields are generously spaced and easy to read. The layout is single-column for clarity and mobile-friendliness. The width (360px) balances size and space on common screens. Social sign-ups include icon placeholders and soft button backgrounds.
+
+  Question 2:
+  This widget should appear when users choose to sign up or create a new account on the e-commerce website, usually accessed via a “Create Account” or “Register” button in the site header or a checkout prompt.
+
+  Question 3:
+  Users can fill in name, email, and password, and submit the form to create an account. They can also use quick sign-up via Google or Facebook buttons. There is a link to switch to the login (if they already have an account). Each input provides focus states for accessibility, and form submission can be hooked to validation or AJAX as needed.
+  -->
+</body>

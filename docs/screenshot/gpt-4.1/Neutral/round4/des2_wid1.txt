@@ -1,0 +1,6 @@
+Question 1: The widget is a horizontally laid-out, fixed navigation bar with a white background, subtle shadow, and softly rounded corners for a modern feel. Each category displays a small icon (22px, smaller on mobile), left of the category name, and links have medium bold text. Hovered and active categories have a blue background (#0074D9) with white text for clear contrast and feedback. The nav is responsive, compacting elements for smaller screens. These choices ensure clear visibility, easy access, and a polished, professional look suitable for e-commerce.
+
+Question 2: This widget appears automatically on page load, positioned at the top of every site page to offer users quick navigation to major product categories, facilitating browsing and product discovery.
+
+Question 3: Users can click/tap any category to navigate to the corresponding product listing page. When a category is hovered over or currently active, its background turns blue and text turns white for instant feedback. On mobile, the layout adapts to allow easy fingertip navigation. Each category has an accessible label and icon for clarity. The entire widget is keyboard-navigable for accessibility.
+-->

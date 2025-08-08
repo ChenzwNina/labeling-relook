@@ -1,0 +1,8 @@
+4.1: The widget is a sleek, modern form with a white background, gentle box-shadow, and rounded corners. ShopEase branding sits atop, alongside a 40px logo. Large, clear header text entices account creation, and a brief subheader articulates its value. Inputs are sharply bordered and padded for comfort. The "Create Account" button is bold, gradient blue/teal, and wide for high visibility. Social signup buttons and login prompts further aid navigation. The "Why Join ShopEase?" box highlights benefits, using soft backgrounds and clear bullets to increase time on page, drive loyalty, and signal rewards/incentives. All margins and padding are optimized for finger touch and visual scanning.
+
+4.2: This widget appears when a user clicks "Sign Up" or "Create Account" at the site header or during checkout when the user is unregistered, or after viewing certain gated offers/campaigns (exit intent, member deals, etc.).
+
+4.3: Users can: 1) Fill in name, email, and password, 2) Opt-in/out of promotional emails, 3) Submit the form, 4) Alternatively, sign up with Google or Facebook, 5) Navigate to "Sign in" if they already have an account, 6) Review membership perks in the benefits box. Input validation feedback is provided inline.
+
+-->
+</body>

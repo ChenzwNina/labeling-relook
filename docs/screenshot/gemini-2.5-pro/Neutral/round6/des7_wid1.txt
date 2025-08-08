@@ -1,0 +1,23 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a clean, rectangular panel with rounded corners, centered horizontally and fixed 20px from the top of the screen. It has a subtle shadow to make it "float" above the page content.
+
+    Its color scheme is professional and minimalistic: a white background (#ffffff), dark grey text for readability (#333 to #555), and gold-colored stars (#ffc107) which are universally recognized for ratings. A specific product name within the review is highlighted in a brand-friendly blue (#007bff) to draw attention.
+
+    The layout is a two-part vertical stack. The header establishes overall credibility with a "Trusted by Our Customers" title and an aggregate 4.9/5 star rating. Below this, a sample review provides a relatable, human element. An avatar, author name, and review text create a scannable, testimonial-style format. The typography uses a clean 'Lato' font with varied weights to create a clear visual hierarchy, guiding the user's eye from the overall score to the specific praise. This design is trustworthy, modern, and built to integrate seamlessly into most e-commerce sites without being distracting.
+
+    ## Question 2: What triggers the appearance of this widget?
+
+    This widget is a social proof tool designed to build trust, so its appearance is triggered by key moments in the user journey where reassurance is most effective. The primary trigger would be for a new visitor landing on the homepage. The widget would appear after a short delay (e.g., 3-5 seconds) to allow the user to orient themselves before being presented with the trust signal. This immediately establishes the store's credibility.
+
+    Another effective trigger is on a product detail page. If a user spends more than 10-15 seconds on the page (indicating consideration), the widget can appear to reinforce their potential purchase decision by showcasing the positive experiences of other customers. Finally, it could be triggered on the shopping cart page as a final reassurance to help reduce cart abandonment, reminding the user they are buying from a highly-rated and trusted company.
+
+    ## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    User interactions with this widget are intentionally simple and focused. The primary and most common interaction is dismissal. The user can click the 'X' icon in the top-right corner to close the widget and remove it from view, allowing them to continue their shopping journey without obstruction. The close button has a clear hover effect to indicate its interactivity.
+
+    The secondary, passive interaction is simply reading the content. The user absorbs the high aggregate rating and the positive sentiment from the individual review, which builds trust and confidence in the brand. This is the main goal of the component, and it requires no clicking.
+
+    While this specific design omits a direct Call-To-Action (CTA) to maintain a clean look, a variation could include a "Read all reviews" link. Clicking this would be a tertiary interaction, navigating the user to a dedicated testimonials or product reviews page for deeper investigation.
+    *****Response***** -->
+</body>

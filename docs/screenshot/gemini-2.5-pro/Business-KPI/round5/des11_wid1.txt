@@ -1,0 +1,19 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, centered card on a muted background, creating a focused user experience. The layout is spacious with a clear visual hierarchy. A large, empathetic headline ("We're Sorry to See You Go") immediately builds rapport. 
+
+I chose a professional color palette: a primary blue for standard actions and a vibrant green for the most attractive retention offer ("Claim 50% Off"). This color psychology guides the user toward actions that prevent revenue loss, directly supporting sales maximization (Rule 3.1). The retention offers are in side-by-side cards for easy comparison, a design choice to maximize user engagement (Rule 3.5). The final cancellation option is a de-emphasized, smaller text link, creating beneficial friction to reduce membership churn (Rule 3.8) without trapping the user. A friendly support contact section with an agent's photo adds a human touch, aiming to resolve issues and retain customers.
+
+4.2 Question 2: What triggers the appearance of this widget?
+
+This component is not a pop-up or an intrusive overlay. Its appearance is intentionally triggered by the user. It serves as the main content of the dedicated "Cancel Membership" or "Manage Subscription" page. A user would typically navigate here from their main account settings or profile dashboard after making a conscious decision to review their membership options. This approach respects user intent, avoids frustration, and provides a clear, expected pathway for a sensitive action. By making this a dedicated page, we create an opportunity to present compelling alternatives without creating a "dark pattern," which helps maintain brand trust and potentially turn a cancellation intent into a long-term retention, thus supporting visitor loyalty (Rule 3.7).
+
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a clear, multi-path journey. Their interactions are:
+1.  **Evaluate Offers:** The primary interaction is to read and compare the two retention offers: "Pause Membership" and "Keep Your Benefits & Save". Hovering over these cards provides visual feedback.
+2.  **Accept Retention Offer:** Users can click the prominent blue "Pause for 3 Months" button or the even more enticing green "Claim 50% Off" button. These actions would lead to a confirmation page for that specific offer, successfully retaining the customer and their revenue (supporting Rule 3.1 & 3.2).
+3.  **Seek Help:** Users can click the "Chat with an expert" link, which opens a support channel. This interaction is designed to resolve underlying issues and save the membership, minimizing abandonment (Rule 3.8).
+4.  **Proceed to Cancel:** If a user rejects the alternatives, they can click the understated "No thanks, continue to cancel my membership" link. This would navigate them to the final cancellation step, which would likely include a brief exit survey.
+-->
+</body>

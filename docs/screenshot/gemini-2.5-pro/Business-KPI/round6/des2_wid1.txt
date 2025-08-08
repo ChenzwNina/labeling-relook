@@ -1,0 +1,34 @@
+-->
+<!--
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, modern navigation bar housed in a container with rounded corners and a subtle box shadow, making it appear to float above the page content. It's positioned centrally near the top of the page.
+
+Layout: It features a horizontal list of primary categories like "Women," "Men," and "Home & Living." Hovering over categories with sub-options reveals a large "mega menu" dropdown, neatly organized into columns with clear headings (e.g., "Clothing," "Shoes"). This layout allows users to see a wide range of options at a glance, encouraging exploration and reducing clicks (maximizes page views, time on site).
+
+Colors: The background is a crisp white for clarity and a premium feel. The primary text is a dark gray (#333) for high readability. Hovering over a link changes its color to a trustworthy blue (#007bff), providing clear visual feedback. A dedicated "Sale" category is colored red (#d9534f) to create urgency and draw attention, directly aiming to boost sales and click-through rates.
+
+Elements: The font is 'Lato', a sans-serif known for its readability on screens. Main category links are 16px, bold, and uppercase to establish a clear hierarchy.
+-->
+<!--
+4.2 Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is not triggered by a specific user action or event in the way a popup or modal is. It is a primary navigation bar, a fundamental and persistent part of the website's user interface.
+
+Therefore, it is visible immediately upon the page loading. Its purpose is to be a constant, reliable tool for users to navigate the e-commerce site from any page. It remains fixed at the top of the viewport (with a 20-pixel margin) so that even as the user scrolls down the page, their primary means of browsing different product categories is always accessible. This design choice is crucial for minimizing user frustration and reducing the bounce rate, as it provides a clear and ever-present path to explore the site's offerings.
+-->
+<!--
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a clear and intuitive set of interactions designed for efficient navigation:
+
+1.  **Visual Scanning:** The user can quickly scan the top-level categories ("Women," "Men," "Sale," etc.) to orient themselves. The distinct red color of "Sale" immediately draws their attention to promotional items.
+
+2.  **Hover-to-Reveal:** By moving their mouse cursor over a main category link like "Women" or "Men," a large dropdown "mega menu" appears smoothly. This interaction doesn't require a click, making exploration fast and low-commitment. The user can move their cursor across different top-level links to seamlessly switch between different mega menus.
+
+3.  **Dropdown Navigation:** Within the revealed mega menu, the user can scan the organized columns and hover over specific sub-category links (e.g., "Dresses," "Sneakers"). A subtle visual effect, like a color change and slight indent, provides feedback on which link they are about to select.
+
+4.  **Click-to-Navigate:** The primary action is clicking. A user can click on any link—either a top-level category or a sub-category within the dropdown—to be taken directly to that corresponding product listing page.
+-->
+
+</body>

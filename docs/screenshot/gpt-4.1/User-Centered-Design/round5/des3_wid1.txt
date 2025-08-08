@@ -1,0 +1,6 @@
+Question 1: The widget features a wide, pill-shaped white container with a subtle shadow for elevation, a brand/logo image on the left, a light gray rounded search input in the center, and a bold blue "Search" button on the right with a search icon. The clear button (“×”) appears inside the input when text is entered. Error messages display in light red when input is invalid. I chose a minimal, modern color palette (white, grays, blue as primary) and responsive padding/radius for usability and brand consistency. Layout aligns horizontally for desktop and stacks on mobile.
+
+Question 2: The search panel appears at the top of the viewport on every page load, maintaining high visibility and access. It is not triggered by a user event but is always present for efficient product searching.
+
+Question 3: Users can type in the search input, which enables the search button after 2+ characters. The clear button clears the field and refocuses it. Attempting to search with <2 characters triggers an inline error. On valid search (submit), the form is processed. All states, feedback, and constraints are managed dynamically for a polished UX.
+-->

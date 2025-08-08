@@ -1,0 +1,6 @@
+4.1: The widget is a horizontal navigation bar set in a white, rounded container with subtle shadow, placed with a 20px margin from the top. It uses blue (#1266f1) as a brand highlight, warm pinks for “Sale,” and soothing gradients for other categories. The category names are large for clickable targets; mobile responsiveness ensures usability on all devices. The logo at the left brands the nav bar, while action buttons (View All, Today's Deals) at right encourage users to discover more and shop sales, maximizing engagement and conversions.
+
+4.2: This widget appears at the very top of every main page (including homepage, category, and search pages) as soon as the visitor loads the site. Its sticky positioning keeps it visible as users scroll, ensuring constant access to category paths.
+
+4.3: Users can click any category name to view products within that category, with active highlights indicating selection. The “View All Categories” button navigates to a full category overview. The "Today's Deals" button takes the user to the sales collection, featuring compelling deals. Navigation is horizontal and scrollable for overflow on small screens, ensuring accessibility and quick discovery. The category nav increases time on site, product exposure, and simplifies the shopping journey.
+-->

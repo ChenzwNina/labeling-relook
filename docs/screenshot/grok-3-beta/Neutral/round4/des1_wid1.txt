@@ -1,0 +1,6 @@
+Question 1: The deals banner features a vibrant gradient background transitioning from coral (#ff6f61) to a warm peach (#ffb88c), creating a sense of urgency and excitement. The text is white for contrast, with a bold, uppercase deal announcement for emphasis. The timer is slightly smaller, encased in a semi-transparent white box for readability, and the "Shop Now" button is white with coral text, inverting on hover for interactivity. The layout is centered, with elements spaced evenly for balance. These choices mimic e-commerce trends, prioritizing visibility and urgency to drive clicks.
+
+Question 2: The banner appears automatically at the top of the website on page load, typically triggered by active promotions or time-sensitive sales events. It could also be triggered by user behavior, such as visiting specific product categories (e.g., electronics) or during holiday sales periods.
+
+Question 3: Users can interact with the banner by clicking the "Shop Now" button, which redirects to the sale page. Hovering over the button provides visual feedback with a color change. The banner is static otherwise, ensuring it’s non-intrusive while remaining prominent for maximum visibility.
+***** -->

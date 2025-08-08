@@ -1,0 +1,23 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The filter panel is a fixed-position card, 300 pixels wide, that sits on the top-left of the viewport. It has a clean, modern aesthetic with a white background (`#ffffff`), rounded corners, and a subtle box shadow to lift it off the page. The layout is a vertical stack: a header with the title "Filter Results", a scrollable body containing collapsible filter sections, and a footer with a prominent "Apply Filters" button.
+
+I chose a professional and neutral color palette, primarily using shades of grey for text and borders (`#172B4D`, `#DFE1E6`), with a vibrant blue (`#007BFF`) as the single accent color. This blue is used for all interactive elements like links, selected states, and the primary call-to-action button. This choice creates high visibility for functions and a consistent visual language. The typography uses the "Inter" font, which is highly readable on screens. The collapsible sections (`<details>`) manage complexity, ensuring the panel doesn't overwhelm users with too many options at once, thus supporting efficient task execution.
+
+### Question 2: What triggers the appearance of this widget?
+
+On a desktop or large tablet view, this filter panel is designed to be persistently visible. It appears automatically when a user navigates to a product category page or a search results page. It's a core part of the page layout, not a pop-up or modal that requires a user action to be triggered. This persistent visibility ensures that filtering functionality is always accessible and discoverable, following the design principle of high visibility of functions. While this specific implementation is for a desktop view, on a mobile device, its appearance would typically be triggered by the user tapping a dedicated "Filter" or "Refine" button to save screen real estate. The component would then slide into view as an overlay or a new screen.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the widget in several ways to efficiently refine product results:
+
+1.  **Expand/Collapse Sections:** Users can click on the header of any filter category (e.g., "Brand", "Price Range") to show or hide its options, helping them focus on relevant criteria.
+2.  **Select/Deselect Options:** For categories like "Brand," users can click checkboxes to select one or more options. For "Color" and "Size," they interact with visually distinct swatches and buttons that function as checkboxes, providing clear affordances.
+3.  **Adjust Price:** A range slider allows users to define a specific price bracket by dragging the handle.
+4.  **Apply Filters:** Clicking the prominent blue "Apply Filters" button at the bottom submits their selections, which would then update the product grid on the main page.
+5.  **Clear Selections:** A "Clear All" link in the header allows users to instantly reset all chosen filters to their default state, providing an efficient way to start a new search.
+
+Each interaction provides immediate visual feedback, such as a checked box, a highlighted button, or a rotated accordion arrow, creating a satisfying and helpful user experience.
+
+*****Response***** -->

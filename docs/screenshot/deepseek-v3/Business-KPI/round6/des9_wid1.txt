@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design with a white background and subtle shadow for depth. Shipping options are displayed as cards with blue accent colors when selected. I chose a card-based layout for clear visual separation of options, with hover states to indicate interactivity. Text sizes are hierarchical (18px for header, 16px for options) for easy scanning. Blue is used for prices and selected states as it conveys trust and is commonly associated with clickable elements in ecommerce.
+
+    Question 2: This widget would typically appear during checkout after the user enters their shipping address. It might be triggered automatically when the address is verified, or appear when the user clicks a "Continue to Shipping" button from the previous checkout step. The timing ensures shipping options are relevant to the user's location.
+
+    Question 3: Users can: 1) Select one shipping method by clicking radio buttons (visual feedback shows selection), 2) Toggle optional add-ons with checkboxes, 3) Hover over options to see highlight states, and 4) Click "Continue" to proceed. The widget provides immediate visual feedback for all interactions, with color changes and selection states helping users understand their choices.
+    -->
+</body>

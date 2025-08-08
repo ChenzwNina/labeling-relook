@@ -1,0 +1,9 @@
+Question 1:
+  The widget is a horizontally-oriented search bar with a subtle card effect (white background, light shadow, large rounded corners) that sits at the center top of the viewport with a 20px margin. It features a logo image on the left, a medium-large search input with a blue-themed bordered focus style, and a bold blue “Search” button with a search icon. Suggestions appear in a white dropdown under the input with gentle dividers and highlight on hover. All colors and spacings are chosen for a modern, friendly, high-contrast interface enhancing usability and visual clarity. Size ensures it stands out as the entry point for shopping.
+
+  Question 2:
+  The search panel is always visible as a primary site component at the page top. The suggestion dropdown appears after the user focuses the input field or types text, providing contextual feedback and encouraging efficient search.
+
+  Question 3:
+  Users can click/focus into the input to type or see trending searches, submit via button or Enter key, and interact with suggestions using mouse or keyboard (click/tab and Enter). Selecting a suggestion fills the field. Invalid blank submission is constrained (no action). The input box gives visual feedback on focus and error, and all actions provide immediate feedback, ensuring a streamlined, efficient, and pleasing search experience.
+  -->

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, centered layout with a white background and subtle shadow for elevation. It uses a warm orange (#ff9900) for the sign-in button to draw attention and evoke a sense of action, while blue links (#0066cc) ensure consistency with web standards. Input fields are sized for easy typing (350px wide), with clear labels and a focused border effect for feedback. These choices prioritize visibility, consistency, and user comfort, aligning with e-commerce design norms.
+
+    Question 2: The widget appears when a user clicks on a 'Sign In' link or button from the website’s header or attempts to access account-specific features like order history or checkout. It serves as the gateway to personalized content on ShopEase.
+
+    Question 3: Users can enter their email and password, with real-time focus feedback on inputs. Clicking 'Sign In' triggers validation; errors display a red message. Links for 'Forgot Password' and 'Create an Account' offer alternative paths. The button disables if inputs are invalid, preventing errors, ensuring efficient and clear interactions. -->
+</body>

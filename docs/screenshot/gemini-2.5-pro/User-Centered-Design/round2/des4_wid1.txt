@@ -1,0 +1,60 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a horizontally-oriented panel, fixed at the top of the viewport with a 20px top margin and centered horizontally. It has a maximum width of 1200px and responsive width of 90%.
+
+    **Layout:**
+    The panel has a header with a title "Recently Viewed Items" on the left and a close button ('×') on the right. Below the header, a horizontally scrollable list displays product cards. Each product card vertically stacks a product image, name, price, and a "View Product" button.
+
+    **Colors:**
+    - Main panel background: White (`#ffffff`) for a clean, modern look, contrasting with a typical page background.
+    - Product card background: Slightly off-white (`#fdfdfd`) with a light border (`#e0e0e0`) to distinguish from the panel.
+    - Text: Dark gray (`#333333`) for high readability.
+    - Price: Primary blue (`#007bff`) to draw attention, matching the CTA.
+    - CTA button ("View Product"): Bright blue (`#007bff`) with white text, a common e-commerce pattern for primary actions.
+    - Close button: Medium gray (`#888888`), subtle but recognizable.
+    - Shadows: Soft shadows (`box-shadow`) are used on the main panel and product cards for depth and a layered feel.
+
+    **Size of Elements:**
+    - Panel padding: 20px.
+    - Header title font size: 20px.
+    - Product card width: Fixed at 200px to ensure uniformity.
+    - Product image: 200x120px (width 100% of card, height 120px).
+    - Product name font size: 15px, with text truncated to two lines.
+    - Price font size: 16px, bold.
+    - Button font size: 14px, with 10px padding vertically.
+
+    **Design Choices Rationale:**
+    The fixed top position ensures the widget is always accessible for quick navigation back to recently viewed items. The horizontal scroll allows displaying multiple items without consuming excessive vertical space. Colors are chosen for clarity, professionalism, and to guide user attention to key elements like price and CTAs, adhering to e-commerce conventions. Sizes ensure readability and a balanced visual hierarchy. Hover effects provide immediate feedback, enhancing user interaction. These choices aim for high visibility, clear affordances, and an efficient, satisfying user experience.
+    *****Response*****
+
+    *****Response*****
+    ## Question 2: What triggers the appearance of this widget?
+
+    The appearance of this "Recently Viewed Items" widget is typically triggered by user activity on the e-commerce website. Specifically:
+
+    1.  **Product Views:** The primary trigger is when a user navigates to and views one or more product detail pages. Once a product is viewed, it's added to a list (often stored in browser local storage, session storage, or a backend user profile).
+    2.  **Sufficient History:** The widget might only appear after the user has viewed a minimum number of items (e.g., at least one or two) to ensure it has relevant content to display.
+    3.  **Session Start/Page Load:** On subsequent page loads within the same session, or even across sessions if the history is persistent, the widget checks for existing recently viewed items. If found, it renders itself.
+    4.  **Specific Pages:** While it can be globally present, its appearance might be prioritized on key pages like the homepage, category pages, product pages (showing *other* recent items), or the shopping cart, where reminding users of their browsing history is most beneficial.
+
+    In essence, the widget materializes when the system detects a relevant browsing history for the current user, making it a dynamic component that reflects their recent interactions with products. For this static HTML/CSS demonstration, it is displayed by default.
+    *****Response*****
+
+    *****Response*****
+    ## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users can interact with the "Recently Viewed Items" widget in several ways:
+
+    1.  **Viewing Information:** Users can visually scan the displayed product cards, quickly seeing product images, names, and prices of items they've recently engaged with. This serves as a reminder or a quick way to re-evaluate items.
+    2.  **Horizontal Scrolling:** If the number of recently viewed items exceeds the visible width of the panel, a horizontal scrollbar appears. Users can scroll left and right (using mouse wheel, trackpad gestures, or dragging the scrollbar) to navigate through their entire list of recently viewed products.
+    3.  **Hover Interactions:**
+        *   **Product Cards:** Hovering over a product card causes it to slightly elevate and its shadow to intensify, providing visual feedback that the card is an interactive element.
+        *   **"View Product" Button:** Hovering over the "View Product" button changes its background color (e.g., from blue to a darker blue), signaling that it's a clickable call-to-action.
+        *   **Close Button:** Hovering over the "×" close button changes its color (e.g., from gray to a darker gray), indicating its interactivity.
+    4.  **Click Interactions (Intended Functionality):**
+        *   **Product Image, Name, or "View Product" Button:** Clicking on a product's image, its name, or its "View Product" button is intended to navigate the user directly to that specific product's detail page on the e-commerce site. (In this static HTML/CSS, these are `href="#"` links).
+        *   **Close Button:** Clicking the "×" button in the widget's header is intended to dismiss or hide the "Recently Viewed Items" panel. (This functionality would typically require JavaScript to implement).
+
+    These interactions are designed to be intuitive, provide clear feedback, and allow users to efficiently re-engage with products they've previously shown interest in or to remove the widget if it's not currently needed.
+    *****Response***** -->
+</body>

@@ -1,0 +1,22 @@
+-->
+<!--
+    Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The component is a horizontal filter bar enclosed in a white container with a subtle shadow, making it float visually above the light gray page background. The layout uses Flexbox to organize filter buttons like "Category" and "Size" neatly in a row. These buttons are a light gray with clear, dark text for high readability. The primary interactive color is a vibrant blue (#0052CC), used for the main "Apply" button, selected states, and active filter tags. This color choice creates a strong Call-To-Action (CTA), guiding users to apply their selections and view products, which directly supports maximizing conversion rates.
+
+    Elements are sized for comfortable interaction, with ample padding. The design is clean and uncluttered, using a modern sans-serif font ('Inter') to reduce cognitive load. This minimalist aesthetic helps users focus on the task of filtering, preventing frustration and minimizing the bounce rate. The layout ensures users can quickly find and apply the filters they need, streamlining the path to purchase and thereby maximizing sales.
+-->
+<!--
+    Question 4.2: What triggers the appearance of this widget?
+
+    The filter panel is not triggered by a specific user action like a click; instead, it appears persistently and immediately upon the user navigating to a product listing page (PLP) or a search results page. The component is designed with `position: sticky`, so it remains fixed at the top of the viewport (with a 20px margin) as the user scrolls down the page of products.
+
+    This "always-on" approach is a deliberate choice to minimize the bounce rate. By presenting powerful filtering tools to the user at the very start of their product discovery journey, we empower them to instantly narrow down a potentially overwhelming number of items. This immediate utility reduces user frustration, encourages engagement with the product catalog, and increases the likelihood that they will stay on the site and find a product they wish to purchase, thus boosting page views and conversion rates.
+-->
+<!--
+    Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+    Users have a rich set of interactions designed for efficiency. First, they can click any filter button (e.g., "Category", "Size") to reveal a dropdown panel with specific options. Within these panels, users can select one or more options using standard checkboxes. For the "Color" filter, they interact with visual color swatches, which is more intuitive than reading color names. A price slider allows them to define a specific price range by dragging a thumb handle.
+
+    As selections are made, a counter on the "Clear All" button updates, providing immediate feedback. The main "Apply" button also updates to show how many products match the current selection, a powerful feature to manage expectations and encourage click-through. After applying, selected filters appear as removable "tags" below the bar for easy, one-click removal of a single filter. Finally, users can click "Clear All" to reset all selections instantly. This comprehensive interactivity ensures users can refine their search precisely, maximizing time on site and improving conversion.
+-->

@@ -1,0 +1,16 @@
+Question 1:
+  This widget features a clean, modern layout with soft white background, rounded corners, and subtle shadowing for elevation. The main area is 340px wide with padding for comfortable spacing, and responsive scaling for smaller devices. Blue gradients (#0077EE to #005cb2) are used for the primary sign-in button and links, echoing common e-commerce color schemes. The form fields have lightly rounded borders and change color on focus for clarity. The component contains a company logo area, clear title ("Sign In to ShopEase"), a gentle subtitle, fields for email and password, a "Remember Me" checkbox, links for "Forgot password" and "Sign Up," ensuring recognizability and user trust.
+
+  Question 2:
+  The widget appears at the top of the viewport, 20px from the top, typically triggered when users click a "Sign In" button or menu link elsewhere on the site, or during authentication-required actions (checkout, order history access). In this code it is always visible, but in real implementation, its visibility would be controlled by modal or route triggers.
+
+  Question 3:
+  Users can:
+  - Enter their email and password
+  - Toggle "Remember Me"
+  - Submit the form to sign in
+  - Click "Forgot password?" for recovery options
+  - Click "Create one" to enter account registration flow
+  All fields provide accessible labeling, focus states, and the form is keyboard navigable for accessibility.
+  -->
+</body>

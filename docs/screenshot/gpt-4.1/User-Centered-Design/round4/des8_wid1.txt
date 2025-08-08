@@ -1,0 +1,6 @@
+Question 1: The cart uses a 400px width layout, clean white background, rounded corners, and soft drop shadow for visibility. The header is dark blue for prominence, with white text. Item rows have a subtle division and light backgrounds. Product images are rounded, with quantity controls and 'Remove' buttons visible and easily clickable. The prominent yellow checkout button stands out for task efficiency. This balance creates visibility, feedback, clear affordances, consistency, and a satisfying experience.
+
+Question 2: The widget appears after the user clicks the shopping cart icon (often in the site header), or when an item is added to the cart as a confirmation.
+
+Question 3: Users can: view cart items, adjust quantities using plus/minus buttons (with limits), remove items with a clear "×" button (with feedback), view accurate total, and proceed to checkout. Closing the cart instantly hides it for efficiency. Disabled state on buttons provides constraint feedback. All controls are directly accessible for efficient shopping cart management.
+-->

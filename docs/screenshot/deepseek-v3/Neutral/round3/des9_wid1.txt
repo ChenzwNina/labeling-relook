@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, card-like design with white background and subtle shadow. It uses blue (#0066cc) as the primary accent color for selected items and buttons. Text is dark gray (#333) for headings and lighter gray (#666) for descriptions. Elements have generous padding (12-20px) for touch-friendliness. The layout is vertical with clear section headings. These choices prioritize readability, visual hierarchy, and mobile responsiveness while maintaining a professional e-commerce aesthetic.
+
+    Question 2: This widget appears during the checkout process after the user enters their shipping address but before payment. It triggers when the system needs shipping method selection and offers optional add-ons that are location- and product-dependent.
+
+    Question 3: Users can: 1) Select one shipping method (radio buttons), 2) Toggle optional add-ons (checkboxes), 3) See price updates when changing selections, 4) Hover over options for visual feedback, and 5) Click "Continue" to proceed. The widget provides immediate visual confirmation of selections through color changes and border highlights.
+    -->
+</body>

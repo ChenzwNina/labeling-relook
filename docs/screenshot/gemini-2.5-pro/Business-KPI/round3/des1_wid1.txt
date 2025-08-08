@@ -1,0 +1,23 @@
+-->
+    <!-- 
+        Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The widget is a sleek, horizontal banner positioned near the top of the screen. It features a dark, premium-looking gradient background (from deep blue to black), which makes the white text stand out for maximum readability. The layout, managed by flexbox, is organized to guide the user's eye. On the left, the main offer, "FLASH SALE: 40% OFF EVERYTHING," is in a large, bold, uppercase font to immediately grab attention. A smaller, secondary offer about free shipping is placed next to it. In the center, a countdown timer creates urgency. On the right, a vibrant green "Shop The Sale" Call-To-Action (CTA) button provides a stark contrast to the dark background, making it the most prominent, clickable element. This color choice is deliberate; green often signifies "go" and positivity, encouraging clicks. A subtle 'X' allows users to close the banner. This design hierarchy and color psychology are chosen to maximize visibility, create urgency, and drive conversions effectively.
+    -->
+    <!-- 
+        Question 4.2: What triggers the appearance of this widget?
+
+        The banner is a "Hello Bar" or "Top Bar" style component, designed for immediate impact. Its appearance is triggered by the page load event. As soon as a user lands on a key page of the website, such as the homepage or a major category page, the banner appears at the top of the viewport. It's not a modal that interrupts the user's browsing by overlaying the entire screen; instead, it's a persistent but unobtrusive element that stays fixed as the user scrolls. This ensures the compelling offer is always visible without being overly aggressive. For returning users, a cookie could be used to prevent the banner from showing again if they have already dismissed it during their session, respecting their preference and avoiding banner fatigue.
+    -->
+    <!-- 
+        Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+        Users have three main interactions with the widget, designed to be intuitive and goal-oriented. 
+        
+        1.  **Primary Action (Conversion):** The main goal is for the user to click on the offer. The entire banner area, and specifically the bright green "Shop The Sale" button, is clickable. A hover effect on the button (brightening and lifting) provides visual feedback. Clicking anywhere on the banner navigates the user directly to the primary sales page, immediately moving them down the conversion funnel.
+
+        2.  **Dismissal (User Control):** For users who are not interested, a subtle '×' close button is provided. Clicking this button would (with JavaScript) hide the banner for the remainder of their session. This gives users control over their experience, which minimizes frustration and reduces the chance they'll leave the site.
+
+        3.  **Visual Feedback (Engagement):** On hover, the CTA button changes color and appears to lift slightly, confirming its interactivity. The mouse cursor also changes to a pointer when over any part of the banner, indicating that the entire element is a clickable link.
+    -->
+</body>

@@ -1,0 +1,5 @@
+Question 1: The widget features a gradient banner (reddish to dark blue) with white text for contrast. Deal items are in semi-transparent white cards with prominent pricing (24px) and discount badges. The layout is responsive with flexbox, ensuring good spacing. These choices create visual hierarchy, draw attention to deals, and maintain readability while fitting the modern ecommerce aesthetic.
+
+    Question 2: The banner appears automatically when the page loads, as it's placed in the main HTML body. In a real implementation, it might be triggered by cookies (first visit), time-sensitive deals, or user segments. The close button allows dismissal.
+
+    Question 3: Users can: 1) View deal information (hover animations highlight items), 2) Click on deals (would link to products), and 3) Close the banner (removes it from view). Each deal item would typically be clickable, leading to the relevant product page.

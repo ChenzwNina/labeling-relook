@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern layout showing a row of four product cards on a white background. Each card uses subtle drop shadows, soft rounded corners, and light blue accents for high-end, trustworthy feel. Product names are prominent, with bold prices and clear "Add to Cart" buttons in vivid blue. Disabled buttons show muted gray, enforcing constraints. The toast notification appears as a blue pill at the top for feedback. The container sits at the top with 20px margin for visual separation. Consistency is maintained via aligned cards and uniform feedback.
+
+  Question 2: The widget appears automatically at the top of the e-commerce homepage or a landing area where featured products are promoted. There is no trigger required; it's part of top-level navigation and initial browsing experience.
+
+  Question 3: Users can view product details (image, name, rating, price), click "Add to Cart" (unless disabled: Out of Stock), and receive immediate feedback via toast. Products are keyboard-navigable (via tabindex), and "View all" navigates to a full featured collection. "Add to Cart" is disabled when product isn't available, providing clear guidance and enforcing constraints. The design gives prompt, visible feedback and supports efficient workflow for browsing and cart actions.
+  -->
+</body>

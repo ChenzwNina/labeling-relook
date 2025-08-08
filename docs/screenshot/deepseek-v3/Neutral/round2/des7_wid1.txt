@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a light gray background (#f9f9f9) and orange accent color (#ffa41c) for ratings. It displays the average rating (4.5) prominently in large bold text, followed by star ratings and percentage bars showing rating distribution. The design choices prioritize readability and visual hierarchy - orange draws attention to key metrics, while the bar graph provides quick visual understanding of rating distribution. The compact size (max-width: 400px) ensures it fits well on product pages without dominating the space.
+
+    Question 2: This widget would typically appear on product detail pages, automatically loading with the page to show aggregated customer ratings for that specific product. It might also appear in a modal when users click a "See Reviews" button or as part of a product card in search results.
+
+    Question 3: Users can: 1) View the average rating and rating distribution at a glance, 2) Hover over stars to see tooltips with exact percentages, 3) Click the "Write a review" button to open a review submission form, and 4) In an expanded version, they might be able to click through to read individual reviews or filter reviews by star rating.
+    -->
+</body>

@@ -1,0 +1,7 @@
+Question 1: The widget features a clean white container with subtle shadows for depth. It uses Amazon-inspired orange (#FFA41C) for ratings to leverage color psychology for trust and positivity. The layout is organized hierarchically with the average rating prominently displayed, followed by star distribution bars. Font sizes vary to emphasize important information (24px for average rating, 18px for title). The design choices aim for clarity, visual appeal, and quick comprehension of rating information.
+
+    Question 2: This widget would typically appear on a product detail page, automatically loading with the page to display aggregated customer reviews. It might also appear in a modal when users click a "See Reviews" button or as a hover card when interacting with product rating indicators in search results.
+
+    Question 3: Users can: 1) View the average rating and distribution breakdown, 2) Hover over percentage bars for more details (though not implemented in this static version), 3) Click "Write a review" to open a review submission form, and 4) Potentially sort/filter reviews if expanded (not shown in this basic version). The interactions focus on transparency and encouraging user engagement.
+    -->
+</body>

@@ -1,0 +1,27 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The sign-in widget appears as a clean, modern card floating in the center of the screen. It has a white background, soft rounded corners, and a subtle shadow, making it stand out against the light grey page background. The layout is a single, centered column, guiding the user’s eye downwards.
+
+Key elements and choices:
+-   **Colors:** The primary action color is a strong purple-blue (`#4f46e5`), used for the main "Sign In" button and links to draw attention to key actions. Neutral greys are used for text and borders for readability and a professional look.
+-   **Typography:** The "Inter" font is used for its excellent clarity on screens. Headings are large and bold (24px) for hierarchy, while body text and labels are smaller (14px).
+-   **Sizing & Spacing:** Generous padding (32px) inside the card and spacing between form elements create a breathable, uncluttered interface. Buttons and input fields are large with ample padding, making them easy to tap on both desktop and mobile devices.
+
+These choices are intended to create a trustworthy, user-friendly, and frictionless experience, which is crucial for an e-commerce site to avoid user drop-off during the sign-in process.
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is typically triggered by a direct user action. The most common trigger is the user clicking on a "Sign In" or "Log In" button located in the website's main header or navigation bar.
+
+Alternatively, its appearance can be triggered contextually. For instance, if a user who is not logged in attempts to access a protected area of the site (like "My Account," "Order History") or proceeds to the checkout page, this modal widget would appear, prompting them to sign in to continue. This modal approach is effective because it keeps the user on their current page, providing a seamless transition without navigating them away from their task.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+A user has several clear paths of interaction with this widget:
+
+1.  **Standard Sign-In:** The user can type their email and password into the respective input fields and click the primary "Sign In" button to submit their credentials.
+2.  **Social Sign-In:** For convenience, the user can bypass the standard form and choose to authenticate using a third-party service by clicking "Continue with Google" or "Continue with Apple".
+3.  **Password Recovery:** If the user has forgotten their password, they can click the "Forgot Password?" link, which would initiate a password reset flow (e.g., sending a reset link to their email).
+4.  **Account Creation:** New users can navigate to the registration page by clicking the "Sign Up" link at the bottom.
+5.  **Dismissal:** The user can close the widget without taking any action by clicking the '×' icon in the top-right corner, allowing them to return to browsing the site as a guest.
+-->

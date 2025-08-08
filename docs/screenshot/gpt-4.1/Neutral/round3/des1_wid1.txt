@@ -1,0 +1,6 @@
+Question 1: The widget is a horizontal, rounded banner positioned at the top of the site with a 20px margin from the viewport. The background is a vibrant gradient of orange (#ff8800) to pink (#ff3c6f), echoing urgency and excitement typical for deal promotions. A circular icon appears on the left, followed by bold headline text and deal details, and a prominent white call-to-action button on the right. Elements have ample padding, and text is clear, modern, and inviting. This layout attracts attention without overwhelming, balancing info and action.
+
+Question 2: The deals banner widget appears as soon as the user lands on or refreshes the homepage. It is intended to be part of the always-visible UI for the duration of active promotions.
+
+Question 3: Users can view the current deals summary, read more details about the offer, and click the "Shop All Deals" button, which would (in production) take them to the full deals listing. On hover/focus, the CTA button visually responds. The banner is fully responsive and adapts to smaller screens by stacking content vertically.
+-->

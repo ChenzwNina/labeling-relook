@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background, subtle shadow for depth, and a coral (#ff6f61) accent color for the button and links to evoke energy and trust, common in e-commerce branding. The layout is centered, with a max-width of 500px for readability, and inputs are full-width with padding for accessibility. Text sizes (24px for heading, 16px for body) ensure hierarchy and clarity. These choices mimic real-world e-commerce aesthetics, prioritizing user-friendliness and visual appeal. -->
+
+    <!-- Question 2: This widget appears when a user clicks on a "Sign Up" or "Create Account" link, typically found in the header or during checkout when a user opts not to proceed as a guest. It may also display as a modal or dedicated page upon landing on the site if the user is not logged in. -->
+
+    <!-- Question 3: Users can interact by entering their full name, email, and password in the respective fields, clicking the "Create Account" button to submit the form, or clicking the "Log in here" link if they already have an account. Hover effects on the button and link provide visual feedback, enhancing usability. -->
+</body>

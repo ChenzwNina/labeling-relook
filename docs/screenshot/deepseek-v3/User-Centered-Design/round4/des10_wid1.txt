@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with white background and blue accents. It's 350px wide with rounded corners and subtle shadow for depth. Input fields are full-width with clear labels. The blue button provides strong contrast for the CTA. These choices create visual hierarchy, ensure readability, and make the form feel approachable while maintaining professionalism.
+
+    Question 2: This widget would typically appear when a user clicks a "Join Membership" or "Sign Up" link in the website header, or after adding items to cart as an upsell opportunity. It could also appear as a popup after browsing several pages without signing in.
+
+    Question 3: Users can: 1) Fill in form fields (name, email, password), 2) Submit the form, triggering validation, 3) View the membership benefits list, 4) Click the submit button which shows confirmation. Error messages would appear for invalid inputs. The design allows for easy tab navigation between fields.
+    -->

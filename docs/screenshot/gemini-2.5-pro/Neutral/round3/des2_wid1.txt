@@ -1,0 +1,26 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, modern navigation bar that is horizontally centered near the top of the viewport. It features a white background with a subtle shadow, making it "float" above the page content. The layout is a single row of primary categories, created using flexbox for easy alignment.
+
+- **Colors**: The primary text is a highly readable dark gray (#333) on a white background. On hover, the link color changes to a vibrant blue (#007bff), a standard convention for interactivity. A special "Today's Deals" category is colored red (#dc3545) to create urgency and draw the user's eye.
+- **Sizes**: The main category text is 16px with a semi-bold weight for clarity. Ample padding (18px top/bottom, 25px left/right) creates large, easy-to-click targets. Dropdown menus use slightly smaller text (15px) to establish a clear visual hierarchy.
+
+These design choices prioritize usability and a familiar user experience. The clean aesthetic minimizes distractions, while the layout and color scheme are intuitive for shoppers, reducing cognitive load and facilitating effortless navigation through the site's offerings.
+
+### Question 2: What triggers the appearance of this widget?
+
+The widget does not appear based on a specific user action like a click or scroll. It is designed as a persistent element of the website's user interface. By using `position: fixed` in CSS, the navigation bar is locked into place at the top of the viewport.
+
+This means it is immediately visible when the page loads and remains in the same position as the user scrolls up or down the page. The trigger is simply the loading of the web page itself. This design choice ensures that users have constant and immediate access to the primary navigation, allowing them to easily switch between product categories from any point on the page without needing to return to the top. This is a standard and crucial feature for large e-commerce sites to improve user orientation and browsing efficiency.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three primary interactions with this navigation widget:
+
+1.  **Hovering**: When a user moves their mouse cursor over a main category that has sub-categories (e.g., "Electronics"), a dropdown menu smoothly appears directly below it. This allows users to quickly scan the available sub-categories without committing to a click, facilitating exploration. When the cursor moves away, the dropdown menu smoothly disappears, keeping the interface uncluttered.
+
+2.  **Clicking**: A user can click on any link in the navigation bar. Clicking a main category link (e.g., "Fashion") or a sub-category link (e.g., "Men's Clothing") will navigate them to that specific category's product listing page. Links without dropdowns (e.g., "Books & Audible") navigate directly on click.
+
+3.  **Visual Feedback**: The widget provides immediate visual cues. Links change color on hover to indicate they are interactive. The "Today's Deals" link uses a distinct color and becomes more prominent on hover to signal a special section, guiding user behavior towards promotional content.
+-->
+</body>

@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design with a white background and subtle shadow. It uses orange (#FFA41C) for interactive elements and ratings, which stands out while remaining warm and inviting. The layout is organized hierarchically with the average rating prominently displayed, followed by star distribution bars. I chose these colors and sizes (18-24px for important text) to ensure readability while maintaining visual appeal. The bar graphs provide quick visual understanding of rating distribution.
+
+    Question 2: This widget would typically appear on a product page, automatically loading with the page to show customer reviews. It might also appear after purchase as part of a review solicitation. The "Write a Review" button would trigger a review form when clicked.
+
+    Question 3: Users can: 1) View the average rating and star distribution at a glance, 2) Hover over elements for more detail (if implemented with JS), 3) Click "Write a Review" to submit their own rating, and 4) Potentially click individual star ratings to filter reviews (with additional implementation). The design encourages engagement while providing comprehensive rating information.
+    -->
+</body>

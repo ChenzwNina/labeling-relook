@@ -1,0 +1,7 @@
+Question 1: This widget has a white background with soft-gray shadows, rounded corners, and generous padding to give a modern, clean look aligned with leading e-commerce sites. The top contains an item image and compact order info (number and date). Below is a colored stepped progress bar for order tracking, with clear step states: completed (green circle/check), current (blue), and pending (gray). Order details (status, ETA, carrier, tracking ID) appear below, plus a prominent blue "Live Track Package" CTA. This color/cue scheme increases clarity and accessibility, while not overwhelming users' attention.
+
+  Question 2: The widget appears when a user views their recent orders, track order status from account/order detail pages, or after clicking a "Track Order" link from an order confirmation email.
+
+  Question 3: Users can read all tracking events, visually gauge progress, and access key details. They can click the "Live Track Package" button to view real-time package updates (would lead elsewhere). They can't edit details directly from here but can copy information such as tracking ID. The status/steps update dynamically as the backend/order status changes.
+  -->
+</body>

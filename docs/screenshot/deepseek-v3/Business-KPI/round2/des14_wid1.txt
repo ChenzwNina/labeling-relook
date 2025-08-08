@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, card-based design with white background and subtle shadow for depth. It uses a blue progress bar (#17a2b8) and timeline markers with green (#28a745) for completed steps and gray for pending ones. The typography is clear with proper hierarchy - order number is largest (18px), status is medium (14px), and dates are smallest (12px). These choices create visual clarity, with colors indicating status (green=complete, blue=current, gray=pending) and sizes establishing information hierarchy.
+
+    Question 2: This widget would typically appear after a customer places an order, either automatically on the order confirmation page or when clicking a "Track Order" button from their account dashboard or order confirmation email. It might also appear when customers search for their order status using an order lookup feature.
+
+    Question 3: Users can: 1) View their order status and progress through the timeline visualization, 2) Click "View Order Details" to see full order information, 3) Click "Need Help?" to access customer support, 4) Potentially copy their order number (if made selectable), and 5) On mobile, might swipe horizontally if the timeline extends beyond view (though not implemented in this basic version).
+    -->
+</body>

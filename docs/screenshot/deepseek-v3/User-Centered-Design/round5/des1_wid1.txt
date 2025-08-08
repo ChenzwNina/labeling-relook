@@ -1,0 +1,7 @@
+Question 1: The widget features a gradient banner (red to dark blue) with white text for high contrast. Deal items are in semi-transparent cards with hover effects. I chose vibrant colors to attract attention while maintaining readability. The layout uses flexbox for responsive arrangement, with adequate spacing between elements. Buttons have rounded corners for a modern look and include hover animations to encourage interaction.
+
+    Question 2: The banner appears automatically when the page loads, as it's placed in the document body. In a real implementation, it might be triggered by page visit timing, user behavior, or special promotions. The close button allows dismissal, which could be remembered via localStorage.
+
+    Question 3: Users can: 1) Click deal buttons to navigate to relevant pages, 2) Hover over deal items to see subtle elevation effects, 3) Close the banner entirely using the × button. Each interaction provides visual feedback (color changes, animations) to confirm the action. The design balances discoverability with optional engagement.
+    -->
+</body>

@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, white background with subtle shadows for a professional look, positioned 20px from the top. It uses a centered layout with a bold header in dark gray (#333) for visibility. Rating cards (280px wide) have a hover effect for interactivity, gold stars (#f1c40f) for ratings, and a red CTA button (#e74c3c) to drive action. These choices build trust with authentic reviews, encourage engagement through hover effects, and maximize conversions with a prominent CTA, aligning with e-commerce goals. -->
+
+    <!-- Question 2: The widget appears statically at the top of key pages like the homepage or product pages to immediately showcase customer feedback. It can also trigger dynamically via a scroll event (e.g., after 20% scroll) or on exit-intent to re-engage users, reducing bounce rates and cart abandonment by reinforcing trust at critical moments. -->
+
+    <!-- Question 3: Users can read detailed reviews and see star ratings for social proof. Hovering over cards provides visual feedback, encouraging exploration. Clicking the CTA button directs them to shop, increasing conversion potential. While static in this version, future interactivity could include filtering reviews or submitting feedback, enhancing time on site and engagement. -->
+</body>

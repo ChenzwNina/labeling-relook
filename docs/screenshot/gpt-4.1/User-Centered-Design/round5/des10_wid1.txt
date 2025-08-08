@@ -1,0 +1,9 @@
+4.1 Question 1:
+  The widget is a white panel 400px wide with a rounded 12px border and subtle shadow, centered at the top with a 20px margin from the viewport top. It features a circular gradient icon header, a bold title, key membership benefits, and a clean form with clearly labeled fields. Primary actions use a blue-green gradient. Input fields provide feedback for focus and errors. The component feels modern, clean, and professional, like a real e-commerce site. Choices were made for clarity, consistency, and strong affordances.
+
+  4.2 Question 2:
+  This widget appears at the top of the homepage or membership landing page, or when users click “Join Membership” elsewhere on the site. It can also be triggered after a user attempts an action reserved for members, nudging them to sign up.
+
+  4.3 Question 3:
+  Users can enter their name, email, and password. The "Sign Up" button only activates when the form is complete and valid. On submit, users receive an in-form confirmation/feedback message. Inputs highlight errors if required fields are invalid. There’s a footer link to sign in for existing members. All interactions offer instant visual feedback for a satisfying, supportive experience.
+  -->

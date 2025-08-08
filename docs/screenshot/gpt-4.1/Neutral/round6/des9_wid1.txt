@@ -1,0 +1,9 @@
+Question 1: 
+The widget is a clean, card-style component with a white background, rounded corners, and subtle box-shadow. It sits at the top of the viewport with a 20px margin. The element is about 540px wide (responsive on small screens), with clearly separated sections for shipping options (radio buttons) and optional add-ons (checkboxes). Shipping choices are displayed as visually distinct cards, highlighting the selected one in blue. Add-ons feature checkboxes and light orange highlight on selection. The prominent “Continue” button is in blue gradient, standing out for user progression. These choices reflect modern e-commerce design emphasizing clarity and ease of interaction.
+
+Question 2: 
+This widget appears on the shipping or delivery selection step of the checkout process, typically after shopping cart review but before payment. It’s displayed as part of the main page flow to prompt customers to select their preferred delivery option and any additional services before finalizing the order.
+
+Question 3: 
+Users can select one shipping option (radio buttons) and toggle any combination of add-ons (checkboxes) by clicking anywhere on the respective card rows. Visual highlights indicate selections in real-time. The “Continue” button processes (or proceeds with) the chosen settings. Interaction is designed for both mouse/tap events and keyboard navigation for accessibility.
+-->

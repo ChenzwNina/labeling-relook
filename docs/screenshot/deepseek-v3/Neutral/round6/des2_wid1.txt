@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a light gray background (#f8f9fa) and white category cards. Category items use a blue color scheme (#3498db) on hover/active states for visual feedback. The layout uses flexbox for responsive wrapping of categories. I chose these colors for good contrast and accessibility, with subtle shadows and animations to enhance interactivity without being distracting. The font sizes (1.2rem title, 0.9rem items) ensure readability while maintaining a compact form.
+
+    Question 2: This navigation widget would typically appear as a persistent component on ecommerce category pages, or could appear as part of a mega-menu when users hover over the "Shop" navigation item. It might also appear in mobile views as an expandable accordion menu.
+
+    Question 3: Users can: 1) Click any category to filter products (active state shows selection), 2) Hover over items for visual feedback (color change and slight lift), 3) On mobile, potentially expand/collapse the menu. The design provides clear affordances that each item is clickable through hover effects and visual styling.
+    -->
+</body>

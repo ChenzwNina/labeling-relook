@@ -1,0 +1,7 @@
+Question 1: The widget features a horizontal navigation bar with a light gray background (#f8f9fa) and subtle shadow. Category links are dark gray (#333) with 600 font weight, turning blue (#007bff) on hover. Dropdown menus appear below categories with white background and shadow. I chose these colors for good contrast and readability, with blue hover states for clear interactivity. The layout is clean and spacious with 20px gaps between categories.
+
+    Question 2: The widget appears immediately as part of the page header/navigation. The dropdown menus appear on hover over each category, with a smooth fade-in transition. This trigger method is intuitive for desktop users while remaining accessible.
+
+    Question 3: Users can: 1) Hover over categories to reveal dropdown menus, 2) Click category links to navigate to category pages, 3) Click subcategory links in dropdowns to navigate to specific sections, 4) Experience visual feedback (color change, background highlight) during interactions. The dropdowns automatically hide when the cursor moves away.
+    -->
+</body>

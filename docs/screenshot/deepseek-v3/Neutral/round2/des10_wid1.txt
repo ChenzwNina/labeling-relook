@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background (#ffffff) and subtle shadows for depth. Input fields are full-width with rounded corners (5px radius) and light gray borders (#ddd). The submit button uses a blue gradient (#3498db to #2980b9) for visual prominence. Text colors are dark gray (#2c3e50) for headings and lighter gray (#7f8c8d) for secondary text. The layout is vertically stacked with clear visual hierarchy. These choices enhance usability - the contrast ensures readability, rounded corners soften the appearance, and the color scheme creates a professional, trustworthy feel.
+
+    Question 2: This widget would typically appear in one of three scenarios: (1) As a modal popup when a user visits the site for the first time (after a short delay), (2) As a persistent element in the website header or sidebar, or (3) As part of the checkout flow when a guest user is making a purchase. The trigger could also be clicking a "Join Membership" link in the navigation.
+
+    Question 3: Users can: (1) Fill in form fields (name, email, password) with validation, (2) Submit the form (triggering validation and potential error messages), (3) View the membership benefits list, and (4) Close the widget if it appears as a modal (though this functionality isn't shown in the current implementation). The password field enforces minimum length requirements, and all fields show visual feedback on focus.
+    -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget is 410px wide, white background with soft blue and green accents for high clarity and focus. Selected shipping options are highlighted with blue while add-on selections use green, showing clear feedback. Titles and costs are bold for visibility. Layout is vertical with clear grouping (shipping, add-ons), and spacing is generous. Interactive elements are large and consistent, using radio buttons for exclusive shipping choice and checkboxes for multiple add-ons.
+
+Question 2: The widget appears at the top of the viewport, likely during checkout or cart review when users need to select how they want their items shipped and whether to add extra services. Its position and margin ensure it grabs attention without obstruction.
+
+Question 3: Users can select ONE shipping method via radio buttons, and toggle any number of add-ons using checkboxes. The selected option is visually highlighted. Pressing "Continue" saves the selections and displays a brief confirmation within the widget. Constraints prevent proceeding with no shipping method (one is always selected by default), and affordances (button, labels) make usage clear, ensuring a smooth, task-efficient experience.
+  -->

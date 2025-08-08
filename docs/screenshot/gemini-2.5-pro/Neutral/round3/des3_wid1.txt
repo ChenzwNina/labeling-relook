@@ -1,0 +1,32 @@
+-->
+<!--
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a clean, modern search panel that floats 20px from the top of the viewport, centered horizontally. It has a soft shadow and rounded corners, giving it a friendly, card-like appearance.
+
+The layout is structured and intuitive. A prominent search bar is at the top, comprised of a category dropdown, a large text input field, and a primary action button. Below this, the space is divided into two columns: "Recent Searches" and "Popular Right Now," each with its own icon and list of clickable suggestions.
+
+The color scheme is predominantly neutral—a white background, dark grey text, and a lighter grey for the dropdown—which ensures it fits into any site design. A bold, primary blue is used exclusively for the search button, creating a clear visual cue for the main action.
+
+These choices are made to create a user-friendly, focused, and efficient search experience. The clean design minimizes distractions, while the layout and color hierarchy guide the user's eye towards the most important interactions, like typing a query or clicking the search button.
+
+## Question 2: What triggers the appearance of this widget?
+
+This search panel is not permanently visible. Its appearance is triggered by a user action within the main website header or navigation bar, which is a common design pattern for decluttering the primary interface.
+
+Typically, the user would click on a minimalist search icon (a magnifying glass) or a simple, un-expanded search input field located in the site's header. This action would then dynamically display this full-featured search panel, often accompanied by an overlay that dims the rest of the page content. This transition focuses the user's complete attention on the task of searching, providing them with a larger, more powerful toolset that includes categories and suggestions.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several ways to interact with the search panel, catering to different search intentions:
+
+1.  **Direct Search:** The primary interaction is typing a query into the main input field and submitting it by either pressing the "Enter" key or clicking the blue search button.
+
+2.  **Categorized Search:** Users can first click the "All Categories" dropdown to select a specific department (e.g., "Electronics"). This refines their search, ensuring the results are only from that category when they submit their query.
+
+3.  **Suggestion Clicks:** For discovery or convenience, users can click on any of the text links under "Recent Searches" or "Popular Right Now." This action would typically populate the search bar with that term and automatically initiate the search.
+
+4.  **Dismissal:** Users can close the panel to return to browsing the site. This is done by clicking the 'X' icon in the top-right corner. On a live website, clicking outside the panel on the dimmed page overlay would also serve the same function.
+-->
+
+</body>

@@ -1,0 +1,8 @@
+4.1: The widget uses a modern, clean design with a white background and subtle blue for accent colors (#2866ff for primary actions and #ffca37/#e05055 for promotional badges). Product cards are spaced in a row, each 240px wide (responsive), with images, clear product titles, prices (now/old/discount), brand, ratings (stars), and a prominent "Add to Cart" button. Badges highlight best sellers and recommended picks for persuasion. The layout is visually clear, scannable, and optimized for conversion and engagement.
+
+  4.2: The component is always displayed at the top of the viewport (20px from the top) upon page load as a main product showcase element for the e-commerce website, maximizing exposure to top products immediately.
+
+  4.3: Users can scroll through the product list (responsive), click on product cards for details, "Add to Cart" to add items directly, click badges indicating best sellers/recommended, click the "See more" link to browse more items, and interact with price/discount/rating elements. Hover effects encourage exploration, and each action is designed to boost engagement and sales.
+
+  -->
+</body>

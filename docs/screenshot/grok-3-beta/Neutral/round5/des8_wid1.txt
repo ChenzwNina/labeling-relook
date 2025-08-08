@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The shopping cart widget is a fixed-position dropdown at the top-right corner with a white background, subtle shadow, and rounded corners for a clean, modern look. It has a width of 350px and a max height of 400px with a scrollable overflow for multiple items. Items are displayed in a flex layout with a 60x60px image, product details, and a red "Remove" button for clarity. The green "Checkout" button spans the full width for prominence. These choices mimic typical e-commerce designs, prioritizing accessibility and user familiarity. -->
+
+    <!-- Question 2: The widget appears when the user clicks the shopping cart icon (🛒) located at the top-right corner. This toggle behavior ensures the cart is accessible without cluttering the main interface, only showing when the user intends to review or edit their items. -->
+
+    <!-- Question 3: Users can interact with the widget by clicking the cart icon to open/close it, clicking "Remove" to delete items, and clicking "Proceed to Checkout" to finalize their purchase. They can also scroll through the cart if there are many items. These interactions cover typical e-commerce cart functionalities like viewing, editing, and purchasing. -->
+</body>

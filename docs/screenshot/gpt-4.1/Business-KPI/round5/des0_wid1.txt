@@ -1,0 +1,7 @@
+4.1: The widget appears as a horizontally spanning, white, card-like section at the top of the site, with a 20px margin from the viewport top. Each product card features a colored badge ("Best Seller", etc.), a soft-shadowed rounded design, large product images (130x130px), bold pricing, and action buttons. The component uses a clean blue and orange color palette for CTA contrast and trust (blue tones), with warm accent gradients for urgency or status. The prominent "Shop All Featured" link and quick action controls drive engagement.
+
+    4.2: The widget is always visible at the very top of key landing and product category pages, ensuring maximum exposure to new and returning users. Optionally, it could be dynamically shown based on user engagement (e.g., after some scroll on homepage) but is generally meant for immediate display to drive conversions fast.
+
+    4.3: Users can click the "Add to Cart" button (adds the item directly), "Quick View" to preview details in a modal or new page, or the product image/title for full product detail navigation. The "Shop All Featured" link lets users see more featured products. Hover effects offer feedback, and badges highlight urgency or popularity for each product to stimulate impulse purchases.
+    -->
+</body>

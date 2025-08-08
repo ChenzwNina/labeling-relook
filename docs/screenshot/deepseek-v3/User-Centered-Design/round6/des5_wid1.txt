@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, minimalist design with a light gray background (#f8f9fa) and subtle shadow for depth. It's 280px wide with ample padding (20px) for readability. Section titles use darker text (#333, #444) for hierarchy, while options use softer gray (#555) for less visual weight. Checkboxes are standard size with proper spacing. The "Apply" button uses blue (#0066cc) for visibility. These choices create a professional, accessible interface that doesn't overwhelm users while clearly presenting filtering options.
+
+    Question 2: This widget would typically appear either permanently in a sidebar layout for desktop views, or as a collapsible panel triggered by a "Filter" button on mobile views. It could also appear when users click a filter icon in the product listing header, especially on tablet/mobile interfaces where screen space is limited.
+
+    Question 3: Users can: 1) Select/deselect category checkboxes, 2) Set price ranges via number inputs, 3) Filter by minimum rating, 4) Reset all filters with the "Reset All" button, and 5) Apply their selections with the "Apply Filters" button. The design allows for multiple simultaneous filters across different categories, with visual feedback through checkbox states and input fields.
+    -->
+</body>

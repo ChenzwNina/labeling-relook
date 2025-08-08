@@ -1,0 +1,7 @@
+Question 1: The widget has a clean white card with rounded corners and a subtle shadow for depth, centered at the top with a 20px margin. The layout features a logo, a clear title ("Create Your ShopEase Account"), a concise benefit-driven description, and a well-organized form with labeled fields: Full Name, Email, and Password (including a show/hide toggle). The primary "Sign Up" button is bold blue, standing out for action visibility, and clear inline validation errors appear in red. All elements are sized for readability and mobile responsiveness. This visual hierarchy, color accenting, and spacing ensure clarity and ease of use.
+
+  Question 2: This widget appears when the user wants to create a new ShopEase account, typically triggered by clicking a "Sign Up" or "Create Account" button/link on the homepage or login page of the ecommerce site.
+
+  Question 3: Users can type their full name, email, and password (with real-time validation and error feedback). The password field allows toggling visibility (Show/Hide). The "Sign Up" button activates only when inputs are valid, preventing incomplete/erroneous submissions. On submission, users receive visual feedback ("Creating your account..."). There’s also a "Log in" link for existing users, and all actions provide immediate, understandable feedback for seamless interaction.
+  -->
+</body>

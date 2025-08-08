@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, minimalist design with a white background and blue accents. It's 350px wide with ample padding, rounded corners, and subtle shadows for depth. Input fields are full-width with clear labels, and the submit button uses a vibrant blue that darkens on hover. These choices prioritize usability - the contrast ensures readability, the spacing prevents crowding, and the color scheme creates a trustworthy ecommerce feel.
+
+    Question 2: This widget would typically appear when a user clicks "Sign Up" or "Create Account" in the website's header/navigation, or when attempting to checkout as a guest with an option to create an account. It might also appear as a popup/modal or on a dedicated registration page.
+
+    Question 3: Users can: 1) Fill in form fields (name, email, password) with validation, 2) Submit the form (triggering account creation), 3) Click the login link to switch to sign-in, and 4) Potentially close the widget if it's a modal. The form validates required fields and password length before submission.
+    -->

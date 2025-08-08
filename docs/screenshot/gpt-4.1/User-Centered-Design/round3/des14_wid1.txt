@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a card-like component centered at the top of the page, set 20px from the viewport top, max 600px wide, with a white background, subtle shadow, and 10px rounded corners. The header displays the order ID and placed date on the left, and a product image, name, and quantity on the right. Progress is visualized as a horizontal 4-step tracker, with colored circles and connecting lines marking each stage (confirmed, shipped, out for delivery, delivered), and green indicates current/completed steps. Key status info and expected delivery are visible. There's a green action button (“View Full Details”) at the bottom. Colors use white, green (#1db954), and blue/gray shades for clarity and accessibility.
+
+  Question 2:
+  The widget is triggered when a user clicks “Track Order” from their order history or confirmation email, or visits a direct order tracking link. The component is designed to appear immediately at the top of the relevant page, ensuring users see their current tracking info without scrolling.
+
+  Question 3:
+  Users can visually identify their order, see current tracking status, progress through the shipping flow, and review last update times. The “View Full Details” button is clearly visible and affordant; clicking it takes users to an expanded order page. All visual elements give clear, accessible feedback, such as color changes for step status. The design constrains modification actions (view-only, no “cancel” or “edit” possible).
+  -->
+</body>

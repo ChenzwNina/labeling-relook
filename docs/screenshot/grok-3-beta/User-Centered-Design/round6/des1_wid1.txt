@@ -1,0 +1,6 @@
+Question 1: The deals banner spans the full width of the viewport with a vibrant gradient background (coral to peach) to grab attention. White text ensures high contrast and readability. The layout centers content with a bold deal message (1.2em), a countdown timer for urgency (1.1em), and a prominent white CTA button with hover effects for interactivity. A subtle shadow adds depth. These choices prioritize visibility, urgency, and a modern, engaging aesthetic aligned with e-commerce trends.
+
+Question 2: The banner appears automatically at the top of the page upon loading, positioned 20px from the top. It is triggered by active promotions or flash sales set by the website's backend, ensuring users are immediately aware of time-sensitive offers without manual interaction.
+
+Question 3: Users can interact with the banner in two ways: clicking the "Shop Now" button to navigate to the deals page, providing clear feedback via a hover effect, and clicking the close button to dismiss the banner, which disappears instantly. These interactions are constrained to prevent misuse (e.g., no irrelevant clicks), ensuring efficient and satisfying task execution.
+***** -->

@@ -1,0 +1,7 @@
+Question 1: The widget features a gradient banner with white text for contrast. Deal items are displayed as cards with semi-transparent backgrounds that highlight on hover. I chose a vibrant gradient to attract attention while maintaining readability. The layout is responsive with adequate spacing between elements. Prices are prominently displayed in larger font to emphasize savings.
+    
+    Question 2: The banner appears automatically when the page loads, as it's positioned at the top of the document. It could also be triggered by user behavior like scrolling or time spent on page, but in this basic implementation it loads immediately.
+    
+    Question 3: Users can: 1) View multiple deals in a horizontal layout, 2) Hover over deals to see a subtle elevation effect, 3) Click the close button to dismiss the banner (though functionality would need JavaScript), and 4) Click on deals to navigate to product pages (not implemented here).
+    -->
+</body>

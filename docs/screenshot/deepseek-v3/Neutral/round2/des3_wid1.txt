@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth. It uses a green accent color for the search button (#4CAF50) which stands out against the neutral grays. The layout is organized with clear sections for search input, category filters, price ranges, and recent searches. Elements are sized for easy interaction (large input field, clearly visible buttons). The design choices prioritize usability with adequate spacing, readable typography, and visual hierarchy to guide users through the search process efficiently.
+
+    Question 2: The widget would typically appear when a user clicks on the search icon in the website's header or when a keyboard shortcut (like Ctrl+K or Cmd+K) is pressed. It could also be triggered programmatically when the site detects the user might need search assistance, such as after several navigation actions without finding desired products.
+
+    Question 3: Users can: 1) Type search queries in the input field and submit them, 2) Filter results by categories or price ranges using the button options, 3) Access recent searches for quick recall, and 4) Close the panel when finished. The interactions are designed to be intuitive with visual feedback (hover states, active states) and logical grouping of related functions to streamline the product discovery process.
+    -->
+</body>

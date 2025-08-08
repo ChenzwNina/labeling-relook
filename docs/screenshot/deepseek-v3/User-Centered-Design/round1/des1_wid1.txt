@@ -1,0 +1,5 @@
+Question 1: The widget features a gradient banner with white text for contrast. Deal items are cards with semi-transparent backgrounds, showing current and old prices. The design uses vibrant colors to attract attention while maintaining readability. Cards have hover effects for interactivity. The layout is responsive, with items arranged in a row on large screens and wrapping on smaller ones. These choices create visual interest while keeping the focus on the deals.
+
+    Question 2: The banner appears automatically when the page loads, as it's placed in the main HTML body. In a real implementation, it might be triggered by user behavior (first visit, returning after time away) or timed promotions. The close button allows dismissal.
+
+    Question 3: Users can: 1) View multiple deals at once, 2) Hover over deal cards for visual feedback (lift effect), 3) Click "Shop Now" buttons to navigate to products, and 4) Close the banner entirely using the × button. The interactions are designed to be intuitive while encouraging engagement with the deals.

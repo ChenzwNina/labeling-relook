@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth. Product cards have a consistent size (250px min width) with a responsive grid layout. I chose blue for the CTA buttons as it's trustworthy and encourages action. The hover effects provide visual feedback, enhancing usability. The design prioritizes clarity with ample white space and a clear visual hierarchy.
+
+    Question 2: This widget would typically appear on the homepage or landing pages of an ecommerce site. It can be triggered by page load as a default section, or dynamically appear based on user behavior (returning visitors, specific interests) through personalization algorithms.
+
+    Question 3: Users can hover over products to see elevation effects (visual feedback), click product images/names to view details, click "Add to Cart" buttons to purchase, and scroll horizontally if space is limited. On mobile, the grid adapts to a single column. The widget supports touch interactions like swiping through products on touch devices.
+    -->

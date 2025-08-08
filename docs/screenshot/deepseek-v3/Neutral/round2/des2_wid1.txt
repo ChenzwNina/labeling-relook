@@ -1,0 +1,7 @@
+Question 1: The widget features a horizontal navigation bar with a light gray background (#f8f9fa) and subtle shadow. Category links are dark gray (#333) with 16px font size, turning blue (#0d6efd) on hover. Dropdown menus appear below with white background and stronger shadow, containing 200px-wide items. This clean, minimalist design ensures readability while providing visual feedback through hover states and smooth transitions, following modern e-commerce UX patterns.
+
+    Question 2: The widget is permanently visible as the main category navigation, but dropdown menus only appear when hovering over category items. This trigger pattern balances visibility with screen space efficiency, showing subcategories only when users express interest by hovering.
+
+    Question 3: Users can: 1) Hover over main categories to reveal dropdown menus, 2) Click any category or subcategory link to navigate, 3) Experience visual feedback (color change, background highlight) during interactions. The dropdown remains visible while hovering over it, disappearing when the cursor leaves the navigation area.
+    -->
+</body>

@@ -1,0 +1,21 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The component is a sleek, rectangular banner with rounded corners that sits 20px from the top of the viewport. It features a rich, dark purple gradient background that conveys a sense of premium quality and excitement. A subtle drop shadow makes it "pop" off the page. The layout uses flexbox to neatly align three main sections: a gift box icon on the left, central text, and a call-to-action button. 
+    
+    The headline ("Mid-Season Sale: Up to 40% Off!") is in a large, bold white font for immediate impact. The supporting text ("Plus, get free shipping...") is slightly smaller. The "Shop The Deals" button uses a vibrant, contrasting orange color to maximize its visibility and click-through rate (Rule 3.4). This entire design is crafted to be eye-catching without being disruptive, guiding the user's attention directly to the value proposition and the action they should take, which helps maximize conversion (Rule 3.2). A small, unobtrusive '×' allows users to close it, respecting their experience and minimizing bounce rate (Rule 3.9).
+
+    4.2 Question 2: What triggers the appearance of this widget?
+
+    The banner is designed to appear automatically on page load for any visitor arriving on key entry points of the website, such as the homepage, category pages, or even specific product pages. This proactive approach ensures maximum visibility for the promotion, targeting both new and returning visitors (Rule 3.7). The banner uses a subtle slide-down animation upon appearing, which helps to gently draw the user's attention without being jarring. The goal is to immediately present the most compelling current offer to every potential customer as soon as they engage with the site, thereby reducing the bounce rate (Rule 3.9) by providing an instant incentive to explore further.
+
+    4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users have three primary interactions with the banner, designed to guide behavior and respect user choice.
+    
+    1.  **Clicking the Call-to-Action (CTA) Button:** The main goal is for users to click the bright orange "Shop The Deals" button. This action would navigate them to a dedicated landing page featuring all sale items, directly moving them down the sales funnel. This interaction is designed to maximize sales, conversion rates, and page views per visit (Rules 3.1, 3.2, 3.6).
+    
+    2.  **Closing the Banner:** Users can click the '×' button to dismiss the banner. This is a critical user experience feature that gives users control, preventing frustration that could lead to them leaving the site. This helps minimize the bounce rate and cart abandonment by ensuring the promotion doesn't become an annoyance (Rules 3.8, 3.9).
+    
+    3.  **Hovering over the CTA:** As a micro-interaction, hovering the cursor over the CTA button causes it to change color slightly and lift, providing visual feedback that it is a clickable element. This affirms the user's intent and improves the overall usability of the component.
+    *****Response***** -->
+</body>

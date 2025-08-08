@@ -1,0 +1,10 @@
+Question 1: 
+  The widget has a clean, modern design: white background, box shadow for elevation, and rounded corners. The order header sits at the top, followed by a horizontal progress tracker with colored circles showing order state (green for completed, blue for current, gray for pending), with connecting bars. There's a product summary (image, title, shipping address), and clearly styled buttons ("Track Package" in bold blue and a subtle gray "Dismiss" with ‘×’ icon). Element sizing aids touch targets and readability. This style ensures clarity, focus, and prompt action while matching current e-commerce UI trends.
+
+  Question 2:
+  The widget appears automatically at the top of the viewport after a user places an order or when a user views their order status page. It can appear on order confirmation screens or be recalled when the user requests order tracking from their profile or a notification.
+
+  Question 3:
+  Users can review order progress at a glance, see what's next, and the stages crossed. "Track Package" opens detailed carrier/real-time tracking; "Dismiss" closes or hides the widget (but it’s not possible to remove progress/steps, as a constraint). Users see clear feedback–on hover/focus, button states change. Flow is streamlined to immediately access or dismiss tracking info, helping users efficiently monitor their purchase.
+  -->
+</body>

@@ -1,0 +1,5 @@
+Question 1: The widget has a clean, modern design with a white background and subtle shadow for depth. Input fields are full-width with proper spacing, using a blue color scheme (#4285f4) for the button to indicate interactivity. The layout is centered with clear hierarchy (heading, form, footer links). These choices prioritize usability - ample white space improves readability, contrasting colors guide attention, and consistent sizing creates visual harmony.
+
+    Question 2: This sign-in widget would typically appear when users click a "Sign In" link in the website's header navigation. It could also appear automatically when users attempt actions requiring authentication (like checkout) or via a dedicated login page URL (/signin).
+
+    Question 3: Users can: 1) Enter email/password in the form fields, 2) Submit the form by clicking the button or pressing Enter, 3) Click "Create one" to register, or 4) Click "Forgot password" to reset credentials. The form validates inputs (ensures email format, required fields) before submission. Successful login would redirect users, while errors would display appropriate messages.

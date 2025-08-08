@@ -1,0 +1,26 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The product card has a clean, modern aesthetic with a vertical layout contained within a 320px wide card with rounded corners and a soft shadow. The color palette is primarily neutral, using white for the background, dark gray (#2c3e50) for text, and lighter grays for secondary information to create a clear visual hierarchy. A vibrant green (#27ae60) is used for the "Add to Cart" button, making it the primary call-to-action that immediately draws the eye. A bright red (#e74c3c) badge highlights the sale, appealing to value-seeking customers.
+
+The layout stacks elements logically: a large product image at the top, followed by product information (category, name, rating), pricing, and finally, action buttons. Font sizes are varied to establish importance: the product name and current price are large and bold, while the category and original price are smaller. This design prioritizes scannability, allowing users to quickly absorb key details and make an efficient decision, which is crucial in a competitive e-commerce environment.
+
+### Question 2: What triggers the appearance of this widget?
+
+This widget's appearance is not triggered by a specific, momentary user action (like a pop-up). Instead, it's a fundamental content block that appears when a user navigates to any page designed to display a collection of products. Common triggers include:
+
+1.  **Visiting a category page:** For instance, clicking on "Electronics" or "Headphones" in the site's navigation.
+2.  **Performing a search:** The widget would populate the search results page for a query like "noise-cancelling headphones."
+3.  **Viewing a curated list:** It could appear on the homepage in a "Featured Products" or "New Arrivals" section.
+4.  **Recommendation carousels:** It might be displayed in sections like "Customers also bought" or "You might also like" on a product detail page or in the shopping cart.
+
+Essentially, its appearance is a direct result of the user requesting to see a list of items for sale.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several clear and direct interaction points with this widget, designed for efficiency:
+
+1.  **Clicking the entire card:** The entire card has a hover effect (lifting shadow) and a pointer cursor, signifying that it's a single, clickable link. This action would navigate the user to the product's dedicated detail page for more information, images, and full specifications.
+2.  **Clicking the "Add to Cart" button:** This is the primary action. Clicking this button would add the item directly to the user's shopping cart. The button provides immediate visual feedback by changing color and depressing slightly. In a live site, this would typically trigger a success notification or update a mini-cart icon.
+3.  **Clicking the "Add to Wishlist" button:** This secondary action allows users to save the item for later. The heart icon button provides hover and active state feedback, and clicking it would add the product to the user's personal wishlist, likely changing the icon's state (e.g., to a solid, colored heart) to confirm the action.
+
+*****Response***** -->

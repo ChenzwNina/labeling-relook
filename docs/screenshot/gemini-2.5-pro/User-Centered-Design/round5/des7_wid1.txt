@@ -1,0 +1,20 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a self-contained card with a light grey background (`#f9f9f9`), rounded corners, and a subtle shadow to make it pop from the page. It has a two-part layout created with Flexbox. On the left, the overall numerical rating (`4.7`) is displayed in a large, bold font (56px) for immediate visibility. Below it are graphical star ratings and the total review count in a smaller, secondary font. On the right, a detailed breakdown uses horizontal progress bars for each star level (5 to 1). 
+
+The color palette is intentional: gold (`#FFC107`) for stars and progress bars consistently associates it with quality. A bright, trustworthy blue (`#007bff`) is used for the "Write a Review" button to signify a primary action. Neutral dark greys are used for text to ensure high readability. This design is chosen to be clean, modern, and trustworthy. It presents a large amount of data in a scannable, digestible format, helping users make quick, informed decisions, which is crucial in an e-commerce context.
+
+### Question 2: What triggers the appearance of this widget?
+
+This widget is not triggered by a user action like a hover or click. It is a static component that appears on page load as part of the primary content of a product detail page. Its intended position is "above the fold"—meaning it's visible without scrolling—typically placed right next to the product title or just below the main product image gallery. The purpose of its immediate and persistent visibility is to provide crucial social proof to the user at the very beginning of their evaluation process. This instant access to peer ratings helps build trust and provides a key data point for the user's purchasing decision, making it an integral, non-hidden part of the page layout.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+User interaction with this widget is primarily passive, focused on information consumption. A user can:
+1.  **Read the Overall Score:** Quickly glance at the large "4.7" to get an immediate sense of product quality.
+2.  **View Star Rating:** Visually confirm the rating with the four filled gold stars.
+3.  **Analyze the Breakdown:** Scan the progress bars to understand the distribution of ratings. This helps them identify if a product is polarizing (many 5-star and 1-star reviews) or consistently good.
+4.  **Click the Call-to-Action:** The only active interaction is with the "Write a Review" button. Hovering over this button changes its background color, providing visual feedback that it is clickable. Clicking it would typically scroll the page down to a review submission form or open a separate modal window for writing a review. This encourages user engagement and the collection of more reviews.
+
+-->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, card-based design with white background and subtle shadow for depth. Steps are displayed vertically with colored icons (green for completed, blue for active, gray for pending). The layout is intuitive with clear visual hierarchy through font weights and sizes. These choices enhance readability and provide clear status indication at a glance.
+
+Question 2: The widget appears when a user clicks on "Track Order" from their account page or order confirmation email. It may also appear automatically after checkout with a "Track Your Order" prompt.
+
+Question 3: Users can: 1) Scroll through order status steps, 2) Click "View Order Details" to see full order information, 3) Click "Contact Support" to initiate help request, and 4) Potentially click individual steps for more details if implemented.
+-->

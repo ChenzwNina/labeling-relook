@@ -1,0 +1,7 @@
+4.1. The widget uses a white background with soft shadow and rounded corners for a premium, trustworthy feel. It splits horizontally on desktop for shipping (left) and add-ons (right). Titles are bold. "Best Value" is highlighted in green. "Continue to Payment" stands out in vivid blue—primary action. Information is compact yet readable for mobile. These choices grab user attention, guide eye flow, and drive selections, fostering conversions, larger order sizes, and lower abandonment.
+
+    4.2. The widget appears on the shipping step of the checkout process, after cart review and before payment. It triggers as part of the user flow to minimize abandonment and maximize upsell, ensuring all users see and interact with shipping/add-on options before paying.
+
+    4.3. Users can select one shipping method (radio buttons), add optional order add-ons (checkboxes), and proceed ("Continue to Payment"). Users may toggle options freely. The secure badge builds trust (hoverable for details, in a live site). The layout adapts responsively. All selections are actionable, persist through the checkout process, maximize engagement, and provide upselling opportunities.
+    -->
+</body>

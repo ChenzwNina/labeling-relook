@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, card-based layout with a white background and subtle shadows for depth. Product cards are 250px wide with consistent image heights (200px) for visual harmony. I used a green color for the "Add to Cart" button as it's associated with positive actions, and blue for prices which suggests trust. The design choices prioritize readability, visual hierarchy, and mobile responsiveness while maintaining a modern ecommerce aesthetic.
+
+    Question 2: This widget would typically appear on the homepage or landing pages of an ecommerce site, loaded automatically when the page renders. It could also be triggered by specific user behaviors like returning after adding items to cart, or when browsing certain categories to showcase related featured products.
+
+    Question 3: Users can: 1) View product images and details, 2) Click "Add to Cart" buttons to purchase items, 3) Hover over cards to see elevation effects (visual feedback), and 4) Potentially click product images/titles to navigate to product detail pages (though this functionality isn't implemented in the current code).
+    -->

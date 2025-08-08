@@ -1,0 +1,7 @@
+4.1: The widget is a modern, card-style panel, 420px wide with soft box-shadow, rounded corners, and a visually engaging two-tone header (red-orange gradients to signal attention and importance). Clear typography, concise feature listing, and selective use of brand colors (red, orange, white) make the intent clear and encourage action, while increasing trust. Call-to-action buttons contrast for clarity; the "Cancel" button is bold and red to attract clicks but offset with a "Keep Membership" option. Retention offer is in a warm gold background for high visibility. Design choices focus on clarity, hierarchy, minimizing abandonment, and maximizing conversions and engagement.
+
+    4.2: The widget appears when a user navigates to their account membership settings and selects "Cancel Membership," or from a dedicated "Manage Membership" page. It may also be triggered by a direct link in membership email communications.
+
+    4.3: Users can: select a reason (enabling the Cancel button), click "Cancel Membership" (with confirmation prompt), redeem a retention offer if offered, decide to keep membership (instant feedback), or close the widget. The "Cancel Membership" action is guarded with an extra confirm step to prevent accidental cancellations. The retention offer is actionable and disables cancellation if accepted, lowering abandonment.
+    -->
+</body>

@@ -1,0 +1,32 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a rectangular container (480px wide) with a clean white background (`#ffffff`) and rounded corners, set against a subtle box shadow (`0 6px 20px rgba(0,0,0,0.12)`) to make it appear elevated. It's divided into two main sections: "Choose Your Shipping" and "Optional Add-ons," demarcated by dark blue-grey headings (`#2c3e50`, 22px) with light grey bottom borders (`#ecf0f1`).
+
+Each selectable option is presented in its own padded container (`15px`) with a light grey border (`#e0e0e0`) and rounded corners. Options use custom-styled radio buttons and checkboxes for a modern feel. The main text (option name) is 16px, dark grey (`#343a40`), and bolded. Supporting text (delivery estimates, add-on descriptions) is 14px and a lighter grey (`#555555`). Prices are displayed in a distinct teal color (`#00796b`), 16px, and bold. Selected options get a light blue background (`#e7f3ff`) and a primary blue border (`#007bff`).
+
+The layout is vertical, with clear visual hierarchy. A prominent call-to-action button ("Confirm Shipping & Options") at the bottom uses the primary blue (`#007bff`) for its background and white text.
+
+These design choices prioritize clarity, readability, and a professional aesthetic typical of modern e-commerce sites. Colors are chosen for good contrast and visual appeal. Consistent spacing and element styling aim for a user-friendly and trustworthy experience, guiding the user efficiently.
+
+*****Response*****
+Question 2: What triggers the appearance of this widget?
+
+This widget typically appears at a specific stage in the e-commerce checkout process. Common triggers include:
+1.  **Navigating to the Cart/Checkout Page:** After adding items to their cart, when the user proceeds to review their order or begins the checkout sequence, this widget would be displayed to allow them to select or confirm shipping methods and any desired add-ons before payment.
+2.  **Explicit User Action:** If shipping options were pre-selected or chosen earlier, an "Edit Shipping Options" or "Change Delivery Method" button on a summary page could trigger the display of this widget, possibly as a modal or a dedicated section.
+3.  **Progression in a Multi-Step Checkout:** In a wizard-style checkout, this widget would represent the "Shipping" or "Delivery Options" step.
+
+The widget's fixed position at the top suggests it's meant to be a focused task panel that appears when these choices are immediately relevant.
+
+*****Response*****
+Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the widget in the following ways:
+
+1.  **Selecting a Shipping Option:** Users can click on any of the radio button options (or their associated labels) in the "Choose Your Shipping" section. Only one shipping option can be selected at a time. Clicking a new option deselects the previously selected one.
+2.  **Selecting/Deselecting Add-ons:** In the "Optional Add-ons" section, users can click on checkboxes (or their labels) to select or deselect add-ons. Multiple add-ons can be selected simultaneously. Clicking a selected add-on will deselect it.
+3.  **Visual Feedback on Hover:** Hovering the mouse cursor over any selectable option item (shipping or add-on) provides visual feedback, typically a change in border color and/or background color, indicating interactivity.
+4.  **Confirmation:** Users click the "Confirm Shipping & Options" button to save their selections and proceed to the next step in the checkout process (e.g., payment or order review). This button also has hover and active states for feedback.
+5.  **Implicit Interaction (Scrolling):** While not direct interaction *with* the widget's functions, if the page content below the widget is scrollable, the widget remains fixed, allowing users to refer to it while potentially viewing other information (though in a focused modal-like component, this is less common).
+-->
+</body>

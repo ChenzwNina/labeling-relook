@@ -1,0 +1,25 @@
+**Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The component is a rectangular card with rounded corners and a subtle shadow, giving it a modern, clean appearance that "floats" on the page. It uses a two-column layout: a large product image on the left (45% width) and product details on the right (55% width).
+
+Colors are chosen for clarity and trust. The background is white (#ffffff) for a clean canvas. Text is a dark gray (#1c1c1c) for high readability. The primary action color is a vibrant blue (#007bff) used for the main "Add to Cart" button, making it the focal point. The sale price is a positive green (#28a745) to draw attention to the value.
+
+Elements are sized hierarchically. The product name is the largest text element, followed by the sale price. This structure guides the user's eye from what the product is, to its value, and then to the actions they can take. This design is intended to be intuitive, aesthetically pleasing, and focused on conversion.
+
+**Question 2: What triggers the appearance of this widget?**
+
+This component does not appear in response to a dynamic trigger like a click or hover (such as a modal or tooltip would). Instead, its appearance is triggered by user navigation. It is the core content of a Product Detail Page (PDP). A user would typically trigger its display by clicking on a product thumbnail from a search results page, a category listing, or a promotional banner elsewhere on the e-commerce site. The component is designed to be the central, static element on its own dedicated page, providing all necessary information for a purchase decision.
+
+**Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users have a comprehensive set of interactions designed for an efficient shopping experience:
+1.  **Image Exploration:** Hovering over the product image provides a slight zoom effect, affording a closer look at details.
+2.  **Color Selection:** Clicking on one of the circular color swatches visually selects it with a blue border and updates the color name in the label, providing clear feedback.
+3.  **Size Selection:** Users can click the dropdown menu to see and select from available sizes. An unavailable size is clearly marked as "Out of Stock" and disabled, preventing selection.
+4.  **Quantity Adjustment:** Users can click the "+" and "-" buttons to increase or decrease the quantity. The input field is read-only to prevent invalid entries like text or zero.
+5.  **Wishlist Action:** They can click the "Wishlist" button, a secondary action with a less prominent design.
+6.  **Add to Cart:** The primary interaction is clicking the large, blue "Add to Cart" button. It features strong hover and active states for tactile feedback.
+7.  **Review Navigation:** The "128 Reviews" text is a link, allowing users to navigate to the reviews section of the page.
+-->
+
+</body>

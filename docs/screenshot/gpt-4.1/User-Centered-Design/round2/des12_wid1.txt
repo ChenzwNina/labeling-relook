@@ -1,0 +1,10 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+  The component is a card positioned at the top with a 20px margin, 370px wide, white background, slightly rounded corners, and a soft box shadow. A square logo sits top center, followed by a bold "Create your ShopEase account" title, a subtitle in gray, and the form fields vertically stacked with clear labels and input affordances. Button colors use the primary blue theme for call-to-action prominence, and error/success messages use distinct red/green bands. This design mirrors industry UX for clarity and trust.
+
+  Question 2: What triggers the appearance of this widget?
+  The widget is intended to appear on account creation pages, typically when a user clicks "Create Account" or "Sign Up" from the site's navigation or when redirected before purchase for account registration.
+
+  Question 3: Can you describe the full range of interactions users can have with the widget?
+  Users can enter their name, email, and password, receiving instant validation feedback. The "Create Account" button enables only when all fields are valid, preventing accidental or invalid submissions. Upon successful submission, a success message confirms their action. Users can also navigate to sign in or help via clear affordances in the action row.
+
+  -->

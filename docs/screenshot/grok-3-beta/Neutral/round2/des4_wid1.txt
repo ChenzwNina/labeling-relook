@@ -1,0 +1,5 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background for product cards, a subtle shadow for depth, and a grid layout for responsiveness. Each card has a 200px height image, 18px product name, 16px price in a striking orange (#e44d26) for emphasis, and a matching orange button. The layout uses a max-width of 1200px for readability on larger screens and adapts to smaller devices with a minmax grid. These choices mimic real e-commerce sites by prioritizing clarity, visual appeal, and easy navigation. -->
+    <!-- Question 2: This widget appears on the homepage or category pages of the e-commerce site, triggered by the page load event. It could also be dynamically loaded based on user search queries or filters applied through a navigation menu, ensuring relevant products are displayed. -->
+    <!-- Question 3: Users can interact with the widget by hovering over product cards for a subtle lift effect, clicking the "Add to Cart" button to initiate a purchase, and potentially clicking on product images or names (if linked) to view detailed product pages. These interactions provide a seamless shopping experience. -->
+</body>

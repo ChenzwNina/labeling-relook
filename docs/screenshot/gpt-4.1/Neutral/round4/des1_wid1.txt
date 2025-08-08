@@ -1,0 +1,10 @@
+3.1 Question 1: 
+The banner is a horizontally-oriented pill-shaped box, with a warm gradient from orange (#ff7043) to yellow-orange (#ffb74d), rounded corners, and a slight box-shadow. On the left is a square image (48x48px, rounded), followed by bold headline text, smaller descriptive text, and a prominent white rounded CTA button ("Shop Deals") with orange text. A close ("×") icon is positioned top-right. The design uses energetic warm tones and bold type to attract attention while remaining readable and inviting. Spacing and font sizes are optimized for both desktop and mobile.
+
+3.2 Question 2:
+This deals banner appears at the top of the site on page load, ensuring users are promptly informed of current time-sensitive deals (like a Summer Sale). It can be triggered automatically, by scheduled events, A/B testing rules, or programmatically when deals are live.
+
+3.3 Question 3:
+Users can (a) click the "Shop Deals" button to go directly to the deals page, (b) dismiss the banner with the "×" button (which removes it from view), and (c) access the description and deal information. On mobile, all interactions remain accessible, and the layout adapts for smaller screens.
+
+-->

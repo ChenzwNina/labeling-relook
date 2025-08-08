@@ -1,0 +1,6 @@
+Question 1: The widget is a centered, fixed panel with a white background, subtle drop shadow, and gentle rounded borders for a modern, trustworthy look. The red icon atop reinforces the "danger" action. The title is prominent and the buttons are large and easy to tap. Red is reserved for the destructive action, while the "Go Back" button is more neutral. We use padding and space for readability and mobile-responsiveness for accessibility. This design draws attention to the seriousness of the action while maintaining clarity and comfort for users.
+
+Question 2: This widget appears when a logged-in user initiates a "Cancel Membership" workflow, typically by clicking a "Cancel Membership" or similar link from their account or membership settings page. It functions as a confirmation modal to prevent accidental cancellations.
+
+Question 3: Users can click "Confirm Cancellation" to finalize the membership cancellation or click "Go Back" to dismiss the widget and retain their membership. There are no other interactions or form fields; the action is simple and direct, focusing on confirmation and warning. On real implementation, the "Confirm Cancellation" button would likely trigger server communication and hide/replace the widget with a confirmation message or error.
+-->

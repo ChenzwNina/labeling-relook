@@ -1,0 +1,9 @@
+Question 1: 
+The widget features a clean, modern card floating at the top center of the viewport with a 20px margin from the top. It is 380px wide (responsive on mobile), white with a subtle drop shadow and rounded corners. The logo sits atop a soft blue-gray circle, followed by a bold headline and friendly subtext. The signup form is clear, using outlined pale fields and a prominent blue gradient "Sign Up Now" button. Text uses a dark blue for titles and gentle grays for secondary info. The layout offers both appeal and clarity to maximize conversions—mirroring best practices on top e-commerce sites.
+
+Question 2:
+This widget would typically be triggered on high-intent pages: homepage visits, product pages, cart/checkout, or after browsing a few times as a modal or banner. It could also appear if the user clicks a site-wide “Join Now” call to action, but it always remains at the top for maximum visibility.
+
+Question 3:
+Users can enter their full name, email, and password, clicking “Sign Up Now” to submit details (form submission would be handled by backend logic not shown here). Input fields have visual focus feedback. There’s a link to “Sign in” for existing members. On mobile, the card adapts in size, preserving usability. Optionally, accessibility features like labels and ARIA roles are implemented for better navigation.
+-->

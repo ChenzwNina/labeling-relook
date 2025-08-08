@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based design with a white background, subtle border, and soft shadow. It uses a green color scheme for the price and button to evoke positive associations with purchasing. The layout is organized vertically with image at top, followed by title, rating, description, price, and button. Elements are sized for readability (18px title, 14px description) with ample spacing. These choices create visual hierarchy, emphasize key information, and make the component scannable while maintaining aesthetic appeal.
+
+    Question 2: This widget appears as part of a product listing page in an ecommerce website, typically triggered when a user browses a category or searches for products. It can also appear in recommendation sections on the homepage or product detail pages. The component renders for each product in the displayed collection.
+
+    Question 3: Users can: 1) View product details (image, title, description, price), 2) Read ratings, 3) Click "Add to Cart" to purchase, 4) Hover to see elevation effect signaling interactivity. The button provides visual feedback on hover (color darkens) and click. The component could be expanded to include quick-view functionality or wishlist options.
+    -->
+</body>

@@ -1,0 +1,5 @@
+Question 1: The widget has a clean, minimalist design with a light gray background (#f8f9fa) and subtle shadow for depth. It's 280px wide with rounded corners (8px radius). Sections are separated by light borders with 20px padding. Checkboxes are standard size with 14px labels in dark gray (#555). The "Apply" button is blue (#4a6bff) with white text. These choices ensure readability, visual hierarchy, and a modern aesthetic that doesn't distract from products.
+
+    Question 2: This widget would typically appear when a user clicks a "Filter" button on a product listing page, or it might be permanently visible in a sidebar on desktop views. On mobile, it might appear as a sliding panel triggered by a filter icon tap.
+
+    Question 3: Users can: 1) Check/uncheck category/brand/rating options, 2) Adjust price range via a slider, 3) Click "Apply Filters" to submit selections. The panel should immediately filter products when applied. Options use standard form controls for familiarity. Hover states on interactive elements provide feedback.

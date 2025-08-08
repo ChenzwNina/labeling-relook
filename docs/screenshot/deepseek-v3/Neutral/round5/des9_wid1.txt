@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, card-like design with white background and subtle shadow. It uses blue (#0066cc) as the primary accent color for selected options and prices. Options are displayed in a vertical list with clear visual hierarchy - titles in bold, descriptions in smaller gray text. The design choices prioritize clarity and scannability, with sufficient padding for touch targets and visual feedback on hover/selection to enhance usability.
+
+    Question 2: This widget would typically appear during the checkout process, either automatically when the user reaches the shipping step or when they click a "Shipping Options" button. It might also appear when editing an existing order's shipping method.
+
+    Question 3: Users can: 1) Select one shipping method via radio buttons, 2) Toggle optional add-ons with checkboxes, 3) See price changes immediately, 4) Get visual feedback on hover/selection. The widget supports both mouse and touch interactions, with all interactive elements sized appropriately for easy tapping.
+    -->
+</body>

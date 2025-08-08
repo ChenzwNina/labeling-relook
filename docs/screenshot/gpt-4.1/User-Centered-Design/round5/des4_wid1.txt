@@ -1,0 +1,6 @@
+4.1 Question 1: The widget uses a white card-style background (with subtle shadow, radiused corners) for the container and soft-tinted cards for products. Each card includes a product image (120x120px), a product name, blue-colored price, star-based rating, and a prominent "Add to Cart" button. There's padding for balance and visual comfort. Visual feedback is provided with button/hover effects and confirmation messages. This friendly, modern design ensures professional aesthetics and makes action points clear and visually accessible.
+
+  4.2 Question 2: This widget is displayed at the top of a page (such as a homepage, deals, or category view) when the page is loaded, introducing a featured product selection.
+
+  4.3 Question 3: Users can view product names, prices, ratings, and images; click to "View All" products; click/focus cards for product attention; and click "Add to Cart." Upon clicking "Add to Cart," visual feedback shows confirmation and disables the button temporarily, ensuring no double add by mistake. Accessibility is supported via focus and ARIA labels.
+  -->

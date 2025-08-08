@@ -1,0 +1,6 @@
+Question 1: The widget features a vibrant gradient background transitioning from coral (#ff6f61) to light peach (#ffb88c), ensuring high visibility. The text is white, bold, and 18px for readability, centered for focus. The "Shop Now" button is white with coral text, 16px, and has hover effects (scale and color change) for feedback. The layout spans full width, with a max-width content container of 1200px for alignment on larger screens. A subtle shadow adds depth. These choices prioritize visibility, urgency, and a modern e-commerce aesthetic.
+
+Question 2: The banner appears automatically at the top of the page upon loading, positioned 20px from the top. It is triggered by active site-wide promotions or flash sales, ensuring users are immediately aware of current deals without manual interaction.
+
+Question 3: Users can interact with the banner by clicking the "Shop Now" button, which provides visual feedback (hover and click animations) and directs them to the deals page. They can also close the banner using the "✕" button on the right, with color change feedback on hover, removing it from view for the session.
+***** -->

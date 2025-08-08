@@ -1,0 +1,29 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a horizontal, two-column banner positioned at the top of the viewport. The left column has a soft, light-blue gradient background, creating a calm, welcoming feel. It features a bold headline, "Join Our Style Insider Club," and a bulleted list of benefits, each with a green checkmark icon to visually affirm value. The right column has a clean white background containing the registration form.
+
+This layout choice separates the value proposition (why you should sign up) from the action (how to sign up), reducing cognitive load. The primary Call-to-Action (CTA) button is a vibrant, high-contrast blue to draw the user's eye and maximize clicks (Rule 3.2, 3.4). Input fields are large with generous padding for ease of use on all devices. Social login is offered as a low-friction alternative. This entire design is built on trust and clarity, aiming to make signing up feel like a benefit, not a chore, which directly supports increasing conversion and reducing bounce rates (Rule 3.2, 3.9). On mobile, the columns stack vertically for optimal readability.
+
+*****Response*****
+
+4.2 Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is triggered by a specific, high-intent user action rather than a simple timer. The ideal trigger is when a user adds an item to their shopping cart for the first time.
+
+This timing is strategic for several reasons. Firstly, the user has demonstrated clear purchasing intent, making them highly receptive to an offer that facilitates their purchase, like a 15% discount. This maximizes the conversion rate (Rule 3.2). Secondly, it presents the benefits of an account (like order tracking and faster checkout) at the exact moment they become most relevant. Thirdly, by tying the signup incentive directly to an imminent purchase, it helps increase the average order value (Rule 3.3) and significantly reduces the likelihood that the user will abandon their cart to search for coupon codes elsewhere (Rule 3.8). Triggering on this action makes the widget a helpful tool rather than an unwelcome interruption.
+
+*****Response*****
+
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a clear and comprehensive set of interactions designed to be intuitive and minimize friction.
+
+1.  **Form Input:** Users can type their first name, email, and password into the respective form fields. The fields have focus states to provide clear visual feedback.
+2.  **Primary Action:** They can click the main blue "Create Account & Get 15% Off" button to submit the form and create their account.
+3.  **Secondary Action (Social Login):** For a faster process, they can click the "Continue with Google" button, which bypasses manual entry. This is critical for minimizing user effort and boosting conversion (Rule 3.2).
+4.  **Dismissal:** Users can click the '×' icon in the top-right corner to close the widget entirely, ensuring they are not forced to register and preventing a high bounce rate (Rule 3.9).
+5.  **Alternative Flow:** If the user is already registered, they can click the "Sign In" link to be redirected to the login page, preventing user frustration.
+6.  **Information Access:** They can click the "Terms of Service" and "Privacy Policy" links to open these documents in a new tab for legal transparency and building trust.
+
+-->
+</body>

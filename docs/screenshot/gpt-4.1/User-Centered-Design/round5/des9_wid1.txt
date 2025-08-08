@@ -1,0 +1,6 @@
+Q1: The widget uses a white container with mild drop-shadow for elevation and generous padding. Headings and prices use a bold #0052cc blue for clarity, while selections highlight by color change (blue for shipping, green for add-ons). Interactive zones (radio/checkbox in cards) are large and rows are spaced for easy scanning. Each shipping/add-on is a rounded card, supporting both desktop (horizontal) and mobile (stacked) layouts. These choices ensure visibility, affordance, and alignment with modern e-commerce standards.
+
+  Q2: This widget appears at the top of the checkout page (or shipping step) after a user proceeds from cart review. It’s the mandatory step for selecting how orders are shipped and optionally adding services.
+
+  Q3: Users select one shipping method (radio in card, visually highlighted). They may check zero or more optional add-ons (checkbox in card, highlighted when chosen). The "Continue to Payment" button is active only after a shipping method is selected. Submission provides clear feedback showing selections and briefly confirms before proceeding. The selections are visually affirmed immediately, and constraints prevent missing or invalid choices.
+  -->

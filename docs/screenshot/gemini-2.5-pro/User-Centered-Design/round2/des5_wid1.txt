@@ -1,0 +1,33 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The filter panel widget is a vertical rectangle, 320px wide, positioned 20px from the top and left of the viewport. It has a light theme with a white background (#ffffff) and a subtle box-shadow for depth. The overall page background is a light gray (#f4f6f8) to make the panel stand out.
+Text is primarily dark gray (#333, #495057) for readability. A vibrant blue (#007bff) serves as the primary accent color for interactive elements like selected states, buttons, and slider controls, chosen for its common association with trust and action in UIs.
+The layout is organized into sections (Category, Brand, Price, etc.), each with a clear heading (font size 1.05em, weight 600). Filter options (checkboxes, color swatches, size buttons) are sized for easy interaction (e.g., color swatches 30x30px, size buttons well-padded). The panel has a header with a title ("Filter Products", 1.5em) and a close button. Action buttons ("Clear All", "Apply Filters") are at the bottom, prominently styled.
+These choices aim for a clean, modern e-commerce aesthetic, prioritizing clarity, ease of use, and high visibility of functions. Spacing and typography choices enhance scannability and reduce cognitive load.
+
+*****Response*****
+Question 2: What triggers the appearance of this widget?
+
+The filter panel widget can be configured in a few ways:
+1.  **Always Visible:** On product listing pages or category pages, it can be displayed by default, typically as a sidebar, allowing users to refine product searches immediately. The provided HTML/CSS renders it as visible by default.
+2.  **User-Triggered:** It can be initially hidden and then appear when a user clicks a dedicated "Filters" button or icon (not part of this component but usually present on the main page content area or app bar).
+3.  **Contextual Appearance:** It might appear automatically in response to certain user actions, like initiating a search.
+
+The component includes a close button ('×') in its header, allowing users to hide it if it's persistent or dismiss it if it's a modal/pop-over. The provided JavaScript simply hides the panel; a real application would manage its visibility state more robustly.
+
+*****Response*****
+Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the filter panel in the following ways:
+1.  **Select/Deselect Categories & Brands:** Using checkboxes for multi-selection.
+2.  **Set Price Range:**
+    *   By dragging two range slider thumbs (min and max).
+    *   By typing exact values into number input fields for minimum and maximum price. The sliders and input fields are synchronized.
+3.  **Choose Colors:** By clicking on color swatches. Multiple colors can be selected (toggling selection). Selected swatches are visually highlighted with a border and a checkmark.
+4.  **Select Sizes:** By clicking on size buttons (e.g., S, M, L). Multiple sizes can be selected (toggling selection). Selected buttons change appearance.
+5.  **Filter by Customer Rating:** By selecting a minimum star rating using radio buttons (single selection).
+6.  **Apply Filters:** By clicking the "Apply Filters" button, which would typically trigger a product list update based on the selected criteria.
+7.  **Clear Filters:** By clicking the "Clear All" button, which resets all filter options to their default states (e.g., unchecks boxes, resets price range, clears color/size selections).
+8.  **Close Panel:** By clicking the '×' icon in the header to hide the filter panel.
+Hover effects provide visual feedback on all interactive elements before clicking.
+-->

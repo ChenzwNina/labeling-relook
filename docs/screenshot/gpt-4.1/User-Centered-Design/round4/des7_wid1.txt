@@ -1,0 +1,16 @@
+Question 1:
+  This ratings widget has a clean, modern look that uses a white background with soft shadows and rounded corners to stand out against the page. The main rating (4.6) uses an orange color for immediate recognition, and five visually distinct star icons (including a half-star) show the score at a glance. The ratings breakdown bars use light gray for backgrounds and a gradient orange fill to reflect rating distribution. Actions (“Write a Review” and “See All Reviews”) use a primary color and underlined link for clarity and affordance. All elements are evenly spaced and readable, optimized for desktop and mobile.
+
+  Question 2:
+  The widget appears by default at the top of the product page, 20 pixels below the viewport, making user rating information immediately visible when customers visit a product.
+
+  Question 3:
+  Users can:
+  - See the average rating as a number and stars
+  - View total number of reviews
+  - See how reviews are distributed (5 to 1 stars) with progress bars
+  - Click “Write a Review” to leave their feedback (which can have states like enabled/disabled depending on user permissions)
+  - Click “See All Reviews” to navigate to the detailed reviews section
+  All buttons and links provide clear feedback (hover, pressed, focus). Disabled states prevent impermissible actions.
+  -->
+</body>

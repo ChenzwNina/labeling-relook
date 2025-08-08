@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, white background with subtle shadows for a modern, trustworthy look. It uses a red CTA button (#e74c3c) to grab attention and encourage clicks, while gold stars (#f1c40f) for ratings evoke positivity. The layout is centered with a responsive card design for reviews, ensuring readability across devices. Card hover effects add interactivity, enhancing engagement. These choices build trust, highlight social proof, and drive conversions by focusing on customer feedback.
+
+Question 2: The widget appears statically at the top of the homepage or product pages with a 20px margin, visible upon page load. It’s designed to be a permanent feature to immediately showcase user trust and credibility, reducing bounce rates and encouraging further exploration.
+
+Question 3: Users can hover over individual review cards for a subtle lift effect, signaling interactivity. Clicking the “See More Reviews” CTA button directs them to a dedicated reviews page, increasing time on site. While direct interaction with reviews is limited to maintain simplicity, the widget indirectly prompts purchases by building trust through social proof.
+***** -->

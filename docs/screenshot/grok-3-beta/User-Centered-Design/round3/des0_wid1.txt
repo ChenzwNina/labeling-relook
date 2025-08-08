@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background for product cards, a bold orange (#e44d26) for prices and buttons, and subtle gray borders (#e0e0e0). Product cards are 250px wide, with images at 180px height for clear visibility. The layout is centered with a flexbox grid, ensuring responsiveness. These choices enhance readability, create a professional look consistent with e-commerce standards, and highlight key actions like "Add to Cart" with contrasting colors for visibility and efficiency. -->
+
+    <!-- Question 2: This widget appears statically at the top of the homepage with a 20px margin, visible upon page load. It showcases featured products to attract user attention immediately, aligning with e-commerce goals of promoting high-value or trending items to drive sales. -->
+
+    <!-- Question 3: Users can interact with the widget by hovering over product cards for visual feedback (elevation and shadow effects), clicking "Add to Cart" buttons to initiate a purchase (with disabled states for constraints), and viewing product details like name and price. The design ensures clear affordances through button styling and hover effects, supporting efficient task completion and a satisfying shopping experience. -->
+</body>

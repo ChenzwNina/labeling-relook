@@ -1,0 +1,28 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, modern card with rounded corners and a subtle box shadow, making it float above the page content. It uses a two-column layout: a 250px-wide product image on the left and product details on the right. 
+
+**Colors:** The palette is professional and conversion-focused. A white background (`#ffffff`) ensures content clarity. The primary call-to-action button is a vibrant blue (`#007bff`) to draw the user's eye. A bright green (`#28a745`) is used for the sale price to signify value, while dark grey text (`#1d2d35`) provides high readability.
+
+**Sizing & Layout:** A clear visual hierarchy guides the user. The product title is the largest text element (`24px`), followed by the sale price (`28px`), establishing importance. The layout, created with Flexbox, is responsive and adapts to a single-column view on smaller screens.
+
+**Design Rationale:** These choices are based on established e-commerce best practices. The clean layout and visual hierarchy reduce cognitive load, allowing users to quickly scan information. The strategic use of color directs attention to key actions ("Add to Cart") and value propositions (the sale price), aiming to optimize user experience and conversion rates.
+
+### Question 2: What triggers the appearance of this widget?
+
+This widget is designed to appear automatically as a "Featured Product" or "Deal of the Day" banner. The most common trigger would be a user landing on a specific, high-traffic page, such as the e-commerce site's homepage or a special campaign landing page. 
+
+It could also be part of a promotional event, appearing sitewide for a limited time to announce a new arrival or highlight a best-seller. The fixed positioning at the top ensures it's the first thing a user sees, maximizing visibility for the promoted item without being as intrusive as a full-screen modal. It serves as an immediate, high-impact marketing tool to drive interest in a specific product.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several interaction points designed for engagement and conversion:
+
+1.  **Close Widget:** The primary non-conversion action is clicking the '×' icon in the top-right corner, which immediately dismisses the widget.
+2.  **Add to Cart:** The main call-to-action is the blue "Add to Cart" button. Clicking it would add the selected product to the user's shopping cart, ideally providing visual feedback like a brief animation or text change on the button itself.
+3.  **Color Selection:** Users can click on the circular color swatches. This would visually update the selected option (indicated by a blue border) and, in a fully functional site, would likely update the main product image to reflect the chosen color.
+4.  **View Product Details:** Clicking on the product image or the product title would navigate the user away from the current page to the full product detail page (PDP), where they can see more images, read full descriptions, and browse all reviews.
+5.  **Hover Effects:** Non-click interactions include hovering over the "Add to Cart" button, color swatches, and the close button, which provides visual feedback (color changes, shadows, or scaling) to indicate interactivity.
+
+-->
+</body>

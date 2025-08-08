@@ -1,0 +1,7 @@
+4.1: The widget displays at the top of the page with a white, rounded container and subtle shadow for prominence. The primary brand color (#2d60e3 blue) highlights key actions and headers. There’s a VIP tag, bold heading, benefit bullets in blue, and a prominent golden “special offer” banner. Input fields are large and spaced for easy use, with a bold submit button. This layout builds trust, drives focus, increases conversions, and visually reflects premium membership value.
+
+  4.2: The widget is triggered to appear automatically when the user first loads the homepage or navigates to a landing page, maximizing exposure to all visitors. It remains visible at the top with scroll to provide constant access, targeting new users and encouraging sign-up early in the user journey.
+
+  4.3: Users can interact by reading info, entering their name, email, and password to sign up. Submission becomes a member. A login link is present for existing members. The offer banner may be clicked for T&C. All buttons provide visual feedback on hover/focus. Errors and form validation occur on submission. The form is keyboard- and mobile-friendly, supporting accessibility.
+  -->
+</body>

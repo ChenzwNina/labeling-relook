@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design with white background and subtle shadows. It uses a blue accent color for prices (#2a5885) and green for the action button (#4CAF50). Elements are sized for readability - 1.2rem for headers, 1rem for main text. The layout is vertical with clear visual separation between options using borders and spacing. These choices enhance usability: sufficient contrast for readability, clear visual hierarchy, and ample spacing for touch targets on mobile.
+
+    Question 2: This widget typically appears during checkout after the user enters their shipping address. It's triggered when the system needs shipping method selection before proceeding to payment. The appearance might be animated with a slide-in or fade-in effect to draw attention to this required step.
+
+    Question 3: Users can: 1) Select one shipping option via radio buttons, 2) Toggle optional add-ons with checkboxes, 3) See price updates when changing selections, 4) Click "Continue" to proceed. The widget provides immediate visual feedback - selected options are clearly marked, and prices are prominently displayed. Hover effects on the button enhance interactivity.
+    -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with a dark blue header (#2c3e50) and white body. It's 350px wide with rounded corners and a subtle shadow. Items have 60px square thumbnails, clear product names in bold, and red prices (#e74c3c) for visibility. The layout is organized with proper spacing between elements. These choices ensure readability, highlight important information (like prices), and create a professional appearance that matches most e-commerce sites.
+
+    Question 2: The widget appears when clicking the shopping cart icon (a red circular button with a cart emoji) positioned fixed at the top-right of the screen. The icon always shows the current item count. Clicking either the icon or the close button (×) in the widget's header toggles the widget's visibility.
+
+    Question 3: Users can: 1) View all cart items with images, names, prices, and quantities, 2) Adjust quantities with +/- buttons, 3) Remove items entirely (✕ button), 4) See a running total, and 5) Proceed to checkout via the prominent red button. The widget can be closed by clicking the × or clicking outside (though this functionality isn't shown in the code).
+    -->

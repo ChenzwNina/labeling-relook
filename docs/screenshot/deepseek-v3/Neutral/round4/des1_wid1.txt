@@ -1,0 +1,7 @@
+Question 1: The widget features a gradient banner with deal items in cards. I chose a vibrant gradient (#ff6b6b to #556270) for visual appeal, with white text for contrast. Deal cards have semi-transparent backgrounds for depth, hover effects for interactivity, and clear pricing hierarchy. The layout is responsive with centered items for balance. These choices create an attractive, scannable component that highlights savings while maintaining readability.
+
+    Question 2: The banner appears automatically on page load as it's placed in the document body. In a real implementation, it could be triggered by user behavior (first visit, returning after time away), session storage (if not recently seen), or timed pop-ups during promotional periods.
+
+    Question 3: Users can: 1) View multiple deals at once in the scrolling container, 2) Hover over deal cards for subtle elevation effects, 3) Click on deals (though not implemented here, this would link to product pages), and 4) Close the banner entirely using the × button, which would typically hide it for the session.
+    -->
+</body>

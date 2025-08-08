@@ -1,0 +1,7 @@
+3.1 Question 1: The sign-in component uses a clean, modern card design with a white background, rounded corners, and subtle shadow for elevation. The container is 360px wide, centered, with 32px padding. The top displays an e-commerce logo (placeholder_image.jpg) and "Sign In to ShopMate" title. Input fields use soft gray backgrounds and blue focus borders. Buttons use a branded #0654ba blue for strong CTA contrast, with hover darkening. The "Forgot password" and "Create an account" links use blue to stand out, following standard e-commerce patterns. Font sizes are balanced for clarity and hierarchy. The mobile breakpoint ensures usability on small screens. These choices prioritize clarity, accessibility, and trust, mimicking leading retail platforms.
+
+3.2 Question 2: The widget appears when a user selects "Sign In" from the website’s navigation or when an action requires user authentication (e.g., wishlisting, accessing order history, or at initial checkout steps).
+
+3.3 Question 3: Users can enter their email and password, toggle “Remember me,” and submit the form to sign in. They can click "Forgot password?" to initiate password recovery or “Create an account” to access registration. Input fields have focus styles for accessibility. “Sign In” is disabled if form is incomplete. All interactive elements provide visual feedback (hover, focus). There’s no drag, resize, or dismiss for this static card.
+
+-->

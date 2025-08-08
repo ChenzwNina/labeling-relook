@@ -1,0 +1,5 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background for product cards, a vibrant orange (#e44d26) for prices and buttons to draw attention, and gold (#f1c40f) for ratings to highlight quality. The grid layout adapts to screen size, with each card at least 250px wide for visibility. Hover effects (lift and shadow) create interactivity, encouraging clicks. These choices maximize sales and conversion by focusing on visual appeal and ease of navigation. -->
+    <!-- Question 2: The widget appears statically at the top of the page (with a 20px margin) as a primary section for featured products. It loads on page entry to immediately engage users, reducing bounce rate and increasing time on site. -->
+    <!-- Question 3: Users can hover over product cards for visual feedback (lift effect), click "Add to Cart" buttons to initiate purchases, and potentially click on product images or titles to view detailed pages (though not coded here). These interactions drive conversions, reduce cart abandonment, and encourage deeper site exploration. -->
+</body>

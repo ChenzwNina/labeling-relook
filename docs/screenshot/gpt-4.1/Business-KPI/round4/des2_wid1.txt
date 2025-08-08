@@ -1,0 +1,7 @@
+4.1: The widget uses a clean white background with soft blue and accent colors to draw attention and create trust. Category icons (placeholder images) are large and easy to tap or click (36px on desktop, 26px on mobile). Category labels are clear, bold, and below the icons, with eye-catching offer badges in color to stimulate urgency or savings. A subtle box-shadow and border-radius create a floating, modern look, and a horizontal layout ensures all main categories are visible at a glance. On hover or keyboard focus, the background changes to a soft blue; active category is more accented. Dropdowns for sub-categories encourage exploration. These design choices maximize conversion, order size, time on site, and minimize bounce/shopping cart abandonment.
+
+4.2: This widget appears at the top of every page view immediately as the site loads (fixed with a 20px top margin). Its persistent presence makes it easy to navigate across categories at any stage of the user journey.
+
+4.3: Users can click or tap any main category to visit or select it (active state); each category supports keyboard navigation for accessibility. Hovering or focusing shows sub-category dropdowns (clickable) for deeper browsing. Eye-catching offers can be clicked to go to deals/promotions. Responsive design allows horizontal scrolling of categories on mobile. All interactions reinforce engagement and minimize abandonment.
+
+-->

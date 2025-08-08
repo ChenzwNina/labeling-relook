@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and blue accent color for the search button. The search input is large (800px max-width) with ample padding (12-15px) for easy interaction. I chose these elements for accessibility and visual hierarchy - the blue button draws attention to the primary action, while the clean layout reduces cognitive load. The rounded corners (4-8px radius) and subtle shadow create a friendly, approachable feel consistent with ecommerce best practices.
+
+    Question 2: This widget would typically appear in the website header, visible at all times for immediate access. Alternatively, it could be triggered by clicking a search icon in mobile views or appear as an expanded version when users focus on a smaller search field. The persistent visibility ensures search functionality is always available, which is crucial for ecommerce conversion.
+
+    Question 3: Users can: (1) Type search queries in the input field, (2) Click the search button or press Enter to submit, (3) Filter results using dropdown menus for categories, price, and sorting, (4) Click recent search tags to repeat previous searches. The hover effects on interactive elements provide visual feedback, and the layout adapts to different screen sizes for responsive interaction.
+    -->

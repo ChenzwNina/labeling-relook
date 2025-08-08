@@ -1,0 +1,29 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a vertical panel with a fixed width of 380px, positioned on the top-right of the screen. It has a clean, modern aesthetic with rounded corners and a subtle drop shadow for depth. 
+
+The layout is structured into three distinct sections: a header, a scrollable item list, and a footer. 
+- **Colors:** The primary color scheme is white (#FFFFFF) for the background and dark grey (#1a1a1a) for text, ensuring high readability. The main call-to-action button, "Proceed to Checkout," is a vibrant blue (#007bff) to draw the user's eye and encourage clicks. Positive reinforcement, like the free shipping message, uses green (#28a745).
+- **Sizing:** A clear visual hierarchy is established with a large title (20px), standard product text (16px), and smaller metadata (14px). Generous padding (24px) creates a spacious, uncluttered feel.
+
+These choices are deliberate. The clean layout minimizes cognitive load, making it easy for users to review their items. The high-contrast CTA directly targets conversion rate (Rule 3.2). The free shipping progress bar gamifies the experience, encouraging a larger order size (Rule 3.3). This design builds trust and reduces friction, directly addressing the goal of minimizing cart abandonment (Rule 3.8).
+
+4.2 Question 2: What triggers the appearance of this widget?
+
+The primary trigger for this widget's appearance is a direct user action: clicking on a shopping cart icon, which is universally understood and located in the website's main navigation header. This user-initiated approach is crucial as it is non-intrusive and respects the user's browsing flow, which helps minimize bounce rate (Rule 3.9). The user decides when they want to review their cart, making the interaction expected and welcome.
+
+A secondary trigger could be implemented to briefly show the cart after a user adds an item, providing immediate visual confirmation that the action was successful. However, this pop-up should automatically dismiss after a few seconds to avoid disrupting the shopping experience. The main, persistent appearance of the widget should always be controlled by the user clicking the cart icon. This ensures the design maximizes user control and minimizes potential annoyance.
+
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a comprehensive set of interactions designed to be intuitive and efficient, supporting the goal of a frictionless checkout process.
+1.  **Open/Close:** Users click the main site's cart icon to open the widget and can close it by clicking the '×' button.
+2.  **Review Items:** They can scroll through a clear list of products, each showing an image, name, selected options (like size/color), and price.
+3.  **Adjust Quantity:** "+" and "-" buttons next to each item allow for instant quantity adjustments without leaving the page.
+4.  **Remove Item:** A "Remove" link next to each item offers a simple way to delete products from the cart.
+5.  **Proceed to Checkout:** The primary, high-visibility "Proceed to Checkout" button takes them to the next step in the sales funnel, maximizing conversion (Rule 3.2).
+6.  **Continue Shopping:** A secondary link allows users to close the widget and seamlessly return to browsing, which helps increase time on site and page views per visit (Rules 3.5, 3.6).
+7.  **Monitor Progress:** The free shipping progress bar provides real-time feedback, encouraging users to add more items to reach the threshold, thus increasing average order size (Rule 3.3).
+
+-->
+</body>

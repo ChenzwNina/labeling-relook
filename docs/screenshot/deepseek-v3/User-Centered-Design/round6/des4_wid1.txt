@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, card-based grid layout with white product cards on a light gray background. Each card has a 200px tall product image, clear product title (16px), prominent price in blue (#2a5885), and a green "Add to Cart" button. The design choices prioritize readability, visual hierarchy, and mobile responsiveness while using color psychology (green for action) to encourage conversions.
+
+    Question 2: This product list widget would typically appear on a category page when users browse products, or as a "Featured Products" section on the homepage. It loads automatically when the page renders, triggered by the initial page load or navigation to a product category.
+
+    Question 3: Users can: 1) View product images and details, 2) Click "Add to Cart" to purchase (would trigger cart update in full implementation), 3) Hover over cards for subtle elevation effect (visual feedback), and 4) In a full implementation, could click product titles/images to view details pages. The responsive grid adapts to different screen sizes.
+    -->

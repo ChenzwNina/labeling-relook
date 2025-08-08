@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation. It uses a two-column layout for shipping options and add-ons, with each item in a light gray box for contrast. Colors like green (#27ae60) highlight prices and selections, aligning with common e-commerce branding for trust and positivity. Text sizes are hierarchical (1.5rem for titles, smaller for descriptions) for readability. The design is responsive, adapting to smaller screens by stacking columns. These choices ensure clarity, usability, and a professional look typical of e-commerce platforms. -->
+
+    <!-- Question 2: This widget appears during the checkout process, typically after users add items to their cart and proceed to finalize their purchase. It is triggered when the user reaches the shipping and payment section of the website, ensuring they can select delivery preferences and optional services before confirming the order. -->
+
+    <!-- Question 3: Users can interact with the widget by clicking on shipping options to select their preferred delivery method, visually indicated by a green border and background. They can also toggle checkboxes for add-ons like gift wrapping or warranty. Hover effects provide feedback on clickable items, enhancing usability. These interactions allow users to customize their order fully before proceeding to payment. -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The deals banner spans the full width of the viewport with a vibrant gradient background transitioning from red (#ff4e53) to orange (#ff8e53) to grab attention. The text is white for contrast, bold, and uppercase for urgency. Elements are centered with a max-width of 1200px for readability. The CTA button is white with red text, providing a striking contrast, and includes a hover effect for interactivity. A countdown timer adds urgency. These choices maximize visibility, urgency, and conversion by drawing users to time-sensitive offers.
+
+Question 2: The banner appears on page load for all users, positioned at the top (20px margin) to ensure immediate visibility without obstructing content. It remains fixed during scrolling to maintain prominence, targeting users site-wide to promote current deals.
+
+Question 3: Users can interact with the banner by clicking the "Shop Now" CTA button, which directs them to the deals page. Hovering over the button triggers a subtle color change for feedback. The banner itself isn’t dismissible to maintain visibility, encouraging prolonged engagement with the promotion.
+-->

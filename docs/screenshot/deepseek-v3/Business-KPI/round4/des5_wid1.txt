@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, white panel (280px wide) with subtle shadows for depth. Sections are divided by light borders, with bold titles (16px) and smaller option text (14px). Checkboxes are aligned with labels, and the price range includes a slider with numeric inputs. The green "Apply" button provides clear action. This design ensures readability, visual hierarchy, and mobile-friendly spacing while maintaining a professional ecommerce aesthetic.
+
+    Question 2: This filter panel would typically appear persistently on product listing pages, either as a sidebar (desktop) or in a collapsible drawer (mobile). Some implementations might show it only when a "Filter" button is clicked, especially on mobile devices where screen space is limited.
+
+    Question 3: Users can: 1) Select/deselect category/brand checkboxes, 2) Adjust price range via slider or direct numeric input, 3) Apply all filters with the button. The panel could be enhanced with expand/collapse sections, color swatches, or rating filters. Feedback (like product counts) would improve the experience.
+    -->
+</body>

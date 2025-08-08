@@ -1,0 +1,6 @@
+Question 1: The search panel has a clean, modern design with a white background and subtle shadow for elevation. The logo uses a vibrant tomato color (#ff6347) for brand recognition, while the search bar is wide and centrally placed for prominence, with rounded edges for a friendly feel. The search button matches the logo color for consistency and has a hover effect for interactivity. Navigation links on the right are simple and dark for clarity. These choices prioritize usability and visual appeal to encourage engagement, maximize conversions, and reduce bounce rates.
+
+Question 2: The search panel appears persistently at the top of the viewport on every page of the e-commerce site. It is fixed in position to ensure constant accessibility, allowing users to search or navigate at any time without scrolling, thus enhancing user experience and time on site.
+
+Question 3: Users can interact with the search panel by typing queries into the search input field and clicking the search button to initiate a search. They can click the logo to return to the homepage, and use navigation links to access deals, cart, or account pages. Hover effects on the button and links provide visual feedback, encouraging clicks and increasing page views per visit.
+*****Response***** -->

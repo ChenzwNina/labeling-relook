@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based design with a white background, subtle shadow, and rounded corners. The image occupies the top (280x200px), followed by product info below. I used a blue accent color ($2a5885) for price and primary button to draw attention to key elements. The layout is organized hierarchically with title, rating, description, price, and action buttons. These choices create visual hierarchy, ensure readability, and make the product stand out while maintaining a professional e-commerce aesthetic.
+
+    Question 2: This widget appears as part of a product listing page, category page, or search results in an e-commerce site. It can also appear in recommendation sections ("Customers also viewed") or as a featured product on the homepage. The component is triggered by the page loading or dynamic content loading when users browse products.
+
+    Question 3: Users can: 1) Hover to see a subtle lift effect, 2) Click "Add to Cart" to add the item, 3) Click "View Details" to see the full product page, and 4) Click the image to zoom/enlarge it. The design includes visual feedback for all interactions (hover states, button presses) to confirm user actions. The component could be extended with quick-view functionality on hover.
+    -->
+</body>

@@ -1,0 +1,22 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a modal dialog, centered horizontally and fixed 20px from the top of the viewport. It has a clean, modern look with a white background, rounded corners, and a subtle box shadow to lift it off the page. The layout is a single column with clear visual hierarchy. A large, bold headline ("Wait, don't go!") grabs attention, followed by smaller informational text.
+
+Colors are chosen for user guidance and readability. Dark gray text on white provides high contrast. The "Keep My Benefits" button is a prominent, solid blue—a positive and reassuring color—to make it the primary focal point. Conversely, the "Proceed to Cancel" button is a secondary "ghost" style with a simple border and gray text, de-emphasizing it. This design intentionally nudges the user to reconsider cancellation by highlighting the value they're keeping (the benefits list with checkmarks) and making the path to retention the easiest, most visually appealing option.
+
+### Question 2: What triggers the appearance of this widget?
+
+This widget is triggered when a logged-in user with an active membership navigates to their account settings or subscription management page and clicks on a link or button explicitly labeled "Cancel Membership." It is not a surprise pop-up; it's a crucial intermediate step in the cancellation flow. Its purpose is to act as a confirmation dialog and a final retention effort before the user permanently cancels their subscription. It appears in direct response to a user's clear intent to end their service, giving the business one last chance to present the value proposition.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three primary interactions with this widget:
+
+1.  **Keep Membership:** Clicking the blue "Keep My Benefits" button. This is the main retention path. This action would close the widget and abort the cancellation process, returning the user to their account page with their membership still active.
+
+2.  **Proceed to Cancel:** Clicking the secondary "No Thanks, Proceed to Cancel" button. This respects the user's initial decision. It would close the current widget and navigate the user to the final step of the cancellation process, which might be a final confirmation screen or a short exit survey.
+
+3.  **Dismiss:** Clicking the 'X' icon in the top-right corner. This is a low-effort way for a user to back out. Functionally, it should be treated the same as clicking "Keep My Benefits," closing the modal and keeping the membership active, thus cancelling the cancellation request.
+
+-->
+</body>

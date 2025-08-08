@@ -1,0 +1,7 @@
+Question 1: The widget features a gradient banner (red to dark blue) with white text for high contrast. Deal items are in semi-transparent cards that lift slightly on hover. The layout uses flexbox for responsive spacing. These choices create visual appeal while maintaining readability, with the gradient drawing attention and hover effects encouraging interaction.
+
+    Question 2: The banner appears immediately when the page loads, positioned at the top for maximum visibility. It could alternatively be triggered by user behavior (like adding to cart) or timed to appear after a delay.
+
+    Question 3: Users can: 1) View multiple deals at once, 2) Hover over deals for visual feedback, 3) Click deals to navigate to relevant products, and 4) Close the banner entirely using the X button. Each interaction is designed to be intuitive with clear visual cues.
+    -->
+</body>

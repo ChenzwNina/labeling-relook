@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, white background with a subtle shadow for elevation, ensuring visibility. It uses a gold color (#f1c40f) for star ratings to attract attention and a blue (#007bff) for interactive buttons, indicating clickable elements. Text is in neutral tones (#333, #555) for readability. The layout is centered with a max-width of 1200px for consistency across devices, and elements like reviews are spaced with padding and gaps for clarity. These choices enhance user focus and align with e-commerce design standards for trust and usability.
+
+Question 2: This widget appears on a product detail page, triggered when a user navigates to view specific item information. It loads automatically below the product description to provide social proof and influence purchasing decisions.
+
+Question 3: Users can interact by reading detailed reviews to assess product quality. They can click "Helpful" to upvote useful feedback, providing community input, or "Report" to flag inappropriate content, with disabled states preventing multiple actions. Hover effects on buttons offer visual feedback, ensuring users understand their interactions are recognized.
+-->

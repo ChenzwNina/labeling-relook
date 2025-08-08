@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design with white background and subtle shadows for depth. Shipping options are presented as cards with light borders that turn blue when selected. I used a blue color scheme for prices and selections as it conveys trust. The layout is organized with clear section headings, adequate spacing, and responsive design. These choices improve readability and create a professional, user-friendly interface.
+
+    Question 2: This widget would typically appear during the checkout process after the user enters their shipping address. It might also appear when users click a "Shipping Options" button in their cart summary. The timing ensures users see relevant shipping choices based on their location before finalizing the order.
+
+    Question 3: Users can: 1) Select one shipping method by clicking radio buttons, 2) Choose multiple optional add-ons via checkboxes, 3) See price differences immediately, 4) View estimated delivery times, and 5) Hover over options for visual feedback. The widget provides immediate visual confirmation of selections to create a responsive experience.
+    -->
+</body>

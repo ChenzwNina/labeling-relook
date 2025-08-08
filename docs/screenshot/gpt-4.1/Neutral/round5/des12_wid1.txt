@@ -1,0 +1,9 @@
+Question 1:
+The widget is a centered, white rounded box with a gentle shadow, measuring 400px wide (responsive on mobile). The title "Create Your Account" appears at the top, followed by a short benefit statement. Three input fields (Full Name, Email, Password) with soft backgrounds and clear labels are stacked vertically, each separated by margin. The blue "Create Account" button spans the form width and intensifies color on hover. Below is a sign-in link for existing users. The design uses soft blues, whites, clear labels, and generous padding for trust, clarity, and a modern look.
+
+Question 2:
+This widget is typically triggered when a user clicks "Sign Up" or "Create Account" on the e-commerce website's navigation bar or in a checkout flow, or if they attempt to access features (wishlist, personalized offers) requiring an account.
+
+Question 3:
+Users can interact by entering values into the Full Name, Email, and Password fields (with validation as per HTML5). Clicking "Create Account" submits the form to begin account creation. There's also a "Sign In" link for users with existing accounts. Field backgrounds highlight on focus for usability. On mobile, layout adapts for readable, accessible touch interaction.
+-->

@@ -1,0 +1,8 @@
+Question 1:
+  The widget is a clean, centered sign-in card with a white background (#fff), soft box shadow, and rounded corners for a friendly, premium look. The main action button is a blue-teal gradient, which stands out to encourage Sign In. Key links (Forgot Password, Create Account) use blue to attract attention. Fields have clear labels, wide spacing, and focus highlights for usability. Social sign-in options are also visible. The logo is top-center, and the overall layout follows modern e-commerce best practices for familiarity, reducing friction and bounce. Choices maximize trust, brand recall, and conversion.
+
+  Question 2:
+  The widget appears at the top of the page whenever users click "Sign In" or on some protected, personalized features (e.g., 'Track Orders'), or may optionally be shown as the top component on the homepage if the user is not signed in.
+
+  Question 3:
+  Users can enter their email/password, use "Remember me," recover their password, sign in with Google or Facebook, or click to register. Entered credentials trigger input validation, with errors clearly displayed. Both keyboard and mouse navigation are supported, and interactive states for links/buttons improve engagement quality. Social login enables frictionless sign-in, and calls-to-action (exclusive offers, register) encourage further interaction, thus reducing abandonment/bounce and increasing time spent on site.

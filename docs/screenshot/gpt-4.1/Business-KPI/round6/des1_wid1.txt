@@ -1,0 +1,15 @@
+4.1 Question 1: The widget is a visually prominent banner, 1200px wide (full width on smaller screens), set 20px from the top. The color scheme uses a cheerful yellow gradient background (#fde68a to #fbbf24), denoting excitement and urgency. The left shows a rounded product/brand promo image (120px), followed by bold compelling headline text, dynamic deal buttons for major categories, and a bright red call-to-action button. A soft shadow and large close icon ensure it is noticeable but not intrusive. All text and buttons are generously sized for easy readability and tap targets.
+
+  These choices maximize attention, stimulate urgent action, and drive users to high-revenue categories, supporting all nine goals: sale/conversion uplift, order size growth, advertising, and retention, while allowing unobtrusive dismissal to minimize irritation.
+
+  4.2 Question 2: The banner appears shortly after page load (top of viewport) on all major e-commerce landing, category, and product pages, or whenever a new deal period starts. It’s triggered by current flash-sales or featured deal campaigns and remains until the user closes it (state can be stored via cookies/localStorage to avoid repeated display).
+
+  4.3 Question 3: 
+  Users can:
+  - Click the close (×) button to dismiss the banner, eliminating distraction.
+  - Click any deal pill button to instantly view promoted sale categories.
+  - Click the prominent "Shop Flash Deals" button to enter the main deals event/landing page.
+  - Click "Discover More Offers" to visit additional internal or external branded/advertiser offers.
+  All elements have large, easy tap zones encouraging frequent interaction on both desktop and mobile.
+  -->
+</body>

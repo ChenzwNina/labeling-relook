@@ -1,0 +1,20 @@
+* Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The search panel is a clean, white, rectangular widget with soft, rounded corners, centered at the top of the viewport. It has a subtle shadow to make it float above the page content, drawing attention to it.
+The main elements are a large search input field and a prominent search button. The input field has a light grey border that turns into a vibrant blue with a soft glow when focused, providing clear feedback. The search button is solid blue with a white magnifying glass icon, a universally understood symbol for search.
+Below the search bar, there is a "Trending Now" section with clickable, pill-shaped tags in a lighter blue. This layout follows a clear visual hierarchy, guiding the user's eye from the primary action (typing a search) to secondary, helpful suggestions. The color scheme (white, grey, and a primary blue) is modern, creates high contrast for readability, and uses color to signify interactive elements, ensuring functions are highly visible.
+
+* Question 2: What triggers the appearance of this widget?
+
+The primary search bar component is designed to be persistently visible at the top of the e-commerce site, ensuring the search function is always accessible. However, the full panel, including the "Trending Now" suggestions, could be triggered by a user action. A common and effective implementation is to have the suggestions area appear with a smooth fade-in animation only when the user clicks into or focuses on the search input field. This design keeps the interface clean for users who are just browsing but provides immediate, helpful context for those who intend to search. This approach supports efficient task execution by anticipating user needs without cluttering the default view.
+
+* Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can perform several intuitive actions with this widget.
+1.  **Focus and Type:** A user can click inside the input field, which will highlight with a blue border, and begin typing their search query.
+2.  **Submit Search:** After typing, the user can either press the 'Enter' key on their keyboard or click the blue search button to submit the form and navigate to the search results page.
+3.  **Hover Feedback:** Users can hover their mouse over the search button and the trending suggestion links. This provides visual feedback—the button darkens, and the links get a border and change color—clearly indicating that these elements are clickable (affordance).
+4.  **Clicking Suggestions:** Instead of typing, a user can directly click on one of the "Trending Now" links (e.g., "Smart Watch"). This acts as a shortcut, immediately taking them to the search results page for that specific term, making the discovery process more efficient.
+-->
+
+</body>

@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, centered white card (380px wide) with soft shadows on a light gray background. Input fields have ample padding (12px) with light borders that turn blue on focus. The submit button is full-width with blue coloring that darkens on hover. Error messages appear in red below fields. This design prioritizes clarity and usability with sufficient spacing, visual feedback, and a professional color scheme that aligns with e-commerce trustworthiness.
+
+    Question 2: This widget would typically appear when a user clicks a "Sign Up" or "Create Account" button in the website's header/navigation, or when attempting to checkout without an account. It might also appear as a modal overlay when clicking promotional CTAs encouraging account creation.
+
+    Question 3: Users can: 1) Fill in form fields (name, email, password), 2) See real-time validation (like password matching), 3) Submit the form (with error handling), 4) Click the login link to switch to sign-in, and 5) Receive visual feedback (field focus states, error messages, success alerts). The form prevents submission until all validations pass.
+    -->
+</body>

@@ -1,0 +1,7 @@
+Question 1: The widget is a card positioned 20px from the top, centered, with a white background, subtle rounded corners, and soft box-shadow. The title section is left-aligned, using dark gray for visibility, with secondary details in muted blue-gray. The progress bar has large colored steps (green for completed, blue for active, gray for pending), a connecting line with gradients, and descriptive labels below each circle. Product info includes a 60x60px image, product name, status (blue), estimated delivery (gray), and shipping address in a light blue-gray box. These choices prioritize clarity, natural e-commerce hierarchy, and visual feedback.
+
+  Question 2: The widget usually appears immediately when a user selects an order from their order history page or clicks an “Order Tracking”/”View Details” button in their account dashboard.
+
+  Question 3: Users can view real-time tracking progress, click "View Details" (potentially to see the order invoice or shipment logs), review product and delivery info, confirm shipping destination, and understand their order's journey. On mobile, the layout adapts responsively. The progress bar is visually interactive but not directly clickable in this version.
+  -->
+</body>

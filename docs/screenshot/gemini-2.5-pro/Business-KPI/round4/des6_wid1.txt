@@ -1,0 +1,29 @@
+### Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The product card has a clean, modern aesthetic with a vertical layout designed for clarity and conversion. The largest element is the square product image at the top, ensuring the product is the hero. It's adorned with a high-contrast red "SALE" badge to immediately signal value.
+
+Below the image, the product information is structured hierarchically. The product name is prominent in a bold, dark font, followed by social proof: a 4-star rating and a high review count in a smaller, subtler font. The price is large and bold, with the discounted price in dark text and the original, higher price struck-through in a lighter gray to emphasize the savings.
+
+The color palette is primarily neutral (white, grays, dark blue-gray text) to maintain focus on the product, with a vibrant blue for the primary "Add to Cart" button. This high-contrast CTA draws the user's eye and encourages clicks. This entire design is crafted to present information logically, build trust, and guide the user's eye directly to the conversion-focused elements, maximizing sales potential.
+
+### Question 4.2: What triggers the appearance of this widget?
+
+This component is a fundamental part of the website's structure and appears instantly on page load. It is not triggered by a specific user action like a pop-up or modal. You would typically find this widget rendered as part of a larger collection on key e-commerce pages.
+
+For instance, it would appear in a grid on:
+1.  **Product Listing Pages (PLPs):** When a user navigates to a category like "Men's Running Shoes."
+2.  **Search Results Pages:** After a user searches for a term like "running shoes."
+3.  **Homepage Carousels:** Featured in sections like "New Arrivals," "Best Sellers," or "You Might Also Like."
+
+Its purpose is to provide a scannable, informative snapshot of a product, allowing users to compare items and make quick decisions without needing to click into every single product detail page, thereby improving the browsing experience and minimizing bounce rate.
+
+### Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several points of interaction designed to increase engagement and guide them towards a purchase.
+
+1.  **Card Hover:** Hovering the cursor anywhere over the card causes it to lift slightly with a soft shadow effect, signaling that the entire component is clickable and leads to the product's detail page.
+2.  **Image Hover:** Hovering over the product image makes it zoom in slightly, offering a better look at the product's details and encouraging further interest.
+3.  **Color Swatch Interaction:** Users can hover over the small color circles to see them scale up, indicating interactivity. Clicking on a swatch would (in a live application) change the main product image to that color variant and select that option for purchase.
+4.  **Button Interaction:** The "Add to Cart" button changes color on hover to provide clear visual feedback. Clicking the button adds the item to the shopping cart. An active press-down state provides tactile feedback, confirming the click has been registered. This direct action helps minimize the steps to purchase, reducing cart abandonment.
+-->
+</body>

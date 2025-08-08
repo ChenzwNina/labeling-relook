@@ -1,0 +1,27 @@
+-->
+    <!-- 
+        Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+        
+        The component is a horizontal banner with soft, rounded corners and a subtle shadow, giving it a clean, modern appearance that floats above the page content. 
+        
+        - Layout: It uses a flexbox layout. A square product image (120x120px) is on the left. To its right, product details (brand, title, rating, price) are stacked vertically. On the far right are the action buttons. This layout is scannable, presenting the visual, information, and action zones from left to right.
+        - Colors: The background is white for a clean look. Text is primarily dark gray (#333) for readability. The discounted price is a prominent green (#28a745) to draw attention to the savings. The primary call-to-action button ("Add to Cart") is a vibrant blue (#007bff) to stand out, a common and effective e-commerce practice.
+        - Elements: Typography creates a clear hierarchy. The product title is the largest text element, followed by the price. The brand and review count are smaller and lighter in color, providing secondary information without cluttering the design. These choices are made to guide the user's focus efficiently from what the product is, to its social proof and value, and finally to the desired actions.
+    -->
+    <!-- 
+        Question 2: What triggers the appearance of this widget?
+
+        This component is designed as a promotional banner, positioned fixed at the top of the viewport. Its appearance would typically be triggered by a marketing or site-wide promotional event. For example, it could appear for all users to showcase a "Deal of the Day" or a "Featured Product". Alternatively, its appearance could be more personalized, triggered by user behavior such as viewing products in a similar category, triggering a targeted upsell, or a special offer for returning customers. Given its prominent, persistent placement, it's best suited for high-priority items or offers that the business wants to ensure every visitor sees upon entering the site or a specific section.
+    -->
+    <!-- 
+        Question 3: Can you describe the full range of interactions users can have with the widget?
+        
+        Users have several clear interaction points designed to lead them through the conversion funnel:
+
+        1.  **Dismissing the Banner**: A user can click the '×' button in the top-right corner to close the component, allowing them to browse the site without the banner if they are not interested.
+        2.  **Exploring the Product**: Clicking on the product image or title would navigate the user to the full product detail page, where they can see more images, read a detailed description, and select other options.
+        3.  **Adding to Wishlist**: The heart icon serves as a "wishlist" button. Clicking it toggles its state (filling it with red), providing visual feedback that the item has been saved for later.
+        4.  **Adding to Cart**: The primary "Add to Cart" button is the main call-to-action. Clicking it would add the item to the user's shopping cart. In a live implementation, this action would often be followed by feedback, such as the button's text changing to "Added!" or a mini-cart view sliding in.
+        5.  **Hover Effects**: Hovering over the buttons provides visual cues (color changes) that they are clickable, improving usability.
+    -->
+</body>

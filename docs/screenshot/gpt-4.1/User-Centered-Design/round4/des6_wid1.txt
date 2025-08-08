@@ -1,0 +1,10 @@
+Question 1:
+    The widget is a horizontal card with a white background, rounded corners, and a subtle shadow, sized for clarity (max width 480px, responsive on smaller screens). It features a left-aligned product image in a soft-gray rounded container, with product details to the right: title in bold navy, price in bold green, old price struck-out, a yellow discount badge, and a rating row with a prominent gold star. The description is concise, and primary actions Use blue and red buttons with clear icons for "Add to Cart" and "Add to Wishlist". This color scheme is attractive, accessible, and familiar for e-commerce, guiding the eye to key actions.
+
+    Question 2:
+    This widget appears as part of a product listing or search results page, or as a featured/related item. It's displayed by default for each item in a list—no special trigger is required; it loads as the page renders.
+
+    Question 3:
+    Users can click/tap the product title or image to view detailed product info. The "Add to Cart" button is primary—when clicked, a disabled state gives immediate feedback, preventing duplicate actions. The "Wishlist" (heart) button triggers adding to the user's wishlist. Both actions provide clear affordances (button icons/colors) and are keyboard-accessible (tab/focus states). Hover/focus states provide visual feedback as well.
+  -->
+</body>

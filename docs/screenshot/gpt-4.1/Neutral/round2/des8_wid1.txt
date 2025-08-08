@@ -1,0 +1,7 @@
+1. The widget is a fixed panel at the top center of the viewport, with a 20px margin from the top. It has a clean white background, shadow, and rounded corners for a modern look. The header uses a dark navy (#232f3e) for brand distinction, with bold white text and a close button. Each cart item is displayed with a product image, title, price, quantity badge, and a red 'remove' icon. The total price is bolded below, and there are two prominent buttons: 'Checkout' (in orange) and 'View Cart' (in dark navy). The design is compact yet readable (~420px wide), resembling top ecommerce sites, ensuring clarity and strong call to actions.
+
+2. The shopping cart widget appears when a user clicks on the cart icon in the website's navigation, or automatically after adding an item to their cart. It is intended to overlay the current page without navigation, providing immediate cart access and summary.
+
+3. Users can: close the cart with the 'X' button at the top, view cart items with product info and quantity, remove items (using the cross icon per item), click 'Checkout' to begin the purchase process, or 'View Cart' to go to the cart details page. Scroll is enabled for long lists. All actions provide instant feedback, with item removal updating the total, and closing the widget returning the user to shopping.
+
+-->

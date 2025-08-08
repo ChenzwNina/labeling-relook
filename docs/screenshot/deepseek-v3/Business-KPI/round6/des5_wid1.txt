@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design with a light gray background (#f8f9fa) and subtle shadow for depth. It's 280px wide with ample padding (20px) and rounded corners (8px). Section titles are bold (16px) with options in smaller text (14px). Checkboxes are aligned with labels, and the price range includes a slider and numeric inputs. The "Apply" button is blue (#007bff) for visibility. These choices prioritize readability, usability, and visual hierarchy while maintaining a neutral aesthetic that fits most ecommerce sites.
+
+    Question 2: This widget would typically appear when a user clicks a "Filter" button on a product listing page or automatically on desktop views where space permits. On mobile, it might appear as a modal overlay triggered by a filter icon tap.
+
+    Question 3: Users can: 1) Check/uncheck category/brand options, 2) Adjust price range via slider or direct input, 3) Clear all selections with "Clear all", and 4) Apply filters with the "Apply" button. The widget provides immediate visual feedback for all interactions (checked states, slider movement, input validation).
+    -->
+</body>

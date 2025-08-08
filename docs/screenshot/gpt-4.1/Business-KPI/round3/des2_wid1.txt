@@ -1,0 +1,8 @@
+4.1: The widget displays a wide horizontal bar pinned 20px from the top, spanning the viewport's width, with a deep gray gradient background (#232526 to #414345), creating a premium, visually strong look. Each category is represented as a clickable tile featuring a circular icon and bold label, with prominent yellow highlight (#ffe600) on hover and for high-priority categories (Sale, Sponsored) to drive attention. Subcategories appear in a dropdown on hover/focus, with a bright white background and subtle elevation. Design choices are made for clarity, accessibility, and to visually distinguish high-margin/ad/sale sections without overwhelming users.
+  
+  4.2: This widget appears immediately on page load of any page on the e-commerce site except checkout or minimal pages. It's always visible (via position:fixed), making navigation and exploration instantly accessible to maximize exposure and conversion.
+  
+  4.3: Users can hover or focus (tab navigation supported) on any category to reveal subcategories as dropdowns, and click any item to navigate directly. The ‘Sale’ and ‘Sponsored’ buttons visually stand out to encourage clicks (ad CTR, offer discovery). The widget supports mouse, touch, and keyboard navigation (for accessibility). Users can explore trending campaigns/ads, discover offers, visit high-value pages, and seamlessly jump across sections, all without scrolling, keeping engagement high and abandonment low.
+
+  -->
+</body>

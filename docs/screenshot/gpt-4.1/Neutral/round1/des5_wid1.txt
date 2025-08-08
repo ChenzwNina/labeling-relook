@@ -1,0 +1,9 @@
+Question 1:
+The widget features a horizontally-arranged, white filter panel with rounded corners and shadow, sitting 20px from the top, centered and spanning up to 1120px in width. Filter groups (Category, Brand, Price Range, Rating) use clean, light backgrounds and subtle borders in modern blue and neutral shades. Buttons are blue and gray, prominent and accessible. Design choices ensure clarity, ease of use, and a focus that matches e-commerce UX trends.
+
+Question 2:
+This widget appears at the top of product listing or search result pages, persistently visible for user convenience. It's meant to be always-present, making filtering easy during the shopping experience.
+
+Question 3:
+Users can select a product category, brand, and rating from dropdowns, enter minimum and maximum prices, and click “Apply Filters” to update product listings. The "Reset" button clears all selections for a fresh start. Component fields are keyboard accessible, and placeholder texts guide input. No advanced dynamic behavior is included in this markup.
+-->

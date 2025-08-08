@@ -1,0 +1,10 @@
+Question 1:
+    The widget is a horizontally oriented, modern featured products module with a white, rounded-corner, shadowed container that stretches to a maximum desktop width (~940px). The header features a bold “Featured Products” label and a blue “See all deals” link on the right. Below are four product cards, each with a pale background, soft shadow, and rounded corners. Each card displays a 120x120px image on a gray placeholder, the product name, price in teal-blue, and a blue rounded “Add to Cart” button. Cards grow slightly and drop shadow on hover. The color palette blends clean white backgrounds, navy/blue highlights, and small teal accents, for a professional, inviting look. Responsive adjustments stack/size elements for smaller screens. The design choices are made for clarity, visual hierarchy, and strong ecommerce appeal.
+
+    Question 2:
+    This widget appears automatically at the top section of the e-commerce homepage or landing pages—typically when the page finishes loading. Its purpose is to immediately showcase top or promoted items to visitors. No user trigger is required beyond visiting the relevant page.
+
+    Question 3:
+    Users can: (1) click “See all deals” to view a complete list of promotions; (2) hover over product cards to see a visual elevation effect; (3) click “Add to Cart” on any product to add it to their basket. Product images, names, and pricing are visible; clicking product images/names could be enhanced to go to product details. All features are accessible on both desktop and mobile via responsive layout changes.
+    -->
+</body>

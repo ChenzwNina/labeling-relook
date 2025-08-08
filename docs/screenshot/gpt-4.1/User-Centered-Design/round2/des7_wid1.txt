@@ -1,0 +1,14 @@
+Question 1:
+    The widget is a centered, white, rounded card with a soft drop shadow and 20px top margin for visual separation at the top. It is 400px wide and well-padded. The average rating (e.g., 4.6) is prominent with gold/orange star icons, instantly conveying quality. The breakdown uses labeled progress bars with orange fills for high visibility of star distributions, while review counts for each level are clear for transparency. All buttons/labels use a consistent, familiar style (rounded gold "Add Your Review" button, consistent font weights/sizes) to aid recognition and encourage action.
+
+    Question 2:
+    This widget appears at the top of the product page by default, making it highly visible as soon as users land on a product, facilitating informed purchasing decisions and easy review submission.
+
+    Question 3:
+    Users can: 
+    - Visually assess average rating and distribution of reviews.
+    - See the number of reviews at each rating level.
+    - Click the "Add Your Review" button to begin submitting a review (action not implemented here, but button is keyboard and screen reader accessible).
+    The widget includes clear feedback, such as interactive button styling, and disables the button to prevent non-logged-in users from submitting reviews (by setting disabled, if applicable).
+  -->
+</body>

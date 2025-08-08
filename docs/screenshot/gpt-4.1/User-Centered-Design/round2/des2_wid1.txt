@@ -1,0 +1,10 @@
+Question 1:
+The widget is a horizontal navigation bar with a crisp white background, rounded corners, and a subtle shadow for elevation. The logo ("ShopEase") is to the left, followed by navigable category buttons (“Electronics” pre-selected and highlighted blue). Each category uses 1rem font, with 10–18px padding for touch clarity. A vertical divider separates categories from a search field on the right. Color cues (blue for selected/active, light blue hover background) offer consistent interaction feedback. All elements are sized for clarity and efficiency, and responsive CSS adapts the bar for narrower screens.
+
+Question 2:
+This widget appears immediately upon page load, anchored at the top with a 20px margin. It typically features on main pages, category listing pages, or always at the top to enable swift category browsing.
+
+Question 3:
+Users can click or keyboard-navigate between category links, providing instant visual feedback via selection highlight. Clicking a category triggers navigation (implementation in JS, not shown here). The search input allows users to type category names and submit a search (search logic not included). The bar supports keyboard tabbing, highlighting, and accessibility via ARIA roles, providing efficient and clear guidance across devices.
+
+-->

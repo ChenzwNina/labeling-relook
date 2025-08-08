@@ -1,0 +1,7 @@
+4.1: The widget has a modern, soft-white panel design with subtle shadow and rounded edges for a premium feel. Brand logo and name ("ShopPrime") are at the top left, with a light red "Cancel Membership" button and a yellow "Pause Instead" button to encourage retention. Reasons for quitting are selectable via clear, spaced buttons; a special retention offer is highlighted in a green info box. Typography is clear and inviting, with mobile responsiveness. These choices aim to reduce cancellations and boost engagement, increasing loyalty and sales.
+
+  4.2: The widget appears when a logged-in user navigates to their account's membership settings and selects "Cancel Membership" or a similar cancellation option. It could also be triggered by intent detection (e.g., repeated account downgrades).
+
+  4.3: Users can: select a cancellation reason (enabling the cancel button), click "Cancel Membership" to execute cancellation, opt to "Pause Instead" (retaining membership), read/accept retention offers, close the widget, and contact support. Interactions are focused on reducing churn, providing alternatives, and giving support channels before final exit.
+
+  -->

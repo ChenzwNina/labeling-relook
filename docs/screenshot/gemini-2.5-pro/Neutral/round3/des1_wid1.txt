@@ -1,0 +1,22 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The deals banner is a rectangular component positioned 20 pixels from the top of the viewport. It features a rich, purple-to-blue gradient background which is modern and eye-catching, creating a premium feel. The text is white for high contrast and readability against the dark background. The layout is organized using flexbox for alignment. On the left, a festive "party popper" emoji adds visual flair, followed by a bold headline ("Mid-Season Mega Sale!") and smaller descriptive subtext. On the right, a bright yellow call-to-action (CTA) button immediately draws the user's eye, followed by a subtle 'X' to close.
+
+These design choices are intentional. The vibrant gradient and contrasting CTA are designed to capture attention without being overly aggressive. The clear typographic hierarchy ensures the main message is absorbed quickly. The entire banner is responsive, collapsing into a single-column layout on smaller screens to maintain usability and a clean look on mobile devices.
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is typically triggered on page load for any user visiting the website, especially on key entry pages like the homepage, category pages, or product pages. It serves as a sitewide announcement for a major sales event. Its purpose is to immediately inform visitors of the ongoing promotion as soon as they arrive. To enhance user experience, its appearance can be controlled by session data. For instance, if a user closes the banner, a cookie or session storage item could be set to prevent it from reappearing on subsequent page loads during that same visit, avoiding user annoyance.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three main interactions with the banner:
+
+1.  **Primary Action (Clicking the CTA):** The most desired interaction is clicking the "Shop the Sale" button. This action would navigate the user directly to a dedicated landing page that aggregates all products included in the promotion, facilitating the user's journey towards a purchase.
+
+2.  **Dismissal (Closing the Banner):** Users who are not interested can click the '×' button. This will immediately hide the banner from their view, allowing them to browse the site without obstruction. Ideally, this action is remembered for the duration of the user's session so the banner does not reappear.
+
+3.  **Passive Viewing (Ignoring the Banner):** The banner is non-intrusive. Users can choose to ignore it and continue scrolling and interacting with the main website content below. Its `position: fixed` property keeps it in view at the top of the screen as a constant, gentle reminder of the ongoing deals without blocking page content.
+-->
+
+</body>

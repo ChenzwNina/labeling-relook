@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, centered layout with a white background and subtle shadow for prominence. The header is red (#d32f2f) to grab attention, while the message text is dark gray (#333) for readability. Buttons are contrasting—green (#4caf50) for "Keep Membership" to encourage retention, and red for "Cancel" to signal caution. The design is compact (max-width: 600px) with adequate spacing (padding: 25px) to avoid clutter. These choices prioritize clarity, urgency, and emotional appeal to reduce cancellations and maximize conversion by nudging users to reconsider.
+
+Question 2: This widget appears when a user navigates to the membership cancellation page or clicks a "Cancel Membership" option in their account settings. It acts as a last-ditch effort to retain the user before finalizing the cancellation process.
+
+Question 3: Users can interact by clicking "Keep Membership" to return to their account dashboard, or "Cancel Membership" to proceed with cancellation. They can also click the feedback link to open a form or chat for sharing concerns, encouraging engagement and potentially reversing their decision. Hover effects on buttons and the link provide visual feedback, enhancing usability.
+-->

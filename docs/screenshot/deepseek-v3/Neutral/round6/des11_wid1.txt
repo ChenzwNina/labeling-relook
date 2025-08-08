@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, centered white card (400px wide) with soft shadows for depth. It uses a red cancellation button for urgency/attention, balanced with a neutral "keep" button. Text is dark gray for readability with a 24px heading. The layout is linear with clear hierarchy: heading → description → dropdown → textarea → buttons. This design ensures clarity while minimizing cognitive load during an important decision.
+
+    Question 2: The widget appears when a user clicks "Cancel Membership" in their account settings. It could also trigger when downgrading from a paid plan or after multiple failed payment attempts, serving as a last confirmation step with feedback collection.
+
+    Question 3: Users can: 1) Select a cancellation reason from a dropdown, 2) Provide optional text feedback, 3) Confirm cancellation (red button), or 4) Abort the process (gray button). The textarea expands vertically if needed. Hover states on buttons provide visual feedback. All interactions maintain the user's current context without page reloads.
+    -->

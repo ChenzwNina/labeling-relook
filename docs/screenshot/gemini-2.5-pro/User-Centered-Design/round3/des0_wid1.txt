@@ -1,0 +1,14 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, modern horizontal panel with the title "Featured This Week". It uses a light color palette with a pale grey background (`#f8f9fa`) and white product cards to create a premium, airy feel. The layout consists of a row of product cards that scrolls horizontally, allowing many products to be featured without consuming excessive vertical space. Text is rendered in a dark grey (`#212529`) using the 'Inter' sans-serif font for excellent readability. The most prominent color is a vibrant blue (`#007bff`) used exclusively for the "Add to Cart" buttons and scrollbar, creating a clear call-to-action (CTA). Each card is 250px wide, providing ample space for a large product image, name, and price, ensuring information is scannable and visually appealing. These choices are made to be efficient, satisfying, and to give high visibility to key functions like adding to a cart.
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is not triggered by a specific user action like a click or hover. Instead, it is a static component that loads as part of the main page content, typically on an e-commerce site's homepage or a major category page. Its purpose is to be immediately visible when the page loads, presenting curated or popular products to the user without requiring any interaction. This proactive presentation aims to engage users right away, showcase best-sellers, and guide their shopping journey from the moment they arrive on the site, supporting efficient discovery and task execution.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the widget in several ways. Firstly, they can scroll horizontally through the product list to browse all featured items. Hovering over a product card provides visual feedback by subtly lifting the card (`transform: translateY(-5px)`) and zooming the image, indicating it's an interactive element. Users can click on the product image or name to navigate to the detailed product page for more information. The most direct action is clicking the blue "Add to Cart" button, which adds the item to their shopping cart; this button darkens and scales down slightly on click for clear feedback. For unavailable items, the button is greyed-out and labeled "Out of Stock". It is disabled and shows a "not-allowed" cursor on hover, clearly communicating this constraint and preventing invalid actions.
+
+*****Response***** -->
+</body>

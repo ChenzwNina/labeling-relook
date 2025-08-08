@@ -1,0 +1,9 @@
+Question 1:
+The widget is a card-like component (420px wide, 20px from top) with a white background, softly rounded corners, and a subtle shadow. At the left is a bold “4.7” rating in gold, with 4.5 gold stars and “442 ratings” below. To the right, five rows show the distribution for each star level, each with a star icon, colored bar (longest for 5, shortest for 1), and numerical count. Gold/yellow colors are used for stars and bars, reflecting popular e-commerce palettes, while soft grays support a clean, modern look and accessibility.
+
+Question 2:
+This widget is triggered automatically and always shown at the top of a product detail page, providing immediate social proof for the product. It appears as soon as the product page loads.
+
+Question 3:
+Users can visually interpret the overall rating, see the average represented by prominent numerals and stars, and gauge trustworthiness with the total ratings count. The detailed distribution allows shoppers to assess review spread at a glance. No direct interactivity is present in this static version, but in a full implementation, clicking a row could filter reviews by rating.
+-->

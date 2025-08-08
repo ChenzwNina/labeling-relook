@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design with a light gray background (#f9f9f9) and subtle shadow for depth. It uses a green color (#4CAF50) to highlight active/completed steps and the primary button, creating visual hierarchy. The layout is organized vertically with clear step progression. I chose these colors for good contrast and readability, with green signaling progress/success. The size (max-width: 500px) makes it responsive while remaining comfortably readable.
+
+    Question 2: This widget appears when a user clicks on "Track Order" from their account page or order confirmation email. It can also appear automatically after checkout completion, showing the initial order status. The trigger is typically user-initiated action to view order status.
+
+    Question 3: Users can: 1) View their order status and progress through the steps, 2) Click "View Order Details" to see the full order, 3) Click "Track Package" for shipping carrier details, 4) Hover over elements for subtle interactive feedback. The widget is informational but includes actionable buttons for deeper exploration of order details.
+    -->
+</body>

@@ -1,0 +1,32 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a prominent rectangular section titled "Featured Collection: Handpicked For You". It has a light grey background (`#f8f9fa`), rounded corners, and a subtle shadow, giving it a modern, floating appearance. It's fixed 20px from the top of the viewport, centered horizontally, and spans 90% of the viewport width (up to 1200px).
+
+Inside, product cards are arranged in a responsive grid. Each card is white (`#ffffff`) with a light border and features a product image (180px high), name (dark grey, 18px), price (bold blue, 20px), and a call-to-action button. Buttons are blue (`#007bff`) for "View Product" and green (`#28a745`) for "Add to Cart", ensuring clear visual distinction.
+
+Design choices prioritize clarity and user experience. The clean aesthetic and color palette (neutrals with primary color accents) focus attention on products. Sans-serif fonts enhance readability. Responsive design ensures usability across devices. Fixed positioning keeps featured items consistently visible, aiming to boost engagement with key products. The overall look is professional and typical of modern e-commerce sites.
+
+## Question 2: What triggers the appearance of this widget?
+
+The "Featured Products" widget is primarily designed to be an integral part of a webpage's content, appearing automatically when specific pages are loaded. Its appearance is typically triggered by:
+
+1.  **Page Load:** This is the most common trigger. The widget becomes visible as soon as a user navigates to a page where it's designated to appear, such as the e-commerce homepage, category landing pages, or special promotional pages. It's intended for immediate visibility to highlight selected products.
+2.  **Server-Side Logic/CMS Configuration:** The display of the widget might be controlled by the content management system (CMS) or server-side logic, which determines on which pages or under what conditions (e.g., during a sales event) this section should be rendered.
+
+It's not usually a modal or pop-up triggered by a specific user action like a click or scroll, but rather a persistent section of the page designed to showcase products as part of the primary browsing experience.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can engage with the "Featured Products" widget in several ways, facilitating product discovery and purchase decisions:
+
+1.  **Visual Browsing:** Users can scan product images, names, and prices to quickly assess the offerings.
+2.  **Hover Interactions:**
+    *   Hovering over a product card provides visual feedback: the card slightly lifts and its shadow intensifies, indicating it's an interactive element.
+    *   Hovering over a button changes its background color, signaling clickability.
+3.  **Navigation to Product Details:**
+    *   Clicking on a product's image or name typically navigates the user to that item's dedicated Product Detail Page (PDP) for more information.
+    *   Clicking a "View Product" button also directs the user to the PDP.
+4.  **Adding to Cart:**
+    *   Clicking an "Add to Cart" button would ideally add the product directly to the shopping cart (potentially with visual feedback like a button text change or mini-cart update). If the product requires selections (e.g., size, color), it might navigate to the PDP first.
+5.  **Scrolling (Widget Container):** If the number of featured products caused the widget's content to exceed its `max-height` (which is set to `calc(100vh - 40px)`), a vertical scrollbar would appear within the widget, allowing users to scroll through all items without affecting the main page scroll.
+-->

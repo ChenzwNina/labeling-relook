@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, card-based design with white background and subtle shadow for depth. It uses a progress bar with circular step indicators (20px diameter) to visualize order status. Color coding (green for completed steps, gray for pending) enhances clarity. The layout is organized hierarchically with order info at top, progress visualization in middle, and details at bottom. These choices prioritize visual hierarchy, scannability, and mobile responsiveness while maintaining professional e-commerce aesthetics.
+
+Question 2: This widget appears when a user clicks "Track Order" from their account dashboard or order confirmation email. It can also appear as a persistent element on the account page for recent orders, or as a pop-up when clicking tracking links in shipping notifications.
+
+Question 3: Users can: 1) View current order status and progress, 2) Click "Track Package" to open carrier tracking, 3) Click "View Order Details" to see full order information, 4) Hover over progress steps for tooltips with dates, 5) Copy the tracking number (though this requires additional JS implementation).
+-->

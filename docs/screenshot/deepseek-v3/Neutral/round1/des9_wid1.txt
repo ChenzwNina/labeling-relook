@@ -1,0 +1,5 @@
+Question 1: The widget has a clean, modern design with a white background, subtle shadows, and rounded corners. Shipping options are displayed as radio buttons with clear pricing, while add-ons use checkboxes. I chose a blue color scheme for interactive elements (like the continue button) as it's associated with trust. The layout is organized vertically with clear visual hierarchy through font weights and spacing to make selection easy.
+
+    Question 2: This widget would typically appear during the checkout process, after the user has entered their shipping address but before payment. It might be triggered automatically when progressing to the shipping step or appear in a modal when the user clicks "Choose Shipping Options".
+
+    Question 3: Users can: 1) Select one shipping option via radio buttons, 2) Toggle optional add-ons with checkboxes, 3) See price changes immediately, 4) Click the continue button to proceed. The design provides visual feedback when options are selected (radio/checkbox states change) and hover effects on the button to indicate interactivity.

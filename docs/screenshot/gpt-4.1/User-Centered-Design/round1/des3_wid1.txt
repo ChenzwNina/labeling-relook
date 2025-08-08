@@ -1,0 +1,15 @@
+Question 1:
+  The search panel is centered at the top of the page with a 20px margin. Its width is up to 620px for larger screens, with rounded corners and a subtle shadow for elevation. The background is white for clear visibility. Left side includes a 36x36px logo. The main area has a label, a single search field with a magnifier icon inside, and to the right, a blue 'Search' button featuring another magnifier icon. The layout is clear and adapts responsively for mobile. High-contrast colors and readable fonts improve usability, while large clickable areas aid touch use.
+
+  Question 2:
+  This widget is always visible and fixed at the top of the screen whenever users visit the e-commerce site, ensuring users can instantly search for products at any time. It is not triggered by an event, but persistently invites user interaction.
+
+  Question 3:
+  Users can:
+  - Click/tap inside the search field to type a query (with a 2+ character constraint).
+  - See immediate feedback if submitting an invalid entry.
+  - Use the ‘Search’ button or press 'Enter' to submit.
+  - On submission, the widget triggers a mock search (could be replaced with real logic).
+  - Visual focus and hover effects guide user actions.
+  - All controls are fully accessible and provide interactive feedback (focus, errors, button states).
+  -->

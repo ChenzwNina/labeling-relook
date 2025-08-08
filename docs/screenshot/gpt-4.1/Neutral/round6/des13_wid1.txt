@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a centered, rounded sign-in panel with a soft white background, subtle shadow, and sleek blue accents. The title is bold and prominent, with a company logo at the top. Large input fields and an eye-catching blue gradient sign-in button offer clarity and easy interaction. Secondary actions (forgot password, Google sign-in, create account) are visually distinct but non-distracting. The component is 340px wide—a balanced size for clarity and modern design, and adapts on small screens. Design choices ensure a professional, trustworthy, and visually attractive presence consistent with popular e-commerce platforms.
+
+  Question 2:
+  The appearance of this widget is typically triggered when a user clicks "Sign In" or "My Account" in the main navigation, or when required to access account-only features (e.g., account dashboard, order history, wishlist, or checkout).
+
+  Question 3:
+  Users can enter their credentials and sign in, select "Remember me" for persistent login, use "Forgot password" for recovery, sign in with Google, or follow the "Create your account" link to register. They may also tab among inputs and submit the form with Enter. Hover effects guide interaction and indicate clickable actions. No real authentication is handled here; only UI is included.
+  -->
+</body>

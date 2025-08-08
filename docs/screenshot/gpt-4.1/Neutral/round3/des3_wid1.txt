@@ -1,0 +1,10 @@
+Question 1:
+The widget is a wide, horizontally-oriented panel with rounded corners and subtle drop-shadow, centered at the top with a 20px margin. It has a white background standing out against a light gray page. On the left is a square shop logo (placeholder), next to a column with a bold prompt "Find your next purchase," a prominent search input, a blue search button with an icon, and a small line listing popular search suggestions. The design uses soft shadows, rounded corners, and blue accent on interactive elements to provide a modern, clean, major-ecommerce feel.
+
+Question 2:
+This widget is always visible—persistently anchored at the top of the page (like Amazon or Walmart’s search bars). It does not require any trigger except page load or navigation to a shopping page.
+
+Question 3:
+Users can type a query into the input box and submit via the blue "Search" button or pressing Enter, initiating a GET request to the /search endpoint. The search field supports built-in browser autocomplete for quicker input. Clicking input or button highlights them. There are no other interactive popups or dropdowns, but users can view the line of popular searches for quick ideas.
+
+-->

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, minimalist design with a white background and subtle shadow for depth. Input fields are full-width with light gray borders, and the submit button is a prominent blue color. I chose these colors for accessibility and visual hierarchy, with sufficient padding for touch targets. The layout is centered with clear labels above each field following modern form design best practices.
+
+    Question 2: This widget would typically appear when a user clicks a "Sign Up" or "Create Account" button in the website's header/navigation, or when attempting to checkout without an account. It could also appear as a modal overlay or on a dedicated registration page.
+
+    Question 3: Users can: 1) Fill in text fields (name, email, password) with validation, 2) Submit the form which triggers client-side validation, 3) Click the "Sign in" link if they already have an account, and 4) Close the widget if it's a modal (though this implementation doesn't show that functionality). Error messages would appear for invalid inputs.
+    -->

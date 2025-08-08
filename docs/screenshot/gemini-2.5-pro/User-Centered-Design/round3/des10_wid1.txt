@@ -1,0 +1,42 @@
+-->
+    <!--
+        ## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The component is a modal dialog that appears centered horizontally and near the top of the viewport. It has a clean, two-column layout on larger screens. The left column (45% width) features an aspirational placeholder image, while the right column (55% width) contains the text and form. The modal has a white background, rounded corners, and a subtle box-shadow to make it "pop" from the page.
+
+        Colors: The primary text is a dark charcoal (#2c3e50) for high readability. The call-to-action button is a vibrant green (#27ae60) to draw attention and signify a positive action, contrasting well against the white.
+        
+        Elements: The headline uses a bold 'Poppins' font for impact, while body text uses 'Lato' for clarity. The email input field is large with generous padding and a distinct blue focus state for clear user feedback.
+
+        These choices create a professional, trustworthy, and aesthetically pleasing component. The layout guides the user's eye from the value proposition to the action, and the color scheme encourages conversion without being aggressive. On smaller screens, it collapses to a single column for optimal mobile viewing.
+    -->
+    <!--
+        ## Question 2: What triggers the appearance of this widget?
+
+        The appearance of this membership signup widget is typically triggered by specific user behaviors that indicate engagement, without being immediately disruptive. Common triggers include:
+
+        1.  **Time Delay:** The modal appears after a user has been actively browsing the site for a set duration, such as 15-30 seconds. This ensures the user has had a chance to see the site's value before being prompted.
+
+        2.  **Scroll Depth:** The widget can be triggered when a user scrolls down a certain percentage of a page, for instance, 60% of a product category page. This suggests they are interested in the content.
+
+        3.  **Exit Intent:** A very effective trigger is "exit intent," where the modal appears when the user's mouse cursor moves rapidly towards the top of the browser window (to close the tab or type a new URL). This is a last-chance effort to capture their interest before they leave the site.
+
+        These triggers are chosen to balance marketing goals with user experience, avoiding interrupting a user the moment they land on the site.
+    -->
+    <!--
+        ## Question 3: Can you describe the full range of interactions users can have with the widget?
+        
+        A user has several clear and direct interaction paths with this widget, designed for efficiency and user control:
+
+        1.  **Submit Email:** The primary interaction is to type a valid email address into the input field and click the "Join Now & Unlock Perks" button. The input field has a focus state, and the button has a hover effect, providing clear feedback.
+
+        2.  **Close via 'X' Button:** The user can click the '×' symbol in the top-right corner to immediately dismiss the modal and return to browsing. This is a universally understood convention for closing dialogs.
+
+        3.  **Decline via Link:** A user can click the "No, thank you" text link at the bottom. This action also closes the modal, providing a polite way to opt-out of the offer.
+
+        4.  **Close via Overlay:** Users can click anywhere on the semi-transparent overlay that dims the background page content. This is an intuitive, common interaction pattern for dismissing modals without having to precisely target a close button.
+
+        All dismissal actions (Close button, decline link, overlay click) achieve the same result, giving the user control and preventing them from feeling trapped.
+    -->
+
+</body>

@@ -1,0 +1,6 @@
+Question 1: The banner features a vibrant gradient background transitioning from red (#ff4e53) to orange (#ff8c00), grabbing attention and conveying urgency. White text contrasts sharply for readability, with a bold font size of 1.2em for the main message and 1.1em for the timer. The CTA button is white with red text, sized prominently with hover effects for interactivity. The layout is centered, fixed at the top with a 20px margin, ensuring visibility. These choices create urgency and excitement, encouraging clicks and maximizing conversion rates.
+
+Question 2: The banner appears on page load for all users, ensuring maximum visibility. It remains fixed at the top to stay in view while scrolling, triggered by no specific user action but designed to promote time-sensitive deals site-wide.
+
+Question 3: Users can interact with the banner by clicking the "Shop Now" CTA button, redirecting them to the deals page. Hovering over the button triggers a subtle scale animation for engagement. The banner itself isn’t dismissible, ensuring persistent visibility to reduce bounce rates and drive sales.
+***** -->

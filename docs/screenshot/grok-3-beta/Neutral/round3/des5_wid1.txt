@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The filter panel has a clean, modern design with a white background, subtle gray borders, and a soft shadow for depth. It’s 250px wide, fixed to the top-left with a 20px margin, ensuring visibility while scrolling. Text uses a hierarchy of sizes (18px for headings, 13-14px for options) for readability. Blue accents (#007bff) highlight selections and the apply button, aligning with common e-commerce branding for trust and action. The layout is vertically stacked for intuitive navigation. These choices mimic real-world e-commerce sites like Amazon, prioritizing usability and clarity. -->
+
+    <!-- Question 2: The widget appears automatically when a user visits a product listing page or category section of the e-commerce site. It remains visible as a persistent tool for refining product searches, especially on pages with large inventories. It may also appear or expand when a user clicks a “Filter” button on smaller screens or mobile views. -->
+
+    <!-- Question 3: Users can interact with the widget by checking/unchecking filter options for categories and price ranges, seeing visual feedback with bold, blue text for selections. They can click the “Apply Filters” button to update the product list based on chosen criteria. Hover effects on the button provide tactile feedback, enhancing UX. On some implementations, users might collapse/expand sections for better mobile usability. -->
+</body>

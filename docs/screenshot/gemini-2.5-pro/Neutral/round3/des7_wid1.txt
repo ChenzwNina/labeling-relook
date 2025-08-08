@@ -1,0 +1,32 @@
+-->
+    <!--
+        Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The widget is a clean, horizontal banner with rounded corners and a subtle shadow, making it appear to float over the page content. It has a bright white background for a modern feel. The layout, managed by Flexbox, places the core trust-building information on the left and actionable items on the right. 
+
+        Colors are chosen for specific purposes:
+        - Golden-yellow (#FFC107) for the stars is universally understood and conveys quality.
+        - Dark gray text (#495057) ensures high readability against the white background.
+        - A friendly, non-aggressive blue (#007BFF) for the "Read Our Reviews" call-to-action button encourages clicks without feeling pushy.
+
+        Elements are sized hierarchically. The star icons are large and immediately draw the eye. The accompanying text is slightly smaller but bolded for emphasis. This design builds trust quickly and efficiently without overwhelming the user, presenting a professional and credible image consistent with top e-commerce sites.
+    -->
+    <!--
+        Question 2: What triggers the appearance of this widget?
+
+        This widget is designed to appear automatically on page load for new visitors or returning customers who have not recently interacted with it. It's best suited for high-traffic entry points like the homepage or major category pages where establishing trust is paramount. 
+
+        To ensure a positive user experience and avoid being intrusive, its appearance would be managed by a cookie. For example, it might display on a user's first visit within a session. Once the user closes it by clicking the 'X' button, the cookie would prevent the banner from reappearing for a defined period, such as 7 days. This strategy balances the marketing goal of showcasing social proof with the user's need for an uncluttered browsing experience.
+    -->
+    <!--
+        Question 3: Can you describe the full range of interactions users can have with the widget?
+        
+        Users have three main interactions with the widget, designed for clarity and control:
+
+        1.  **Primary Interaction (Engagement):** Clicking the "Read Our Reviews" button. This is the main call-to-action. This action would navigate the user to a dedicated testimonials page or open a detailed modal/pop-up. This destination would feature a full list of customer reviews, allowing for filtering, sorting, and reading individual comments, thereby deepening the user's trust.
+
+        2.  **Secondary Interaction (Dismissal):** Clicking the "×" (close) button. This action provides the user with control over their interface. It immediately hides the banner from view for the remainder of their session or for a longer, pre-defined period (e.g., 7 days) via a browser cookie.
+
+        3.  **Implicit Interaction (Feedback):** Hovering over the "Read Our Reviews" button or the close button provides visual feedback. The button changes color, and the close icon becomes darker, indicating that these are clickable elements and improving the overall usability and intuitiveness of the component.
+    -->
+</body>

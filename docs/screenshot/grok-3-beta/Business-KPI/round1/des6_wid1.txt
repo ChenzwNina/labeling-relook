@@ -1,0 +1,7 @@
+-->
+    <!-- Question 4.1: The widget features a clean, modern design with a white background for the product card, a striking red (#e44d26) for price and CTA button to grab attention, and subtle grayscale for text to maintain readability. The card is 300px wide with a 200px image height for visual impact, rounded corners for a friendly look, and a hover effect for interactivity. A discount badge adds urgency. These choices drive sales (3.1), conversion (3.2), and reduce bounce rates (3.9) by creating an engaging, trustworthy design. -->
+
+    <!-- Question 4.2: This widget appears on product listing pages, search results, or category pages of the e-commerce site. It can also be triggered on the homepage as part of featured or recommended products sections to maximize visibility and user engagement. -->
+
+    <!-- Question 4.3: Users can interact with the widget by hovering over the product card for a subtle lift effect, clicking the "Add to Cart" button to purchase, and viewing product details by clicking the image or title (assuming a link to the product page). These interactions encourage purchases (3.1-3.3), increase time on site (3.5), and reduce cart abandonment (3.8) by simplifying the buying process. -->
+</body>

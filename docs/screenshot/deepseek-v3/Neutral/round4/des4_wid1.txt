@@ -1,0 +1,6 @@
+Question 1: The widget displays products in a responsive grid of cards (white background with subtle shadow) on a light gray page. Each card has a product image (200px height), title (16px), price (bold 18px in blue), and green "Add to Cart" button. I chose clean, minimalist design with ample white space for readability, green for the call-to-action (psychologically associated with positive actions), and card shadows/hover effects to enhance interactivity perception.
+
+    Question 2: This widget appears automatically when users land on the product listing page or category page. It could also appear after search/filter actions or when returning from product detail pages. The appearance isn't triggered by user interaction beyond initial page load or navigation.
+
+    Question 3: Users can: 1) Browse products in the grid layout, 2) Hover over cards to see elevation effect, 3) Click "Add to Cart" buttons to add items, 4) Click product images/titles to view details (though this functionality isn't implemented here), and 5) Responsively view the grid adapt to different screen sizes.
+    -->

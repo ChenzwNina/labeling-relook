@@ -1,0 +1,6 @@
+Question 1: The widget is a right-side sliding panel (350px wide) with a dark header (#2c3e50) and white background. Items are displayed in a scrollable list with clear borders between them. I chose a clean, minimalist design with sufficient white space to prevent visual clutter. Prices are in red (#e74c3c) to stand out, and the checkout button is green (#2ecc71) to encourage conversion. The size ensures readability while not dominating the screen.
+
+    Question 2: Typically, this widget would appear when a user clicks the shopping cart icon in the website's header. In this demo, it automatically opens on page load for visibility, but in production, it would be triggered by user interaction with the cart button.
+
+    Question 3: Users can: 1) Close the cart with the X button, 2) Adjust item quantities with +/- buttons, 3) Remove items entirely with the remove button, 4) View item details (image, name, price), 5) See the running total, and 6) Proceed to checkout via the prominent green button. The design provides clear visual feedback for all interactions.
+    -->

@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and blue accent colors (#0066cc) for interactive elements. It has a max-width of 500px for readability, with clear typography hierarchy. The progress tracker uses visual indicators (completed steps in blue, current step highlighted) to show order status intuitively. These choices enhance usability - the limited width prevents eye strain, blue is a trustworthy color in e-commerce, and the visual progress bar provides immediate status understanding.
+
+    Question 2: The widget appears when a user accesses their order history or receives a direct link to track a specific order. It could also appear as a pop-up after checkout completion or via email/SMS notifications containing a tracking link. The trigger is always user-initiated action related to order inquiry.
+
+    Question 3: Users can: 1) View their order status through the visual progress bar, 2) See detailed tracking information (carrier, tracking number), 3) Click "Track Package" to open carrier tracking, 4) Click "Contact Support" for help, and 5) Potentially copy the tracking number (though not implemented here). The widget is primarily informational but includes actionable buttons for common next steps.
+    -->
+</body>

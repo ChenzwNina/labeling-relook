@@ -1,0 +1,48 @@
+## Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a horizontal banner fixed at the top of the viewport, with a 20px margin from the very top edge of the browser window.
+
+**Layout:**
+It features a prominent title, "⚡️ Today's Hot Picks - Limited Time Offers! ⚡️", centered above a row of four product items. Each product item is a distinct card, displaying an image at the top, followed by the product name, price information, and a call-to-action (CTA) button at the bottom. The product items are arranged horizontally and will wrap on smaller screens to maintain usability.
+
+**Colors:**
+-   **Banner Background:** A vibrant blue gradient (`#6DD5FA` to `#2980B9`) to attract attention and feel modern and trustworthy.
+-   **Banner Title Text:** White, for high contrast against the blue gradient, with a subtle text-shadow for readability.
+-   **Product Cards:** White background (`#ffffff`) for a clean look, making product details pop.
+-   **Product Name & Regular Text:** Dark grey (`#333333`) for optimal readability.
+-   **Pricing:**
+    -   Original Price: Light grey (`#999999`) with a strikethrough.
+    -   Sale Price: Bright red (`#E74C3C`) to highlight savings and create urgency.
+    -   Current Price (not on sale): Strong green (`#27AE60`) to denote value.
+-   **CTA Buttons:** Primary CTA is vibrant orange (`#FF8C00`), a high-conversion color. "Add to Bag" buttons are green (`#2ECC71`). Both have white text.
+
+**Size of Elements:**
+-   **Banner Height:** Dynamically determined by content, roughly 200-250px on desktop.
+-   **Title:** Large font size (1.8em) to be easily noticeable.
+-   **Product Images:** Prominent within each card (max-height 150px), using `object-fit: cover`.
+-   **Product Names:** Medium font size (1.1em), designed to fit two lines.
+-   **Prices:** Clearly visible, with sale prices slightly larger (1.2em) than original prices.
+-   **CTA Buttons:** Appropriately sized for easy clicking/tapping with bold text.
+
+**Design Choices Rationale:**
+The fixed position ensures constant visibility, maximizing exposure to the offers (Rules 3.1, 3.4, 3.9). The vibrant colors and clear typography aim to capture attention and make information digestible (Rule 3.2). Discounted prices are highlighted to incentivize purchase (Rule 3.1). Clear CTAs guide user action (Rule 3.2). Showcasing multiple, appealing products encourages exploration (Rules 3.5, 3.6). The overall design is clean and professional, aiming to build trust and encourage conversions. The emojis in the title add a friendly, attention-grabbing touch.
+
+## Question 4.2: What triggers the appearance of this widget?
+
+This widget is designed to appear immediately on **page load**. Given its position ("at the top of the viewport with a 20-pixel margin from the top") and its promotional nature (e.g., "Today's Hot Picks," "Limited Time Offers"), its primary purpose is to instantly engage the user with curated product offerings or special deals as soon as they land on a relevant page.
+
+It would typically be present on key entry pages like the homepage, category pages, and potentially even on product detail pages (perhaps showing related "hot picks"). The goal is to maximize visibility for these highlighted products or offers, thereby increasing the chances of engagement and conversion from the very beginning of a user's session. It's not triggered by a specific user action like scrolling or clicking but is a persistent element intended for immediate impact.
+
+## Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the widget in the following ways:
+
+1.  **Viewing Product Information:** Users can passively view the product images, names, and prices to quickly assess the offers. The "Limited Time Offers" title itself serves as an informative interaction, creating urgency.
+2.  **Clicking on Product Image/Name:** Clicking on a product's image or its name will navigate the user to the respective Product Detail Page (PDP). This allows them to learn more about the product, see more images, read reviews, and make an informed purchase decision. (Supports Rules 3.2, 3.5, 3.6)
+3.  **Clicking a Call-to-Action (CTA) Button:**
+    *   **"Shop Now", "View Details", "Explore":** Clicking these buttons will also navigate the user to the corresponding Product Detail Page.
+    *   **"Add to Bag":** Clicking this button could directly add the item to the user's shopping cart, often triggering a visual confirmation (e.g., a mini-cart update or a small notification, though this part is outside the scope of the component itself). This facilitates quick purchases and can increase conversion rates and average order value. (Supports Rules 3.1, 3.2, 3.3, 3.8)
+4.  **Hover Effects:** On desktop, hovering over a product item card can cause a slight visual change (e.g., the card lifts with a more pronounced shadow). Hovering over a CTA button can change its background color or scale it slightly. These micro-interactions provide visual feedback, improve perceived interactivity, and make the interface feel more responsive. (Supports Rule 3.5)
+
+The widget is not designed to be dismissible in this configuration to ensure maximum continuous exposure to the promotional offers, aligning with the goal of maximizing sales and engagement.
+-->

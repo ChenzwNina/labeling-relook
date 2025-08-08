@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a clean, card-like panel (420px wide) with a white background, subtle shadow, and rounded edges, placed 20px from the top of the page and centered. Key sections include a bold blue-accented heading, a shipping method selector with radios, and optional add-on checkboxes. Blue hues (#2464d1, #5b92e5) highlight interactive elements, while soft grays delineate sections and borders. Each shipping option shows a label (e.g., Express Delivery with ‘Popular’ capsule), a brief description, and price (in blue or "FREE"). Add-ons are listed below with custom green checkboxes and extra pricing. This design matches modern e-commerce UI conventions focusing on clarity and tap targets for accessibility.
+
+  Question 2:
+  This widget appears at the checkout or shipping selection step of the e-commerce workflow. It is triggered when a user is reviewing their cart or proceeding to finalize their purchase, ensuring that shipping choices and any value-added services are selected before order completion.
+
+  Question 3:
+  Users can select only one shipping option via radio buttons and choose multiple add-ons using checkboxes. Clicking on a row toggles selection of its control. Each selection updates the choices in real-time for the user, though in this static code no JavaScript is present. In a live site, these selections would update the order summary and price dynamically. 
+  -->
+</body>

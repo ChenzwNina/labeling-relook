@@ -1,0 +1,7 @@
+-->
+    <!-- Question 4.1: The filter panel is a fixed sidebar on the left, 250px wide, with a white background and subtle shadow for depth. It uses a clean, neutral color palette (#ffffff, #e0e0e0) for a professional look, with a vibrant accent color (#ff6347) for checkboxes and the apply button to draw attention and encourage interaction. Text is hierarchically sized (18px for headings, 14px for options) for readability. The layout is vertical and scrollable, ensuring accessibility on all screen sizes. These choices maximize usability and conversion by making filtering intuitive and visually engaging. -->
+
+    <!-- Question 4.2: The filter panel appears automatically on product listing pages, such as category or search result pages, where users need to narrow down options. It remains fixed as users scroll, ensuring constant accessibility without obstructing main content, reducing bounce rates. -->
+
+    <!-- Question 4.3: Users can interact with the widget by checking/unchecking filter options for category, price, and brand to refine product results. They can click 'Apply Filters' to update the product list dynamically or 'Clear All' to reset selections. Hover effects on buttons provide feedback, enhancing engagement and minimizing cart abandonment by simplifying the shopping process. -->
+</body>

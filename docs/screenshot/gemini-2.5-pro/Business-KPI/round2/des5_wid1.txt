@@ -1,0 +1,26 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The product filter panel is a horizontal bar fixed 20px from the top of the viewport. It has a clean white background (`#ffffff`) with a subtle bottom border (`#e0e0e0`) and shadow, giving it a modern, elevated look. Inside, filter categories like "Category," "Brand," "Price Range," "Color," "Size," and "Rating" are arranged horizontally using flexbox, wrapping if needed. Each category has a bold, dark grey title (`#333333`, 15px). Filter options (e.g., checkboxes, radio buttons, color swatches) use a 14px font in a slightly lighter grey (`#555555`). Color swatches are circular (24x24px) and show a distinct blue border and halo effect when selected. "Apply Filters" is a prominent blue button (`#007bff`), while "Clear All" is a more subdued grey (`#6c757d`), both with 14px bold text.
+
+These choices prioritize clarity and ease of use (Rules 3.1, 3.2, 3.9). The white background and clear typography ensure readability. The fixed position keeps filters always accessible (Rule 3.5). Logical grouping and distinct CTAs guide users effectively, aiming to enhance product discovery, leading to higher conversion rates and sales. The responsive flex layout ensures usability across various screen sizes.
+
+## Question 2: What triggers the appearance of this widget?
+
+This filter panel is designed to be persistently visible on product listing pages, such as category pages or search results pages. Its appearance is not triggered by a specific user action (like a click). Instead, it loads as an integral part of the page interface as soon as the user navigates to a page where filtering products is a primary task. It's fixed at the top of the viewport (20px from the top edge), ensuring it's immediately available. This constant visibility encourages users to engage with filtering tools right away, helping them narrow down choices efficiently, which can reduce bounce rates (Rule 3.9) and increase time on site (Rule 3.5) by facilitating product discovery.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the filter panel in several ways:
+1.  **Scanning & Identifying:** Users can visually scan the filter categories (Category, Brand, Price, etc.) and their available options.
+2.  **Selecting Single/Multiple Options:**
+    *   Clicking checkboxes for categories like "Brand" or "Size" to select one or more criteria.
+    *   Clicking radio buttons for "Customer Rating" to select a single minimum rating.
+    *   Clicking on visual color swatches to filter by product color; selected swatches get a distinct border.
+    *   Selecting predefined price range checkboxes.
+3.  **Applying Filters:** After making their selections, users click the "Apply Filters" button. This action (conceptually) updates the product list based on the chosen criteria, directly aiding conversion (Rule 3.2).
+4.  **Clearing Filters:**
+    *   Clicking the "Clear All" button resets all selections, allowing users to start a new search.
+    *   Individually deselecting options (e.g., unchecking a checkbox or clicking a selected color swatch again, if designed as a toggle which these checkbox-backed swatches are).
+Hovering over interactive elements provides visual feedback (e.g., color swatch scaling, button state changes), enhancing usability. These interactions empower users to refine searches effectively (Rules 3.1, 3.2, 3.8).
+*****Response***** -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The deals banner features a vibrant gradient background transitioning from coral (#ff6f61) to peach (#ffb88c) to grab attention and evoke excitement. The text is white for contrast, with a bold 24px headline and 16px subtext for hierarchy. A centered layout ensures focus, while a prominent white CTA button with coral text stands out, encouraging clicks. A subtle shadow adds depth, and a timer creates urgency. These choices maximize visibility, urgency, and conversion by aligning with e-commerce trends of bold, action-driven design.
+
+Question 2: The banner appears automatically at the top of the website on every page load during an active promotional period. It is triggered by backend logic detecting ongoing flash sales or time-sensitive deals, ensuring users are immediately aware of limited offers.
+
+Question 3: Users can interact with the banner by clicking the "Shop Now" button, which directs them to a curated deals page. Hovering over the button triggers a scale animation and color change for engagement. The timer updates dynamically, reinforcing urgency, though it’s non-interactive. These interactions aim to drive immediate action and reduce bounce rates.
+***** -->

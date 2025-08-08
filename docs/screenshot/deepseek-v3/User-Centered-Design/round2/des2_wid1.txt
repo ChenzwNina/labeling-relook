@@ -1,0 +1,11 @@
+Question 1: The widget features a dark blue navigation bar (#2c3e50) with white text for high contrast and readability. Category links are 16px with 8px/12px padding for comfortable clicking. The dropdown menus appear on hover with a clean white background and subtle shadow for depth. I chose these colors for professionalism, with the red search button (#e74c3c) as an accent to draw attention. The layout is horizontal with dropdowns to maximize space efficiency while maintaining discoverability of subcategories.
+    -->
+    
+    <!-- *****Response***** 
+    Question 2: The widget appears as a persistent navigation element at the top of every page, loading with the page itself. The dropdown menus are triggered by hover interactions - when users mouse over a main category, its corresponding dropdown menu appears automatically. This hover-triggered design allows for quick exploration without requiring clicks, while the persistent nature ensures the navigation is always accessible.
+    -->
+    
+    <!-- *****Response***** 
+    Question 3: Users can: 1) Click main categories to navigate to category pages, 2) Hover to reveal dropdown submenus, 3) Click subcategory links in dropdowns, 4) Use the search box to enter queries, and 5) Submit searches with the button. The dropdowns remain visible while hovering over them, allowing time to select options. All interactive elements have visual feedback (color changes, shadows) to indicate they're clickable. The design supports both quick browsing via hover and deliberate navigation via clicks.
+    -->
+</body>

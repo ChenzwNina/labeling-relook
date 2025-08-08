@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based design with soft borders and subtle shadows. It uses a blue color scheme for selected/interactive elements (#3498db) against a white background, with gray text for secondary information. Options are clearly separated with padding and borders, and hover states provide visual feedback. This design ensures readability while maintaining a modern ecommerce aesthetic that builds trust and guides users through the selection process.
+
+    Question 2: This widget typically appears during the checkout flow, after the user has entered their shipping address but before payment information. It may also appear if the user explicitly clicks a "Shipping Options" button from the cart page to review delivery choices before proceeding to checkout.
+
+    Question 3: Users can: 1) Select one shipping method via radio buttons, with visual feedback showing the selected option. 2) Toggle optional add-ons with checkboxes. 3) Hover over options to see highlight effects. 4) Click the "Continue" button to proceed. The interface provides immediate visual confirmation of selections through color changes and background highlights.
+    -->
+</body>

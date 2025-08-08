@@ -1,0 +1,7 @@
+4.1 Question 1: The widget has a white background with subtle shadow and rounded corners, around 420px wide, placed 20px from the top of the viewport. Large, blue-themed average rating is visible with yellow stars. A breakdown shows colored bars for rating counts. The "Rate this product" section uses interactive, big yellow stars and a bold submit button. Colors, font sizes, and layouts are designed for clear visibility, intuitive usage, and aesthetics standard on modern ecommerce sites.
+
+  4.2 Question 2: The widget is typically visible by default at the top section of a product detail page, so users immediately see and interact with ratings. Its appearance is not dependent on user actions; it is a persistent interface element.
+
+  4.3 Question 3: Users can hover/click or keyboard-select a star rating, getting instant visual feedback; only after a rating is selected is the "Submit" button enabled. On submission, users receive a Thank You feedback message. Interactions are constrained: users can't submit with no rating, can't submit multiple times before feedback clears, and can use both mouse and keyboard for full accessibility.
+  -->
+</body>

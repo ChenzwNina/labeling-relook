@@ -1,0 +1,7 @@
+Q1: The widget is a centered, rounded box with a white background and soft shadow, offset 20px from the top. It’s approx. 380px wide, featuring a header with an icon, bold title, and a short subtitle. Benefits are shown as a colored list in a pale-blue box. The form includes labeled fields (name, email, password) and clear primary (Join Now) and secondary (Cancel) buttons. Colors emphasize actions (blue primary, soft grays), clear affordances with raised buttons, field outlines and error/success feedback. Responsive scaling ensures usability on mobile. Choices promote a welcoming and trustworthy look, optimizing clarity and usability.
+
+  Q2: This widget appears when a user navigates to membership/loyalty promotions, clicks on “Become a member,” or is prompted with a sitewide banner encouraging sign-up. Its prominent positioning and modal style signal importance.
+
+  Q3: Users can enter data in the three fields—name, email, password (with instant validation feedback). “Join Now” is only enabled with valid, complete input. On clicking submit, a success message appears; on error, a helpful message is shown. “Cancel” clears the form and resets feedback. All affordances and constraints keep users focused and informed throughout the process.
+  -->
+</body>

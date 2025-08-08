@@ -1,0 +1,29 @@
+-->
+    <!-- 
+        Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The component is a rectangular banner with rounded corners, designed to float at the top of the page. It features a clean, professional layout. On the left, a vibrant placeholder image (300px wide) adds visual appeal and context. The right side contains the text and form on a white background.
+
+        Colors: The palette is chosen for trust and clarity. The background is white (#FFFFFF), text is a dark gray (#1a1a1a), and the primary call-to-action button is a bright, optimistic blue (#007bff). This high contrast makes the button, the main interactive element, stand out.
+
+        Elements & Layout: A large, bold headline ("Join the Club & Get 15% Off") immediately communicates the core value. The layout uses flexbox to align the image and content side-by-side, which is a modern and efficient structure. On smaller screens, the layout stacks vertically to ensure readability and usability. These choices are made to create a non-intrusive yet persuasive component that looks professional, clearly communicates its purpose, and guides the user toward the intended action.
+    -->
+    <!-- 
+        Question 2: What triggers the appearance of this widget?
+
+        This widget is designed to be triggered by specific user behaviors to maximize relevance and minimize annoyance. The most common trigger would be for a new, first-time visitor. After the user has been on the site for a short period, such as 5-10 seconds, the banner would animate into view from the top. This delay ensures the user has had a moment to engage with the site's content before being presented with an offer.
+
+        Alternatively, it could be triggered by "exit intent," where the component appears when the user's cursor moves towards the browser's address bar or close button, presenting a last-chance offer to retain them. Another trigger could be upon visiting a specific landing page from a marketing campaign. For this implementation, the primary intended trigger is a time-delayed appearance for new users, as it's a balanced approach between being proactive and respecting the user's browsing experience.
+    -->
+    <!-- 
+        Question 3: Can you describe the full range of interactions users can have with the widget?
+        
+        Users have a clear and limited set of interactions, designed for efficiency and to prevent errors.
+
+        1.  **Signing Up (Primary Action):** The user can click the input field, which gets a blue glowing border (focus state) for clear feedback. They can then type their email address. The HTML5 `required` and `type="email"` attributes provide basic validation. Clicking the "Sign Up Now" button provides visual feedback: it darkens on hover and shrinks slightly when clicked (active state). Upon successful submission, a confirmation would typically appear.
+
+        2.  **Dismissing the Widget:** If the user is not interested, they can click the '×' icon in the top-right corner. The icon is placed in a conventional location for easy discovery. It has a hover state (background darkens) to indicate it's interactive. Clicking it immediately removes the banner from view, allowing the user to continue their browsing journey without interruption.
+
+        3.  **Ignoring the Widget:** The widget is positioned to be visible but not obstructive. Users can simply ignore it and continue to scroll and interact with the main page content beneath it.
+    -->
+</body>

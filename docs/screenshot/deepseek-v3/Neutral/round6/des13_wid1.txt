@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, minimalist design with a white background and subtle shadow for depth. Input fields are spacious (350px wide) with 12px padding for comfortable typing. The blue (#4285f4) sign-in button provides strong visual contrast. These choices prioritize usability - ample spacing reduces errors, the color scheme maintains brand consistency while ensuring readability, and the centered layout focuses user attention on the task.
+    
+    Question 2: This sign-in widget would typically appear when users click a "Sign In" link in the website header, or when attempting to access account-specific features like checkout or wishlists. It could also appear as a modal overlay or on a dedicated sign-in page.
+    
+    Question 3: Users can: 1) Enter email and password in the form fields, 2) Submit the form by clicking the button or pressing Enter, 3) Navigate to registration via the "Register" link, or 4) Access password recovery through the "Forgot password" link. The form validates inputs (ensuring email format and required fields) before submission.
+    -->

@@ -1,0 +1,10 @@
+Question 1: 
+  The widget is a clean, modern product list with a light background (#fff) and rounded corners, shadowing for gentle depth, and a 20px top margin from the viewport. Each product card is 220px wide on desktop, featuring a prominent product image (140x140px), product title, price in green, and two action buttons ("Add to Cart" in blue and "View Details" in muted blue). The layout is responsive, becoming 2-per-row on tablets and single column on mobile for accessibility. Design choices mirror real e-commerce UIs, offering visual clarity, easy scanning, and actionable buttons, using familiar e-commerce color schemes for trust and usability.
+
+  Question 2:
+  The widget appears as soon as the user navigates to the e-commerce website section/page where featured or regular products are displayed – typically, it's the main product listing or homepage. It is not hidden by default and does not require any user interaction or conditions to become visible.
+
+  Question 3:
+  Users can hover over each product card to receive a subtle lift and shadow effect, helping highlight clickable items. On each card, users can click "Add to Cart" to add the product to their shopping cart (presumed to trigger a cart action), or "View Details" to be taken to the product's detailed page. The full interaction model includes responsive layout adjustment on different devices, hover visual cues, and accessible button interactions.
+  -->
+</body>

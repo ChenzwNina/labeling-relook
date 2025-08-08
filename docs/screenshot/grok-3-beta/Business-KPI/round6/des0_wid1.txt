@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth. It uses a grid layout for product cards, ensuring responsiveness across devices. Each card has a hover effect (lift and shadow) to draw attention, with vibrant orange (#e44d26) for prices and buttons to evoke urgency and excitement. Product images are large (180px height) for visibility, and text is concise for quick scanning. These choices maximize sales and conversion by focusing on visual appeal and ease of interaction. -->
+
+    <!-- Question 2: The widget appears automatically at the top of the homepage with a 20px margin, ensuring immediate visibility upon site load. It can also be triggered on category pages or after a user scrolls past the hero banner, reinforcing product exposure. -->
+
+    <!-- Question 3: Users can hover over product cards for visual feedback, click "Add to Cart" buttons to purchase, and click product images or titles for detailed views, increasing engagement. The "View More Deals" link encourages further exploration, boosting page views. These interactions minimize bounce rates and cart abandonment by simplifying the buying process. -->
+</body>

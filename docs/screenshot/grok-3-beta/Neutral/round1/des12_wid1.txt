@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth, mimicking e-commerce aesthetics. It uses a blue (#007bff) button for prominence and action, with hover effects for interactivity. Text inputs are sized for readability (16px), and the form is centered with a fixed width (400px) for focus and accessibility. The layout is vertically stacked for simplicity, with consistent spacing (15-20px) for clarity. These choices ensure trust, usability, and alignment with e-commerce standards.
+
+Question 2: This widget appears when a user clicks on a "Sign Up" or "Create Account" link, typically located in the header or during checkout when accessing account-specific features. It may also display as a modal or dedicated page upon initiating registration from promotional banners or login prompts.
+
+Question 3: Users can interact by entering their name, email, and password in the input fields, with real-time typing feedback. They can click the "Create Account" button to submit the form, triggering validation or error messages if incomplete. Users can also click links to view Terms of Service or Privacy Policy, opening new pages or modals for detailed information.
+*****

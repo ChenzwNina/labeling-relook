@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, centered layout with a white background and subtle shadow for a professional look, mimicking e-commerce design standards. The red heading (#d32f2f) and confirmation button emphasize the seriousness of cancellation, while neutral grays (#e0e0e0, #666) for secondary elements maintain balance. The container is responsive (max-width: 600px) for readability across devices. Buttons are moderately sized (padding: 10px 20px) for easy clicking, and spacing (gap: 20px) ensures clarity. These choices prioritize user focus and align with e-commerce aesthetics of trust and simplicity. -->
+
+    <!-- Question 2: This widget appears when a user navigates to the membership settings page of their account on the ShopSmart website and selects the option to cancel their Premium Membership. It serves as a final confirmation step before the cancellation process is initiated, ensuring the user is fully aware of the consequences. -->
+
+    <!-- Question 3: Users can interact with the widget by clicking the "Yes, Cancel Membership" button to proceed with cancellation, which may trigger a follow-up survey or confirmation message. They can also click "No, Keep Membership" to return to their account settings without changes. Additionally, users can access support through the provided contact email or phone number in the feedback section for assistance or to explore alternatives to cancellation. -->
+</body>

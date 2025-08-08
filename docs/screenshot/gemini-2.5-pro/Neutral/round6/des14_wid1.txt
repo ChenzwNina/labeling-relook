@@ -1,0 +1,26 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a clean, modern-looking card positioned at the top center of the viewport. It has a white background with a subtle shadow, giving it depth and making it float above the main content.
+
+**Layout**: The layout is structured hierarchically. A header at the top contains the title and a close button. Below it sits the main visual element: a four-step progress bar. The bottom section contains specific item details and a call-to-action link. This logical flow guides the user from general status to specific details.
+
+**Colors**: The primary color palette is neutral (white, shades of grey) for a professional and unobtrusive look. A vibrant blue is used as an accent color to highlight the currently active step ("Out for Delivery") and the "View details" link. This draws the user’s attention to the most important information and actions. A solid blue with a checkmark icon clearly indicates completed steps, using universally understood design patterns for success states.
+
+**Design Choices**: These choices prioritize clarity and user experience. The fixed positioning ensures tracking info is always accessible. The visual progress bar allows for at-a-glance understanding of the delivery process. The color-coding and clean layout prevent information overload, making the component highly effective without being intrusive.
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is typically triggered automatically and contextually. The primary trigger occurs when a logged-in user visits the e-commerce website (such as the homepage or their account dashboard), and the system detects they have an active order that is currently in the "Shipped" or "Out for Delivery" stage. The widget appears on page load as a proactive notification, providing a convenient update without the user needing to actively seek it out. A secondary trigger could be a user clicking a "Track My Order" link from a shipping confirmation email, which would direct them to the website and display this widget to immediately present the relevant information.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+User interactions are designed to be simple and intuitive, focusing on information consumption and navigation.
+
+1.  **Passive Information Review**: The primary interaction is simply viewing the widget. The user can instantly understand the current stage of their delivery via the color-coded progress bar (e.g., "Out for Delivery" is the active step), see a picture and name of the item they are waiting for, and note the estimated arrival time ("Arriving Tomorrow").
+
+2.  **Detailed Exploration**: For users wanting more information, they can click the "View full order details" link. This is the main call-to-action and would navigate them away from the current page to a dedicated, comprehensive tracking page. That page might include a map with the courier's location, a detailed timeline of shipping events, and full order information.
+
+3.  **Dismissal**: If the user has absorbed the information and wants to remove the widget to see the underlying page content, they can click the '×' close button in the top-right corner. This dismisses the widget from the view for their current session, ensuring it does not become a permanent obstruction.
+-->
+
+</body>

@@ -1,0 +1,6 @@
+Question 1: This widget displays a clean white container at the top of the viewport with a 20px top margin, gentle shadows, rounded corners, and a max width for easy reading. Each product card has a soft gray background, rounded edges, clear focus/hover outlines, and shadows for clarity. Product images (165x165px) appear on top, followed by product name, green price, star rating in orange, and two action buttons (“Add to Cart” in blue, “Wishlist” in yellow) that provide visual feedback on interaction. The color scheme aids discoverability and clarity, and the component is fully responsive.
+
+  Question 2: This widget is designed as a static section that appears at the top of the page, such as on the home or product list page. It is visible to users as soon as the page loads.
+
+  Question 3: Users can interact by clicking “Add to Cart,” which provides instant feedback with a green “Added to cart!” message and temporarily disables the button to prevent repeat clicks. “Wishlist” toggles between states, showing “♡ Wishlist” and “✓ Wishlisted” with distinct visual feedback. Hovering/focusing on cards gives visual outlines for accessibility. No out-of-scope action is allowed (e.g., cannot double-add or re-add immediately).
+  -->

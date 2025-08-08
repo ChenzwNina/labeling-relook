@@ -1,0 +1,22 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a clean, horizontal navigation bar fixed 20 pixels from the top of the viewport. It features a white background (#ffffff) with a subtle bottom border and shadow, which makes it "float" above the page content. The main category links use a dark gray color (#333333) for high readability, set at a 16px font size. On hover, the link background turns light gray (#f8f8f8) and the text becomes a vibrant blue (#007bff) to provide clear visual feedback. The layout is centered using flexbox, ensuring it looks balanced on all screen sizes. Dropdown menus for sub-categories appear below the parent link, inheriting the white background and shadow to maintain a cohesive look.
+
+    These design choices are intentional. The fixed position keeps navigation constantly accessible, which is critical for e-commerce sites. The neutral color palette is professional and ensures the component doesn't clash with colorful product images. The hover effects and smooth transitions enhance the user experience by making interactions feel responsive and intuitive.
+
+    ### Question 2: What triggers the appearance of this widget?
+
+    This widget is a primary navigation element, so its appearance is not triggered by a user action. Instead, it is persistently visible as soon as the webpage loads. It remains fixed at the top of the viewport, ensuring that users always have access to the main product categories, regardless of how far they scroll down the page. The interactive part of the widget—the dropdown menus—are triggered to appear when a user hovers their mouse cursor over a main category link that is marked with a small downward-facing arrow (e.g., "Electronics" or "Fashion").
+
+    ### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users can interact with the widget in the following ways:
+
+    1.  **Hovering:** When a user moves their mouse over a main category link, two things happen: the link's background and text color change to indicate it's interactive. If the category contains sub-categories, a dropdown menu animates smoothly into view directly below it.
+
+    2.  **Clicking:** A user can click on any link within the widget. Clicking a main category link (like "Appliances") or a sub-category link (like "Laptops & Desktops") will navigate the user to that specific product category page.
+
+    3.  **Navigation and Dismissal:** While a dropdown is open, the user can move their cursor down to select and click a sub-category. If the user moves their cursor away from the main category and its associated dropdown menu, the menu will smoothly animate away and disappear, decluttering the view.
+    -->
+
+</body>

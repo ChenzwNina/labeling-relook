@@ -1,0 +1,10 @@
+4.1 Question 1:
+  The widget is a card with a white background, rounded corners, and subtle shadow for modern elevation. It’s 360px wide (responsive), with a centered layout and a product image at the top (220x220px). Below, the brand badge, title (1.2rem bold), rating with gold star, concise description, and pricing (with strikethrough old price, red discount badge) are shown. CTAs include a prominent blue Add to Cart button, quantity selector, and a pink “Wishlist” button. A green “Sponsored Deal” banner subtly overlays at the top-right. The palette uses trust-inducing blue, sales-driving red accents, and calming gray text to drive conversion and session times.
+
+  4.2 Question 2:
+  The appearance of this widget is triggered whenever an individual product is presented—either in a product listing grid (“shop” page), a carousel, or as the main product content on a product detail page. It’s designed to be instantly visible, always appearing at the top of the viewport with a 20px margin, maximizing initial user focus.
+
+  4.3 Question 3:
+  Users can view the product image and details, adjust product quantity using plus/minus buttons (restricted 1-10), click “Add to Cart” to place the item in their shopping cart, add to wishlist, and interact with the “Sponsored Deal” ad banner (which opens in a new tab). Multiple call-to-actions encourage engagement, exploration, and increased order size.
+
+  -->

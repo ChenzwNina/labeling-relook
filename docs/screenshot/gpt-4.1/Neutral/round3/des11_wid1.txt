@@ -1,0 +1,10 @@
+Question 1:
+  The widget uses a clean white card with subtle shadows and rounded corners, akin to modern e-commerce UI dialogs. The main action button ("Cancel Membership") is large, bright orange-red for urgency, and paired with a neutral "Keep My Membership" button. Membership status info appears in a light blue-gray box, highlighting plan details. Typography uses readable and modern sans-serif fonts, and the component’s width fits most screens comfortably (min 360px) with mobile responsiveness. Top margin is 20px as requested. These choices create clarity, prominence, and a trustworthy, branded feel.
+
+  Question 2:
+  This widget appears at the top of the viewport (with the 20px margin) when the user navigates to the page for managing/cancelling their membership—for example, via “Account > Membership Settings > Cancel Membership.”
+
+  Question 3:
+  Users can: review their plan and next billing date, choose to cancel (which displays a confirmation message and disables further actions), or click “Keep My Membership” to remove the widget without any change. No navigation away, only in-widget feedback. Button hover states improve interactivity, and mobile layout adapts button stacking.
+  
+  -->

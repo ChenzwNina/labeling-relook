@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a centered, rounded-corner card with a white background and light drop shadow, located 20px from the top of the page. It features a 58px circular icon (with a placeholder image), a bold blue headline, a supporting message in subtle gray-blue, and a light-gray panel displaying membership details. There are two distinct action buttons below: a red-outlined "Cancel Membership" and a blue "Keep Membership." Upon cancellation, a green-outlined confirmation message appears. These colors signal status, next actions, and feedback in a visually familiar e-commerce language. Large touch-friendly buttons and clean layout promote clarity and efficient interaction.
+
+  Question 2:
+  The widget should appear when a user chooses "Cancel membership" or a similar action in their account/membership settings, ensuring purposeful entry into the cancellation flow.
+
+  Question 3:
+  Users can: (1) Click "Cancel Membership" to immediately cancel; the button shows loading, disables further input, then displays confirmation feedback. (2) Click "Keep Membership" to dismiss the widget without any changes. The interface constrains accidental cancellations and confirms significant actions, providing clear feedback and a logical, consistent user flow.
+  -->
+</body>

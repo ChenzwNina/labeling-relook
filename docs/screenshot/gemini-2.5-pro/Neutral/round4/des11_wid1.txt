@@ -1,0 +1,23 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a modal-style widget centered horizontally and fixed near the top of the viewport. It has a clean, modern aesthetic with a white background, soft grey borders (#e5e7eb), and a subtle box-shadow to make it appear layered above the main content. 
+
+The color palette is intentional: a friendly but commanding blue (#3b82f6) for the primary "Keep My Benefits" button draws the user's eye, encouraging retention. The "Continue to Cancel" button is a neutral secondary style with a simple border to de-emphasize the action. Inside the benefits list, a positive green checkmark icon (#10b981) visually reinforces the value being lost.
+
+The layout is structured vertically for readability: a clear header, body text, a highlighted benefits summary box, and a footer with action buttons. Font sizes are hierarchical (20px for the heading, 16px for body text) to guide the user's focus. This design is chosen to be clear and professional. It gently persuades the user to reconsider without using deceptive "dark patterns," thus respecting the user while still aligning with business goals.
+
+### Question 2: What triggers the appearance of this widget?
+
+This widget is triggered when a user, who is already logged into their account, navigates to their "Account Settings" or "Subscription Management" page and explicitly clicks on a link or button labeled "Cancel Membership" or a similar phrase. It functions as a confirmation and retention-focused interstitial step. It appears as a modal overlay, pausing the cancellation process to ensure the user is certain about their decision and to remind them of the value they will be giving up before the cancellation is finalized. This is a common practice on e-commerce and subscription-based websites.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three primary interactions with this widget:
+
+1.  **Clicking "Keep My Benefits":** This is the main retention call-to-action. Clicking this primary blue button would immediately close the widget and abort the cancellation process. The user would remain on their account page with their membership still active.
+
+2.  **Clicking "Continue to Cancel":** This is the secondary action. Clicking this button confirms the user's intent to cancel. This would likely advance them to the final step in the cancellation flow, which might be a page confirming the cancellation or a brief exit survey asking for their reason for leaving.
+
+3.  **Clicking the "×" Close Button:** Located in the top-right corner, this is a standard modal closure method. Functionally, it acts identically to clicking "Keep My Benefits." It provides a quick, conventional way for the user to dismiss the prompt and reverse their decision to cancel, keeping their membership active.
+-->
+</body>

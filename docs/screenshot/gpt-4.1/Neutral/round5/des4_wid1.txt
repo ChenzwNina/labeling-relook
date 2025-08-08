@@ -1,0 +1,11 @@
+3.1 Question 1: 
+  The widget is a wide, clean, and modern card-based product list displayed near the top of the page (20px from the top), centered horizontally. The background is white with gentle grayish (box-shadow) elevation, and each product card features a soft border, rounded corners, and subtle hover effects. Product images are in a consistent light-gray block, with bold product names and distinct prices. The prominent blue "Add to Cart" button provides a clear call to action. Spacing and responsive layouts ensure readability and accessibility on different devices. The colors (blue for CTAs, muted tones elsewhere) and layout are chosen to be familiar and trustworthy to users of popular e-commerce sites.
+
+  3.2 Question 2: 
+  The widget appears by default whenever a user lands on the main shopping or featured products page. It is a staple interface element on any e-commerce site, not triggered by a specific user action but always visible, allowing customers to browse available products instantly.
+
+  3.3 Question 3: 
+  Users can visually scan the list of products, see images, names, and prices, and for each item, interact with the "Add to Cart" button. Hovering over a card adds a subtle shadow for feedback. Product images and names could be made clickable (not implemented here), leading to detail pages. Currently, interaction is limited to clicking "Add to Cart" for each product or scrolling through the listed items.
+
+  -->
+</body>

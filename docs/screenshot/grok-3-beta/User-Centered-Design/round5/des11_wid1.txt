@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget has a clean, modern design with a white background container, subtle shadow for elevation, and a max-width of 600px for readability, centered on the page. It uses a red (#dc2626) confirmation button for urgency and a gray (#e5e7eb) cancel button for neutrality, ensuring clear visual hierarchy. Text is in shades of gray for contrast, with headers in darker tones (#333). Buttons and options have hover effects for interactivity. These choices prioritize clarity, focus on the critical action of cancellation, and align with e-commerce design standards for trust and usability. -->
+
+    <!-- Question 2: The widget appears when a user navigates to the membership settings page of their account on the e-commerce website and selects the option to cancel their Premium Membership. It is triggered by an explicit user action, ensuring it only shows when relevant. -->
+
+    <!-- Question 3: Users can interact with the widget by selecting one of the four cancellation reasons, which highlights the chosen option and enables the 'Confirm Cancellation' button. They can click 'Confirm Cancellation' to finalize the process, receiving feedback via a success message, or click 'Keep Membership' to exit. Hover effects on options and buttons provide visual cues, and the disabled confirm button prevents action without a selection. -->
+</body>

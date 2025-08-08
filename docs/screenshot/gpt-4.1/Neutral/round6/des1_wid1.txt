@@ -1,0 +1,6 @@
+Question 1: The widget is a horizontally-styled banner with a bright orange-to-yellow gradient background, white bold headline, and a small deal image on the left. The headline is large for immediate attention, with a slightly smaller explanatory line beneath. A "Shop Deals" button in white and orange accentuates the call-to-action, and a close (×) icon sits at the top right. Ample padding, rounded button corners, and subtle drop-shadows give it a modern look, matching popular e-commerce UI trends. This layout maximizes visibility and engagement.
+
+Question 2: The banner is intended to appear automatically at the top of the viewport when a user lands on the e-commerce site or when new deals go live. It is always positioned after a 20px margin from the top, ensuring it does not clash with any fixed headers.
+
+Question 3: Users can interact by clicking the "Shop Deals" button, which takes them to the deals page. Alternatively, they can close the banner by pressing the '×' button, removing it from view. The close button ensures non-intrusive UX. On mobile, the layout adapts to a stacked design, preserving clarity and tappable targets.
+-->

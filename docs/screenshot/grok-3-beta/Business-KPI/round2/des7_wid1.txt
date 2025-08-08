@@ -1,0 +1,7 @@
+-->
+    <!-- Question 4.1: The widget features a clean, white background with subtle shadows for depth, positioned at the top with a 20px margin. It uses a centered layout with a grid of three rating cards (280px wide) for readability. Stars are gold (#f1c40f) for visual pop, text is dark gray (#555) for contrast, and the CTA button is red (#e74c3c) to drive action. Hover effects on cards and the button enhance interactivity. These choices build trust through testimonials, encourage engagement with a bold CTA, and maintain a professional, approachable look to maximize conversions and time on site. -->
+
+    <!-- Question 4.2: The widget appears statically at the top of the homepage or product pages, visible upon page load. It’s designed to immediately capture attention and build trust with user feedback, reducing bounce rates and encouraging further exploration of the site. -->
+
+    <!-- Question 4.3: Users can interact with the widget by reading customer reviews to build trust, hovering over rating cards for visual feedback (lift effect), and clicking the 'Shop Now' CTA button to navigate to the product catalog. These interactions aim to drive conversions, reduce cart abandonment, and increase page views per visit. -->
+</body>

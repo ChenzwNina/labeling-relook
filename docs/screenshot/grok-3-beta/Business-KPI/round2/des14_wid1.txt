@@ -1,0 +1,7 @@
+-->
+    <!-- Question 4.1: The widget features a clean, modern design with a white background and subtle shadow for elevation. It uses a green (#27ae60) progress bar and circles to indicate completed steps, contrasting with gray (#dcdcdc) for pending ones, providing clear visual feedback. The layout is centered with a max-width of 1200px for readability, and font sizes vary (e.g., 28px for headers, 14px for labels) for hierarchy. A bold red CTA button (#e74c3c) grabs attention to drive further purchases. These choices enhance trust, clarity, and engagement, encouraging users to stay and explore more. -->
+
+    <!-- Question 4.2: The widget appears when a user navigates to the "Track Order" page after logging into their account or enters an order ID in a tracking tool on the website. It can also be triggered via a link in order confirmation emails or notifications, ensuring easy access post-purchase. -->
+
+    <!-- Question 4.3: Users can view detailed order status through the progress tracker, read specifics like item, quantity, and delivery date, and interact with the "Shop More Deals" CTA button to return to the store. Hover effects on the button provide feedback, and the widget may include clickable order IDs or tracking links (if integrated) for deeper logistics info, maximizing engagement. -->
+</body>

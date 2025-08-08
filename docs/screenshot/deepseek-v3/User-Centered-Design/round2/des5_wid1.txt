@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, white panel (280px wide) with rounded corners and subtle shadow for depth. Sections are divided by light borders with clear headings (16px, dark gray). Options use 14px medium-gray text with checkboxes for selection. The design prioritizes scannability with ample white space, consistent alignment, and a green "Apply" button for clear action. These choices enhance usability while maintaining visual harmony with most e-commerce sites.
+
+    Question 2: This widget typically appears persistently on product listing pages (left side on desktop, as a drawer/modal on mobile). It may also appear when users click a "Filter" button on mobile views or when specifically triggered by filter icons in the product grid header.
+
+    Question 3: Users can: 1) Select/deselect checkboxes for category/brand/rating filters, 2) Input min/max price values, 3) Click "Apply" to submit selections (refreshing results), 4) Scroll if options exceed panel height. On implementation, filters would instantly update product listings or require explicit apply action depending on site preference.
+    -->
+</body>

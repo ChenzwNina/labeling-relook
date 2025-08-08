@@ -1,0 +1,7 @@
+Question 1: The widget is a compact, card-style product display. It uses a white background with soft shadows for elevation and rounded corners for a modern look. The main product image (200x200px) sits at the top, followed by the product name in bold, a concise description, star rating (gold-colored stars for high visibility), current and original prices with a clear discount indication, and an eye-catching blue gradient ‘Add to Cart’ button at the bottom. The color palette is chosen for cleanliness and accessibility, suitable for contemporary e-commerce sites.
+
+  Question 2: This widget appears wherever a single product needs to be displayed—such as in a product grid on a category page, or a featured product section, or even in popups or recommendation sidebars. Its display is static (no dynamic trigger) and is shown as part of the page load.
+
+  Question 3: Users can view the key product information, see visual indicators like ratings and pricing (with savings), and interact with the "Add to Cart" button, which would (upon implementation) add the item to the shopping cart. Hover and focus styles on the button give feedback, enhancing usability. The product image supports alt text for accessibility. 
+  -->
+</body>

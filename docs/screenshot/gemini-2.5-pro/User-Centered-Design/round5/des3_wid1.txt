@@ -1,0 +1,28 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The search panel is a clean, rectangular component with rounded corners, positioned horizontally at the top center of the page. Its layout consists of three parts aligned in a row: a category dropdown on the left, a main search input field in the middle, and a search button on the right. 
+
+    Colors: The panel has a white background with a subtle gray border and a soft shadow to lift it off the page. The search button uses a prominent, solid blue (#007bff) to serve as a clear call-to-action. Text is a dark gray (#333) for high readability. 
+
+    Sizes: The component is responsive but has a max-width of 800px. Key elements like the input and button share a consistent height of 45px for a unified and easy-to-use feel.
+
+    These choices create a modern, uncluttered interface common in leading e-commerce sites. The high-contrast button and focused layout guide the user directly to the primary task of searching, enhancing usability and task efficiency.
+
+    ## Question 2: What triggers the appearance of this widget?
+
+    The search panel is a primary navigation component, not a pop-up or modal. Its appearance is triggered by the page loading. It is designed to be persistently visible at the top of the viewport on key pages where search is a central user activity, such as the homepage, category landing pages, and product listing pages. This constant visibility ensures the search function is always immediately accessible, reducing user friction and supporting efficient navigation throughout the website. The component remains fixed in place as the user scrolls down the page, reinforcing its availability at all times.
+    
+    ## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users have a multi-step, intuitive interaction flow with the widget designed for efficiency:
+
+    1.  **Category Selection:** The user can optionally click the "All Categories" dropdown on the left. This presents a list of predefined product categories. Selecting one (e.g., "Electronics & Computers") pre-filters the search, applying a helpful constraint.
+    2.  **Query Input:** The user clicks into the main input field and types their search term. As they focus on the input, the entire panel gains a blue glowing border, providing clear visual feedback that the component is active.
+    3.  **Search Submission:** The user can submit the search in two ways:
+        *   **Clicking:** They can click the blue search button, which has hover and active states for feedback.
+        *   **Keyboard:** They can press the 'Enter' key on their keyboard, a standard convention for form submission.
+    4.  **Clearing Input:** Modern browsers will display a small "x" within the search field as the user types, allowing them to quickly clear their query and start over.
+
+    -->
+
+</body>

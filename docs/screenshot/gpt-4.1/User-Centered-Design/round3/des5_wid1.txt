@@ -1,0 +1,20 @@
+Question 1: 
+    The widget is a horizontally oriented white panel with rounded corners and a subtle shadow. At 780px wide (scaling on mobile), it's visually separated from the page with a 20px top margin. Prominent blue is used for primary actions/text and neutral grays for backgrounds and borders. Sections (“Category”, “Price Range”, “Brand”, “Customer Rating”) are evenly distributed. Inputs are clear with enough spacing, and “Apply Filters”/“Clear All” buttons are unmistakable in their action via color and hover effects. Consistency is maintained across all interactive elements, which are of moderate tap/click-friendly size for usability and accessibility.
+
+    Design choices aim for clean visual hierarchy, immediate recognizability of each filter, clear actionable feedback (button states), and prominent affordances (distinct clickable areas and inputs).
+
+    Question 2: 
+    The filter panel is intended to be immediately visible at the top of the viewport whenever users land on a product listing page or perform searches/browse categories. Its fixed positioning makes it always accessible for quick filtering without requiring a click to reveal or scroll to find.
+
+    Question 3: 
+    Users can: 
+    - Select a product category (radio buttons, one at a time).
+    - Enter a price range, constrained so minimum ≤ maximum and both non-negative.
+    - Select multiple brands (checkboxes).
+    - Choose a customer rating (radio, only one at a time).
+    - Click “Apply Filters” (only enabled if at least one filter is set) to trigger product filtering.
+    - Click “Clear All” (enabled when filters are changed) to instantly reset all filters.
+    - Users receive immediate feedback through enabled/disabled states and constraint validation on price input.
+
+  -->
+</body>

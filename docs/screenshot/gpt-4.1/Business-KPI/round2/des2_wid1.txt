@@ -1,0 +1,6 @@
+4.1: The widget has a fixed position at the very top with a 20px margin. It uses a bright white background and soft blue accents (#2363eb) for maximum visibility and brand recall. The main navigation bar is 72px high, with a prominent logo, and categories spaced out for easy scanning. Categories reveal clean, shadowed dropdowns on hover/focus, with clear, direct links to subcategories and sales (stimulating discovery and upsell). A sticky cart icon (red badge) and a search bar (that expands on focus) maximize conversion and average order size. All font sizes and paddings are optimized for conversion and usability, and the layout is responsive to grow time on site and page views.
+
+  4.2: The widget appears immediately at the top of every page view on the e-commerce site, acting as the primary product navigation mechanism. No user interaction is needed to trigger its appearance.
+
+  4.3: Users can click or hover over any main category to open a dropdown of subcategories and deals, increasing product discovery. They can type and search directly from the bar, boosting engagement. The clickable logo home, cart (with live count), and search controls are always available. Navigation animations, hover/focus states, and mobile responsiveness enhance the interactive experience and funnel users to conversion actions.
+  -->

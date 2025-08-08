@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, centered white card (400px wide) with soft shadows on a light gray background. It uses a red cancellation button for urgency, contrasting with a neutral gray "keep membership" button. Text is dark gray for readability with a 24px heading. The layout is simple: heading, explanatory text, dropdown, text area, and action buttons. These choices create a professional, focused interface that guides users through cancellation while offering alternatives.
+
+    Question 2: The widget appears when a user navigates to account settings and selects "Cancel Membership" or clicks a similar cancellation link. It could also trigger when a user attempts to downgrade from a paid plan to free.
+
+    Question 3: Users can: 1) Select a cancellation reason from a dropdown, 2) Add optional comments in a text area, 3) Confirm cancellation with the red button, or 4) Change their mind using the "Keep Membership" button. The interface provides clear feedback after each action.
+    -->

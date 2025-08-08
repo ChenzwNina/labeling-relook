@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based design with a white background, subtle shadow, and rounded corners. The image takes up the top section (280x200px), with product details below. I chose a color scheme with green for the action button (contrasting with red price) to draw attention to the CTA. The layout is organized hierarchically with title, price, rating, then button. Hover effects provide interactivity feedback. These choices create visual appeal while maintaining clarity and encouraging conversions.
+
+    Question 2: This product widget appears as part of a product listing page, category page, or search results in an e-commerce site. It can also appear in recommendation sections ("Customers also bought") or promotional displays. The widget is triggered by page load when products matching certain criteria need to be displayed to the user.
+
+    Question 3: Users can: 1) Click the product image/title to view details, 2) Click the heart icon to toggle wishlist status (visual feedback via color change), 3) Click "Add to Cart" to purchase (with hover effect), 4) View price and rating information. The entire card has a hover effect that slightly lifts it, indicating it's interactive. These interactions follow e-commerce conventions while providing clear feedback for each action.
+    -->
+</body>

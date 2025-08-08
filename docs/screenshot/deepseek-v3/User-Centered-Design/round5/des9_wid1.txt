@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design with white background and subtle shadows for depth. Shipping options are listed vertically with radio buttons, descriptions, and prices. Add-ons appear below with checkboxes. I chose blue for prices as it's associated with trust, and the layout prioritizes clarity with adequate spacing. The design is responsive and accessible with proper contrast.
+
+    Question 2: This widget would typically appear during checkout after the user enters their shipping address but before payment. It triggers when the system confirms available shipping methods for that location.
+
+    Question 3: Users can: 1) Select one shipping method via radio buttons, 2) Choose multiple add-ons via checkboxes, 3) See price updates when changing options, and 4) Click "Continue" to proceed. The widget provides immediate visual feedback when interacting with any element.
+    -->
+</body>

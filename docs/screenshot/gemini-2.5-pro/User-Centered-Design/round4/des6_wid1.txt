@@ -1,0 +1,33 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a vertical card, 320px wide, with a clean, modern aesthetic. It has a white background, rounded corners, and a subtle box shadow to make it "lift" off the page. The layout is hierarchical: a product image at the top with a green "New" badge, followed by product information below. 
+
+The color palette is intentional:
+-   **Text:** Dark gray for readability.
+-   **Price:** A bright blue (`#007bff`) for the current price draws attention, while the original price is a muted gray with a strikethrough.
+-   **Button:** The same bright blue is used for the "Add to Cart" button, creating a strong, consistent call-to-action.
+
+The product title is the largest text element to establish importance. Color swatches are circular and interactive, and the size selector is a standard dropdown for familiarity. These choices create a scannable, visually appealing component that directs the user’s focus toward making a purchase decision efficiently.
+
+## Question 2: What triggers the appearance of this widget?
+
+This widget is a static component and does not appear based on a user action like a click or hover. Instead, it is part of the primary content of a page. It is designed to be displayed on pages where multiple products are listed, such as:
+
+-   A category page (e.g., "Men's T-Shirts").
+-   A search results page.
+-   A curated collection (e.g., "New Arrivals," "Bestsellers").
+-   The homepage in a "Featured Products" section.
+
+Therefore, its appearance is triggered by a user navigating to one of these product listing pages on the e-commerce website. It would typically be one of many similar cards arranged in a grid.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several direct interaction points designed for an efficient shopping experience:
+
+1.  **Hovering the Card:** Hovering over the entire card causes it to lift slightly and its shadow to deepen, providing visual feedback that it's an interactive element.
+2.  **Selecting a Color:** Users can click on the colored circles (swatches). Clicking a swatch highlights it with a blue border, providing clear feedback on the selected option.
+3.  **Selecting a Size:** Users can click the dropdown menu to reveal available sizes. They can then click a size from the list to select it. This constrains their choice to valid options.
+4.  **Adding to Cart:** The primary interaction is clicking the "Add to Cart" button. This button changes color and shifts slightly on hover and click, indicating its function. This action would typically add the product with the selected color and size to the user's shopping cart.
+-->
+
+</body>

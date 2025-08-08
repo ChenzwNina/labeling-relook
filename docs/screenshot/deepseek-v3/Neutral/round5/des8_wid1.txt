@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with a dark blue header (#2c3e50) and white body. It's 350px wide with rounded corners and subtle shadows for depth. Items display with images (60x60px), clear product names in bold, and red prices for emphasis. The design choices prioritize readability, visual hierarchy, and mobile-friendliness while maintaining brand consistency with the color scheme.
+    
+    Question 2: The widget appears when users click the shopping cart icon (a fixed-position 🛒 icon with a red counter badge in the top-right corner). It can be closed by clicking either the × button in the header or the cart icon again. This toggle functionality provides easy access without disrupting browsing.
+    
+    Question 3: Users can: 1) View all cart items with images, names, prices, 2) Adjust quantities (+/- buttons or direct input), 3) Remove items (Remove button), 4) See the running total, and 5) Proceed to checkout. The widget supports scrolling for many items and provides visual feedback on interactions like button hovers.
+    -->

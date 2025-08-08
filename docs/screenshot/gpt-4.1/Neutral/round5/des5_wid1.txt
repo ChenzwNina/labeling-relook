@@ -1,0 +1,7 @@
+Question 1: The widget is a horizontally-aligned floating filter panel with a white background, slightly rounded corners, and soft shadows for elevation. Text uses modern Sans-serif fonts in dark shades. Filter groups are separated by space and Clear/Apply buttons are brightly styled for good clickable affordance. The design uses pleasant blues (#2563eb) for strong actions, with muted backgrounds and light borders for a clean look. Responsiveness ensures it stacks vertically on small screens. Layout emphasizes clarity, easy scan of filter options, direct interaction, and real-world e-commerce best practices.
+
+Question 2: The filter panel is always visible (sticky at the top, margin-top: 20px). It is designed for desktop and mobile, meant to remain accessible during browsing so users always have easy access to product filtering tools as they explore listings.
+
+Question 3: Users can select or deselect categories and brands using checkboxes, enter a minimum and maximum price, and pick a rating using radio buttons. Pressing "Apply Filters" would (in real use) filter product listings. "Clear All" resets all filter options. On mobile, the responsive design enables easy adjustability and access to all controls.
+
+-->

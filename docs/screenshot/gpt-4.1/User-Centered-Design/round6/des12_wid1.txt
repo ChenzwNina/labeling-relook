@@ -1,0 +1,10 @@
+4.1 Question 1:
+  The widget appears as a card anchored at the top center, 20px from the viewport's top, measuring 400px wide (responsive on mobile). It uses a clean, white background with subtle box-shadow and rounded corners. Main elements include a logo/avatar, strong heading, clear fields (First Name, Last Name, Email, Password), inline password rules, and action buttons. Brand colors (blue for actions, red for feedback/warnings) enhance clarity, while spacious padding/gaps help readability. All affordances (buttons, inputs, error feedback) are highly visible and consistent with e-commerce standards.
+
+  4.2 Question 2:
+  This widget appears when a user selects "Create Account" or "Sign Up" from anywhere in the site header, menu, or a checkout authentication step. It's intended for new customers who need to register, and appears immediately upon clicking those entry points.
+
+  4.3 Question 3:
+  Users can: enter information in all fields; toggle the "Show password" option; submit the form (with fields validated and error feedback shown inline for each issue); interact with real-time validation for guidance; and select the link to switch to "Sign in" if they already have an account. Once "Create Account" is successful, changes in button state/text provide clear feedback. Inputs are constrained to prevent empty or incorrectly formatted submissions.
+  -->
+</body>

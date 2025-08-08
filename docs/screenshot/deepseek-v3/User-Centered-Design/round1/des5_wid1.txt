@@ -1,0 +1,5 @@
+Question 1: The widget has a clean, minimalist design with a light gray background (#f8f9fa) and subtle shadow for depth. It's 280px wide with ample padding (20px). Text uses a hierarchy: section titles are bold (16px), options are smaller (14px), with dark gray (#333-555) for readability. The blue (#0066cc) "Apply" button stands out. These choices enhance usability - clear hierarchy aids scanning, neutral colors don't distract from products, and proper sizing ensures touch-friendliness on mobile.
+
+    Question 2: Typically triggered when users click a "Filter" button in the product listing page's header or sidebar. On mobile, it might appear as a full-screen overlay. Some sites show it persistently in desktop views for immediate access to refinement options.
+
+    Question 3: Users can: 1) Check/uncheck category/brand checkboxes to include/exclude products, 2) Set price min/max values, 3) Reset all filters with the "Reset" button, 4) Apply selected filters with the "Apply" button. Hover states on interactive elements provide feedback. The panel maintains state until submission or reset.

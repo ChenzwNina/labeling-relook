@@ -1,0 +1,23 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+    
+    The widget is a clean, modern banner positioned at the top of the viewport. It uses a professional color palette: a white background for clarity, a deep blue (#007bff) as the primary action color for buttons and progress indicators, and a vibrant green (#28a745) for the positive "Out for Delivery" status. Text is dark grey for high readability.
+    
+    The layout is structured with clear visual hierarchy. The largest text, "Your order is on its way!", immediately reassures the user. A visual progress bar provides an instant, easy-to-understand summary of the order's journey. An image of the purchased item reinforces the customer's purchase and builds excitement. The design uses generous spacing and rounded corners to feel friendly and uncluttered. These choices are made to build trust, reduce customer anxiety, and create a positive post-purchase experience, which is crucial for encouraging repeat business (maximizes returning visitors and future conversion rates).
+    
+    4.2 Question 2: What triggers the appearance of this widget?
+    
+    The primary trigger for this widget is a user visiting the website with a specific URL parameter, for instance, `?source=email_track_order&order_id=US-8675309`. This link would be included in "Your order has shipped!" email notifications. This ensures the user sees the relevant information immediately upon landing, fulfilling their intent and minimizing bounce rate.
+    
+    A secondary trigger could be for a logged-in user who has an active, in-transit order. Upon visiting the homepage or their account dashboard, the system would recognize their status and display the banner proactively. This provides a high-value, personalized experience that makes the user feel valued, strengthens brand loyalty, and encourages them to stay on the site longer.
+    
+    4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+    
+    Users have several key interactions designed to provide value and drive business goals:
+    1.  **View Status:** At a glance, the user can absorb the most critical information: the current delivery status, estimated arrival, and a visual progress bar.
+    2.  **Dismiss:** The user can click the '×' button to close the banner and continue browsing the site.
+    3.  **Drill-Down:** Clicking the "View Order Details" button navigates them to their full order history page for more comprehensive information, increasing page views.
+    4.  **External Tracking:** Clicking "Track on UPS" opens the carrier’s detailed tracking page in a new browser tab, providing transparency without navigating the user away from the e-commerce site.
+    5.  **Cross-Sell Engagement:** The user can click the "Goes well with" product suggestion. This navigates them to a related product page, aiming to increase the average order size through a follow-up purchase.
+    
+    -->
+</body>

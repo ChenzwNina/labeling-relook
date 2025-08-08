@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-like design with a light gray background (#f8f9fa) and subtle shadow for depth. It's 280px wide with ample padding (20px) and rounded corners (8px radius). Section titles use 16px medium-weight font in dark gray (#444), while options use 14px regular font in lighter gray (#555). The blue apply button (#007bff) provides clear call-to-action. This design ensures readability, visual hierarchy, and a modern aesthetic that matches typical ecommerce sites.
+
+    Question 2: This filter panel would typically appear either permanently in a sidebar layout or as a collapsible panel on mobile devices. It could also be triggered by clicking a "Filter" button in the product listing header, which would slide the panel in from the side or display it as an overlay on smaller screens.
+
+    Question 3: Users can: 1) Check/uncheck category and rating filters, 2) Adjust price range using either the slider or direct number inputs, 3) Clear all selections with the "Clear all" button, and 4) Apply their filters with the "Apply Filters" button. The panel provides immediate visual feedback for all interactions, with checkboxes toggling and the slider moving smoothly.
+    -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, minimalist design with white background and subtle shadows for depth. It uses a red confirmation button for urgency/action, while the cancel button is neutral. The layout is organized with clear hierarchy (heading > description > form > buttons). Elements are sized for readability (16px text, ample padding). These choices prioritize clarity and usability while maintaining brand consistency.
+
+    Question 2: The widget appears when a user navigates to account settings and selects "Cancel Membership" or clicks a similar cancellation link. It could also appear as a modal when users attempt to downgrade from a paid membership.
+
+    Question 3: Users can: 1) Select a cancellation reason from dropdown, 2) Provide optional feedback via textarea, 3) Confirm cancellation (with validation), 4) Cancel the process, or 5) See a confirmation message upon successful cancellation. The flow is linear with clear feedback at each step.
+    -->

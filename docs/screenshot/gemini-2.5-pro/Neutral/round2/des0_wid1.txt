@@ -1,0 +1,26 @@
+**3.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The component is a prominent banner-like section with a clean, modern aesthetic.
+*   **Colors:** The main component background is white (#ffffff) to stand out against a potentially colored page body (here, light grey #e9ebee). Product cards use a very light grey (#f8f9fa) background. Text is primarily dark grey/black for readability. Current prices are a prominent red (#e60023) to indicate importance/sale, while original prices are a muted grey. Call-to-action buttons use a vibrant blue (#007bff). These choices aim for a professional e-commerce feel, using color to guide attention and create visual hierarchy.
+*   **Size:** The component has a `max-width` of 1200px and is centered. It sticks 20px from the top of the viewport when scrolled. The main heading is large (28px). Product images are set to a consistent height (200px) for visual balance. Product titles are around 20px.
+*   **Layout:** It uses a flexbox layout. The main title is centered above a container of product cards. These cards are also laid out using flexbox, allowing them to wrap responsively on smaller screens (from 3 across, to 2, then 1). Each card vertically stacks its image, title, price, and CTA button.
+*   **Design Choices Rationale:** `position: sticky` and `top: 20px` fulfill the positioning requirement, making the featured products highly visible as users scroll. The color scheme is standard for e-commerce, ensuring trust and clarity. The responsive flexbox layout ensures usability across devices. Hover effects on cards and buttons provide interactive feedback. Generous padding and spacing improve readability and visual appeal.
+
+**3.2 Question 2: What triggers the appearance of this widget?**
+
+The component's initial appearance is triggered by the page loading. It's designed to be an integral part of the webpage's content, likely placed near the top of a homepage or category page. There isn't a specific user action (like a click) that makes it appear for the first time; it loads along with other page elements.
+
+Its "sticky" behavior, where it affixes itself 20 pixels from the top of the viewport, is triggered when the user scrolls the page down to the point where the component's original position in the document flow is about to scroll past that 20px viewport offset. It then remains "stuck" at the top as the user continues to scroll further down the page.
+
+**3.3 Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users can interact with the widget in several ways:
+1.  **Viewing Product Information:** Users can passively view the product images, names, and prices (including original and discounted prices if applicable) to quickly get an overview of featured items.
+2.  **Scrolling and Sticky Behavior:** As users scroll the page, they will observe the component initially scrolling with the content, then "sticking" 20px from the top of the viewport, keeping the featured products visible.
+3.  **Clicking Call-to-Action (CTA) Buttons:** Each product card has a CTA button (e.g., "Explore Features," "Shop Collection," "View Details"). Clicking these buttons would typically navigate the user to the respective product detail page or a relevant category page on the e-commerce site. (In this demo, they link to "#".)
+4.  **Hover Interactions:**
+    *   **Product Cards:** Hovering over a product card provides visual feedback, such as a slight lift (using `transform: translateY`) and an enhanced box shadow, indicating it's an interactive element.
+    *   **CTA Buttons:** Hovering over a CTA button changes its background color (e.g., from blue to a darker blue) and may slightly scale it up, signaling clickability.
+5.  **Responsive Interaction:** The layout adapts to screen size. On smaller screens, product cards stack vertically for better readability and touch interaction, changing how users scan and select products.
+-->
+</body>

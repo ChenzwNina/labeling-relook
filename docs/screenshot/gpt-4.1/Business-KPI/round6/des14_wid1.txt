@@ -1,0 +1,8 @@
+4.1: The widget is a two-column card layout with a white background and subtle drop shadow. The left side highlights “Order Tracking” with status steps (Ordered, Shipped, In Transit, Delivered) visualized as colored circles/lines: completed steps in green, current step in orange, others in soft blue/gray. The right shows a product summary (image, name, qty), delivery status, links (like “View 2 other items”), and bright CTA buttons (Reorder, View Order Details). Brand accent colors (blue, orange, green) are used for hierarchy and action prompts. Typography is sized for clarity and accessibility, padding ensures touch targets, the component remains responsive down to mobile screens. These choices balance trust, urgency, and ease of action to raise conversions and engagement.
+
+    4.2: This widget appears after a customer places an order or revisits the order history/tracking page. It may surface dynamically on post-purchase confirmation pages, account dashboards, or via "track order" links from email/SMS notifications, ensuring quick access to tracking info and upsell CTAs.
+
+    4.3: Users can visually follow order progress, check detailed dates/status, click “Reorder” to buy again (pushing upsell), “View Order Details” for more info (encouraging time-on-site and further browsing), “View 2 other items” to review/add more products, and chat with support if issues arise. Each interaction is clearly highlighted, with visual and hover feedback, boosting usability and conversion likelihood.
+
+    -->
+</body>

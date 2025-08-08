@@ -1,0 +1,30 @@
+-->
+    <!-- 
+        Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        Answer: The component is a sleek, wide banner that floats 20 pixels from the top of the screen. It has a dark navy blue background (#1a253c) with crisp white text for high readability, creating a premium and trustworthy aesthetic. The layout uses flexbox to neatly align the descriptive text on the left with the email input field and call-to-action (CTA) button on the right. 
+
+        Design choices were made to maximize conversions without being intrusive. The dark background helps it stand out from typical light-themed websites. The CTA button is a vibrant blue (#3b82f6) to draw the user's eye and encourage clicks. The headline is large and benefit-driven ("Unlock Exclusive Rewards"), while the supporting text is smaller and provides specific incentives. The rounded corners and subtle box-shadow give it a modern, soft appearance that feels integrated yet distinct from the page content. A clear '×' close button is included to respect the user's choice.
+    -->
+    <!-- 
+        Question 2: What triggers the appearance of this widget?
+
+        Answer: The appearance of this widget is typically triggered by logic that identifies a user as a potential new member who has not yet signed up. Common triggers include:
+        1. New or Unauthenticated Users: The banner would appear for any visitor who is not logged in and does not have a browser cookie indicating they have previously closed the banner.
+        2. Time-Delayed Trigger: To avoid immediate interruption, the banner might appear after a user has been actively browsing the site for a short period, such as 10-15 seconds. This indicates user engagement and makes the offer more timely.
+        3. Scroll-Based Trigger: The banner could appear once the user scrolls a certain percentage down the page (e.g., 40%). This ensures the user has shown interest in the site's content before being presented with the membership offer.
+        
+        Combining these—targeting new users after a short delay or scroll—is an effective strategy to capture interest without harming the initial user experience.
+    -->
+    <!-- 
+        Question 3: Can you describe the full range of interactions users can have with the widget?
+
+        Answer: Users have three primary interactions with the widget:
+        
+        1. Sign Up (Primary Action): The user can type their email address into the input field and click the "Join Now" button. This is the main conversion goal. Upon submission, the form would typically send the email to the backend, and the banner might display a success message (e.g., "Thanks for joining!") or disappear entirely. The button and input field have hover and focus states to provide clear visual feedback.
+
+        2. Dismiss (Secondary Action): The user can click the '×' close button in the top-right corner. This action immediately hides the banner. In a real-world application, this would set a cookie in the user's browser to prevent the banner from reappearing for a set period (e.g., 30 days) or until the user clears their cookies, ensuring a non-repetitive experience.
+        
+        3. Ignore (Passive Action): The user can choose to ignore the banner and continue scrolling and interacting with the main website content. Because the banner is fixed to the top, it remains visible but is designed to be unobtrusive enough not to block essential site navigation or content.
+    -->
+</body>

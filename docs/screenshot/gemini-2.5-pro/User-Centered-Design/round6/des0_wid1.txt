@@ -1,0 +1,27 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component presents a clean, modern grid of featured products. The layout is a responsive grid that adapts from a single column on mobile to up to four columns on wide screens, ensuring an optimal viewing experience on any device. 
+
+Each product card has a generous image at the top, followed by the product title, category, price, and a prominent "Add to Cart" button. The color palette is professional and trustworthy: a neutral light gray background (`#f4f5f7`), crisp white cards (`#ffffff`), dark text for readability (`#1a252f`), and an energetic blue (`#3498db`) for the primary call-to-action button. Sale prices are highlighted in a vibrant green (`#27ae60`) to draw attention to value.
+
+These choices are intentional. The clean layout and whitespace prevent cognitive overload, allowing users to easily compare products. The color scheme creates a sense of reliability and quality, while the strategic use of accent colors guides the user's eye to key information and actions, like prices and buttons. Large, clear typography (`Poppins` font) enhances legibility and contributes to a premium feel.
+
+### Question 2: What triggers the appearance of this widget?
+
+The "Featured Products" component is a foundational element, not a widget triggered by a specific user action like a popup. It is designed to be a static section that loads as part of a primary page, most commonly the e-commerce site's homepage. Its appearance is triggered by the page load itself.
+
+Positioned near the top of the main content area, it serves to immediately engage visitors by showcasing curated, popular, or on-sale items. This strategic placement ensures high visibility "above the fold" on most desktop screens, capturing user interest right away without requiring any clicks or scrolling. Its purpose is to guide new and returning customers towards high-value products from the moment they land on the page, driving discovery and conversion.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the component in several intuitive ways, with clear feedback provided for each action:
+
+1.  **Visual Exploration:** Users can scan the grid to quickly grasp the product offerings, their appearance, and pricing.
+
+2.  **Hovering over a Product Card:** When a user hovers their mouse over a product card, it subtly lifts and gains a more pronounced shadow. This provides immediate visual feedback that the element is interactive and draws focus to the selected item.
+
+3.  **Clicking for Details:** The product image and title are wrapped in a single link. Clicking on either of these areas will navigate the user to that product's detailed description page. This affords a large, easy-to-click target.
+
+4.  **Adding to Cart:** Each card features a prominent "Add to Cart" button. Hovering over the button changes its background color, signaling its clickability. Clicking the button would initiate the action of adding the item to the user's shopping cart. An active state (a slight scaling effect) gives feedback upon clicking.
+-->
+</body>

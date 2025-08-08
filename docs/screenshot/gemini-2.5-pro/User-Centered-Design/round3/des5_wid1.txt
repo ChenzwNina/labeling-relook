@@ -1,0 +1,26 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The filter panel is a vertical, rectangular component with a fixed width of 320px, designed to appear on the left side of the screen. It has a clean, modern aesthetic with a white background (`#ffffff`), rounded corners, and a subtle box-shadow to lift it off the page. The layout is organized into three main parts: a header, a scrollable body, and a footer.
+
+**Colors:** The primary color is a vibrant blue (`#007bff`), used for interactive elements like selected checkboxes, color swatches, and the main "Apply Filters" button. This draws the user's eye to key actions and selections. A muted gray (`#6c757d`) is used for secondary actions like the "Clear All" button and the close icon, creating a clear visual hierarchy.
+
+**Elements & Layout:** A bold "Filters" title and a large '×' close button provide clear entry and exit points. Filter categories (e.g., "Brand", "Category") are presented as collapsible accordions using `<details>` tags, which keeps the interface tidy and prevents overwhelming the user. Within these sections, custom-styled checkboxes and circular color swatches provide large, easy-to-click targets. These choices prioritize clarity, efficiency, and a visually pleasing, high-contrast design that is easy to navigate.
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this filter panel is typically triggered by a user action on a product listing or search results page. The most common trigger is the user clicking a button labeled "Filter" or an icon (often resembling a funnel or sliders) located prominently above the grid of products. 
+
+On smaller screens, such as mobile devices, this panel might slide in from the side or pop up as a modal overlay, covering most of the screen to ensure all options are easily accessible. In some user experiences, it might be permanently visible on the left-hand side on desktop views, but the self-contained, modal-like design here is optimized for an on-demand trigger, which helps to maximize the screen real estate dedicated to viewing products. This approach ensures the filtering functionality is powerful yet unobtrusive until the user explicitly requests it.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a comprehensive set of interactions designed for efficient filtering:
+
+1.  **Open/Close:** The user initiates the interaction by clicking a "Filter" button (external to the component) to display the panel. They can close it by clicking the '×' button in the top-right corner.
+2.  **Section Navigation:** Users can expand and collapse each filter category (like "Brand" or "Price") by clicking on its header. This allows them to focus on one aspect at a time and reduces clutter.
+3.  **Multi-Select Filtering:** For categories like "Brand" and "Category," users can click on checkboxes to select one or more options. Clicking a selected item again deselects it.
+4.  **Color Selection:** Users can click on the colored circles (swatches) to filter by product color. A border and a checkmark appear on the selected swatch, providing clear visual feedback.
+5.  **Price Adjustment:** Users can define a price range by typing minimum and maximum values directly into the input fields.
+6.  **Applying & Resetting:** At the bottom, users have two primary actions. They can click "Apply Filters" to submit all their selections and update the product list. Alternatively, they can click "Clear All" to instantly reset every selected filter to its default state, allowing them to start over quickly.
+
+*****Response***** -->

@@ -1,0 +1,6 @@
+4.1: The widget is a horizontally full-width fixed banner with 20px margin from the top. It features a vibrant orange-to-red gradient (evokes urgency, warmth, and promotes engagement), large rounded product/deal image, bolded headline, promo subline (including promo code), yellow highlighted promo code, a yellow timer for urgency, a bold CTA button in white contrasting color, and an intuitive close (“×”) button. The layout is highly legible, eye-catching, and mobile-friendly to maximize conversions and visibility. These choices balance urgency, trust, and clear navigation paths to maximize sales and engagement.
+
+    4.2: The banner appears automatically upon page load for all users (new or returning), always visible at the top with a fixed position and high z-index to ensure maximum visibility, especially during active deals/campaigns.
+
+    4.3: Users can: Click the "Shop Now" CTA to view current deals; note promo code for checkout; see a ticking countdown for deal urgency; close the banner using the “×” if they wish. On hover, the CTA visually pops. The timer updates every second. Banner responsiveness ensures touch interaction on mobile is seamless. 
+    -->

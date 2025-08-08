@@ -1,0 +1,45 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The category navigation widget is a horizontal bar fixed at the top of the viewport, maintaining a 20px margin from the viewport's top edge.
+
+**Layout:**
+It spans the full width of the screen. Inside, a list of category links is horizontally aligned and centered within the bar. This provides a balanced and common layout for primary navigation.
+
+**Colors:**
+*   **Background:** Clean white (`#ffffff`). This offers a modern, uncluttered look, ensuring high contrast with text and not competing with product imagery.
+*   **Text (Links):** Dark grey (`#343a40`). This provides excellent readability against the white background.
+*   **Hover/Focus State:** The background of a link changes to a vibrant primary blue (`#007bff`), and its text becomes white (`#ffffff`). This is a widely recognized interaction pattern, offering strong visual feedback.
+*   **Border:** A subtle light grey border (`#dee2e6`) at the bottom of the bar provides slight separation from the page content below.
+
+**Size of Elements:**
+*   **Bar Padding:** `12px` vertically, ensuring sufficient height without being overly dominant.
+*   **Link Padding:** `10px 15px` around each link text, creating generous clickable areas (Fitts's Law).
+*   **Font Size:** `16px` for category names, with a `font-weight: 500` (medium), making them clear and easily legible.
+*   **Spacing:** `8px` margin between individual category links, preventing them from feeling cramped.
+
+**Design Choices Rationale:**
+These choices prioritize clarity, usability, and a professional aesthetic common in e-commerce. The high contrast colors aid visibility (Rule 3.1). Clear hover/focus states provide immediate feedback (Rule 3.2). Standard link appearance makes affordances clear (Rule 3.5). The layout and sizing support efficient task execution by making categories easy to scan and click (Rule 3.6). The overall design aims for a consistent (Rule 3.4) and satisfying user experience (Rule 3.7).
+
+## Question 2: What triggers the appearance of this widget?
+
+The product category navigation widget is a primary and persistent interface element. Its appearance is not triggered by a specific user action. Instead, it loads and becomes visible as soon as the relevant e-commerce webpage (such as the homepage, category pages, or product listing pages) is loaded in the user's browser. It remains fixed at the top of the viewport (with a 20px top margin) during scrolling, ensuring continuous access to site navigation. This persistent visibility is crucial for allowing users to easily navigate between different product sections at any point in their browsing journey.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the category navigation widget in the following ways:
+
+1.  **Mouse Hover:**
+    *   When the user moves their mouse cursor over a category link, the link's background color changes to blue, and the text color changes to white.
+    *   The cursor typically changes to a pointer (standard browser behavior for hyperlinks), visually indicating clickability. This provides immediate feedback (Rule 3.2) and reinforces the affordance of a link (Rule 3.5).
+
+2.  **Mouse Click (or Touch Tap):**
+    *   Clicking (or tapping on touch devices) a category link navigates the user to the corresponding product category page (e.g., clicking "Electronics" directs to the electronics section). This is the primary function, facilitating efficient task execution (Rule 3.6).
+
+3.  **Keyboard Navigation:**
+    *   Users can use the `Tab` key to cycle focus through the category links sequentially.
+    *   The focused link receives a visual style identical to the hover state (blue background, white text), ensuring consistency (Rule 3.4) and clear indication of focus.
+    *   Pressing the `Enter` key (or `Spacebar` in some browsers) while a link is focused will activate it, performing the same action as a mouse click (navigation to the category page).
+
+The widget is designed for straightforward navigation; it does not include more complex interactions like sub-menus (in this specific implementation), drag-and-drop, or right-click context menus.
+-->
+</body>

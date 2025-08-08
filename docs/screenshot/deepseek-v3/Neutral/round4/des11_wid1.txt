@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, centered white card (400px wide) with soft shadows on a light gray background. It uses a red cancellation button for urgency, a gray keep membership button, and neutral text colors. The design prioritizes clarity with ample spacing, readable font sizes, and intuitive form elements. These choices create a professional, user-friendly interface that guides users through the cancellation process while making it easy to change their mind.
+
+    Question 2: The widget would typically appear when a user navigates to the account settings and selects "Cancel Membership" from their subscription options. It might also appear as a modal when clicking a cancellation link in account emails or after failed payment attempts.
+
+    Question 3: Users can: 1) Select a cancellation reason from a dropdown (required), 2) Provide optional feedback in a textarea, 3) Confirm cancellation (red button), which shows a success message, or 4) Choose to keep their membership (gray button) which closes the widget. The interface validates that a reason is selected before allowing cancellation.
+    -->

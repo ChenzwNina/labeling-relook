@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, white card design with soft blue accents, measuring 350px wide. Input fields are full-width with subtle borders that highlight in blue when focused. The design uses ample white space, rounded corners, and a centered layout for a modern, approachable look. These choices enhance usability while maintaining visual appeal, with the blue color scheme promoting trust and the clear hierarchy guiding users through the form.
+
+    Question 2: This widget would typically appear when a user clicks a "Sign Up" or "Create Account" button in the website's header/navigation or when attempting to checkout without an account. It could also appear as a modal overlay or on a dedicated registration page.
+
+    Question 3: Users can: 1) Fill in form fields (name, email, passwords), 2) Submit the form (with validation for matching passwords), 3) Click the login link to switch to login mode, and 4) Receive feedback (success message or error alerts). The form validates inputs in real-time as users type and upon submission.
+    -->

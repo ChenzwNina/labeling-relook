@@ -1,0 +1,7 @@
+Question 1: The widget is a fixed, card-like panel with a white background, rounded edges, and soft green accent (ShopPlus branding). The main call-to-action button is a prominent green gradient. Inputs are well-separated and highlight on focus. The header uses an icon and strong text for clarity. Visual grouping, whitespace, and color contrast make functions clear and interactions obvious. This design aids clarity, accessibility, and e-commerce brand consistency.
+
+Question 2: The widget is intended to be displayed at the top of the viewport on landing pages, at checkout, or after registration prompts, triggered by page load or specific user actions suggesting interest in membership.
+
+Question 3: Users can read about benefits, enter their Name, Email, and Password (with constraints and validation), get instant feedback if fields are incomplete or incorrect, and see a confirmation message upon success. The sign-up button is only enabled when input constraints are satisfied, preventing incomplete submissions. The component is keyboard and touchscreen-accessible for a seamless flow.
+-->
+</body>

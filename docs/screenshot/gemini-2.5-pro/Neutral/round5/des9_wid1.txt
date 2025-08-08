@@ -1,0 +1,29 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a clean, modern-looking modal window centered horizontally and positioned 20px from the top of the viewport. It has rounded corners and a subtle box-shadow, making it appear to "float" above the main page content.
+
+    **Colors:** The palette is professional and trustworthy. It uses a white background (`#ffffff`) for clarity, dark gray text (`#1a1a1a`, `#333`) for high readability, and a vibrant blue (`#007bff`) as an accent for the main call-to-action button and to highlight selected options. This accent color guides the user's eye to key interactive elements. A touch of green (`#28a745`) is used for the "FREE" shipping label to create a positive emotional response.
+
+    **Size & Layout:** The layout is a single column, organized using flexbox for structure and spacing. The typography has a clear hierarchy: a large `h2` (22px) for the title, smaller `h3` (18px) for section headers, and standard text (16px) for options. This guides the user through the information logically. Options are presented in large, clickable containers with ample padding, which is crucial for usability on both desktop and touch devices.
+
+    **Design Choices:** These choices aim to create a frictionless and confidence-inspiring user experience. The clean layout reduces cognitive load, allowing users to make decisions quickly. The focused color scheme prevents distraction, while the clear visual hierarchy ensures information is easy to digest. The overall aesthetic is designed to feel like a natural and helpful part of a high-quality e-commerce checkout flow.
+
+    ### Question 2: What triggers the appearance of this widget?
+    
+    The appearance of this widget is typically triggered immediately after a user performs a primary affirmative action, most commonly clicking the "Add to Cart" button on a product page. 
+
+    When the user decides to purchase an item, this modal appears as an overlay on the current page instead of immediately redirecting them to the full cart or checkout page. This design pattern is known as an "interstitial" or "add-to-cart modal". It serves to confirm that the item was successfully added while simultaneously upselling relevant services like faster shipping or gift wrapping. This keeps the user in the shopping context, encouraging them to continue browsing, while efficiently gathering necessary pre-checkout information. It focuses the user's attention on these important options without the disruption of a full page load.
+
+    ### Question 3: Can you describe the full range of interactions users can have with the widget?
+    
+    Users have a clear and focused set of interactions designed to guide them toward a decision:
+
+    1.  **Select a Shipping Option:** Users can choose one shipping method from the provided list. These are presented as radio buttons, meaning only one can be active at a time. Clicking a new option automatically deselects the previous one. The entire container for each option is clickable to improve usability.
+    
+    2.  **Select Add-ons:** Users can select zero, one, or multiple optional add-ons. These are presented as checkboxes, allowing for multiple selections. Users can toggle each add-on on or off by clicking the checkbox or its associated container.
+
+    3.  **Confirm Choices:** The primary interaction is clicking the "Confirm Selections" button. This action would typically close the widget, update the shopping cart with the chosen shipping method and add-ons, and then either update a mini-cart view elsewhere on the page or allow the user to continue shopping.
+
+    4.  **Close/Dismiss the Widget:** Users can close the widget without making changes by clicking the "×" icon in the top-right corner. This dismisses the modal and returns them to the page they were on, usually with the item added to their cart with default (e.g., standard) shipping.
+    -->
+</body>

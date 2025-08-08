@@ -1,0 +1,8 @@
+4.1: The widget features a white, rounded product card with subtle shadows to create a sense of elevation and focus, using a clean, modern color palette (white, soft blue backgrounds, green prices for urgency, red for discounts). The image is dominant, the title large and bold, and the price section accentuated. Primary actions stand out with gradients, while secondary CTAs like "wishlist" are approachable and easy to spot. Ratings and trust info build credibility. An integrated ad banner with contextual deals/display ad increases cross-sell potential. The card is compact (max-width 380px), mobile-friendly, balanced and uncluttered, driving both conversion and order size.
+
+  4.2: The widget is triggered on any listing/search/product page within the e-commerce experience, or as part of a featured/suggested product carousel on the homepage. It serves as the primary interface for individual product engagement wherever a single product must be promoted.
+
+  4.3: Users can: open full product details ("see more"), add the product to cart, add to wishlist (with potential for popover login or animation), click the ad banner to explore related accessories for cross/up-sell, and hover or tap for price/discount details as needed. The "add to cart" action visually confirms the addition. All elements are clickable/tappable for maximum engagement, driving sales, ad clicks, and time spent.
+
+  -->
+</body>

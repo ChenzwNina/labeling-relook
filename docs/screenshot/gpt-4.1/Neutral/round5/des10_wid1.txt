@@ -1,0 +1,6 @@
+Question 1: The widget is centered at the top with a 20px margin from the viewport, max 440px wide, and modern rounded edges with a subtle box shadow. Primary background is white, accented by #2574f5 blue for calls-to-action and benefit highlights. A logo sits above a bold title. Text is clear and inviting; the form fields are clean with focus effects, and the signup button stands out with a blue gradient. "Already a member?" links to login. This clean, upbeat palette and spacing enhance clarity and encourage engagement, echoing modern e-commerce interfaces.
+
+Question 2: The widget appears when users are browsing the site and are either not logged in or have not joined the membership program. It is typically shown proactively to first-time shoppers, after account creation, or when a user visits the home or deals pages. The component is intended for clear, immediate visibility to drive membership signups.
+
+Question 3: Users can (1) enter their name, email, and password to sign up, (2) click the “Sign Up Free” button to submit the form, and (3) click on the “Log in here” link if they already have an account. On interaction, fields highlight, and buttons respond visually to hover/click. Additional dynamic interactions (validation, pop-up on success, error handling) would be added with JavaScript, though not in this purely HTML/CSS component.
+-->

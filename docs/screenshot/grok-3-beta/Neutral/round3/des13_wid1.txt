@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation, mimicking e-commerce aesthetics like Amazon. The container is centered with a width of 350px for optimal readability. Input fields have a soft border (#ddd) and a blue focus state (#007bff) for accessibility. The sign-in button is a vibrant blue (#007bff) to draw attention as the primary action, darkening on hover for feedback. Text uses a neutral palette (#333, #555) for clarity. These choices ensure a professional, user-friendly interface. -->
+
+    <!-- Question 2: This widget appears when a user navigates to the sign-in page of the e-commerce website, typically accessed via a "Sign In" link in the header or during checkout if not logged in. It may also display as a modal on certain actions like accessing account-specific features without authentication. -->
+
+    <!-- Question 3: Users can interact by entering their email and password in the input fields, clicking the "Sign In" button to authenticate, selecting "Forgot Password?" to reset credentials, or clicking "Create an Account" to register. Hover effects on buttons and links provide visual feedback, while focus states on inputs aid keyboard navigation. -->
+</body>

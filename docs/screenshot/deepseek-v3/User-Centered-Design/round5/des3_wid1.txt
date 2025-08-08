@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and blue accent color for the search button. The main search bar is prominent with a large input field (16px font) and clearly visible button. Filter dropdowns are compact but readable, with recent search tags displayed as small gray pills. These choices prioritize usability - the large search field invites input, the blue button stands out as the primary action, and the organized layout helps users quickly access advanced options without clutter.
+
+    Question 2: This widget appears permanently in the header or main content area of an ecommerce site, always available for searching. Alternatively, it could appear as an expanded version when users click a search icon in a minimal header design, transitioning from a simple icon to this full-featured panel.
+
+    Question 3: Users can: 1) Type search queries, 2) Click the search button or press Enter to submit, 3) Select filters from dropdown menus to refine searches, 4) Click recent search tags to repeat past searches, and 5) On mobile, the filters might collapse into an expandable section. The design provides visual feedback like button hover states and clear selected filter indications.
+    -->
+</body>

@@ -1,0 +1,7 @@
+4.1: The widget uses a clean, modern card design with rounded corners, a white background, and gentle drop shadows atop a faint gray background. It covers up to 700px in width, is moderately spaced (22-32px padding), and is precisely positioned 20px from the top for visibility. Section headers are bold and slightly enlarged. Shipping and add-on options use soft colored borders (blue and mint accent for selection), clear price markers, and attractive buttons. “Continue” is rendered with a blue-teal gradient for prime visual focus. These choices favor clarity, trust, and strong CTA (conversion), aiding cross/up-sell and reducing friction.
+
+4.2: The widget appears when a user enters the checkout process or cart page, before selecting payment. This ensures users must make active choices on shipping and add-ons, boosting average order value and conversion by surfacing value-enhancing options at a critical decision point.
+
+4.3: Users can select a shipping method (radio buttons, one active at a time), select one or more add-ons (checkboxes), and see real-time price impact in the summary bar. Hover/click updates options, and “Continue to Payment” is the primary action. A secondary text link leads to shipping policy for trust. Interactions are designed to highlight fast and valuable options (e.g., expedited shipping, warranty), and streamline checkout to avoid abandonment.
+
+-->

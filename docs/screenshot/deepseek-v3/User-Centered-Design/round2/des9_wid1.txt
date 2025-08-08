@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-like design with white background and subtle shadow. Shipping options use radio buttons in light gray backgrounds, while add-ons use checkboxes with light blue backgrounds for visual distinction. Prices are highlighted in blue. The design choices prioritize clarity - sufficient spacing between options, clear visual hierarchy (titles bold, descriptions smaller), and hover states for interactivity. The max-width ensures readability on all devices.
+
+    Question 2: This widget would typically appear during the checkout process, after the user enters their shipping address but before payment. It might be triggered automatically when the checkout flow reaches the shipping selection step, or appear when the user clicks "Continue" from the address entry section.
+
+    Question 3: Users can: 1) Select one shipping option via radio buttons, 2) Select multiple add-ons via checkboxes, 3) Hover over options to see visual feedback (background color change), 4) Click the "Proceed to Checkout" button to continue. The widget provides immediate visual feedback for all selections and hover states to enhance usability.
+    -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, centered layout with a white background and subtle shadow for a professional look. The red (#e74c3c) heading and confirmation button emphasize urgency and caution, while the green (#2ecc71) reconsider button encourages retention. Text is legible at 16px, with a larger 24px heading for hierarchy. The special offer section uses a warm orange (#e67e22) to draw attention to incentives. These choices create emotional triggers (loss aversion, urgency) and visual clarity to reduce bounce rates and cart abandonment while maximizing conversion through retention offers.
+
+Question 2: The widget appears when a user navigates to the membership cancellation page or clicks a "Cancel Membership" link in their account settings. It serves as a last attempt to retain the user before finalizing cancellation.
+
+Question 3: Users can interact by clicking "Yes, Cancel Membership" to proceed with cancellation, or "No, Keep My Membership" to return to their account. Hover effects on buttons provide visual feedback. The special offer text is static but clickable (if linked) to encourage exploring discounts, aiming to increase time on site and reduce abandonment.
+-->

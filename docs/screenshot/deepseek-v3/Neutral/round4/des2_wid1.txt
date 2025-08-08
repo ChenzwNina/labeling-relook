@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, minimalist design with a light gray background (#f8f9fa) and subtle shadow for depth. Categories are listed vertically with blue links (#3498db) that darken on hover. Each main category has a '+' toggle for subcategories. The design choices prioritize readability and intuitive navigation, with visual hierarchy established through font sizes and spacing. The max-width ensures it doesn't dominate the page while remaining functional.
+
+    Question 2: This widget would typically appear as a persistent sidebar element on category pages or product listing pages. It might also appear in mobile navigation menus when triggered by a menu button. The subcategories appear when users click the '+' toggle next to parent categories.
+
+    Question 3: Users can: 1) Click main category links to navigate to that category page, 2) Click '+' toggles to expand/collapse subcategories (changing to '−' when expanded), 3) Click subcategory links to navigate to those specific pages, and 4) Hover over links to see the color change indicating interactivity.
+    -->
+</body>

@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow. It uses Amazon-inspired orange (#FFA41C) for ratings elements to create visual consistency with e-commerce conventions. The layout shows the average rating prominently (large font) with star visuals, followed by detailed breakdown bars. Design choices prioritize clarity (distinct sections), scannability (bar graphs for quick comparison), and trust (displaying exact percentages). The color scheme uses warm orange for positive elements and neutral grays for secondary information.
+
+    Question 2: This widget would typically appear on product pages, triggered when a user views an item's details. It might also appear in search results (condensed version) or post-purchase emails asking for reviews. The trigger is passive (page load) rather than requiring user action, as ratings are critical purchase decision factors.
+
+    Question 3: Users can: 1) Scan the visual breakdown of ratings, 2) Click the "Write a review" button to submit their own rating (would open a review form), 3) Potentially click individual star categories to filter reviews (not implemented here but common), 4) Hover over elements for tooltips (could show exact numbers). The interactions focus on both consuming rating information and contributing new reviews.
+    -->
+</body>

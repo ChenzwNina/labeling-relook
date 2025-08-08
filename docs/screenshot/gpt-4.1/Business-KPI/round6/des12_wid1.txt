@@ -1,0 +1,7 @@
+4.1: The widget uses a modern, conversion-optimized card layout, centered and 20px from the top. Key colors include blue gradients (#3d76ff) for CTAs and brand recognition, a white background for focus and contrast, and subtle gray-blue accents. Input fields are large and lightly colored for ease of use. The layout guides the user sequentially from standard signup to social signup, and then a sign-in prompt. These choices ensure approachability, trust, and easy data entry, which all maximize sign-ups and sales.
+
+4.2: This widget appears when users click on “Create Account” in site navigation, during onboarding, or when prompted to checkout as a new user. It is also surfaced during promotions and first-visit banners for non-logged users to capitalize on intent.
+
+4.3: Users can fill out the name, email, and password fields and submit to create an account, or alternatively use Google or Facebook to register with one click. Links to terms/policy are clickable, and users can switch to sign-in if they already have an account. Real-time input focus/validation, and CTA hover effects, enhance interaction and guide users through completion.
+
+-->

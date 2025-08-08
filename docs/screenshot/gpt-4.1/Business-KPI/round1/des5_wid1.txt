@@ -1,0 +1,7 @@
+4.1 The widget features a modern, clean design: a white, rounded-corner box shadow panel, using a harmonious blue/gray color palette. Titles with subtle icons and bold labels help scan options easily. Input elements are spacious (checkboxes and numeric fields), with generous margins and a visually strong blue call-to-action button. A small, underlined ad banner uses color and iconography for extra attention. The choices match real e-commerce best practices for clarity, professionalism, and persuasive appeal—to foster trust, focus on action (applying filters), highlight promotions for average order size, encourage category exploration, and maximize time-on-site.
+
+  4.2 The filter panel appears immediately at the top of the viewport on all product listing/search/result pages. It's a persistent and always-visible panel because filtering is a core commerce UX function and most impactful when continuously accessible.
+
+  4.3 Users can: select one or multiple categories, brands, and ratings via checkboxes; set a price range using numeric inputs; use “Apply Filters” to filter products below; reset with “Clear All Filters” (quickly removing all selections); click the promotional ad banner to access special deals. Hover/click states give feedback, and all elements are accessible (using keyboard/focus as well). The ad banner is separately clickable, boosting cross-promotion and ad clicks.
+  -->
+</body>

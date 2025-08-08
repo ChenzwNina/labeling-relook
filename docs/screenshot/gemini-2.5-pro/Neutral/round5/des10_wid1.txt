@@ -1,0 +1,25 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The component is a sleek, horizontal banner positioned at the top of the viewport. It features a clean, professional aesthetic with a white background, rounded corners, and a subtle drop shadow to make it "float" above the page content. The color palette is intentionally simple: dark gray text for high readability, a placeholder for a vibrant icon on the left to add visual interest, and a prominent call-to-action button in a bold blue (#007bff) to draw the user's attention. The layout is organized using flexbox, with the icon, text content, and email signup form arranged horizontally for a clear, intuitive flow.
+
+    These design choices are deliberate. The clean, minimalist look builds trust and feels like a native part of a high-quality e-commerce site, rather than an intrusive third-party ad. The high-contrast text ensures accessibility, while the blue CTA button leverages color psychology to encourage clicks. The fixed-but-unobtrusive positioning respects the user's journey, providing a persistent reminder without blocking their view of the main site content.
+
+    ### Question 2: What triggers the appearance of this widget?
+
+    This type of widget is typically triggered by user behavior and status to maximize effectiveness without being annoying. The most common trigger is for new or non-logged-in users. It would appear a few seconds after the page has loaded, giving the user a moment to orient themselves before being presented with the offer. Alternative triggers could include:
+    1.  **Scroll Depth:** The banner appears after the user scrolls a certain percentage (e.g., 40%) down a product or category page, indicating they are engaged with the content.
+    2.  **Exit Intent:** The banner appears when the user's mouse cursor moves towards the top of the browser window, signaling an intent to close the tab. This serves as a last-chance offer to retain the visitor.
+    3.  **Time on Site:** The banner appears after a user has spent a specific amount of time on the site (e.g., 60 seconds).
+
+    ### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users have three primary interaction paths with this widget:
+
+    1.  **Engagement:** The main intended action is for the user to type their email address into the input field and click the "Join Now" button. Upon submission, the website would typically register their email, perhaps show an inline success message (e.g., "Thanks for joining! Check your inbox for your discount code."), and then the banner might fade away.
+
+    2.  **Dismissal:** If the user is not interested, they can click the '×' close button. This immediately hides the banner, allowing them to browse without interruption. A well-implemented site would use a cookie or local storage to ensure the banner does not reappear for that user during the same browsing session, respecting their choice.
+
+    3.  **Ignoring:** Since the banner is positioned at the top and does not obstruct the main page content, users can simply ignore it and continue scrolling, shopping, and interacting with the rest of the website as they normally would. The banner remains visible but passive.
+
+    -->
+</body>

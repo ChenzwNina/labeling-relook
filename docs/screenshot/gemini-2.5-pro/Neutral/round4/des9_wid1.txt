@@ -1,0 +1,30 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget has a clean and modern design, intended to inspire trust and be easy to use. It's a white card with a soft shadow, making it float above the light gray page background. The layout is a single, vertical column with a responsive width (max 520px) to ensure it looks good on both desktop and mobile.
+
+- **Colors**: The primary palette is neutral (white, grays, dark text) for a professional feel. The key interactive color is a vibrant blue (#007bff), used for selected options and the main call-to-action button. This contrast guides the user's attention to important actions and selections.
+- **Sizing & Typography**: A clear visual hierarchy is established with large, bold headings and smaller text for descriptions. The font "Inter" is chosen for its excellent legibility on screens. Ample padding and spacing between elements prevent a cluttered look and make each option distinct and easy to tap.
+- **Layout**: I used Flexbox to structure the content, ensuring perfect alignment of text, prices, and the custom-styled radio/checkbox controls. This creates a balanced and organized presentation of choices for the user.
+*****Response*****
+### Question 2: What triggers the appearance of this widget?
+
+This widget is designed to appear as a key step within the e-commerce checkout process. The most common trigger would be the user clicking a "Proceed to Checkout" or "Continue" button from their shopping cart summary page.
+
+Upon being triggered, it wouldn't just appear randomly; it would likely be presented as a modal overlay that dims the background page content. This focuses the user's full attention on making these important decisions—shipping and optional add-ons—without the distraction of other page elements. Alternatively, it could be a dedicated, full-screen step on a mobile device or a distinct section of a multi-step checkout page on a desktop. Its appearance signals that the user is moving from reviewing their items to finalizing the logistics and cost of their order before payment.
+*****Response*****
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several clear and intuitive interactions available to them:
+
+1.  **Selecting a Shipping Method**: The user can choose only one shipping option from the list. Clicking on an option (either the text, the price, or the custom radio button) selects it. The previously selected option is automatically deselected. The chosen option is highlighted with a blue border and a filled-in blue radio indicator.
+
+2.  **Selecting Add-Ons**: Users can select multiple add-ons by clicking them. Each add-on is a checkbox, allowing for zero, one, or multiple selections. Clicking an add-on toggles its state, and selected items are highlighted with a blue border and a checkmark.
+
+3.  **Proceeding**: The primary action is clicking the "Continue to Payment" button. This would submit their choices and navigate them to the final checkout step (payment information).
+
+4.  **Closing the Widget**: The user can click the '×' icon at the top-right corner to close or dismiss the widget, which would likely return them to their shopping cart.
+
+5.  **Visual Feedback**: Hovering over any selectable option changes its border color, providing visual feedback that the item is interactive before the user even clicks.
+*****Response***** -->
+
+</body>

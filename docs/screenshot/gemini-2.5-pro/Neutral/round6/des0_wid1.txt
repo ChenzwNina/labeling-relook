@@ -1,0 +1,14 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, modern banner with a white background and a subtle drop shadow, making it float above the main page content. It features a bold heading, "Featured This Week," and a grid of four product cards. The color palette is predominantly neutral with white, black, and grey tones for a professional look, accented by a vibrant blue for the "View Product" buttons to guide user action. Sale prices are highlighted in a distinct red to create urgency and draw attention to deals.
+
+This design is chosen for clarity and trust. The spacious, card-based layout ensures each product is distinct and easy to digest. A clear visual hierarchy is established using different font weights and sizes for the title, category, name, and price. This minimalist yet functional aesthetic avoids overwhelming the user and focuses their attention on the showcased products, aligning with the goal of driving engagement and sales.
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is not triggered by a specific user action like scrolling or a timer. Instead, it is an integral part of the page's initial state. It loads instantly with the rest of the content, positioned prominently at the top of the viewport. This approach is typical for highlighting key content on primary landing pages, such as the homepage or a major category page. The design choice ensures that all visitors are immediately presented with curated product recommendations, new arrivals, or special promotions without any interaction required, maximizing visibility for these important items.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several intuitive interaction points with this widget. First, they can hover over any product card, which triggers a subtle visual effect—the card lifts and gains a more pronounced shadow, providing tactile feedback. Clicking on a product's image or its name will navigate the user directly to that product's detailed description page. The primary call-to-action, the blue "View Product" button, also directs the user to the corresponding product page and changes color on hover to indicate it's clickable. Finally, for users who wish to declutter their view, a close button ('×') in the top-right corner allows them to dismiss the entire featured products component, hiding it from the page.
+*****Response***** -->

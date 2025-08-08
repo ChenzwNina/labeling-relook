@@ -1,0 +1,11 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+    - The widget features a wide, horizontal banner with a warm orange-yellow gradient (#ff6f3c to #ffbd39), immediately drawing attention while fitting e-commerce site standards. The left area shows a promotional image. Next to it, bold, large headline text ("Summer Deals: Up to 50% OFF!") appears, with details in smaller font and a high-visibility timer in a dark pill shape. A crisp white "Shop Deals" CTA button stands rightward, colored for prominent affordance, consistent with many e-commerce interfaces. At the far right, a subtle close ("×") icon lets users dismiss the banner. Padding, spacing, and responsive design ensure legibility and effective use on desktops or mobiles. 
+    These choices ensure the banner is eye-catching, clearly interactive, and consistent with e-commerce user expectations.
+
+    4.2 Question 2: What triggers the appearance of this widget?
+    - The deals banner appears automatically as soon as users visit or land on the homepage (or any page where current deals are active). It is displayed at the top with a 20px margin to ensure visibility and immediate awareness of ongoing promotions. No special user action is required to trigger its appearance.
+
+    4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+    - Users can click the "Shop Deals" button, which provides feedback by changing its label to "Loading..." and then redirects to the deals page. Users can also dismiss the banner by clicking the close ("×") button, which immediately hides the widget. The countdown timer provides dynamic feedback about the urgency and automatically disables the CTA once the deal ends, preventing further action. All controls are accessible, and visual states (disabled, hover, etc.) give clear feedback.
+
+  -->

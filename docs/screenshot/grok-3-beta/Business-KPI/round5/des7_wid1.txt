@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, white background with subtle shadows for a modern look, positioned sticky at the top with a 20px margin. Star ratings are bright yellow (#f1c40f) for visibility, while text is in neutral grays (#333, #555) for readability. Cards are 280px wide in a flexible grid for responsiveness, with hover effects (lift and shadow) to encourage interaction. These choices build trust through social proof, aligning with maximizing sales, conversion rates, and time on site by showcasing positive feedback prominently. -->
+
+    <!-- Question 2: The widget appears automatically at the top of the page on load, ensuring immediate visibility. It remains sticky as users scroll, keeping testimonials accessible without obstructing content, thus reducing bounce rates and encouraging engagement. -->
+
+    <!-- Question 3: Users can hover over rating cards for visual feedback (elevation effect), enhancing engagement. They can click the "Shop Now" CTA button to navigate to the product catalog, driving sales and page views. While static, the widget's prominent placement and interactive hover states subtly encourage exploration, reducing cart abandonment by reinforcing trust. -->
+</body>

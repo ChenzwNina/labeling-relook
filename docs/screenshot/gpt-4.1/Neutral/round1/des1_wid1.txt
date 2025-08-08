@@ -1,0 +1,9 @@
+Question 1:
+The widget appears as a fixed, full-width banner at the top of the viewport, with a 20px top margin. Its background is a warm orange-yellow gradient (#ff7100 to #ffce00), suggesting energy and urgency, while the white text and highlight elements aid readability. To the left is a circular deal-themed image. Prominent deals are listed centrally with "Hot Deal" visually highlighted. The CTA button is bright white with orange text for strong contrast. Layout uses readable fonts, clear call to action, distinct colored badges, and roomy spacing to enhance both attention and legibility—matching modern ecommerce standards.
+
+Question 2:
+This widget is designed to always be visible upon visiting or navigating the site (auto-displayed on page load), ensuring all users see current deals without needing any user interaction to trigger its appearance.
+
+Question 3:
+Users can view highlighted and secondary deal messages at a glance and click the "Shop Deals" button, which directs them to the dedicated deals page. On smaller screens, the layout adapts for mobile usability. No dismiss or close option is provided in this implementation, ensuring maximum exposure. All elements (image, deal badges, button) are non-interactive except for the main CTA button, keeping the focus on deal discovery and action.
+-->

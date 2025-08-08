@@ -1,0 +1,29 @@
+-->
+    <!-- 
+        Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The search panel is a clean, rectangular widget that floats near the top of the screen. It has a white background with a soft shadow, making it stand out against the light gray page content. The layout is horizontally centered.
+
+        Its core component is a large, 48px-tall search input field, ensuring it's easy to click and type into. Inside, a subtle gray magnifying glass icon sits to the left, visually reinforcing its purpose. The call-to-action is a vibrant blue "Search" button, a contrasting color chosen to draw the user's eye and maximize click-throughs (Rule 3.4).
+
+        Below the main bar, a series of "Popular Searches" links in the same blue hue provide helpful starting points. These choices create an inviting, frictionless, and intuitive search experience. The generous sizing and clear visual hierarchy are designed to minimize user hesitation and bounce rate (Rule 3.9) while guiding users toward discovery and purchase, thus maximizing conversion (Rule 3.2).
+    -->
+    <!-- 
+        Question 4.2: What triggers the appearance of this widget?
+
+        This widget is not triggered by a user action; it is a persistent, core element of the website's interface. It appears automatically upon page load and remains fixed at the top of the viewport as the user scrolls.
+
+        This design choice ensures the search functionality—the most critical tool for product discovery on an e-commerce site—is always visible and accessible. Constant availability removes friction for users who decide to search for something new at any point in their browsing journey. This supports several key goals: it minimizes bounce rate (Rule 3.9) by providing an immediate, clear action; it encourages more site interaction, increasing page views per visit (Rule 3.6); and it contributes to a better user experience, which can increase returning visitors (Rule 3.7).
+    -->
+    <!-- 
+        Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+        Users can interact with the widget in three primary ways:
+
+        1.  **Direct Search:** A user can click into the large input field, type their search query (e.g., "men's leather wallet"), and then either press the "Enter" key on their keyboard or click the prominent blue "Search" button. This action submits the form and navigates them to a search results page.
+
+        2.  **Guided Discovery:** If a user is unsure what to search for, they can click on one of the "Popular Searches" links (e.g., "Running Shoes," "Skincare Sets"). This acts as a shortcut, immediately taking them to a pre-populated search results page for that term. This helps maximize page views and keeps users engaged (Rules 3.5 & 3.6).
+
+        3.  **Refocusing:** While scrolling down a page, the user can interact with the fixed panel at any time to initiate a new search without having to scroll back to the top, which minimizes cart abandonment by making it easy to find alternatives or additions (Rule 3.8).
+    -->
+</body>

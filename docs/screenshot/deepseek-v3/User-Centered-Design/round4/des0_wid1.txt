@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based layout with a light gray background and white product cards. Each card has a 200px image placeholder, product title (bold), price (red), rating (orange), and a green "Add to Cart" button. The design uses ample white space, subtle shadows, and hover effects for visual hierarchy and interactivity. These choices enhance readability, highlight key information, and create a modern, user-friendly interface that encourages engagement.
+
+    Question 2: This widget appears automatically on the homepage or landing page of the ecommerce site as a standard section. It may also appear on category pages or as a personalized recommendation section based on user browsing history. The widget is always visible when the page loads, requiring no user action to trigger its appearance.
+
+    Question 3: Users can: 1) Hover over product cards to see a subtle lift effect, 2) Click "Add to Cart" to purchase items, 3) Potentially click product images/titles to view details (though this functionality isn't fully implemented here). The design suggests future interactions could include saving favorites, quick view options, or filtering/sorting products.
+    -->
+</body>

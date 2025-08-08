@@ -1,0 +1,9 @@
+Question 1: 
+The widget is a horizontally scrolling navigation bar, fixed at the top with a 20px margin. Its background is white with a subtle shadow and softly rounded corners, standing out from the site. Each category (e.g., Electronics, Fashion) is a pill-shaped button with a placeholder icon and clear labeling. On hover or focus, categories show a soft blue background and change text color to blue. The current category is highlighted in blue with white text, improving orientation. The design is spacious, modern, and adheres to accessibility and responsive design best practices. Elements are sized for clarity and comfortable interaction.
+
+Question 2: 
+This navigation bar is visible by default upon page load and persistently remains at the top of the viewport so users can always access categories while browsing the site.
+
+Question 3: 
+Users can click or tab/press Enter on any category button to filter or navigate to that category. The widget provides feedback through visual highlight and color cues. The active category disables pointer events, preventing navigation to the page the user is already on. Keyboard navigation and aria attributes support accessibility. All categories give a clear indication of being navigable.
+-->

@@ -1,0 +1,7 @@
+-->
+    <!-- Question 4.1: The widget features a clean white background with a subtle shadow for depth, positioned 20px from the top. Categories are in bold, 16px text with a coral (#ff6f61) hover effect to grab attention. Dropdowns appear on hover with a light background and organized sub-items. The promo banner uses a vibrant coral background for urgency. These choices enhance visibility, encourage clicks (maximizing conversion and sales), and create a modern, user-friendly layout to reduce bounce rates. -->
+
+    <!-- Question 4.2: The widget appears statically at the top of every page as a primary navigation tool. Its constant presence ensures users can always access product categories, increasing time on site and page views by facilitating easy exploration. -->
+
+    <!-- Question 4.3: Users can hover over main categories to reveal dropdown menus with sub-categories, click any category or sub-category to navigate to relevant pages, and view the promo banner for deals. Hover effects provide visual feedback, encouraging interaction. These features reduce cart abandonment by simplifying navigation and maximize engagement through intuitive design. -->
+</body>

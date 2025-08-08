@@ -1,0 +1,23 @@
+Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+        
+        The component is a sleek, wide banner positioned at the top of the viewport. It features a sophisticated dark blue gradient background (#1d2b4e to #2c3e50) with rounded corners and a soft shadow, making it feel premium and distinct from the page content. The layout uses flexbox to align content: a prominent gold star icon, followed by a bold white headline "Join AuraClub for Exclusive Perks." Below the headline, key benefits like "Free 2-Day Shipping" are listed with vibrant teal checkmarks for quick scanning. The primary call-to-action is a large, high-contrast gold button with dark blue text, designed to draw the user's eye. A subtle, grey '×' provides a clear but non-distracting way to close the banner.
+        
+        This design was chosen to maximize conversions (Rule 3.2). The premium color palette builds brand trust and value perception (Rule 3.1). The clear, benefit-driven copy and scannable list communicate value instantly, reducing bounce rate (Rule 3.9). The highly visible, contrasting CTA with an immediate incentive ("Save 15% Today") is a proven tactic to increase click-through rates and directly boost sales and average order value (Rules 3.1, 3.3, 3.4).
+
+
+        Question 4.2: What triggers the appearance of this widget?
+        
+        The widget is triggered to appear on page load for any user who is not recognized as an existing "AuraClub" member. This is typically determined by checking the user's session status or for a specific cookie. It is designed as a primary conversion tool for new or unauthenticated visitors (Rule 3.7). To avoid user fatigue and minimize annoyance (Rule 3.8), if a user dismisses the banner, a cookie should be set on their browser to prevent it from reappearing for a defined period, such as 7 or 14 days. This respects the user's decision while still allowing the opportunity to present the offer again in the future, striking a balance between marketing goals and user experience. The banner uses a subtle slide-down animation on appearance to draw attention without being overly disruptive.
+        
+        
+        Question 4.3: Can you describe the full range of interactions users can have with the widget?
+        
+        Users have three main interactions with the widget, designed to guide them towards conversion while providing an escape route.
+        
+        1.  **Primary Conversion Action:** Clicking the prominent gold "Join Now & Save 15% Today" button. This is the main goal of the component. This action would navigate the user to a dedicated membership signup page or open a signup modal, moving them directly down the conversion funnel (Rule 3.2). The button provides visual feedback on hover (it brightens and lifts slightly) to confirm its interactivity.
+        
+        2.  **Dismissal Action:** Clicking the '×' button. This allows users who are not interested to close the banner, respecting their intent and preventing the widget from becoming an intrusive element that could lead to a higher bounce rate (Rule 3.9). This action immediately hides the banner from view for the user's current session and ideally for a longer duration via a cookie.
+        
+        3.  **Passive Interaction:** The component is otherwise static and does not interfere with page scrolling or content consumption, ensuring it doesn't hinder the user's journey, which is key to maximizing time on site and page views (Rules 3.5, 3.6).
+    -->
+</body>

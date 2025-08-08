@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background for product cards, a subtle shadow for depth, and a vibrant orange (#e44d26) for prices and buttons to draw attention. The grid layout adapts to screen size, with each card at least 250px wide, ensuring readability and accessibility. Images are 200px tall for consistency, and hover effects (lift on cards, button color change) enhance interactivity. These choices mimic real e-commerce sites like Amazon, prioritizing clarity and visual appeal to encourage purchases. -->
+
+    <!-- Question 2: This widget appears on the homepage or category pages of the e-commerce website as a default component. It may also load dynamically when a user filters products or searches for specific items, triggered by backend data retrieval based on user input or predefined featured product lists. -->
+
+    <!-- Question 3: Users can interact with the widget by hovering over product cards for a subtle lift effect, clicking product images or names to view detailed product pages, and clicking the "Add to Cart" button to initiate a purchase. Additionally, users may scroll through the grid if more products are loaded, and the responsive design ensures usability across devices. -->
+</body>

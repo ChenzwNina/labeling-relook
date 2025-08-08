@@ -1,0 +1,10 @@
+3.1 Question 1:
+The search panel sits near the top of the viewport, centered horizontally, with a clean white background and subtle drop shadow (modern, like Amazon or Walmart). The panel contains: (1) a small logo (placeholder), (2) a labeled input ("Find your next product") for queries, (3) a category dropdown, and (4) a blue "Search" button. The input and dropdown use softly rounded borders, subtle gray lines, and the blue button stands out for clear action. All elements have generous spacing for approachability. Responsive design reduces padding and stacks elements vertically on small screens. These choices ensure clarity, quick scan-ability, and modern appeal.
+
+3.2 Question 2:
+The widget is always visible at the top of the website's main page (or any page where product search is needed). It's not triggered by specific interaction but is persistently displayed to allow users immediate access to search functionality.
+
+3.3 Question 3:
+Users can (A) type a search query, (B) select a product category (optional), and (C) press Enter or click the "Search" button to submit. The search field is focusable and allows text input. The dropdown lets users refine searches by type. Button interactions include hover and focus effects. On mobile, users interact via touch and the button stretches full-width for easier tapping. The form submits to the server’s search route. There’s no dismiss functionality, as search should always be accessible.
+
+-->

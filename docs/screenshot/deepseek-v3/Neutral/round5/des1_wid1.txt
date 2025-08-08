@@ -1,0 +1,7 @@
+Question 1: The widget features a vibrant gradient background (#ff6b6b to #4ecdc4) with white text for high contrast. It has a clean layout with deal items displayed horizontally (wrapping on mobile) in cards with semi-transparent white backgrounds. The design choices prioritize visibility (bright colors), readability (clear typography hierarchy), and engagement (hover effects). The size is responsive with adequate padding for all screen sizes.
+
+    Question 2: The banner appears automatically when the page loads as it's placed in the main HTML body. In a real implementation, it might be triggered by session cookies (first visit), time-sensitive promotions, or user behavior patterns detected by marketing analytics tools.
+
+    Question 3: Users can: 1) View current deals at a glance, 2) Hover over deal items for visual feedback (scale effect), 3) Click the close button to dismiss the banner (which would typically set a cookie to prevent reappearance), and 4) Click on individual deals which would normally link to relevant product pages (links not implemented in this example).
+    -->
+</body>

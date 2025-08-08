@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and blue accent colors. Product cards are arranged in a responsive grid (minimum 250px width) with subtle shadows and hover effects. I chose this design for readability, visual appeal, and to highlight the featured products while maintaining a professional e-commerce look. The blue color scheme promotes trust and action (add to cart buttons).
+
+    Question 2: This widget would typically appear on the homepage or category pages of an e-commerce site. It could be triggered by page load or be part of the static layout to showcase selected/popular products to all visitors immediately.
+
+    Question 3: Users can: 1) View product images and details, 2) Click "Add to Cart" buttons to purchase, 3) Hover over cards for elevation effect, 4) Click "View All" to see more products, and 5) Click on product images/names for detailed views (though links aren't implemented in this example).
+    -->
+</body>

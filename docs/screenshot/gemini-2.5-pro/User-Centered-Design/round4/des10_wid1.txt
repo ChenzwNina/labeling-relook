@@ -1,0 +1,22 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a sleek, rectangular banner positioned at the top of the viewport. It has a warm, off-white background (`#fdfaf5`) which feels inviting and premium. Text is a highly-readable dark gray (`#2d2d2d`), while the primary call-to-action button uses a deep, trustworthy green (`#0a472e`) to stand out and encourage clicks (Rule 3.1: High visibility). Elements are generously spaced with rounded corners on the banner, input field, and button, creating a soft, modern aesthetic.
+
+The layout is horizontal on larger screens for efficiency (Rule 3.6), with text on the left and the sign-up form on the right. A jewel emoji adds a touch of personality. On smaller screens, it stacks vertically to maintain usability. This design was chosen to be noticeable without being disruptive. The clean typography and color scheme build trust, while the clear layout makes the task of signing up feel simple and rewarding (Rule 3.7: Satisfying experience).
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is intended to be triggered by user behavior that suggests engagement, rather than appearing immediately on page load which can be intrusive. A common and effective trigger would be a time-delay; for example, the banner slides down into view after the user has been actively browsing the site for 10-15 seconds. This delay respects the user's initial exploration of the site.
+
+Alternatively, it could be triggered by scroll depth, appearing after the user has scrolled 40-50% down the page. This signals that the user is interested in the content. For this implementation, a CSS animation (`slideDown`) is used to make its appearance smooth and less jarring, contributing to a more pleasant user experience (Rule 3.7).
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a clear and efficient set of interactions designed for task completion and control:
+
+1.  **Passive Viewing:** The user first sees the banner animate into view. They can choose to ignore it and continue interacting with the main site content below it.
+2.  **Dismissal:** The user can click the '×' button on the right to close the banner. A hover effect (rotation and color change) provides clear feedback that it's interactive (Rule 3.2). This action gives the user control over their experience.
+3.  **Data Entry:** The user can click on the input field, which receives a green border shadow (`:focus` state), indicating it's active. They can then type their email address. The `type="email"` attribute provides a constraint for browsers to validate the format (Rule 3.3).
+4.  **Submission:** After entering an email, the user can click the "Get My 15% Off" button. A hover effect (darkening color) and an active state (slight shrink) provide clear interaction feedback (Rule 3.2, 3.5). This action would submit the form to claim the offer.
+-->
+</body>

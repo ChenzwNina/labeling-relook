@@ -1,0 +1,23 @@
+### Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, horizontal banner that spans most of the page width. It has a white background with a subtle shadow, giving it a modern, elevated feel against the page.
+
+*   **Colors:** The palette is designed for trust and clarity. The background is white for a clean look. Text is a dark gray (`#1a1a1a`) for high readability. The stars are a bright gold (`#ffd700`), a universal signifier of quality that immediately draws the eye. The call-to-action (CTA) button uses a confident blue (`#007bff`), a color often associated with trust and security, to encourage clicks.
+
+*   **Size & Layout:** The banner is slim to avoid obscuring page content. A flexbox layout organizes the elements logically: a trust badge and rating on the left, a testimonial in the center, and a clear CTA on the right. This creates a visual flow that guides the user from social proof to action. The headline is bold and larger, while the rating and testimonial text are smaller, establishing a clear information hierarchy. This design quickly builds credibility (Rule 3.2), encourages exploration via the CTA (Rule 3.3, 3.6), and presents a professional brand image (Rule 3.7).
+
+### Question 4.2: What triggers the appearance of this widget?
+
+The appearance of this widget is primarily triggered on **page load** for key entry points of the website, such as the homepage, category pages, and product pages. This strategy is crucial for immediately establishing credibility and social proof the moment a user lands on the site, which directly helps to minimize the bounce rate (Rule 3.9). For new visitors, this initial dose of confidence is essential. For returning visitors, it reinforces their decision to come back. To avoid user fatigue, the widget should be dismissible. Upon dismissal, a session cookie should be set to prevent it from reappearing for the duration of that user's session. This respects the user's experience while still maximizing the widget's impact on first impressions.
+
+### Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three primary interactions with the widget, each designed to support key e-commerce goals:
+
+1.  **Passive Consumption (Building Trust):** The primary interaction is simply seeing and reading the information. The user instantly absorbs the high-level social proof: "Over 500,000 Customers," a 4.8-star rating, and a positive testimonial. This passive act builds subconscious trust and confidence in the brand, reducing hesitation and positively influencing conversion rates (Rule 3.2) and minimizing cart abandonment later on (Rule 3.8).
+
+2.  **Active Engagement (Driving Action):** The user can click the "Shop Our Best Sellers" call-to-action button. This is a direct pathway to drive revenue. It guides users from a moment of high trust directly to a curated page of high-demand, high-conversion products, which helps maximize sales, average order value, and page views per visit (Rules 3.1, 3.3, 3.6).
+
+3.  **Dismissal (User Control):** Users can click the '×' icon to close the banner. This is a critical interaction for user experience. Providing an easy way to dismiss the component gives users a sense of control, preventing the banner from becoming an annoyance that could increase bounce rates.
+-->
+</body>

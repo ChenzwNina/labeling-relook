@@ -1,0 +1,32 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, responsive grid of product cards against a light grey background. Each card is white with rounded corners and a subtle shadow that intensifies on hover, giving it a tactile, lifted appearance.
+
+**Colors:** The palette is professional and minimalist. The main text is a dark grey (`#2c3e50`). A vibrant blue (`#3498db`) is used for the primary "Add to Cart" button to draw the user's eye to the main action. Prices are in a prominent green (`#27ae60`) to signify value, while sale badges use a contrasting red (`#e74c3c`) for urgency.
+
+**Elements & Layout:** A large header introduces the section. Each card features a high-quality product image at the top, a fixed-height title to maintain grid alignment, the price, and a full-width action button at the bottom. The responsive grid layout (`grid-template-columns`) ensures an optimal viewing experience on any device, from mobile phones to large desktops. These choices create a visually appealing, scannable, and trustworthy interface that prioritizes clarity and efficient user action.
+
+## Question 2: What triggers the appearance of this widget?
+
+This product list component is not a dynamic widget triggered by a specific user action like clicking a button. Instead, its appearance is triggered by page navigation. It is a core, static component of a larger page within an e-commerce website. A user would see this component upon loading a key page, such as:
+
+*   The **Homepage**, featured in a section like "New Arrivals" or "Best Sellers."
+*   A **Category Page** (e.g., "Laptops" or "Headphones"), displaying all products within that category.
+*   A **Search Results Page**, showing items that match a user's query.
+
+Its role is to be an integral part of the browsing and discovery experience, presenting products to the user immediately upon entering a relevant section of the site.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several clear and intuitive interaction points designed for an efficient shopping experience:
+
+1.  **Visual Feedback on Hover:** When a user hovers their mouse over a product card, it lifts with an enhanced shadow. This provides immediate feedback that the entire card is an interactive element. The "Add to Cart" button also darkens, signaling its clickability.
+
+2.  **Navigation to Product Details:** The product image and title are wrapped in a link. Clicking either of these elements (indicated by a pointer cursor) would navigate the user to that specific product's detail page for more information.
+
+3.  **Adding to Cart:** Clicking the prominent blue "Add to Cart" button would add the item to the user's shopping cart. The button provides tactile feedback by slightly shrinking when pressed (`active` state).
+
+4.  **Handling Constraints:** For the "Sold Out" item, the card has a reduced opacity and a "Sold Out" overlay. The button is visually disabled (greyed out) and functionally disabled (`disabled` attribute), preventing the user from clicking it. This directly communicates the item's unavailability and prevents a frustrating user error.
+
+*****Response***** -->
+</body>

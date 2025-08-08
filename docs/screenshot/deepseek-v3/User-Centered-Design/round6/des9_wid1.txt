@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, card-like design with white background and subtle shadow for depth. Shipping options are displayed as selectable cards with hover effects, using a blue color scheme for interactive elements. Prices are highlighted in green. The layout is organized in clear sections with adequate spacing. These choices enhance usability - the card design separates it from page content, color coding helps users quickly identify costs, and the organized layout makes options easy to scan.
+
+Question 2: This widget would typically appear after a user proceeds to checkout and has entered their shipping address. It displays at the shipping method selection step, before payment information is collected. The appearance is triggered when the checkout process reaches the shipping options stage.
+
+Question 3: Users can: 1) Select one shipping method via radio buttons, 2) Choose multiple add-ons via checkboxes, 3) Hover over options to see visual feedback, 4) Click the continue button to proceed. The widget provides immediate visual feedback for selections and hover states. All options are clearly labeled with descriptions and prices to help users make informed decisions.
+-->

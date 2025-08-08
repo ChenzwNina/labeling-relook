@@ -1,0 +1,10 @@
+Question 1:
+  The widget features a white background with gently rounded corners and shadow, positioned at the top center of the viewport with a 20px top margin. The average score is displayed in large, bold dark gray text with a gold star icon. Below, a muted summary text gives the review count. The breakdown uses gold stars for each row, horizontal colored bars indicating percentage of each rating, and exact numbers of reviews aligned at the end. The "Write a Review" button in bold blue stands out for easy visibility and engagement. I chose these familiar colors, typographies, and compositions to match typical e-commerce sites and ensure quick information scanning for customers.
+
+  Question 2:
+  This ratings widget is triggered to appear by default when users view a product page. It is persistently available at the top of the viewport to give customers instant access to aggregated product review information and encourage engagement.
+
+  Question 3:
+  Users can review the product’s average rating, see the number of reviews, inspect the breakdown of reviews by each star level, and identify the absolute counts. Additionally, users are invited to click the "Write a Review" button, which would trigger a review-submission flow or modal (functionality to be implemented). There is no dismiss or close on this version—it's meant for always-on reference at the top.
+  -->
+</body>

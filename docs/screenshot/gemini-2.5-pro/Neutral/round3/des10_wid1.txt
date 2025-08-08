@@ -1,0 +1,18 @@
+-->
+    <!-- 
+        Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The component is a sleek, horizontally-oriented banner with rounded corners and a subtle drop shadow that makes it appear layered above the page content. It features a dark slate-blue background (#2c3e50), which evokes a premium, trustworthy feel. The text is white for high readability, with the main headline being slightly larger and bolder than the descriptive paragraph. A vibrant gold icon and matching "Join for Free" call-to-action button (#f1c40f) create a strong focal point, using a complementary color scheme to draw the user's eye towards the primary action. The layout uses flexbox to neatly organize the icon, text, and button, ensuring a balanced and professional appearance that adapts cleanly to smaller screens by stacking the elements vertically.
+    -->
+    <!-- 
+        Question 2: What triggers the appearance of this widget?
+
+        This widget is primarily triggered on page load for users identified as non-members or those who are not logged into their accounts. The website's backend or frontend logic would check the user's session or cookie status to make this determination. To be more strategic and less intrusive, its appearance could be delayed by a few seconds or triggered by user behavior. For example, it might appear after a user has viewed several product pages, spent a certain amount of time on the site, or, most effectively, when they add an item to their cart. Triggering it at the point of high purchase intent (like adding to a cart) makes the offer of "free shipping" particularly relevant and persuasive.
+    -->
+    <!-- 
+        Question 3: Can you describe the full range of interactions users can have with the widget?
+
+        Users have two main interactions with the widget. The primary interaction is clicking the "Join for Free" call-to-action button. This action is designed to navigate the user to a dedicated membership registration page or open a signup modal, moving them forward in the conversion funnel. The secondary interaction is clicking the '×' close button. This dismisses the banner, removing it from view. In a real-world implementation, this close action would set a cookie or use `localStorage` to prevent the banner from reappearing for a defined period (e.g., 7-14 days), respecting the user's choice and avoiding annoyance. Additionally, both the CTA and close buttons have hover states (changing color or size) to provide visual feedback and confirm to the user that they are interactive elements.
+    -->
+
+</body>

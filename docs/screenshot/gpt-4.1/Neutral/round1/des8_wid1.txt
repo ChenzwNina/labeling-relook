@@ -1,0 +1,8 @@
+Question 1:
+  The widget appears as a fixed, modern cart dialog, 420px wide with a white rounded box and subtle shadow. The header includes the title and a close button. The background is crisp white with soft grey for borders, and accent blues for action buttons. Cart items are displayed with images, details, and prices, neatly spaced. The footer shows subtotal, shipping, total, and two clear action buttons (one blue for checkout, one grey for continue). Design choices ensure clarity, easy interaction, and a familiar shopping experience, with responsive CSS for mobile screens.
+
+  Question 2:
+  The widget appears when a user clicks the shopping cart icon in the website header or initiates a "view cart" action, such as adding an item and then choosing to review the cart.
+
+  Question 3:
+  Users can close the cart with the close button, remove individual items using the trash icon, proceed to checkout with the blue button, or continue shopping with the secondary button. The cart displays item quantity, options (like size/color), price, and totals. In a full implementation, quantities and content could be updated dynamically.

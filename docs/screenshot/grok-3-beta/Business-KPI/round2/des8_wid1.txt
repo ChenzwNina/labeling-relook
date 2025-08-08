@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The shopping cart widget is positioned at the top-right corner with a white background, subtle shadow, and rounded corners for a clean, modern look. It uses a vibrant orange (#e44d26) for buttons and pricing to draw attention and evoke urgency, encouraging purchases. The layout is compact (300px wide) with clear item separation, readable typography (14-18px), and small product images (50x50px) for quick recognition. These choices maximize sales and conversion by making the cart accessible, visually appealing, and action-oriented with a prominent checkout button. -->
+
+    <!-- Question 2: The widget appears when the user clicks the cart toggle button (a shopping cart icon) located at the top-right corner. It can also be triggered programmatically after adding an item to the cart (though not implemented in this code) to confirm the action and prompt further interaction, reducing abandonment. -->
+
+    <!-- Question 3: Users can interact with the widget by clicking the toggle button to open/close the cart, viewing item details (image, name, quantity, price), and clicking the "Proceed to Checkout" button to complete their purchase. Hover effects on buttons provide visual feedback, enhancing usability. These interactions encourage completing transactions and exploring more products, minimizing bounce rate and cart abandonment. -->
+</body>

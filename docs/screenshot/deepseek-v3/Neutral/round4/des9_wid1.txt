@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, card-like design with white background, subtle border, and soft shadow. Options are displayed in bordered containers that highlight on hover/selection. I used blue (#4a90e2) as the primary color for selected states and prices, as it conveys trust and is commonly used in ecommerce. The layout is vertical with clear visual hierarchy through font weights and sizes. This design ensures clarity, easy scanning, and mobile-friendliness while maintaining visual appeal.
+
+    Question 2: This widget typically appears during checkout after the user enters their shipping address but before payment. It may also appear when users click "Calculate Shipping" from their cart. The trigger is the need to collect shipping preferences before order finalization.
+
+    Question 3: Users can: 1) Select one shipping option via radio buttons, 2) Toggle optional add-ons with checkboxes, 3) View prices and descriptions for each option, 4) See visual feedback when hovering/selecting options, and 5) Click the "Proceed" button to continue checkout. The widget provides immediate visual feedback for all interactions.
+    -->
+</body>

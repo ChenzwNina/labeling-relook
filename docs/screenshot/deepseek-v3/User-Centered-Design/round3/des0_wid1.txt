@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based layout with a white background and subtle shadows. Product cards are 250px wide with consistent 200px tall images. I chose a green accent color for buttons (converting well in ecommerce) and blue for prices (trustworthy). The design is minimalist to keep focus on products, with hover effects to enhance interactivity. The responsive grid ensures good display on all devices.
+
+    Question 2: This widget would typically appear on the homepage or category pages of an ecommerce site as a default section. It could also be triggered by user behavior like returning visits, or appear in personalized recommendations based on browsing history. Some sites might show it after adding an item to cart as "frequently bought together" suggestions.
+
+    Question 3: Users can: 1) Hover over cards to see elevation effect, 2) Click product images/titles to view details, 3) Click "Add to Cart" buttons, 4) Scroll horizontally if space is limited (on mobile), 5) Potentially swipe through carousel on touch devices. The widget could expand with more interactions like quick view modals, wishlist icons, or rating displays.
+    -->
+</body>

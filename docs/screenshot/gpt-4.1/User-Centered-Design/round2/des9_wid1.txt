@@ -1,0 +1,15 @@
+Question 1:
+  The widget is a centered card with a white background, soft rounded corners, and a drop shadow for elevation. A bold heading is followed by clear "Shipping Options" with three radio-selections: Standard (free), Express ($8.99), Overnight ($19.99), each showing delivery speed and pricing. Under "Optional Add-ons," three checkbox enablements are listed: Gift Wrap, Priority Packing, and Order Insurance, all described with concise text and costs. A wide, bold "Confirm Shipping" button (blue—turning dark blue on hover, disabled until selection) is at the bottom, followed by feedback text that appears upon confirmation. Colors use blue for actions/highlights, green for add-ons, and muted greys for info. Visual structure, typographic hierarchy, spacing, and keyboard accessibility make usage clear, support quick selection, and ensure consistency.
+
+  Question 2:
+  The widget appears at the top of the viewport whenever users reach the shipping selection step of the checkout flow. It is intended to be displayed when customers need to choose their preferred shipping method and optional order add-ons, typically shown right after entering their shipping address and before making payment.
+
+  Question 3:
+  Users can:
+  • Select only one shipping method with clickable radio buttons or via keyboard navigation. The visual background updates to indicate the current choice.
+  • Optionally select or deselect any combination of add-ons via checkboxes.
+  • Hover/click the confirm button to apply their choices; the button is only active when a shipping method is chosen.
+  • See a visual confirmation/feedback after submission.
+  The design supports keyboard and screen-reader navigation, and visually constrains users from proceeding with no shipping method selected, thereby preventing missteps in the process.
+  -->
+</body>

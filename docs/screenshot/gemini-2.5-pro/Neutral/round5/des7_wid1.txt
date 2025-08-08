@@ -1,0 +1,22 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget has a clean, modern design with a white background, rounded corners, and a subtle shadow, making it pop against the page. It’s laid out vertically for clarity. At the top, a large, bold "4.8" immediately grabs attention, placed next to five gold-colored stars and the total review count in a smaller, grey font. Below this summary is a detailed breakdown for each star level (5-star to 1-star), using gold progress bars to visually represent the distribution of ratings. The component concludes with a prominent, blue "Write a Review" button.
+
+These design choices are intentional. The color gold is universally associated with high ratings, building instant trust. The strong visual hierarchy, from the large overall score to the detailed bars, allows users to either get a quick impression or dig deeper. The clean layout and ample white space prevent the widget from feeling cluttered, ensuring the data is easy to read and digest, which is crucial for a user making a purchase decision.
+
+### Question 2: What triggers the appearance of this widget?
+
+This component is designed to be an integral part of a product detail page. Its appearance is not triggered by a specific user action like a click or hover; rather, it loads along with the rest of the page content. Typically, it would be positioned in a prominent location "above the fold," near the product's title and price. This static, always-visible placement ensures that social proof—one of the most critical factors in an e-commerce decision—is immediately available to the user, helping to build confidence in the product from the moment they land on the page. The specific instruction to place it at the top of the viewport reinforces this role as a key informational banner.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three primary types of interaction with this widget.
+
+1.  **Viewing:** The main interaction is passive observation. Users can quickly see the overall score, the star rating, and the total number of reviews to gauge product quality. They can also analyze the detailed progress bars to understand the distribution of opinions, which adds more nuance than a simple average score.
+
+2.  **Action Initiation:** The primary active interaction is clicking the "Write a Review" button. This call-to-action would typically scroll the user to a review form further down the page or open a modal window where they can submit their own feedback and rating.
+
+3.  **Dismissal:** Users can click the '×' icon at the top right corner. Although its functionality requires JavaScript, its purpose is to dismiss the widget, allowing the user to hide it from view if they find it distracting or have already absorbed the information. This gives the user control over their interface.
+-->
+
+</body>

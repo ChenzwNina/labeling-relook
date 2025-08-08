@@ -1,0 +1,16 @@
+4.1 Question 1: 
+  The widget is a wide, horizontally-oriented banner with a soft yellow-orange gradient background, providing high color contrast and drawing attention. The left features a 60px deal-themed image. The center houses clear bold text with deal descriptions, and a set of pill-shaped, clickable deal buttons. A bright orange primary "View All Deals" button sits on the right. The design relies on sharp visual hierarchy, high-contrast text, clear clickable elements, generous padding, and rounded corners for modernity and readability. These choices enhance noticeability and usability.
+
+  4.2 Question 2:
+  This widget appears automatically at the very top of the website's viewport on every page load, ensuring users see the latest deals immediately and promoting conversions. No user trigger is required.
+
+  4.3 Question 3:
+  Users can: 
+  - Click any individual deal for direct navigation to that promo’s page.
+  - Click the "View All Deals" button to visit a full deals & offers page.
+  - Use both mouse and keyboard (Tab, Enter, Space) to interact with all buttons.
+  - Get visual feedback (hover/focus highlighting, color changes) for each interaction. 
+  Non-permissible actions (like editing deal text or moving the banner) are constrained.
+
+  -->
+</body>

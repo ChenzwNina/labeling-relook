@@ -1,0 +1,19 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+    The user ratings widget is a rectangular card, 360px wide, with a clean and modern aesthetic. It has a white background (#ffffff), 10px rounded corners, and a subtle gray box shadow (0 6px 20px rgba(0,0,0,0.08)) for a floating effect. It's positioned fixed, 20px from the top of the viewport and horizontally centered.
+    Colors: Primary text is dark gray (#212529), secondary text is a lighter gray (#6c757d). Stars and progress bars use a vibrant gold/yellow (#ffc107) for emphasis, with background/empty stars in light gray (#e9ecef). The primary call-to-action button ("Read All Reviews") has a blue background (#007bff) with white text. The secondary button ("Write Your Review") uses a light gray background (#f8f9fa) with blue text and a light border.
+    Element Sizes: The main title "Product Reviews" is 1.25rem (approx. 20px). The average numeric rating ("4.7") is prominent at 2.8rem (approx. 45px). Star icons are 22px. Review count and breakdown labels are 0.875rem (14px).
+    Layout: Vertically stacked sections: header (title, overall rating), rating breakdown (bar chart for each star level), and footer (action buttons). Flexbox is used internally for aligning elements like the numeric rating beside the stars, and for rows in the breakdown.
+    Design Choices: These choices aim for clarity, familiarity, and trust. The color scheme uses standard web conventions (blue for primary actions, gold for ratings). The layout is intuitive, resembling common e-commerce rating summaries. The visual hierarchy guides the eye from the overall score to the detailed breakdown and finally to actions, promoting quick understanding and engagement.
+
+    Question 2: What triggers the appearance of this widget?
+    This widget is designed to be persistently visible on relevant pages. Its appearance is triggered by the page load itself, rather than a specific user interaction like a click or hover. Since it's styled with `position: fixed` and `top: 20px`, it will appear at the top of the viewport as soon as the HTML and CSS rendering begins. It's intended to provide immediate, at-a-glance rating information, typically on product detail pages or sections where aggregated customer feedback is a key piece of content. No user action is required to make it appear; it's part of the page's initial static layout.
+
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+    Users primarily interact with this widget in a few ways:
+    1.  **Information Consumption:** Users visually scan the widget to quickly understand the product's overall rating (e.g., "4.7"), see the star visualization, note the total number of reviews, and examine the percentage breakdown for each star level. This is a passive interaction for quick assessment.
+    2.  **Clicking "Read All Reviews" Button:** This is a primary call-to-action. Clicking it would typically navigate the user to a more detailed view of all individual customer reviews, which might be a new page or a scrolled section on the current page.
+    3.  **Clicking "Write Your Review" Button:** This secondary call-to-action allows users to contribute their own feedback. Clicking it would usually open a review submission form (e.g., in a modal, on a new page, or by scrolling to a form section) or prompt login if the user isn't authenticated.
+    4.  **Hover States (Implicit):** Buttons have visual feedback on hover (e.g., color changes) to indicate they are clickable, enhancing affordance. Other elements like breakdown rows could potentially offer tooltips on hover for more details, though not implemented in this version.
+    The widget itself doesn't allow direct manipulation of the displayed rating data; it's a read-only summary.
+    -->
+</body>

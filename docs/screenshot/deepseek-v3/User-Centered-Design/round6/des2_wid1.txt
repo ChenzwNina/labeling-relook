@@ -1,0 +1,6 @@
+Question 1: The widget features a horizontal navigation bar with a light gray background (#f8f9fa) and subtle shadow. Category links are dark gray (#333) with 600 weight font, turning blue (#007bff) on hover. Dropdown menus appear below categories with white background and shadow. On mobile, it collapses to a hamburger menu. These choices ensure readability, visual hierarchy, and responsiveness across devices while maintaining a clean, professional ecommerce aesthetic.
+
+    Question 2: The widget appears immediately as part of the page header. On desktop, dropdowns appear on hover. On mobile (<768px), the full menu appears when clicking the hamburger button (☰). This provides immediate access to categories while conserving space on smaller screens.
+
+    Question 3: Users can: 1) Hover over categories to see dropdown menus (desktop), 2) Click category links to navigate, 3) Click hamburger icon to toggle mobile menu, 4) Navigate subcategories in dropdowns. The interactions provide intuitive category exploration while maintaining clean visual design and responsive behavior across devices.
+    -->

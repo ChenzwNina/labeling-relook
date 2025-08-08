@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, centered container with a white background and subtle shadow for emphasis, sized at a max-width of 600px for readability. It uses a bold red (#e74c3c) for the cancellation button to signify a critical action and a calming green (#2ecc71) for the "Keep Membership" button to encourage retention. Text is dark gray for clarity, with larger headers (24px) and standard body text (16px). The layout is vertical for intuitive flow, prioritizing visibility and feedback. These choices ensure emotional resonance and clear decision-making.
+
+Question 2: This widget appears when a user navigates to the membership cancellation section of their account settings on the ShopElite website, typically triggered by selecting a "Cancel Membership" option from their profile or billing page.
+
+Question 3: Users can interact by selecting a cancellation reason from a dropdown (constrained to predefined options), clicking "Confirm Cancellation" to finalize (with feedback displayed and button disabled post-click), or choosing "Keep Membership" to return to their account. Hover effects on buttons provide visual cues, ensuring efficient and clear task execution.
+***** -->

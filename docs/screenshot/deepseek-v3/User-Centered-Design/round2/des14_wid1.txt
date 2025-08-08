@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with white background and green accents for active/completed steps. It uses a progress bar with circular indicators (30px diameter) showing order status steps. The layout is organized vertically with clear section hierarchy. I chose these colors for good contrast and accessibility, with green signaling progress/completion. The compact size (max 500px width) ensures it fits well on most pages without overwhelming content.
+
+    Question 2: This widget appears when a user views their order details, either by clicking on an order in their account history or after completing a purchase. It may also appear in order confirmation emails or when tracking a package via a tracking number lookup.
+
+    Question 3: Users can: 1) View their order status through the visual progress indicator, 2) See key delivery information (date, carrier, tracking number), 3) Click the tracking number (if linked to carrier's site), 4) Click "Need help" to access support. The widget is primarily informational but includes actionable elements for further engagement.
+    -->

@@ -1,0 +1,8 @@
+Q1: The widget is a centered rectangular panel (350px wide), white background with a subtle shadow and rounded corners, set 20px from the top of the viewport. The logo is at top, followed by clear title/description, form fields for email & password, a visible error area, "Remember me" checkbox, "Forgot password?" link, and a bold colored "Sign In" button. Colors use calming blue accents (#3684fc), high contrast text for legibility, and touch-friendly spacing. Consistent alignment and font styling maintain clarity, while constraints like required fields and input validation ensure appropriate use. These choices emphasize clarity, trust, and ease of use, aligned with modern e-commerce UI standards.
+
+    Q2: The widget appears when a user selects "Sign In" at the top navigation, tries to access account-restricted pages, or clicks "Checkout" without being authenticated.
+
+    Q3: Users can: 1) Enter email/password; 2) Receive instant error feedback for invalid fields; 3) Toggle "Remember me"; 4) Click "Forgot password?" for password recovery; 5) Submit to sign in (disabled if fields are empty/invalid); 6) Click "Create account" to start registration. Focus states, tab order, and clear affordances support keyboard and assistive tech navigation throughout.
+    -->
+
+</body>

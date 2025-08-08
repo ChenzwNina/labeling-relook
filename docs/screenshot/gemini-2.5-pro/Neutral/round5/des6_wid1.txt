@@ -1,0 +1,20 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a 340px wide product card with a clean, modern aesthetic. It has a white background, rounded corners, and a subtle box-shadow that intensifies on hover, giving it a tactile, floating effect. The layout follows a logical top-to-bottom hierarchy: a prominent product image, followed by the brand category, product title, star rating, price, and a full-width call-to-action button. 
+
+The color scheme is chosen for clarity and to guide user action. Most text is a highly readable dark grey (#1a1a1a). The price is a strong, dark blue to stand out. The original price is struck through in a lighter grey to de-emphasize it but still show the value of the sale. The "Add to Cart" button uses a vibrant green (#28a745), a color universally associated with "go" or success, creating a clear primary action. This entire design is intended to be familiar, trustworthy, and optimized for quick scanning and conversion.
+
+### Question 2: What triggers the appearance of this widget?
+
+This product card widget is a fundamental, static component of a page rather than a dynamically triggered one (like a pop-up). Its appearance is triggered by a user navigating to a page where multiple products are displayed. Common locations include a product category page (e.g., "Backpacks"), a search results page, or a curated section on the homepage like "Featured Products" or "New Arrivals." It's designed to be part of a grid or list of similar items, allowing users to browse, compare, and make purchasing decisions without needing to click into every single product detail page. Its fixed position in this demo is for showcasing the component itself, but in a real site, it would be part of the page's natural content flow.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several key interaction points designed to facilitate their shopping journey:
+
+1.  **Hovering on the Card:** The card lifts slightly with an enhanced shadow, providing visual feedback that it's an interactive element.
+2.  **Clicking Image/Title:** Clicking the main product image or the title would typically navigate the user to the full Product Detail Page (PDP), where they can see more images, read a detailed description, and view specifications.
+3.  **Clicking "Add to Cart":** This is the primary call-to-action. Clicking it would add the product to the user's shopping cart. This action would ideally be followed by immediate feedback, such as the button text changing to "Added!" or a small animation indicating the item flying to a mini-cart icon.
+4.  **Clicking the Wishlist Icon:** The heart icon allows users to save the item for later. Clicking it would add the product to their personal wishlist, and the icon would change its state (e.g., from an outline to a solid, colored heart) to confirm the action.
+-->
+</body>

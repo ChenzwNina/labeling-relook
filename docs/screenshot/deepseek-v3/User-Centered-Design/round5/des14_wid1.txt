@@ -1,0 +1,8 @@
+Question 1: The widget features a clean, card-based design with white background and subtle shadow for depth. It uses a green progress bar and color-coded status indicators (yellow for processing, green for shipped, blue for delivered). The timeline uses circular markers with different states (gray for upcoming, green for completed). These choices create visual hierarchy, communicate status intuitively through color psychology, and maintain consistency with common e-commerce design patterns while ensuring accessibility.
+
+*****Response*****
+Question 2: The widget appears when a user clicks on "Track Order" from their account dashboard or order confirmation email. It can also appear automatically after checkout with a "Track your order" call-to-action. For returning visitors, it might appear when they view order history and select a specific order to track.
+
+*****Response*****
+Question 3: Users can: 1) View order status and progress through the visual timeline, 2) Click "View Order Details" to see full order information, 3) Click "Need Help?" to access customer support, 4) Hover over timeline steps for more details (if implemented), and 5) On mobile, they might swipe horizontally to see more timeline content if it doesn't fit on screen. The widget is primarily informational but includes actionable elements for deeper engagement.
+-->

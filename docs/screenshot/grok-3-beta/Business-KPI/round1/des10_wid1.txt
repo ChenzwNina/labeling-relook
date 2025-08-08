@@ -1,0 +1,6 @@
+Question 1: The widget features a vibrant gradient background transitioning from coral (#ff6f61) to a warm peach (#ffb88c), creating an eye-catching and energetic vibe to attract attention. The layout is centered with a bold headline (28px) and descriptive text (16px) for clarity. The form is compact with a white button contrasting against the gradient for a strong call-to-action (CTA). These choices maximize conversion by using high-contrast, engaging colors, clear messaging, and a prominent CTA, encouraging immediate sign-ups while reflecting a modern e-commerce aesthetic.
+
+Question 2: The widget appears at the top of the page on load for all users who are not logged in or have not yet signed up for membership. It can also reappear via a session trigger if a user abandons the sign-up process or spends a certain amount of time browsing without joining.
+
+Question 3: Users can interact with the widget by entering their email in the input field and clicking the "Sign Up Now" button to submit. Hover effects on the button provide visual feedback with a scale transform and color change. If integrated with JavaScript (not included), users may receive success/error messages or be redirected to a membership benefits page post-submission.
+-->

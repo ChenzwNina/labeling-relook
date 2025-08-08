@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The shopping cart widget is a fixed-position dropdown on the top-right of the viewport with a white background, subtle shadow, and rounded corners for a modern look. It has a width of 350px to balance visibility and screen space. The cart icon (🛒) is bold and prominent for easy access. Items are displayed in a clean, flex-based layout with small images (50x50px) and concise text. The coral-colored checkout button (#ff6f61) stands out to encourage action, inspired by common e-commerce color schemes for urgency. These choices ensure usability and familiarity for online shoppers. -->
+
+    <!-- Question 2: The widget appears when the user clicks the shopping cart icon positioned at the top-right of the screen. It can also be triggered programmatically after adding an item to the cart (though not implemented in this code). This mimics typical e-commerce behavior where users access their cart on-demand. -->
+
+    <!-- Question 3: Users can interact with the widget by clicking the cart icon to open/close it, viewing item details (image, name, quantity, price), and clicking the "Proceed to Checkout" button to complete their purchase. Future enhancements could include removing items or adjusting quantities directly within the widget for a fuller experience. -->
+</body>

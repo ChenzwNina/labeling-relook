@@ -1,0 +1,9 @@
+Question 1: 
+The widget is a horizontally-centered card with a light background, slightly rounded corners, and a clean drop-shadow to stand out from the page. Product items appear as individual vertical cards in a responsive grid. Visual accents (blues for buttons and prices, soft grays for structure) support affordance and guide attention. Images are prominent, with clear titles, concise descriptions, and strongly colored prices. Buttons use gradient blues, turning grayed-out when disabled. Text hierarchy and spacing are tuned for scan-ability and modern aesthetics, modeled after top e-commerce patterns.
+
+Question 2: 
+This widget is designed to appear at the top of the viewport as a default product-listing section when a user lands on the shop or category page of the e-commerce website. It is always visible unless the page context changes (e.g., when browsing to a specific product or checkout).
+
+Question 3:
+Users can scroll this section and navigate with both mouse and keyboard (cards are focusable). Hovering or focusing on a product card highlights it for feedback. Users can view product summaries at a glance, and each product's "Add to Cart" button is immediately actionable (active unless there’s a constraint). Clicking it triggers the cart-add action (not coded here), providing instant visual and system feedback through UI states (button disables on use, if implemented). All elements are clearly labeled for accessibility.
+-->

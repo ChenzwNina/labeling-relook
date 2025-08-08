@@ -1,0 +1,22 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    Answer: The component is a horizontal navigation bar with a clean, modern aesthetic. It features a white background with a subtle shadow, making it float visually above the page content. The layout is centered, with primary category links ("New Arrivals," "Women," etc.) evenly spaced. Main links use a bold, 16px uppercase 'Lato' font in dark grey for high readability. The primary color palette is neutral (white, grey) to maintain a professional look, with a vibrant blue (#007bff) used as an accent for hover states and calls-to-action, drawing user attention. The "Sale" link is colored red to create urgency. On hover, a "mega menu" appears for complex categories, presenting sub-categories in organized columns with clear headings. This design is chosen for its familiarity to e-commerce shoppers, promoting trust and ease of use while efficiently showcasing a wide product range without overwhelming the user.
+
+    *****Response*****
+
+    Question 2: What triggers the appearance of this widget?
+
+    Answer: The navigation bar itself is a persistent, structural component of the website, not a widget that appears based on a trigger. It is always visible at the top of the user's viewport. As specified, it is positioned with a 20-pixel margin from the top, using `position: sticky`. This means it scrolls with the page initially but "sticks" to the top once it reaches that position, ensuring the main navigation functions are always accessible to the user without needing to scroll back up. The interactive parts *within* the widget, the "mega menus," are triggered when the user hovers their mouse cursor over a main category link like "Women" or "Men."
+
+    *****Response*****
+
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Answer: Users have several clear interactions designed for efficient navigation.
+    1.  **Hovering:** When a user hovers their mouse over a main category link (e.g., "Women"), they receive immediate visual feedback: the text color changes to blue, and an animated blue underline appears beneath it.
+    2.  **Revealing Sub-categories:** For categories with sub-menus, this hover action simultaneously triggers the appearance of a large "mega menu" dropdown. This menu displays multiple columns of sub-category links and a promotional section.
+    3.  **Navigating Sub-categories:** Within the mega menu, users can hover over sub-category links. This provides further feedback as the link text changes to blue and shifts slightly to the right, indicating its interactivity.
+    4.  **Clicking:** Users can click on any link—be it a main category, a sub-category, or a promotional button—to be navigated to the corresponding page. This action completes their task of finding a specific product section. The cursor changes to a pointer on all clickable elements, reinforcing this affordance.
+    -->
+
+</body>

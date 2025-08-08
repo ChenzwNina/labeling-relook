@@ -1,0 +1,38 @@
+-->
+<!--
+Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The filter panel is a clean, horizontal bar with a white background and a soft shadow, making it float above the page content. The layout is organized and spacious, using a legible sans-serif font ('Lato') with a dark blue text color for better readability than pure black. The main filter buttons have a light gray background, providing a subtle contrast.
+
+Key design choices include:
+- **Colors:** A neutral palette (white, grays) keeps the focus on the products. The primary action button, "Apply Filters," uses a vibrant, trustworthy blue (#0065FF). This high-contrast button draws the user's attention, guiding them to complete the filtering action and thus increasing conversion rates (Rule 3.2). Active states also use this blue to provide clear feedback.
+- **Size & Layout:** The panel is a fixed height, preventing layout shifts. Filter options are tucked into dropdowns, reducing initial cognitive load and minimizing bounce rate (Rule 3.9). Buttons and interactive elements have ample padding for easy clicking on both desktop and touch devices.
+- **Visual Filters:** Color options are presented as clickable visual swatches, which are faster to process than text lists, improving the user experience and time on site (Rule 3.5).
+-->
+<!--
+Question 4.2: What triggers the appearance of this widget?
+
+This filter panel's appearance is not triggered by a specific user action; it is persistently visible by default. When a user navigates to a product listing page (e.g., a category like "Dresses" or a search results page), the filter panel is immediately present at the top of the viewport, positioned 20 pixels from the top. It remains fixed in this position as the user scrolls down the page.
+
+This "always-on" approach is intentional. It ensures the primary tool for refining a large selection of products is immediately accessible, which is critical for reducing bounce rate (Rule 3.9). Users don't have to search for the filtering functionality, allowing them to instantly engage with the page content in a meaningful way. This direct access encourages interaction and helps users find relevant products faster, directly supporting conversion rate optimization (Rule 3.2). The goal is to make filtering an integral, effortless part of the browsing experience, not a hidden feature.
+-->
+<!--
+Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a comprehensive and intuitive set of interactions designed for efficient product discovery:
+
+1.  **Opening Filters:** Users click on a filter button (e.g., "Size", "Color") to reveal a dropdown menu containing specific options for that category. The clicked button changes its appearance to an 'active' state, providing clear visual feedback. Only one dropdown can be open at a time to maintain a clean interface.
+
+2.  **Selecting Options:**
+    *   **Checkboxes:** In dropdowns like "Category" and "Size," users can click checkboxes to select one or multiple options.
+    *   **Color Swatches:** Users can click on visual color swatches to select or deselect colors. A checkmark and a border appear on selected swatches.
+    *   **Price Slider:** Users can click and drag the two handles of the price slider to define a custom minimum and maximum price range.
+
+3.  **Applying Selections:** After making their choices, users click the prominent blue "Apply Filters" button. This action would submit their selections, and the product grid on the page would refresh to display only the matching items.
+
+4.  **Clearing Selections:** Users can click the "Clear All" link to instantly reset every filter to its default state, allowing them to easily start a new search. This encourages exploration and increases page views per visit (Rule 3.6).
+
+5.  **Closing Filters:** A dropdown menu can be closed by clicking its button again or by clicking anywhere else on the page outside of the dropdown.
+-->
+
+</body>

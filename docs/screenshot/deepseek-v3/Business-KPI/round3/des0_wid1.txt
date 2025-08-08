@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based layout with a white background and subtle shadows. Product cards have a consistent size (250px min-width), green price tags (#2a7f62), and a hover effect that lifts them slightly. The design uses ample white space, clear typography, and a responsive grid to ensure readability and visual appeal across devices. These choices create a professional, trustworthy appearance while making products stand out.
+
+    Question 2: This widget appears immediately when the page loads, typically on the homepage or a category page. It's designed to be always visible to highlight promoted or popular items without requiring user interaction to trigger its display.
+
+    Question 3: Users can: 1) Hover over cards to see a lift effect and shadow, 2) Click "Add to Cart" buttons to purchase items, 3) View product images and details, and 4) Scroll horizontally if space is constrained (on mobile). The cards could be made clickable to navigate to product pages for more details.
+    -->
+</body>

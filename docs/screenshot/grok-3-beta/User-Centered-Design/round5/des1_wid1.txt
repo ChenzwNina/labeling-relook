@@ -1,0 +1,6 @@
+Question 1: The deals banner spans the full width of the viewport with a vibrant gradient background (coral to peach) for high visibility. White text contrasts sharply for readability. The layout uses a centered flexbox with evenly spaced elements: a bold deal announcement, a countdown timer with a subtle dark background for emphasis, and a white "Shop Now" button with hover and click animations for feedback. Font sizes are responsive, shrinking on smaller screens. These choices ensure urgency, clarity, and appeal, aligning with e-commerce aesthetics.
+
+Question 2: The banner appears automatically at the top of the website on page load, positioned 20px from the viewport top. It is triggered by active promotions or flash sales managed by the backend system, ensuring relevance to current deals.
+
+Question 3: Users can interact by reading the deal details and timer for urgency. Clicking the "Shop Now" button redirects to the sales page (assumed functionality). Hovering over the button provides visual feedback with a scale effect and color change, while clicking offers a press animation. No invalid actions are possible due to the constrained, single-purpose design.
+***** -->

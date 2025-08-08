@@ -1,0 +1,9 @@
+Question 1: 
+  The widget displays a clean, card-based grid with 4 product items per row (responsive down to 1-column on small screens) on a white rounded container with subtle shadows for depth; product cards use a light background (#f8fafd), blue-purple accents for call-to-action, and clear sans-serif text. Large product images, bold product names, aligned price and "Add to Cart" buttons create hierarchy. Hover/focus effects and accessibility features ensure clarity. These choices ensure a professional, readable, and inviting look, matching real e-commerce designs and supporting task efficiency and user satisfaction.
+
+  Question 2: 
+  This widget appears automatically at the top of the main viewport once the user lands on a product category or home page, to immediately showcase featured or available products for shopping.
+
+  Question 3: 
+  Users can scan products, press “Add to Cart” for any item; on click, the button disables and a green feedback message (“Added to cart!”) appears for 2 seconds, preventing multiple quick adds and confirming the action. Cards are keyboard navigable and actionable. All images, names, and actions provide clear focus and feedback, with interaction constraints on the button, for a consistent and efficient shopping experience.
+  -->

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background container, subtle shadow for depth, and a centered layout for focus. It uses a blue color scheme (#007bff) for buttons and links, ensuring high visibility and a professional look consistent with e-commerce branding. Input fields are full-width with padding for easy interaction, and error messages are red for clear feedback. The design prioritizes accessibility and clarity, with bold labels and a spacious layout to guide users effortlessly through account creation.
+
+    Question 2: This widget appears when a user clicks on a "Sign Up" or "Create Account" link, typically found in the header or login page of the e-commerce website. It may also be triggered during checkout if the user opts to create an account for faster future purchases.
+
+    Question 3: Users can interact by entering their full name, email, and password in the respective fields, with real-time feedback via error messages if inputs are invalid. They can submit the form to create an account, receiving a success alert upon completion. Hover effects on the submit button and links provide visual cues, and clicking terms/privacy links (placeholders) offers additional info. -->
+</body>

@@ -1,0 +1,33 @@
+-->
+    <!--
+    Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The sign-in widget is a rectangular card with rounded corners, centered horizontally and fixed 20px from the top of the viewport. It features a soft white background (#ffffff) and a subtle box-shadow, making it "float" above the page content. The primary color for buttons and links is a professional blue (#007bff), creating clear calls-to-action. Text is a highly readable dark gray (#333) with secondary text in a lighter gray (#606770).
+
+    The layout is a single vertical column, guiding the user's eye from the "Welcome Back!" heading down to the final "Create an account" link. Input fields are large with generous padding for easy clicking on both desktop and mobile. The hierarchy is clear: the main email/password login is most prominent, followed by password recovery, social login as an alternative, and finally, the option for new users. This design is chosen for its familiarity and efficiency. The clean, high-contrast look builds trust, while the logical flow reduces cognitive load, enabling users to sign in quickly without distraction.
+    -->
+
+    <!--
+    Question 2: What triggers the appearance of this widget?
+    
+    The appearance of this widget is typically triggered by a specific user action that requires authentication. The most common triggers are:
+    
+    1.  **Direct Navigation:** The user clicks a "Sign In" or "My Account" link, usually located in the website's main header or navigation bar.
+    2.  **Protected Action:** The user attempts to access a page or feature that is only available to logged-in users. Examples include viewing "Order History," adding an item to a "Wishlist," or proceeding to the checkout page.
+    3.  **Cart to Checkout:** When moving from the shopping cart to the checkout process, the site often presents this widget to encourage users to sign in for a faster, saved-address experience, though it might also appear alongside a "Continue as Guest" option.
+    
+    In all cases, the widget appears in response to a user's intent to either manage their account or perform an action that is personalized to a specific user profile.
+    -->
+
+    <!--
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+    
+    Users can perform several key interactions with this widget:
+    
+    1.  **Data Entry:** Users can click on the "Email Address" and "Password" placeholder text to activate the input fields and type in their credentials. The fields are designed with clear focus states (a blue border and shadow) to provide visual feedback.
+    2.  **Form Submission:** Clicking the primary blue "Sign In" button will attempt to submit the form to authenticate the user's credentials with the server.
+    3.  **Password Recovery:** If a user has forgotten their password, they can click the "Forgot Password?" link. This action would typically navigate them to a new page or display another widget dedicated to the password reset process.
+    4.  **Social Authentication:** Clicking the "Continue with Google" button initiates an OAuth protocol, which would open a pop-up or redirect to Google's sign-in service to grant access.
+    5.  **New User Registration:** For users without an account, clicking the "Create an account" link would take them to a separate registration page or replace this widget with a sign-up form.
+    -->
+</body>

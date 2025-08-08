@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design with a dark header (#2c3e50) and white background. Items are displayed in a scrollable list with product images (60x60px), names in bold, and prices in red (#e74c3c). Quantity controls are circular buttons. The total is prominently displayed at the bottom with a full-width checkout button. These choices prioritize readability, visual hierarchy, and ease of interaction while maintaining a professional e-commerce aesthetic.
+
+    Question 2: Typically, this widget would appear when a user clicks on a shopping cart icon in the website header. It could also appear automatically when a user adds an item to their cart, or as a persistent sidebar in some e-commerce designs.
+
+    Question 3: Users can: 1) View all cart items with images and prices, 2) Adjust quantities using +/- buttons, 3) Remove items (though not implemented here), 4) See the running total, and 5) Proceed to checkout. The widget should update dynamically as changes are made, with visual feedback for interactions.
+    -->
+</body>

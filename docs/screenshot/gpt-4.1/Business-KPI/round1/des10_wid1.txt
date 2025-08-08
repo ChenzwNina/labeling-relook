@@ -1,0 +1,8 @@
+Question 1:
+    The widget is a wide, visually striking banner with rounded corners and a blue gradient background (#004e92 to #000428), positioned at the top of the page with a 20px margin. Key component: a round membership image on the left, bold headline and list of membership perks in the middle, and a signup form with name/email fields and a gold “Join Now & Save!” button to the right. It uses readable fonts, white and gold contrast, and includes a close (×) button in the corner. The design is attention-grabbing but clean, encouraging quick sign-up.
+
+    Question 2:
+    This widget appears at the top of the viewport on landing or after users browse a non-member or not-logged-in session. It’s triggered on home/category/product pages for users who are not current members, and/or after adding items to the cart if not yet a member, maximizing visibility without being overly disruptive.
+
+    Question 3:
+    Users can: (1) Close the banner with the × button, dismissing it for the session; (2) enter their name and email, then click “Join Now & Save!” to sign up (a confirmation alert signals success); (3) hover the signup button for visual feedback. Mobile-friendly design allows easy interaction on all devices.

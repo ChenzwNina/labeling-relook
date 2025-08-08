@@ -1,0 +1,41 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a rectangular card, positioned fixed at the top of the viewport (20px margin) and centered horizontally. It has a white background (`#ffffff`) with a subtle border (`#e0e0e0`) and a soft box shadow (`0 8px 25px rgba(0,0,0,0.1)`) for a clean, elevated look against the page's light gray (`#f0f2f5`) background.
+
+Layout: On wider screens, it's a two-column layout: product image (40% width) on the left, product details on the right. On smaller screens (<768px), it stacks vertically with the image on top. This ensures optimal viewing on all devices.
+
+Colors:
+-   Title: Dark blue-grey (`#2c3e50`) for strong, professional appeal.
+-   Offer Text: Red (`#e74c3c`) to grab attention and create urgency.
+-   Current Price: Prominent green (`#27ae60`) to highlight savings and create a positive association.
+-   Original Price: Muted grey (`#7f8c8d`) with strikethrough.
+-   Description Text: Dark grey (`#555`) for readability.
+-   CTA Button: Bright blue (`#3498db`) for trust and high visibility, with white text.
+-   Tag: Bright yellow (`#ffc107`) for "Top Rated" to draw immediate positive attention.
+
+Element Sizes:
+-   Image: Large enough to be a focal point.
+-   Title (`<h2>`): Prominent (1.8rem), making it instantly clear what the product is.
+-   Current Price: Very large (2rem) to emphasize value.
+-   CTA Button: Generously sized with clear text (1rem font) for easy interaction.
+
+Design Choices Rationale:
+The design prioritizes clarity, visual appeal, and conversion. The fixed position ensures constant visibility for this featured item. Color choices leverage psychological associations (green for savings, red for urgency, blue for trust in CTA). A clear visual hierarchy guides the user from image to title, offer, price, description, and finally to the compelling CTA. The responsive design maximizes usability across devices, crucial for e-commerce. Rounded corners and shadows give a modern, trustworthy feel. These choices aim to maximize engagement, reduce bounce rate, and ultimately drive sales.
+
+4.2 Question 2: What triggers the appearance of this widget?
+
+This widget is designed to appear immediately upon page load. Its `position: fixed` CSS property ensures it is rendered at the top of the viewport (with a 20px top margin) as soon as the page containing it is loaded by the user's browser. It doesn't require any specific user action (like a click or scroll) to become visible. It's intended to be a persistent, high-visibility component, ideal for showcasing a special promotion, a "deal of the day," or a prominently featured product from the moment the user lands on the relevant page (e.g., homepage, category page).
+
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the widget in several ways:
+
+1.  **Visual Consumption:** Users can view the product image, read the "Top Rated" tag, product title, offer details, current and original prices, and the product description. This provides key information at a glance.
+2.  **Call to Action (CTA) Button:**
+    *   **Hover:** Hovering over the "Discover Features & Claim Your Discount" button changes its background color (to a darker blue) and slightly lifts it, providing visual feedback that it's interactive.
+    *   **Click:** Clicking the CTA button is the primary interaction. It's an anchor tag (`<a>`) that would typically navigate the user to the full product details page or a specific landing page for the offer. In this example, it links to `#product-details-page`.
+    *   **Active State:** Pressing the button makes it appear to move down slightly, confirming the click.
+3.  **Text Selection:** Users can select and copy text elements like the product name or description if they wish to share or save the information.
+4.  **Image Viewing:** Users can view the product image. While not interactive (e.g., zoomable or part of a carousel) in this specific implementation, it serves as a strong visual cue.
+5.  **No Dismissal (by design):** The widget, as currently designed, does not have a close ('X') button. It remains persistently visible to continually promote the featured item, aiming to maximize its impact on conversion rates and user engagement with the offer.
+-->

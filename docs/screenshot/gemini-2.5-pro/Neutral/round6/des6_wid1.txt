@@ -1,0 +1,18 @@
+1. **Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The widget is a vertical card, 350px wide, with a clean and modern aesthetic. It's positioned at the top center of the screen. The layout is hierarchical: a large product image sits atop the text content. Below the image, the text is organized with a subtle, grey, uppercase category name ("Aura Audio"), a large, bold product title, and a descriptive paragraph. The pricing section uses color and size to create emphasis: a large, green current price highlights the value, a smaller, grey, strikethrough price provides context, and a bold red badge communicates the discount urgency. The design concludes with a prominent, vibrant blue "Add to Cart" button.
+
+These choices follow established e-commerce design patterns. The vertical layout is scannable and mobile-friendly. The visual hierarchy guides the user's eye from the product's appearance to its name, benefits, price, and finally to the primary call-to-action, optimizing the path to conversion. The color palette is chosen to elicit specific psychological responses: blue for trust, green for value, and red for urgency.
+
+2. **What triggers the appearance of this widget?**
+
+This widget is designed to appear in response to a specific user action or a targeted promotional event, rather than appearing to all users universally. A common trigger would be a user clicking on a promotional banner, such as a "Deal of the Day" or "Featured Product" link from the homepage or an email campaign. Alternatively, it could be triggered by behavior, such as appearing as a "special offer" after a user has viewed the product page multiple times without purchasing, or as a recommended upgrade when a user adds a lower-tier product to their cart. This targeted approach ensures the widget is relevant and appears at a moment of high user interest, making it feel helpful rather than intrusive.
+
+3. **Can you describe the full range of interactions users can have with the widget?**
+
+User interactions are focused and straightforward to guide them towards a purchase.
+The primary interaction is clicking the "Add to Cart" button. This is the main call-to-action and would add the item to the user's shopping cart, likely providing visual feedback like the button text changing to "Added!" or a brief animation.
+
+Secondary interactions include hovering over the button, which changes its color to signal its clickability. Implicitly, users can visually inspect the product image and read the name, description, and pricing details to make an informed decision. While not included in this static example, a real-world implementation would also feature a close icon (an 'X' in the corner), allowing the user to dismiss the widget if they are not interested, which is a crucial interaction for maintaining a positive user experience.
+-->
+</body>

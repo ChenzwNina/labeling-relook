@@ -1,0 +1,7 @@
+4.1 Question 1: The widget features a crisp, modern look using white and warm gold (#ff9800) to signal trust and positivity. Large, legible numbers (for average rating) and interactive buttons (bright gold "Write a Review" rounded button) are visually prominent. Bar graphs for star breakdown use gold gradients. Profile/image/featured review is lightly boxed with a gold accent for trust. The balance between whitespace, moderate font sizes, and clear icons create a friendly and inviting component to maximize engagement and conversion.
+
+4.2 Question 2: This widget appears at the top of the product detail or main ratings page, 20px from the viewport’s top, immediately as the page loads, so all users instantly see authentic social proof without scrolling. This placement encourages engagement, reviews, and product purchase.
+
+4.3 Question 3: Users can: (1) Hover/click the "Write a Review" button to initiate a review submission flow, (2) View average rating and rating distribution, (3) See a featured review, (4) Click "Helpful" or "Report" under the review, (5) Click "View all reviews →" to explore more reviews. All these actions drive interaction, sharing, and sales.
+
+-->

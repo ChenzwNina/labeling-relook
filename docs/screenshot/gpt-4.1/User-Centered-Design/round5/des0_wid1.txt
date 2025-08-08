@@ -1,0 +1,6 @@
+Question 1: The widget uses a white, rounded container with soft shadow and a 20px top margin, mimicking modern e-commerce hero components. It features a large "Featured Products" heading, a 'See all' link, and a horizontally scrollable row of product cards. Each card uses off-white backgrounds, rounded edges, product images, clear names and prices, bold orange accents for current price, muted grays for old prices, and highly visible "Add to Cart" buttons that provide clear, animated feedback. Disabled buttons for out-of-stock products maintain clear constraints.
+
+  Question 2: The widget appears automatically at the top of the homepage or a main category page, immediately after page load, to highlight promoted items. This gives users instant visibility of top deals or new arrivals, maximizing attention to these products.
+
+  Question 3: Users can scroll horizontally through featured products, view product info (image/name/price), and add available products to their cart by clicking the "Add to Cart" button, which provides visual and text feedback. Out-of-stock products cannot be added (disabled button). The 'See all' link leads to the full collection. Product cards are focusable for accessibility.
+  -->

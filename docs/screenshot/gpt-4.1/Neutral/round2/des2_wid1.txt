@@ -1,0 +1,7 @@
+3.1 Question 1: The widget appears as a horizontal navigation bar centered at the top of the viewport, 20px from the top. It uses a clean white background with subtle box-shadow and rounded corners. Each category is represented by a small square image icon next to bold, dark-blue category labels. The active or hovered category has a dark-blue (#22314a) background with white text for strong visual feedback. Spacing and padding are ample for clickable comfort and clarity. The design is inspired by modern e-commerce sites prioritizing clarity, ease of navigation, and visual appeal.
+
+  3.2 Question 2: This category navigation widget is designed to appear at the top of every page (homepage, listing, or search) in the e-commerce website, making it always accessible as a persistent element for browsing product categories.
+
+  3.3 Question 3: Users can scroll horizontally (on small screens), click on any category to navigate to its respective product listing, and visually see which category is active based on the highlighted state. Hovering over items provides immediate feedback. The navigation is keyboard-accessible and the "All Products" category is active by default.
+  -->
+</body>

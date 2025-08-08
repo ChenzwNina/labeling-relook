@@ -1,0 +1,6 @@
+Question 1: The deals banner spans the full width of the page with a vibrant gradient background transitioning from coral (#ff6f61) to orange (#ff8e53) for high visibility. The text is large (1.5rem) and bold, centered for focus, while the "Shop Now" button is white with coral text for contrast, sized at 1rem for readability. The close button is subtly placed on the right for easy dismissal. These choices ensure urgency and clarity, aligning with e-commerce goals of driving sales through eye-catching design and clear calls-to-action.
+
+Question 2: The banner appears automatically at the top of the page (20px margin) upon loading, targeting all users to promote current deals. It could also be triggered by specific events like a timed promotion or user login, managed via JavaScript logic on the backend to ensure relevance.
+
+Question 3: Users can interact with the banner by clicking the "Shop Now" button, which provides visual feedback via hover scaling and color change, directing them to the deals page. They can also dismiss the banner using the close button, which fades out the component, ensuring control over their browsing experience.
+***** -->

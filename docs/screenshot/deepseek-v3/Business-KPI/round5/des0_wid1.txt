@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a light gray background and white product cards. Product images are 200px tall with consistent aspect ratios. Cards have subtle shadows and lift on hover for interactivity. Blue is used for prices and buttons to draw attention to key actions. The responsive grid ensures good display on all devices. These choices create visual hierarchy, emphasize products, and maintain usability.
+
+    Question 2: This widget appears on the homepage or category pages as a default section. It could also appear after user actions like browsing certain categories or based on personalized recommendations. The "Featured Products" title indicates its purpose to highlight special or popular items.
+
+    Question 3: Users can: 1) Hover over cards to see lift effect, 2) Click product images/names to view details, 3) Click "Add to Cart" buttons, 4) Click "View All" to see more products. Each interaction provides visual feedback. The design encourages exploration of featured items while making key actions immediately accessible.
+    -->
+</body>

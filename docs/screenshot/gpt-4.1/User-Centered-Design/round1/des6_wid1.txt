@@ -1,0 +1,10 @@
+Question 1:
+  The product item component is centered with rounded, soft white background and a subtle shadow for separation. The 160x160 image sits at the top, followed by the product name (bold, 1.3rem), a one-line description (lighter gray), and a rating (gold stars with review count) plus green "In stock". Primary color blue is used for the price and action buttons, with feedback appearing beneath. Buttons have color and affordance changes on hover/activated, and disabled states are gray. This high-contrast, padding-rich design focuses attention and provides clarity, visibility, and a sense of reliability—replicating real e-commerce UI standards.
+
+  Question 2:
+  The widget appears statically at the top of the viewport on page load, with a 20px top margin, as a visible product listing. It's designed to be integrated wherever individual product details or search result lists require a single product to be displayed.
+
+  Question 3:
+  Users can: 1) Click "Add to Cart" to add the item, triggering visual feedback and temporary disabling to prevent repeats; 2) Click the Wishlist button to add/remove it from their wishlist, with color/heart icon feedback; 3) See dynamic instant feedback for their actions; 4) Buttons visually respond to permitted actions and follow usability best practices, ensuring constraints and clear affordance are maintained at every step.
+  -->
+</body>

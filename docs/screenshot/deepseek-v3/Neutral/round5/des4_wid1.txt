@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, card-based grid layout with white backgrounds, subtle shadows, and green action buttons. Product cards are 250px wide with consistent 200px tall images. I chose this design for readability, visual hierarchy (price stands out), and mobile responsiveness. The color scheme (white, green, blue) conveys trust and action.
+
+    Question 2: This widget appears when users visit the products page or search for items. It's the primary content display for browsing products, loading automatically as the page's main component.
+
+    Question 3: Users can: 1) Browse products in a responsive grid, 2) Hover over cards for slight elevation effect, 3) Click "Add to Cart" buttons to purchase, 4) View product images and details. The layout adapts to different screen sizes for optimal viewing.
+    -->

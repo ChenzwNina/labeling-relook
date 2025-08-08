@@ -1,0 +1,5 @@
+Question 1: The widget displays products in a responsive grid of cards (white background with subtle shadow) that lift slightly on hover. Each card contains an image (200px height), product title (16px), price (18px, blue), and a green "Add to Cart" button. The clean design with ample white space ensures readability while the hover effect and button color provide visual feedback. The layout adapts to screen size for optimal viewing on all devices.
+
+    Question 2: This widget would typically appear when a user visits a product category page or the homepage of the e-commerce site. It could also appear as search results or recommended products based on user browsing history.
+
+    Question 3: Users can: 1) View product images and details, 2) Click "Add to Cart" to purchase, 3) Hover over cards to see elevation effect (visual feedback), and 4) Scroll through the grid if there are many products. The responsive layout allows interaction across all device sizes.

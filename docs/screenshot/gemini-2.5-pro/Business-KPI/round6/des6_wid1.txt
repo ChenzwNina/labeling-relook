@@ -1,0 +1,20 @@
+Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The component is a 340px wide, white rectangular card with rounded corners and a subtle shadow, making it float above the page. The layout is vertical: a product image at the top, followed by product information. 
+        - **Colors:** A strategic palette is used to guide the user's eye and drive action. The "Add to Cart" button is a bright, trustworthy blue, making it the most prominent element. The sale price is a positive green, and the "15% OFF" badge is an urgent red to draw attention to the deal. Star ratings are a familiar gold. This color-coding maximizes conversion by making value (sale price) and action (CTA) stand out.
+        - **Sizing & Layout:** A clear visual hierarchy is established with typography. The product title is the largest text in the info block, followed by the sale price, making the product and its value proposition immediately clear. The vertical layout is easy to scan on any device. Generous padding creates a clean, premium feel, increasing perceived value and user trust.
+        
+        *****Response*****
+        Question 4.2: What triggers the appearance of this widget?
+
+        Given its fixed position at the top of the viewport, this component is best triggered by user behavior to maximize relevance and conversion without being intrusive. A highly effective trigger would be when a user has scrolled past a certain product on a category page. For example, after the user scrolls 200 pixels past the original position of the "Aura Smartwatch," this component would appear and stick to the top of the viewport. This keeps a product the user showed interest in (by scrolling to it) visible and actionable, significantly reducing the chance of them forgetting it as they browse further down the page. This 'sticky' behavior serves as a persistent reminder, minimizing bounce rate and keeping the path to purchase open.
+
+        *****Response*****
+        Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+        The widget is designed for a full range of conversion-focused interactions:
+        1.  **Primary Action (Conversion):** The most critical interaction is clicking the large, blue "Add to Cart" button. This immediately moves the user down the purchase funnel. Ideally, this would trigger visual feedback, like the button text changing to "Added!" and an update to a mini-cart icon elsewhere on the page.
+        2.  **Secondary Action (Consideration):** Users can click the product image or title. This would navigate them to the full Product Detail Page (PDP), allowing them to see more images, read detailed specifications, and explore options. This caters to users who need more information before committing.
+        3.  **Tertiary Action (Retention):** Clicking the heart-shaped "Wishlist" icon allows users to save the item for later. The icon fills with red, providing clear visual feedback. This is a crucial interaction for capturing interest from users who aren't ready to buy immediately, increasing the likelihood of a return visit and future purchase.
+    -->
+</body>

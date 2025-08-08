@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a dark blue header (#2c3e50) and white background. Items are displayed in a scrollable list with clear product images, names, prices, and quantity controls. The total and checkout button are prominently displayed at the bottom. I chose these colors for good contrast and readability, with the red checkout button drawing attention to the primary action. The fixed position ensures visibility without disrupting browsing.
+
+    Question 2: The widget appears when users click the shopping cart icon (red circular button with a cart symbol) positioned in the top-right corner of the screen. It can be dismissed by clicking the '×' button in the header or by clicking the cart icon again.
+
+    Question 3: Users can: 1) View all cart items with details, 2) Adjust quantities with +/- buttons, 3) Remove items entirely, 4) See the running total, and 5) Proceed to checkout. The widget updates dynamically as changes are made, providing immediate feedback on the cart contents and total cost.
+    -->

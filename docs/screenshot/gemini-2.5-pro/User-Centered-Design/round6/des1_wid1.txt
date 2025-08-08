@@ -1,0 +1,21 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The deal banner is a sleek, rounded rectangle with a vibrant blue gradient background that immediately catches the eye. It is positioned horizontally at the top of the viewport. The layout is a centered flexbox design: a festive "🎉" icon on the left, followed by bold white text announcing the "Mid-Season Sale" and offer details, and finally, a prominent "Shop Now" call-to-action button. The button is white with blue text, creating a strong contrast that clearly affords clicking. A subtle "X" icon for closing is positioned on the far right.
+
+These choices were made for clarity and impact. The gradient background provides high visibility against typical site content. The spacious padding and clear, sans-serif font ('Poppins') ensure readability. The layout logically guides the user from the announcement to the action, supporting efficient task execution. The overall friendly and modern aesthetic aims to create a helpful and satisfying user experience, encouraging engagement without being intrusive.
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is triggered automatically upon a page load. It is a proactive component designed to immediately inform all visitors about a current, high-value promotion as soon as they arrive on key pages like the homepage, category pages, or product pages. The banner animates into view by sliding down from the top, a gentle motion that draws attention without being jarring. This ensures that the promotion has high visibility and that no user misses the opportunity, which is crucial for maximizing the effectiveness of a site-wide sale or offer.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three primary interactions with the banner, all designed for clarity and efficiency:
+
+1.  **Engage with the Offer:** The user can click the "Shop Now" button. This is the primary call-to-action. Hovering over the button provides visual feedback by making it slightly lift and change background color, confirming it's interactive. Clicking it would navigate the user directly to the sale or category page related to the promotion.
+
+2.  **Dismiss the Banner:** The user can click the "X" button on the right. Hovering over it increases its opacity and scale, indicating its function. A single click triggers a smooth animation that slides the banner up and out of view, giving the user control over their interface and providing satisfying feedback.
+
+3.  **Ignore the Banner:** The user can choose to do nothing. Since the banner is fixed, it will remain visible at the top of the screen as they scroll down the page, serving as a persistent but unobtrusive reminder of the ongoing deal.
+*****Response*****-->
+</body>

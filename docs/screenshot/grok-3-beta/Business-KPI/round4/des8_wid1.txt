@@ -1,0 +1,7 @@
+-->
+    <!-- Question 4.1: The shopping cart widget is a fixed-position panel at the top-right corner with a clean white background, subtle shadow for depth, and rounded corners for a modern look. It uses a compact width of 350px and a scrollable height up to 500px to accommodate multiple items. The color scheme includes a bold orange (#e44d26) for price and checkout button to draw attention and encourage action, paired with neutral grays and blacks for text. Items are displayed in a list with images (60x60px) for visual appeal. These choices maximize conversion by making the cart accessible, visually engaging, and action-oriented. -->
+
+    <!-- Question 4.2: The widget appears when a user adds an item to the cart or hovers over/clicks a cart icon typically placed in the header of the website. It can also be triggered on page load if items are already in the cart, ensuring users are reminded of their selections to reduce abandonment. -->
+
+    <!-- Question 4.3: Users can view cart contents, scroll through items if the list exceeds the height, and click the "Proceed to Checkout" button to complete their purchase. They can interact with individual items by potentially clicking to view details or remove them (though not implemented in this static version). Hover effects on the checkout button provide feedback, encouraging clicks to finalize orders. -->
+</body>

@@ -1,0 +1,11 @@
+Question 1:
+The banner is a fixed component at the top of the page with a 20-pixel margin. It has a warm orange gradient background, large white text for urgency, rounded corners, and a drop shadow for modern aesthetics. The left features a 54x54px deal image with a soft border, followed by the promo text (bold title and smaller description). To the right, there’s a bold orange-and-white “Shop Deals” button and an “×” close button in the top-right. On small screens, spacing shrinks for mobile comfort. These choices ensure visual prominence, brand vibrancy, and high click-through.
+
+Question 2:
+The banner appears automatically when a user visits the homepage or relevant shopping pages during an active deals campaign (e.g., flash sale or holiday). It is present from the first page load to capture attention immediately.
+
+Question 3:
+Users can: (a) Click “Shop Deals” to view all active promotions (redirects to /deals), (b) close the banner with the “×” button (hides banner), and (c) click anywhere on the button (not elsewhere) for interaction. The component is fully accessible, and adapts layout responsively.
+
+-->
+</body>

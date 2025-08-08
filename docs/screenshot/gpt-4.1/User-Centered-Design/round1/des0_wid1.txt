@@ -1,0 +1,9 @@
+Question 1:
+This featured products widget is wide (up to 1080px, responsive), with a clean white background and subtle shadows and rounded corners. Each product shows its image (120x120px), a bold name, price in dark blue, gold four/five star ratings with review count, and a green "Add to Cart" button. Buttons turn lighter/darker on hover/active for feedback. The header has a bold large title and a blue "See All" button on the right. Feedback is shown when a product is added to cart. These choices ensure functions are visible, actions are clear, and visual hierarchy aids scanning.
+
+Question 2:
+The widget is permanently displayed at the top of the page with a 20px top margin. It appears on every visit to the ecommerce homepage or any page where featured products should be highlighted. It does not require user action to appear.
+
+Question 3:
+Users can view top featured products, click "Add to Cart" (button disables briefly and shows feedback), and click "See All" to navigate to a dedicated featured products section. Buttons are disabled during loading/feedback as a constraint. Every interactive element gives visual and state feedback, supporting efficiency and clarity.
+-->

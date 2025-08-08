@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and blue accents (#4285f4). It has a max-width of 800px to prevent it from being too wide on large screens. The search input is prominent with a large text field and blue search button. Filter options use pill-shaped buttons for a modern look. I chose these colors for good contrast and accessibility, with blue as a primary action color that users associate with clickable elements. The layout is organized hierarchically with clear sections for search, filters, and recent searches.
+
+    Question 2: This search widget would typically appear when a user clicks on the search icon in the website's header navigation. It could also be triggered by keyboard shortcuts (like Ctrl+F) or automatically when landing on a search results page. The widget includes a close button (×) to dismiss it when not needed.
+
+    Question 3: Users can: (1) Type search queries in the input field and submit them, (2) Filter results by categories or price ranges by clicking the pill buttons, (3) Access recent searches by clicking on them, (4) Close the panel using the × button. The active filter buttons change color to indicate selection, and all interactive elements have hover states for better feedback.
+    -->
+</body>

@@ -1,0 +1,23 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The shopping cart widget is a clean, modern pop-over panel positioned at the top-right of the screen. It has a white background (#ffffff) with a subtle shadow to make it stand out. Text is a highly readable dark grey (#333) or black (#111). The layout is divided into three sections: a header with the title "Your Bag" and a close button; a main scrollable list of products; and a footer containing the subtotal and a prominent, solid black "Proceed to Checkout" button. Each product listing features a 70x70 pixel image, product name, and attributes, followed by a quantity selector and a "Remove" link.
+
+    These design choices are intentional. The clean, high-contrast color scheme ensures clarity and focuses the user on the content. The fixed position and pop-over style provide persistent access without navigating away from the current page. The prominent, full-width checkout button serves as a strong call-to-action, guiding the user to the next step in the purchasing funnel, which is a key goal in e-commerce design.
+
+    Question 2: What triggers the appearance of this widget?
+
+    The appearance of this shopping cart widget is primarily triggered by a user action. The most common trigger is the user clicking on a shopping cart or "bag" icon, which is typically located in the website's main, persistent header. This action opens the widget as an overlay, allowing the user to review their selections without leaving their current page. 
+    
+    A secondary trigger could be an "Add to Cart" event. After a user clicks the "Add to Cart" button on a product page, the widget could automatically slide into view for a few seconds to provide immediate visual confirmation that the item has been successfully added, before automatically hiding again. This feedback mechanism improves user confidence and keeps them informed of their actions.
+
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+    
+    Users have several key interactions with this widget, designed for efficient cart management. They can:
+    1.  **Review Contents:** View a summary of all items, including their name, selected options (like color/size), image, and individual price.
+    2.  **Adjust Quantity:** Use the "+" and "-" buttons to increase or decrease the quantity of any item directly within the cart.
+    3.  **Remove Items:** Click the "Remove" link for any product to delete it from the cart.
+    4.  **Proceed to Checkout:** Click the primary "Proceed to Checkout" button to navigate to the full checkout page to enter shipping and payment details.
+    5.  **Dismiss the Widget:** Close the cart by clicking the "×" icon in the header. This allows them to hide the cart and continue shopping on the website. A well-implemented version would also allow dismissal by clicking outside the widget area.
+
+-->
+</body>

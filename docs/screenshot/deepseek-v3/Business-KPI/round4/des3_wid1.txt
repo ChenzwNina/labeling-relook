@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth. It uses blue for the primary action button (#4285f4) which is a familiar, trustworthy color in ecommerce. The input field is large (full width) with proper padding for easy interaction. Filter dropdowns are equally spaced with a simple border. The design choices prioritize usability - clear visual hierarchy, adequate spacing, and familiar UI patterns that users recognize from major ecommerce platforms.
+
+    Question 2: This search widget would typically appear when a user clicks on the search icon/magnifying glass in the website's header navigation. It could also be triggered by keyboard shortcuts (like Ctrl+K) or automatically when landing on a search results page with empty results, suggesting refinements.
+
+    Question 3: Users can: 1) Type search queries, 2) Select filters from dropdowns (category, price range, sort), 3) Click search button to submit, 4) Click recent search tags to quickly repeat searches, 5) Close the panel via the X button. The input field has autofocus when opened, and the design includes hover states for interactive elements to provide visual feedback.
+    -->

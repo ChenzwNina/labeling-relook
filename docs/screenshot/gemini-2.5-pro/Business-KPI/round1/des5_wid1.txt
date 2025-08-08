@@ -1,0 +1,50 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The filter panel is a rectangular component with rounded corners, a light box-shadow for depth, and a white background (`#FFFFFF`). It's fixed at the top of the viewport with a 20px margin, spanning most of the viewport width (95%, max 1200px) and centered.
+
+    Layout:
+    It has a header "Refine Your Results", followed by a scrollable area containing multiple filter groups (Category, Price, Brand, etc.). These groups are arranged horizontally using flexbox, wrapping if space is insufficient. Each group has a bold legend and options below. At the bottom are "Clear All" and "Apply Filters" buttons.
+
+    Colors:
+    - Panel Background: White (`#FFFFFF`) for cleanness.
+    - Text: Dark gray (`#333333`) for titles/legends, medium gray (`#555555`) for options. Item counts are lighter gray (`#777777`).
+    - Borders/Dividers: Light gray (`#E0E0E0` or `#EAEAEA`).
+    - Primary Action ("Apply Filters"): Bright blue (`#007BFF`) with white text, a common high-visibility CTA color.
+    - Secondary Action ("Clear All"): Medium gray (`#6C757D`) with white text.
+    - Interactive Elements: Checkboxes/radios use `accent-color: #007BFF`. Color swatches have distinct background colors and a blue border when selected. Size buttons turn blue with white text when selected. Star ratings are gold (`#FFB900`).
+
+    Size of Elements:
+    - Panel Padding: 20px.
+    - Fonts: Header 20px, legends 16px (bold), options 14px.
+    - Interactive Elements: Checkboxes/radios slightly scaled up. Color swatches are 24x24px. Size buttons have `8px 14px` padding. Action buttons have `10px 20px` padding.
+
+    Design Choices Rationale:
+    These choices aim to maximize usability and conversion. The clean, organized layout with clear visual hierarchy (prominent "Apply" button, distinct filter groups) helps users quickly understand and operate the filters. Standard UI patterns (checkboxes, radio buttons, clear CTAs) reduce cognitive load. The color scheme is professional, using high contrast for readability and a familiar blue for primary actions to encourage clicks. Showing item counts per filter option provides immediate feedback, helping users make informed decisions. This focus on ease of use and clarity directly supports minimizing bounce rates and maximizing sales by helping users find relevant products efficiently. The responsive nature of flexbox for filter groups also aims to provide a good experience across devices.
+
+    4.2 Question 2: What triggers the appearance of this widget?
+
+    The filter panel is designed to be persistently visible on pages where product filtering is relevant, such as product category pages, search results pages, or main shop pages. Its appearance is "triggered" by the user navigating to one of these pages. It is fixed at the top of the viewport (with a 20px top margin), meaning it's immediately available when the page loads and remains visible as the user scrolls. No specific user interaction (like clicking a button) is required to make it appear initially. This immediate and constant visibility ensures users can refine their product view at any point without extra steps, directly supporting goals like minimizing bounce rate and maximizing conversion by making product discovery as seamless as possible.
+
+    4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users can interact with the filter panel in several ways:
+
+    1.  **Selecting/Deselecting Filters:**
+        *   **Category:** Click radio buttons to choose a single product category.
+        *   **Price Range:** Click checkboxes to select one or more price brackets.
+        *   **Brand:** Click checkboxes in a scrollable list to select multiple brands.
+        *   **Color:** Click on circular color swatches (styled checkboxes) to pick desired colors. A "Patterned" swatch uses a placeholder image.
+        *   **Size:** Click on pill-shaped buttons (styled checkboxes) to select product sizes.
+        *   **Customer Rating:** Click radio buttons next to star icons/text to set a minimum customer rating.
+
+    2.  **Applying Filters:** After making selections, users click the prominent "Apply Filters" button. This action is intended to refresh the product list on the page (typically via an AJAX call or page reload) to display only items matching the chosen criteria.
+
+    3.  **Clearing Filters:**
+        *   Users can click the "Clear All" button to reset all selected filters to their default states and refresh the product list.
+        *   They can also manually deselect individual checkboxes, change radio button selections, or unclick color/size options.
+
+    4.  **Scrolling within Filter Groups:** For lists with many options (e.g., "Brand"), a dedicated scrollbar appears within that filter group, allowing users to browse all options without making the entire panel excessively long. The main filter area itself can also scroll if the total number of filter groups makes the panel too tall for the viewport.
+
+    5.  **Visual Feedback:** Selected options are visually highlighted (e.g., checkboxes are ticked, selected color swatches get a distinct border/halo, selected size buttons change color). Item counts next to filter options provide an estimate of products available for that criterion. Hover states provide additional visual cues on interactive elements.
+*****Response***** -->
+</body>

@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a light gray background (#f8f9fa) and subtle shadow for depth. Category titles use a dark blue (#2c3e50) for readability, while links are in a friendly blue (#3498db). The layout is vertical with clear visual hierarchy: main categories have 18px font, subcategories are smaller and indented. Hover effects include a light blue background (#e3f2fd) and slight right movement for better interactivity feedback. These choices prioritize usability with clear visual cues and comfortable spacing.
+
+    Question 2: This navigation widget would typically appear as a persistent sidebar component on product listing pages or the ecommerce homepage. It remains visible at all times to help users quickly navigate between categories. On mobile devices, it might be hidden behind a "Categories" menu button that triggers its appearance when clicked.
+
+    Question 3: Users can: 1) Click main categories to navigate to category pages, 2) Hover over categories to reveal nested subcategories (which appear below with animation), 3) Click subcategories to navigate, 4) See visual feedback via color changes and movement on hover, and 5) Identify their current location through the active state styling (darker blue with light background).
+    -->
+</body>

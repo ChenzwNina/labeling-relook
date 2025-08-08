@@ -1,0 +1,5 @@
+Question 1: The widget features a clean, modern design with a white container (350px wide) on a light gray background. It uses a blue color scheme (#3498db for buttons/links) which conveys trust and professionalism. Input fields have subtle borders that highlight in blue when focused. The layout is intuitive with clear labels above inputs and adequate spacing. These choices prioritize usability, accessibility, and visual appeal while maintaining brand consistency.
+
+    Question 2: This widget would typically appear when a user clicks a "Sign Up" or "Create Account" button in the website's header/navigation, or when attempting to checkout without an account. It could also appear as part of a modal overlay or dedicated account creation page.
+
+    Question 3: Users can: 1) Fill in form fields (name, email, password) with real-time validation, 2) Submit the form (triggering account creation), 3) Click the "Sign in" link to switch to login, 4) Receive feedback for errors (like invalid email format). The form prevents submission until all fields are valid, ensuring data quality.

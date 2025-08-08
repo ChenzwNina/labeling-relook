@@ -1,0 +1,7 @@
+4.1: The widget is a horizontally-centered, compact card with a white background, soft blue accents, and a subtle drop-shadow. The primary font is modern and readable. Each order stage is signified by colorful dots: completed (green), active (yellow), and upcoming (gray). Order details are visually split: identification and help link on top; product photo and details below; a horizontal step-tracker; delivery ETA; actionable buttons; and a soft-promotion at the bottom. These choices focus attention, reduce friction, and build trust, fostering sales, engagement, and minimizing abandonment.
+
+  4.2: This widget is shown at the top of the user's dashboard/order page after placing an order, or whenever the user chooses to track their order from their account or email links.
+
+  4.3: Users can: check latest order status, see delivery ETA, view product info, jump to carrier tracking, access all orders, contact support, click to see product details, and conveniently add related accessories to their order. All actions are via clearly highlighted links/buttons, maximizing engagement and reducing shopping cart abandonment.
+  -->
+</body>

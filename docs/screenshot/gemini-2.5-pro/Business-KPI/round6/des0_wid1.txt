@@ -1,0 +1,31 @@
+-->
+<!--
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component features a clean, modern aesthetic designed to build trust and drive sales. The layout is a horizontally scrolling carousel of product cards set against a light grey page background, making the white cards stand out. Each card is 280px wide, providing ample space for a large, high-quality product image (250px tall) to capture attention.
+
+The color scheme uses a soft, dark blue-black for text for optimal readability. The primary call-to-action color is a vibrant blue (#0065FF), used for the "Add to Cart" button and the price to draw the user's eye and maximize conversions (Rule 3.2). For sale items, a high-contrast red badge creates urgency, aiming to increase sales velocity (Rule 3.1).
+
+A clear visual hierarchy is established with a large main title, followed by bold product names, and smaller text for secondary info like category and ratings. Social proof is built using star ratings and review counts, which helps minimize bounce rate by quickly establishing product credibility (Rule 3.9). The overall design feels professional and engaging, encouraging users to explore the products.
+-->
+<!--
+4.2 Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is not triggered by a specific user action like a click or scroll event. Instead, it is a static component that is designed to be an integral part of a key landing page, such as the homepage or a major category page. It loads along with the rest of the page's content.
+
+Its prominent placement, positioned 20 pixels from the top of the viewport, ensures it is one of the first elements a user sees upon arrival. This strategy is intentional to immediately engage visitors with attractive, curated products, thereby minimizing the site's bounce rate (Rule 3.9). By presenting compelling options upfront, it encourages users to start their shopping journey immediately, maximizing page views and time on site (Rules 3.5, 3.6). The goal is to capture interest from the very first moment, rather than waiting for the user to discover products on their own.
+-->
+<!--
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several intuitive interaction points designed to encourage exploration and purchase.
+
+1.  **Scrolling:** Users can scroll horizontally through the product list using their mouse wheel, trackpad, or by dragging the custom-styled scrollbar. On touch devices, they can swipe left and right. This interaction is designed to maximize engagement and page views per visit by revealing more products without navigating away (Rule 3.5, 3.6).
+
+2.  **Hovering:** When a user hovers their mouse over a product card, it lifts slightly and its shadow becomes more pronounced. This subtle animation provides visual feedback, signifying that the card is a clickable element. This helps guide the user and improves usability.
+
+3.  **Navigation:** Clicking anywhere on the product card (the image, title, etc.), except for the "Add to Cart" button, will navigate the user to that product's detailed description page. This allows interested customers to learn more before buying.
+
+4.  **Add to Cart:** Clicking the prominent blue "Add to Cart" button directly adds the item to the user's shopping cart. In this demo, it triggers a confirmation alert. This provides a low-friction path to purchase, directly supporting conversion rate and sales goals (Rule 3.1, 3.2).
+-->
+</body>

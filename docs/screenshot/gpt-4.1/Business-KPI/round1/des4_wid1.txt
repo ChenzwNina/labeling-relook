@@ -1,0 +1,7 @@
+4.1: The widget features a white, softly-shadowed container with rounded corners, sitting 20px from the viewport top. A colored "Recommended for You" header lines the top, with a “See All Products” button. Above, an ad/banner increases visibility and interaction. Products are shown in a grid with ample space, each card displaying a clear product photo, title, high-impact rating, current/old price, “Add to Cart,” and a “Quick View” link. The color palette relies on white/blue, leveraging trust and impulse, while shadows and rounded edges add modernity. Large buttons and images increase click-through, boost confidence, and support sales via visible deals.
+
+  4.2: This widget appears on any main landing, recommended, or store/category page visit, serving as an immediate shopping attraction. It may be sticky to the top, or always visible upon load, triggering instantly as the user arrives—particularly when product discovery and conversion are key goals.
+
+  4.3: Users can: click on products (going to product pages), add products directly to the cart (reducing abandonment), use “Quick View” (view details without leaving current view), and click the “See All” link (boosting product discovery). The ad/banner is clickable (going to promotions or featured campaigns), supporting ad revenue and engagement. Interactions are optimized for effortless sales, user retention, and site exploration.
+  -->
+</body>

@@ -1,0 +1,10 @@
+4.1 Question 1: 
+  The widget is a floating card at the top center of the page with a 20px top margin. It uses white with soft blue/green accents (#0053a0, #00bb6f), rounded corners, and a subtle drop shadow for visibility. The main CTA button is large, gradient-colored, and prominent to drive sign-ups. Key membership benefits are displayed as a bulleted checklist for clarity. Below the sign-up form, there’s a “Sign in” link to minimize friction for returning users. An ad banner at the bottom draws attention to other offers, maximizing revenue and engagement. The layout is visually striking, professional, and easy to scan, which fosters brand trust and improves conversion.
+
+  4.2 Question 2:
+  The widget appears as soon as users land on the site’s home or landing page, especially for non-logged-in users or users without memberships. It is positioned at the top to maximize visibility without being overly intrusive, and could optionally be triggered by scrolling or upon exit-intent, but is designed primarily for immediate top-of-viewport display to catch new visitors.
+
+  4.3 Question 3:
+  Users can review the membership benefits, fill in their full name, email, and password, and click the main “Join Now” button to submit the form. There is an option to sign in if they're an existing member. At the bottom, users can click the ad banner, which directs them to a featured promotional campaign, increasing page views and cross-selling. Field validation and interactive highlights (hover/focus) make the experience smooth and inviting, supporting all major e-commerce engagement goals.
+  -->
+</body>

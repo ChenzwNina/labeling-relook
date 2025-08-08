@@ -1,0 +1,10 @@
+4.1 Question 1:
+  The widget features a white, rounded container (max width ~390px) set against a light background, with a prominent blue “Create account” button. Elements are spaced for clarity: a logo, a bold header, and supportive subtitle top the form, followed by full name, email, password fields (with strength indicator), and a clear error message area. The blue button becomes inactive when fields are invalid. Colors prioritize accessibility: #4066e0 blue for actions, clear red (#d63a3a) for errors, and green/yellow/red for password strength. These design choices support visibility, guidance, and consistency.
+
+  4.2 Question 2:
+  The widget appears at the top of the viewport, likely when a user selects “Sign Up,” “Create Account,” or navigates to a registration page. Its fixed margin (20px from top) ensures visibility and prominence, making it immediately available for customer onboarding.
+
+  4.3 Question 3:
+  Users can: fill in full name, email, and password; see password strength feedback and error messages in real-time; enable the "Create account" button only when the form is valid; submit the form, triggering simulated processing and confirmation. Accessibility cues, field constraints, and feedback ensure accurate, efficient, and satisfying interactions. Existing users may navigate to the login link.
+
+  -->

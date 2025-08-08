@@ -1,0 +1,7 @@
+4.1: The shopping cart widget is a modern, floating panel (420px wide, white rounded box, subtle blue/violet/gray palette) fixed at the top with a 20px margin. It features a bold cart title/header, a neat scrollable list of cart items—with thumbnails, descriptions, editable quantity controls, and prices. Below is a subtotal/total block and progress messaging toward rewards/discounts, vivid CTA buttons (blue for checkout, white/blue for continue shopping), and a suggested products row. Design choices include high contrast CTAs for conversion, ample whitespace for clarity, brand-consistent blue tones, and sticky/floating layout for low friction and recall.
+  
+  4.2: The widget appears when users click the cart icon or add a product. It can remain visible while users browse, minimizing friction or interruption to the shopping journey, and encouraging quick checkout or continued shopping.
+
+  4.3: Users can increase or decrease product quantities, remove items, proceed to checkout, or continue shopping. They can click "You may also like" product tiles to view or add additional items directly from the cart, boosting average order size. Users can also close the widget via the close button. Messaging encourages reaching reward thresholds, and the sticky panel allows quick, iterative updates—maximizing engagement and minimizing abandonment.
+  -->
+</body>

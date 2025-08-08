@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white card on a light gray background. It uses a blue color scheme (#3498db for buttons) which is common for trust and reliability in e-commerce. The form is centered with adequate padding (380px width), inputs have rounded borders and subtle shadows for depth. Text is legible with proper hierarchy (header larger than body text). These choices create a professional, accessible interface that guides users through the signup process clearly.
+
+    Question 2: This widget would typically appear when a user clicks a "Sign Up" or "Create Account" button in the website's header/navigation, or when attempting to checkout without an account. It could also appear as a popup/modal or as a dedicated page (/signup).
+
+    Question 3: Users can: 1) Fill in form fields (name, email, password) with real-time validation, 2) Submit the form (with error messages if invalid), 3) Click the "Sign in" link if they already have an account, 4) See inline validation errors as they type. The form prevents submission until all fields are valid.
+    -->

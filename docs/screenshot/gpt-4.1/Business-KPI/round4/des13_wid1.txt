@@ -1,0 +1,8 @@
+4.1: The widget presents a compact, modern sign-in box at the top center of the viewport, with a 20px margin from the top. The layout uses a white card with rounded corners and a subtle shadow over a pale background, boosting focus. The logo appears above a bold “Sign in to E-Shop” title. Input fields are spacious and easy to read, with blue highlights on focus, increasing trust. Key CTAs (“Sign In”, social logins, “Continue as Guest”, and “Create an account”) use contrasting shades of blue for high visibility. Social login buttons use their respective brand colors. Links are blue for recognizability. Padding, spacing, and font choices promote clarity and ease for conversion.
+
+  4.2: The widget appears whenever sign-in is needed: visiting account pages, protected checkout, or clicking “Sign In” in navigation. It can also be sticky for first-time visitors, especially if personalizing deals, thus proactively reducing abandonment and encouraging registration.
+
+  4.3: Users can enter email/password, toggle “Remember me”, recover passwords via a link, sign in with Google/Facebook, register a new account, or continue as a guest. All buttons and links respond visually to hovers/clicks. Form validation provides feedback on input. Calls-to-action drive further engagement and upsell opportunities.
+
+  -->
+</body>

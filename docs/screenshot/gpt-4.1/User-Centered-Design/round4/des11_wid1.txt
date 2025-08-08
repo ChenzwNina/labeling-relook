@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a 400px-wide, rounded, white dialog positioned at the top center with a 20px margin. It presents a bold dark blue title, a subtle description, a soft-gray membership detail box, and a visually distinct pink warning strip with icon. Two large, accessible buttons (red for "Confirm Cancellation", gray for "Keep Membership") afford interaction. Success messages appear in green after action. These choices ensure clarity, hierarchy, urgency of cancellation, and a visibly actionable interface with modern e-commerce aesthetics.
+
+  Question 2:
+  The widget appears upon user action, such as clicking "Cancel Membership" within their account management area, signaling they intend to discontinue their membership.
+
+  Question 3:
+  Users can review their current plan, renewal date, and price. They can "Keep Membership" (which redirects to the membership page) or "Confirm Cancellation". On cancellation, actionable buttons are disabled, and a clear confirmation message displays, providing assurance and final feedback. The dialog also informs about loss of benefits, constraining against accidental or uninformed actions.
+  -->
+</body>

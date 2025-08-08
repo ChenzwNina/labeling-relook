@@ -1,0 +1,32 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, modern modal window with a fixed position at the top-center of the screen. It has a white background with soft, rounded corners and a subtle box shadow, making it float above the main page content. The layout is a single, vertical column to guide the user's focus sequentially through each field, which is ideal for form completion.
+
+Colors:
+- **Primary Action Color:** A vibrant blue (`#0052cc`) is used for the "Create Account" button and key links. This high-contrast color draws the user's attention to the main goal.
+- **Text:** Dark gray (`#172b4d`) is used for primary text and headings for high readability against the white background.
+- **Neutral/Background:** White (`#ffffff`) and light gray (`#f4f5f7`) create a clean, uncluttered space.
+
+Sizes:
+- The main heading is a prominent 24px.
+- Body text and input fields use a legible 16px font size.
+- Input fields and buttons have ample padding for easy clicking on both desktop and mobile.
+
+These choices create a professional, trustworthy appearance, reduce cognitive load, and make the registration process feel simple and approachable.
+
+### Question 2: What triggers the appearance of this widget?
+
+The "Create Account" widget is typically triggered by a direct user action indicating their intent to register. The most common trigger is the user clicking on a "Sign Up," "Register," or "Create Account" button, which is usually found in the website's main header or navigation bar.
+
+Alternatively, its appearance can be triggered contextually. For instance, if a guest user attempts to perform an action that requires an account—such as saving an item to a "Wishlist," writing a product review, or proceeding to checkout without a guest option—the website would present this modal to allow them to sign up and continue their task seamlessly. This approach avoids interrupting the user's journey until it's necessary.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can perform several actions within this widget, designed for a clear and efficient experience:
+
+1.  **Data Entry:** Users can click into and type their full name, email, and password into the respective input fields. The active field is highlighted with a blue border for clear visual feedback.
+2.  **Agreeing to Terms:** The user must click the checkbox to agree to the Terms of Service and Privacy Policy. This is a crucial interaction, as the "Create Account" button remains disabled until this checkbox is ticked, enforcing a necessary constraint.
+3.  **Submitting the Form:** Once the terms are accepted, the user can click the enabled "Create Account" button to submit their details and finalize registration.
+4.  **Navigating to Sign In:** If users realize they already have an account, they can click the "Sign In" link in the footer, which would redirect them to the login form.
+5.  **Closing the Widget:** Users can cancel the process at any time by clicking the '×' icon in the top-right corner, which dismisses the modal and returns them to the previous page.
+-->

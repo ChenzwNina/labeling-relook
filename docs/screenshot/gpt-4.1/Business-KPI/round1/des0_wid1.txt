@@ -1,0 +1,8 @@
+Question 1:
+The widget is a horizontally full-width, rounded-corner white container with a subtle drop shadow, positioned 20px down from the viewport top. It features a bold section title on the left and a "View All Featured" button on the right in prominent blue. Four product cards are displayed in a grid (responsive to screen size). Each card uses a faint background, product image, bold product title, brand, pricing with discounts, star rating, and unmistakably colored action buttons for "Add to Cart" and "Wishlist". Hover effects and a “Quick View” icon enhance interactivity. At the base, a wide, attractive ad banner encourages clicks. The color and typography reinforce trust, highlight call-to-actions, and maintain brand quality, inviting user exploration and conversions.
+
+Question 2:
+The widget appears automatically at the very top of the e-commerce home page or main category pages, making featured products prominent to every new or returning visitor as soon as the page loads.
+
+Question 3:
+Users can: scroll horizontally (on mobile), click on product images/titles to view detail pages, add items to cart, add/remove from wishlist, activate a quick-view modal, and click to see all featured items. The ad banner is clickable, opening a promotional offer. Hover feedbacks, star rating overlays, and active states engage users, increasing time on site and likelihood of purchases or re-engagement.

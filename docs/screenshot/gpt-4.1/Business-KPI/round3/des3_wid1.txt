@@ -1,0 +1,12 @@
+4.1 The widget uses a clean, modern design with a white background and subtle blue accents. The search panel has a gentle box shadow and rounded corners (14px radius). Key elements (logo, category dropdown, search field, search button) are horizontally arranged and sized for touch and desktop use. The "Trending" bar uses readable blue links and clear spacing to attract attention. This visual hierarchy leads users directly to search functionality while subtly promoting trending products, thus enhancing engagement and conversions.
+
+4.2 This widget appears immediately when a user visits any page near the top of the site, both on desktop and mobile. It’s always visible at the top of the viewport with a 20px top margin, making instant product discovery and navigation possible at all times, reducing friction and bounce rate.
+
+4.3 Users can: 
+- Click/press the logo to return to the homepage (expected via convention).
+- Choose a category to refine their search.
+- Type their search query and either press 'Enter' or click 'Search' to initiate.
+- Tap/click on trending product links, instantly searching for those items.
+All elements are accessible via keyboard/tab for usability. The design encourages exploration ("trending"), facilitates product search, and supports ad/banner placement by maximizing header interaction footprint.
+
+-->

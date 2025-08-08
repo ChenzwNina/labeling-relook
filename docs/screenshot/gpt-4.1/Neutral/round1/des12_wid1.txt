@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a clean, card-styled modal positioned at the top center of the page with a white background and soft shadow. The shop logo appears at the top, followed by a bold heading and a subheading encouraging account creation. The form contains three fields—Full Name, Email Address, and Password—each with spacious padding and rounded corners. The call-to-action button uses a vibrant orange gradient to attract attention, while a subtle divider separates the email signup from the “Sign up with Google” option, which uses blue accent text. The footer prompts users with an existing account to sign in, making the experience familiar and user-centered. Choices reflect best practices in modern e-commerce UI/UX for clarity and conversion.
+
+  Question 2:
+  The widget appears when a user selects "Create Account" or "Sign Up" from the website’s main navigation header, during checkout when a non-logged-in user proceeds, or via other links that encourage new users to register.
+
+  Question 3:
+  The user can fill in the Full Name, Email, and Password fields (including form validation). They can submit the form to create a new account or choose to sign up using their Google account with one click. If they already have an account, they can navigate to the sign-in page via the link at the bottom.
+  -->
+</body>

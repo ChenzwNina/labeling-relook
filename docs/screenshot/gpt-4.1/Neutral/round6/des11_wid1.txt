@@ -1,0 +1,12 @@
+Question 1:
+  The widget displays as a white rounded card with a subtle drop-shadow, 410px wide, vertically stacked with a 32px padding and 20px from the viewport top.  
+  Main elements: a header including an image (membership logo) and title in large, bold text; a concise description; a dropdown for cancellation reason with label; two side-by-side buttons for “Cancel Membership” (bold red) and “Keep Membership” (neutral grey); and a subdued footer note with a link.  
+  Color choices (red for action, blue link, soft backgrounds) ensure urgency but clarity/approachability. Padding and layout match top e-commerce standards.
+
+  Question 2:
+  This cancel membership widget typically appears when a user navigates to manage their account/membership settings and clicks the “Cancel Membership” button, or via a dedicated "Membership" area. It may also trigger as a modal overlay or as a card near the top of the account page.
+
+  Question 3:
+  Users can: (1) select a cancellation reason from the dropdown (required for cancellation); (2) click “Cancel Membership” to submit the request; (3) click “Keep Membership” to dismiss the component/close without changes; (4) click the help link in the footer for more info. Typically, successful cancellation or action would show a confirmation or close the dialog.
+  -->
+</body>

@@ -1,0 +1,25 @@
+**4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The widget is a rectangular container fixed at the top-center of the viewport with a 20px top margin and a max-width of 680px. It has a light shadow for depth.
+**Layout:** It features a header ("Your Shopping Bag", item count), a scrollable list of cart items, a summary section (subtotal, free shipping message, order total), action buttons ("Proceed to Secure Checkout", "Continue Shopping"), and a footer with a security message. Each item row uses flexbox for image, details, quantity, total price, and a remove button.
+**Colors:** The background is white (#FFFFFF) for clarity. Text is dark grey (#333333). The primary CTA ("Checkout") is a vibrant blue (#007bff) to attract attention. The "FREE SHIPPING" promo uses green (#28a745, #e6ffed) for positive reinforcement. Borders are light grey (#EEEEEE).
+**Sizes:** Product images are 70x70px. The main title (H2) is ~22px, item names ~15px. The checkout button is prominent.
+**Design Rationale:** These choices aim to maximize sales and conversions (Rules 3.1, 3.2) through a clear, trustworthy, and easy-to-navigate interface. The prominent CTA, clear pricing, free shipping visual, and security reassurances minimize cart abandonment (Rule 3.8). The "Continue Shopping" link supports increasing AOV (Rule 3.3).
+
+**4.2 Question 2: What triggers the appearance of this widget?**
+
+This widget appears and becomes populated as soon as the first item is added to the user's shopping cart. It is designed to be persistently visible at the top of the viewport (with its 20px top margin and fixed positioning) on most e-commerce pages such as the homepage, product detail pages, and category listing pages. It would likely remain visible as long as there are items in the cart. If the cart becomes empty (e.g., all items are removed), the widget might hide or transform to display an "Your cart is empty" message, depending on the website's overall user experience strategy for an empty cart state. This persistent visibility keeps the user aware of their cart status, aiming to reduce abandonment (Rule 3.8).
+
+**4.3 Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users can perform several key interactions:
+1.  **View Cart Contents:** See product images, names, attributes (if any), unit prices, quantities, and line item totals for each product.
+2.  **Review Order Summary:** Clearly view the subtotal, shipping information (e.g., "FREE"), any promotional messages like "You've unlocked FREE SHIPPING!", and the final order total.
+3.  **Remove Items:** Click an '×' button next to any item to remove it directly from the cart. This facilitates easy corrections and order adjustments, reducing friction (Rule 3.8).
+4.  **Proceed to Checkout:** Click the prominent "Proceed to Secure Checkout" button to navigate to the full checkout process, which is the primary conversion action (Rules 3.1, 3.2).
+5.  **Continue Shopping:** Click the "Continue Shopping" link to easily return to browsing products, potentially increasing average order value and time on site (Rules 3.3, 3.5).
+6.  **Acknowledge Trust Signals:** View the "Transactions are secure and encrypted" message with a lock icon, reinforcing security and trust (Rule 3.2).
+These interactions ensure the cart is informative, easy to manage, and effectively funnels users towards completing their purchase.
+*****Response*****
+-->
+</body>

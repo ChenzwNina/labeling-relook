@@ -1,0 +1,7 @@
+4.1) The widget is a prominent, fixed panel near the top center of the viewport (20px from the top), max 400px wide with a clean white background and rounded corners for trust and clarity. It uses modern typography with clear sectioning: bold headline, supportive copy, a gray benefits box with icons, a highlighted yellow special offer (to reduce abandonment), and two large, contrastive buttons ("Cancel" in strong red, "Keep" in green-outline) with a live support link below for reassurance. The design attracts attention, surfaces value, addresses objections (benefits + offer), and reduces friction with large, accessible UI. These styles ensure high conversion, low cart abandonment, and encourage interaction.
+
+    4.2) This widget is triggered when a logged-in user navigates to their account settings or the membership management section and clicks "Cancel Membership" or a similar action. It can also appear as a confirmation modal before finalizing cancellation. The purpose is to intercept at the moment of possible loss and re-engage users, surfacing benefits and a retention offer.
+
+    4.3) Users can: (a) Confirm membership cancellation (triggers a visible thank-you and logs the action); (b) Choose to keep the membership (triggers a thank-you and may display more offers or close widget); (c) Click live support to get real-time help, which can retract the widget or open a chat window. Interactivity is optimized to reduce friction, convert potential cancellations into retained users, and offer live human assistance at a crucial point.
+    -->
+</body>

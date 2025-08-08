@@ -1,0 +1,26 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The deals banner is a sleek, rectangular component that floats 20 pixels from the top, left, and right edges of the viewport. It features a vibrant purple gradient background, which is energetic and attention-grabbing. The text is white for maximum contrast and readability. 
+
+    The layout is organized horizontally. On the left, a bold "Flash Sale!" message is paired with a countdown timer set in a semi-transparent capsule to create urgency. In the center-right, a prominent white call-to-action button with purple text invites users to "Shop Deals". On the far right, a subtle '×' allows for dismissal. Elements are sized for clarity, with the main text at 1.1rem and the CTA button being visually distinct.
+
+    These choices are deliberate: the fixed position and bright colors ensure visibility without being overly disruptive. The countdown timer is a proven marketing tactic to encourage immediate action. The clear CTA and easy-to-find close button respect user agency, balancing marketing goals with a positive user experience.
+    
+    ## Question 2: What triggers the appearance of this widget?
+    
+    The primary trigger for this banner's appearance is the initial loading of a key page on the e-commerce website, such as the homepage, a category page, or a specific campaign landing page. It is designed to appear immediately as the page renders to ensure every visitor is aware of the ongoing promotion from the moment they arrive.
+
+    In a real-world scenario, its appearance would be managed to enhance user experience. For instance, it might be triggered only once per user session using session storage. Alternatively, a cookie could be set upon dismissal, preventing the banner from reappearing for a set duration (e.g., 24 hours), thus avoiding annoyance for users who have already seen and acknowledged it. For first-time visitors, it could be a key part of their initial welcome experience on the site.
+
+    ## Question 3: Can you describe the full range of interactions users can have with the widget?
+    
+    Users have three main interactions with the deals banner:
+
+    1.  **Clicking the Call-to-Action (CTA):** The primary interaction is clicking the "Shop Deals" button. This action navigates the user directly to a curated page displaying all products included in the flash sale, fulfilling the banner's main purpose of driving traffic to promotional items and increasing sales.
+
+    2.  **Dismissing the Banner:** Users who are not interested can click the '×' button on the far right. This action immediately removes the banner from their view for the current session, providing an unobtrusive browsing experience. This respects user choice and prevents the promotion from becoming a persistent annoyance.
+
+    3.  **Hovering for Visual Feedback:** Users can hover their mouse over the "Shop Deals" button and the '×' close button. This provides subtle visual feedback—the CTA button lifts slightly with a soft shadow, and the close button increases in opacity and scale. This feedback confirms the elements are interactive and enhances the overall user experience by making the interface feel responsive.
+    
+    -->
+</body>

@@ -1,0 +1,9 @@
+Question 1: 
+The widget appears as a centered, rounded white container with a soft drop-shadow, positioned at the top of the viewport with a 20-pixel margin. It features a prominent header and displays products in a responsive grid. Each tile uses a light-gray card with padding, an image, bold product title, concise description, green price, and a gradient green "Add to Cart" button. These choices echo widespread e-commerce UI patterns, offering clarity, inviting visuals, and strong visual separation for interactivity and accessibility.
+
+Question 2: 
+This widget is intended to appear automatically at the top of the e-commerce website's homepage or a product listing section, without any specific user action required—it’s a default, “featured products” view.
+
+Question 3:
+Users can view product images, titles, descriptions, and prices in the grid. Each product card and "Add to Cart" button responds to hovering (visual effect). Clicking "Add to Cart" is the primary interaction, used to add the item to a shopping cart (backend logic needed). Clicking anywhere on the card hints at further navigation (e.g., detailed product page), though actual routing must be handled via JavaScript or link wrapping.
+-->

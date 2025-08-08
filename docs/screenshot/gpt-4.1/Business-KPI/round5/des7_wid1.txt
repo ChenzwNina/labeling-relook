@@ -1,0 +1,8 @@
+4.1. The widget uses a crisp white background with blue accent buttons (#1e70cf) and golden star ratings (#f59e42), offering excellent contrast and brand trust. Average ratings are bold and large to draw attention, and the stars are vibrant for quick recognition. The breakdown bars use warm gradients for high scores and are sized relative to counts, supporting quick scanning. Compact, rounded cards and clear sectioning ensure mobile friendliness and encourage engagement.
+
+  4.2. This widget appears at the top of the product detail or category page by default. It remains present as part of the standard e-commerce UI to provide immediate trust and social proof, crucial for conversion.
+
+  4.3. Users can view the average rating, see a detailed breakdown, click to see all customer reviews, and click a call-to-action to write their own review. The breakdown bars can be visually interpreted at a glance, aiding in purchase decisions. On mobile, the layout stacks for easy readability. "Write a Review" and "See all" are primary interactive elements to increase user participation and page engagement.
+
+  -->
+</body>

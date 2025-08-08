@@ -1,0 +1,24 @@
+Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a banner fixed at the top of the viewport, 20px from the top edge, spanning 90% of the viewport width (max 1200px) and centered.
+Colors: The banner background is a light, clean off-white (`#f9f9f9`), with individual product cards in pure white (`#ffffff`) for clear separation. The main headline is dark grey (`#333`). Product names are a dark blue (`#2c3e50`), and prices are a prominent red (`#e74c3c`) to signify value, especially with an optional strikethrough original price in lighter grey. Call-to-action (CTA) buttons use a vibrant primary blue (`#007bff`), turning darker on hover. These color choices aim for a modern, trustworthy aesthetic, using contrast to draw attention to key elements like prices and CTAs, supporting conversion (Rule 3.1, 3.2).
+Sizes: The main headline "Today's Top Picks For You!" is large (`26px`) for immediate impact. Product images are substantial (`200px` height) for visual appeal. Product names (`18px`) and prices (`20px`) are clearly legible. CTA buttons are generously padded for easy clicking.
+Layout: A main header contains the title and a close button. Below this, product cards are arranged in a horizontal scrollable carousel (`display: flex`, `overflow-x: auto`), allowing users to browse multiple items without overwhelming the page. Each product card vertically stacks its image, name, a short tagline, price, and CTA. This layout promotes discoverability (Rule 3.5, 3.6) and a clear path to product details. Subtle shadows and hover effects (card lift, button color change) provide visual feedback and a premium feel.
+
+*****Response*****
+Question 4.2: What triggers the appearance of this widget?
+
+This "Featured Products" widget is designed to appear automatically and immediately as soon as a key strategic page loads. This typically includes the website's homepage, main category landing pages, or potentially after a significant user milestone like a new sign-up (though less common for general featured products). Its fixed position at the top, 20px from the viewport top, ensures it's highly visible upon page entry. The rationale is to capture the user's attention early with attractive, curated product offerings, aiming to reduce bounce rate by providing immediate value and guiding their browsing journey towards potential purchases, thus supporting unique visitor engagement and potentially repeat visits if consistently valuable (Rule 3.7, 3.9). It doesn't require a prior user click or specific action to appear; it's part of the initial content presentation strategy.
+
+*****Response*****
+Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the widget in several ways:
+1.  **Viewing:** Passively view the curated list of featured products, including their images, names, taglines, and prices.
+2.  **Horizontal Scrolling:** If more products are featured than fit the visible width of the carousel, users can horizontally scroll (e.g., using a mouse wheel, trackpad swipe, or dragging the scrollbar if visible) to discover additional items. This encourages exploration and engagement (Rule 3.5, 3.6).
+3.  **Hovering for Feedback:**
+    *   Hovering over a product card causes it to slightly lift and its shadow to become more pronounced, providing visual feedback of interactivity.
+    *   Hovering over a Call-to-Action (CTA) button changes its background color and may apply a slight scale effect, indicating it's a clickable element.
+4.  **Clicking CTAs/Products:** Users can click on the CTA button (e.g., "Discover Drone," "Shop Mixer") associated with each product. This action would typically navigate them to the respective product's detail page, moving them further into the conversion funnel (Rule 3.2, 3.1). Product images or names could also be made clickable to achieve the same.
+5.  **Closing the Banner:** Users can click the "×" (close) button located at the top-right of the banner. This will hide the banner from view, allowing users to dismiss it if they are not interested or find it obstructive, which helps minimize potential frustration and reduce bounce rate (Rule 3.9).
+-->

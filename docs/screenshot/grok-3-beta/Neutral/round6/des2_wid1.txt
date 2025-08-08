@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background (#ffffff) and subtle shadow for depth. Categories are displayed in a horizontal list, centered within a 1200px container for optimal readability. Text is dark gray (#333333) for contrast, turning coral (#ff6f61) on hover with an animated underline effect for interactivity. Font size (16px) and spacing (30px gaps) ensure clarity. These choices mimic e-commerce sites like Amazon, prioritizing usability and visual hierarchy.
+
+Question 2: This widget appears statically at the top of the page (20px margin) as a fixed navigation bar, visible on page load across all pages of the e-commerce site. It remains persistent while scrolling, ensuring easy access to product categories at any time.
+
+Question 3: Users can interact with the widget by hovering over category links, triggering a color change and underline animation for visual feedback. Clicking a link navigates to the respective category page (placeholders like #electronics used here). The fixed positioning allows constant access without scrolling, enhancing user experience and site navigation.
+-->

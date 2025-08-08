@@ -1,0 +1,5 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background for product cards, a vibrant orange (#e44d26) for prices and buttons to draw attention, and a subtle shadow for depth. The grid layout adapts to screen size, ensuring accessibility. Product images are large (200px height) for visibility, with hover effects (lift and shadow) to encourage interaction. These choices maximize sales and conversion by focusing on visual appeal and ease of navigation. -->
+    <!-- Question 2: The widget appears on the homepage or category pages of the e-commerce site as a default component. It may also load dynamically based on user search queries or personalized recommendations to increase relevance and engagement. -->
+    <!-- Question 3: Users can hover over product cards for a visual cue, click product images or names to view detailed pages, and click "Add to Cart" buttons to initiate purchases. These interactions are designed to reduce cart abandonment and bounce rates by providing clear, actionable steps while encouraging deeper site exploration. -->
+</body>

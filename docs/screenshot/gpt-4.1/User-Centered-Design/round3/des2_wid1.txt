@@ -1,0 +1,10 @@
+Question 1:
+The widget appears as a fixed, horizontally oriented navigation bar at the top of the page, 20px from the top, spanning the viewport's width but centered and with rounded corners plus a subtle drop shadow for elevation. The background is white, with blue (#2455ee) accent colors for active or selected states, and soft blue backgrounds on hover/focus. Icons (placeholder_image.jpg) and bold, readable font sizes (18px desktop, 15px mobile) ensure clear function visibility. This consistent, approachable palette is both familiar and visually accessible, using prominent affordances, clear selected/active feedback, and modern e-commerce visual conventions.
+
+Question 2:
+This navigation bar is a persistent UI element visible upon loading or navigating to any primary screen of the e-commerce website, especially on category or search/browse pages. It is not triggered by a user action but is always present to support quick access to categories.
+
+Question 3:
+Users can: click/tap category links to navigate to respective product sections; immediately see which category they are on (disabled, colored); hover, focus, or tap categories for interactive feedback; use the "View All" button to go to a full category listing. Keyboard navigation is fully supported. Users cannot click the current category (it's disabled) or perform unavailable actions; feedback is clear for all interactive controls. The design prevents impermissible actions and ensures efficient, intuitive navigation.
+
+-->

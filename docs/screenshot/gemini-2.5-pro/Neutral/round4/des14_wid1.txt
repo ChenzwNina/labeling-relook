@@ -1,0 +1,15 @@
+1. **Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The widget is a clean, rectangular card with rounded corners and a soft shadow, making it float above the main page content. It's centered horizontally and fixed 20px from the top. The color scheme is professional and reassuring: a neutral white background, dark gray text for high contrast, and a vibrant green (#10b981) as an accent. This green is used for the progress bar and "Estimated Delivery" date, signifying positive progress.
+
+The layout uses a clear visual hierarchy. The order number is a prominent H2 title. A multi-step progress bar visually communicates the order's journey at a glance, with completed steps marked by the green accent color and a checkmark. Below, a scrollable list provides detailed, timestamped tracking updates. These design choices are intended to provide comprehensive information clearly and quickly, building customer trust and reducing anxiety about their order's status without overwhelming them.
+
+2. **What triggers the appearance of this widget?**
+
+This widget is designed to appear automatically for a logged-in user who has a recent order that is currently in the "shipped" or "out for delivery" state. When the user visits the e-commerce website (e.g., the homepage or their account dashboard), the system would check for active orders. If an order is in transit, the widget is dynamically populated with that order's data and displayed. This proactive approach provides immediate value and convenience, as the user doesn't need to manually navigate to an "Order History" page and search for the tracking link. It shows the customer that the store is attentively managing their purchase.
+
+3. **Can you describe the full range of interactions users can have with the widget?**
+
+User interactions are focused on information consumption and control. The primary interaction is reading the status, from the high-level visual progress bar to the specific updates in the log. If the tracking history is long, the user can scroll vertically within the "Tracking Details" section to view older updates; this section has its own scrollbar to avoid moving the entire page. The most crucial interaction is dismissing the widget by clicking the '×' button in the top-right corner. This allows the user to close the tracker and continue browsing the site. While not implemented here, hovering over the progress steps could also trigger tooltips showing the date and time each stage was completed.
+-->
+</body>

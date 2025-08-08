@@ -1,0 +1,5 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow. It displays the average rating (4.7 in green) prominently with gold stars. Rating distribution is shown as horizontal bars (green on gray) with percentages. The design choices prioritize readability and visual hierarchy - green conveys positive ratings, gold stars are universally recognized, and the bar graph provides quick visual comparison of rating distribution.
+
+    Question 2: This widget would typically appear on product pages, triggered when a user views a product listing. It loads automatically with the page content to provide immediate social proof about the product's quality and customer satisfaction.
+
+    Question 3: Users can view the average rating and rating distribution at a glance. While this implementation is display-only, interactive versions might allow: clicking stars to filter reviews, hovering over bars to see exact counts, or clicking to expand full reviews. The current design focuses on presenting information clearly without overwhelming the user with interactive elements.

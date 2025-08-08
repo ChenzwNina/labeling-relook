@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a white, rounded rectangle, 420px wide (responsive on mobile), and fixed at the top with a 20px margin. It contains a header with a bold title and close button, a scrollable midsection for cart items (each showing an image, name, quantity, and remove '×' button), a total summary, and two action buttons (View Cart, blue Checkout). Primary colors are white (#fff), blue for checkout (#3874f2), with light gray backgrounds and soft shadows for modern e-commerce aesthetics. The size keeps it readable but unobtrusive. The layout is clean, using clear separation and hierarchy for easy scanability.
+
+  Question 2:
+  The widget is typically triggered in response to a customer action: clicking the shopping cart icon on the site’s header/navbar. It may also appear after an item is added to the cart, as a confirmation modal.
+
+  Question 3:
+  Users can: close the widget (×), remove individual products from the cart, click 'View Cart' to go to the full cart page, or 'Checkout' to proceed to payment. The cart scrolls for overflow. The layout updates dynamically with changes in cart contents, allowing for real-time interaction and feedback. 
+  -->
+</body>

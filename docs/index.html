@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Label Checking Page</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/themes/light.css" />
+    <script type="module" src="https://cdn.jsdelivr.net/npm/@shoelace-style/shoelace@2.20.1/cdn/shoelace-autoloader.js"></script>
+    <script>
+        function startFromBeginning() {
+            // Code to start from the beginning
+            window.location.href = `./video.html?videoIndex=${0}&user=${document.getElementById('name').value}`;
+        }
+
+        function fetchCompletedPairs() {
+            // Code to fetch the list of completed pairs and render the link to the next video
+            const name = document.getElementById('name').value;
+            fetch(`https://rate.chenziwei0499.workers.dev/getCompleted`, {
+                method: 'POST',
+                headers: {'Content-Type': 'application/json'},
+                body: JSON.stringify({
+                    key: name
+                })
+            }
+            )
+                .then(response => response.json())
+                .then(data => {
+                    // find largest index
+                    let largestIndex = -1;
+                    data.forEach(pair => {
+                        if (parseInt(pair.index) > largestIndex) {
+                            largestIndex = parseInt(pair.index);
+                        }
+                    });
+                    
+                    // Display largest index
+                    const retrieved = document.createElement('div');
+                    document.getElementById('completed-pairs').innerText = `
+                    <div>
+                        <p> Your last annotated widget is: ${largestIndex} </p>
+                    JSON.stringify(index);
+                    `
+                    // Add a new button to the dom tree to start from the largest index
+                    const button = document.createElement('button');
+                    button.innerText = `Start from ${largestIndex + 1}`;
+                    button.onclick = () => {
+                        window.location.href = `./video.html?videoIndex=${largestIndex + 1}&user=${name}`;
+                    };
+                    
+                    // Select the container by its ID
+                    const container = document.getElementById('container');
+
+                    // Append the button to the container
+                    container.appendChild(button);
+                });
+        }
+    </script>
+    <style>
+        body {
+            display: flex;
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
+            min-height: 100vh; /* Full viewport height */
+            margin: 0; /* Remove default margin */
+            font-family: Arial, sans-serif; /* Optional: Better font */
+            background-color: #f9f9f9; /* Optional: Background color */
+        }
+    
+        .container {
+            display: inline-block; /* Let the width adjust to the content */
+            padding: 20px;
+            max-width: 500px; /* Set a max width for the container */
+            background: #ffffff; /* Add a background to the form */
+            border-radius: 8px; /* Rounded corners */
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+            margin: auto; /* Center horizontally */
+        }
+    
+        .inline-buttons {
+            display: flex;
+            justify-content: center; /* Center the buttons */
+            gap: 10px; /* Add spacing between the buttons */
+            margin-top: 20px; /* Add some spacing above the buttons */
+        }
+    
+        input {
+            padding: 8px;
+            width: 100%; /* Stretch to fill the container */
+            display: block; /* Ensure it takes its own line */
+            margin: 0 auto; /* Center horizontally */
+            font-size: 16px; /* Optional: Adjust font size */
+            box-sizing: border-box; /* Include padding in width */
+        }
+    
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            border: none;
+            border-radius: 4px; /* Rounded corners for buttons */
+            background-color: #007bff; /* Button background color */
+            color: white; /* Button text color */
+            cursor: pointer;
+        }
+    
+        button:hover {
+            background-color: #0056b3; /* Button hover effect */
+        }
+    
+        label, input {
+            display: block; /* Put label and input on their own lines */
+            margin: 10px 0; /* Add spacing between fields */
+            font-size: 16px;
+        }
+    
+        input {
+            padding: 8px;
+            width: 200px; /* Adjust input width */
+        }
+        h1 {
+            font-size: var(--sl-font-size-x-large);
+            font-family: var(--sl-font-sans);
+            font-weight: var(--sl-font-weight-bold);
+            line-height: var(--sl-line-height-normal);
+        }
+    
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Welcome to Deceptive Design Annotation</h1>
+        <sl-input label="What is your name?" help-text="Please use a consistent name." type="text" id="name" name="name"></sl-input>
+
+        <div class="inline-buttons">
+            <sl-button onclick="startFromBeginning()">Start from Beginning</sl-button>
+            <sl-button onclick="fetchCompletedPairs()">Fetch Last Annotation</sl-button>
+        </div>
+        <div id="completed-pairs"></div>
+    </div>
+</body>
+
+</html>

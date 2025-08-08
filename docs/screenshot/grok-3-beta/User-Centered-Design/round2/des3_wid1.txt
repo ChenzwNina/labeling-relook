@@ -1,0 +1,6 @@
+Question 1: The search panel is positioned at the top with a 20px margin, spanning the full width for accessibility. It uses a clean white background (#ffffff) with a subtle shadow for elevation. The search bar is 60% of the viewport width (max 600px) for focus, with a blue search button (#007BFF) for clear action visibility. Input fields have rounded corners and hover/focus effects for feedback. These choices ensure a modern, user-friendly design consistent with e-commerce aesthetics, prioritizing visibility and ease of use.
+
+Question 2: The search panel is a persistent component, always visible at the top of the page to ensure users can search anytime during their shopping journey. It appears by default on page load across all sections of the website, supporting efficient task execution without requiring additional triggers.
+
+Question 3: Users can interact with the widget by typing queries in the search input, receiving focus feedback via border color changes. They can select a category from the dropdown to refine searches. Clicking the search button initiates the query, with hover effects for clarity. The button disables if the input is empty, preventing invalid actions. These interactions ensure clear affordances and constraints for a satisfying experience.
+-->

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth. It includes a search bar (400px wide), three filter dropdowns, a green search button, and recent search tags. The color scheme uses white, green (#4CAF50 for the button), and grays for text and borders. This design ensures clarity and focus on the search functionality while maintaining visual appeal. The layout is organized vertically with proper spacing between elements for easy scanning.
+
+    Question 2: The widget would typically appear when a user clicks on the search icon in the website's header. The close button (×) in the top-right corner would hide the panel. It could also be triggered to appear automatically when landing on certain pages or through keyboard shortcuts.
+
+    Question 3: Users can: 1) Type search queries, 2) Select filters from dropdowns (category, price range, sort), 3) Click the search button to submit, 4) Click recent search tags to quickly repeat searches, and 5) Close the panel. The search icon in the input field provides visual feedback, and the button has hover effects for better interactivity.
+    -->

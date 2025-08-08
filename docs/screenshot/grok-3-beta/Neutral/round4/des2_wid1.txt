@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget has a clean, modern design with a white background (#ffffff) and subtle shadow for depth. The layout is horizontal, using flexbox for even spacing, with a max-width of 1200px for responsiveness. Text is dark gray (#555) for readability, with a hover effect in orange (#e44d26) to match common e-commerce branding. Font sizes (18px for title, 16px for links) ensure hierarchy and clarity. These choices mimic real-world e-commerce sites like Amazon, prioritizing usability and familiarity. -->
+
+    <!-- Question 2: The widget appears statically at the top of the page (20px margin) as a fixed navigation bar. It is always visible to users upon loading the website, ensuring easy access to product categories without scrolling, which is critical for e-commerce navigation. -->
+
+    <!-- Question 3: Users can interact with the widget by hovering over category links, which change color for visual feedback, and clicking them to navigate to specific category pages. They can also click the "View All Categories" link to access a comprehensive list. The widget is designed for simplicity, focusing on quick navigation without complex interactions like dropdowns, ensuring accessibility for all users. -->
+</body>

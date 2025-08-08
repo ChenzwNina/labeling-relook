@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, centered container with a white background, subtle shadow, and rounded corners for a modern look. It uses a blue color scheme (#007bff) for buttons and links, ensuring high visibility and consistency. Input fields are full-width with clear borders, expanding to a focused state with a blue outline for feedback. Text is dark gray for readability, and error messages are red for urgency. The layout is compact (max-width 400px) for focus, with ample spacing for clarity. These choices align with e-commerce standards, prioritizing usability and trust. -->
+
+    <!-- Question 2: This sign-in widget appears when a user clicks on a 'Sign In' link or button typically located in the header of the ShopEase website, or when attempting to access restricted features like checkout or account settings, prompting authentication. -->
+
+    <!-- Question 3: Users can enter their email and password, submit the form, and receive feedback via error messages if inputs are invalid. They can click 'Forgot Password?' to reset credentials or 'Create New Account' to register. Hover effects on buttons and links provide visual cues, and form validation prevents submission of incorrect data, ensuring a guided interaction experience. -->
+</body>

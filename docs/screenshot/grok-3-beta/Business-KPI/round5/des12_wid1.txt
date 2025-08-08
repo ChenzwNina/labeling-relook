@@ -1,0 +1,7 @@
+-->
+    <!-- Question 4.1: The widget features a clean, modern design with a white background and subtle shadow for depth. The color scheme uses a vibrant coral (#ff6f61) for the CTA button and accents to draw attention and evoke energy, paired with neutral grays for text to ensure readability. The layout is centered with a max-width of 500px for focus, and form fields are spacious with 12px padding for ease of use. These choices enhance trust, usability, and conversion by creating a professional, inviting interface. -->
+
+    <!-- Question 4.2: This widget appears when a user clicks on a "Sign Up" or "Create Account" link from the homepage, navigation bar, or during checkout if they are not logged in. It may also trigger as a pop-up or dedicated page when a user attempts to access member-only features or exclusive deals. -->
+
+    <!-- Question 4.3: Users can interact by entering their full name, email, and password into the form fields, clicking the "Create Account" button to submit, and viewing benefits listed to encourage sign-up. They can also navigate to the login page via a provided link if they already have an account. Hover effects on buttons and links provide visual feedback. -->
+</body>

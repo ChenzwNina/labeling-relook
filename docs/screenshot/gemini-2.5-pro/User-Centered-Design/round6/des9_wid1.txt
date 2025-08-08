@@ -1,0 +1,27 @@
+**Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The component is presented as a clean, structured card with a white background (`#ffffff`) and a subtle shadow, set against a light gray page background (`#f8f9fa`). This contrast makes the component float visually, focusing user attention. The layout is a single, vertical column, which is easy to scan on both desktop and mobile. 
+
+The primary color palette consists of neutral grays for text and borders, with a vibrant blue (`#007bff`) used as an accent for selected states. This blue provides clear, positive feedback without being distracting. Prices are right-aligned for easy comparison.
+
+Typography is handled by the 'Inter' sans-serif font, known for its excellent legibility on screens. Headings are bold and larger (`24px`, `18px`) to create a clear hierarchy. Options text is a readable `16px`. These choices create a trustworthy, modern, and user-friendly aesthetic that minimizes cognitive load and aligns with contemporary e-commerce design standards.
+
+**Question 2: What triggers the appearance of this widget?**
+
+This component is not a pop-up or a dynamically triggered widget. Instead, it is a static and integral part of the checkout process. It would typically appear on a dedicated "Shipping" or "Review" page after the user has successfully entered their delivery address. 
+
+The logic is sequential: the system first needs the destination to calculate available shipping methods, prices, and delivery estimates. Once the address is provided and validated, the user is navigated to the page or view containing this component to make their shipping and add-on selections before proceeding to the final payment step. This sequential flow ensures that users are presented with accurate, relevant information at the appropriate time, preventing confusion and errors.
+
+**Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users can perform two primary sets of actions:
+
+1.  **Select a Shipping Method:** The shipping methods are presented as a set of radio buttons. A user can click anywhere on an option's container (the text, the custom radio icon, or the empty space within the border) to select it. Upon selection, the option's border turns blue, and its custom radio icon fills in. Since these are radio buttons, selecting a new option automatically deselects the previously chosen one, enforcing the constraint that only one shipping method can be active at a time.
+
+2.  **Select Optional Add-ons:** The add-ons are presented as checkboxes, allowing for zero, one, or multiple selections. Similar to shipping, users can click anywhere on an add-on's container to toggle its state. A selected add-on is indicated by a blue border and a checkmark appearing in its custom checkbox icon. Clicking a selected add-on again will deselect it.
+
+Throughout these interactions, hover effects (a darker border color and slight shadow) provide an affordance that the items are clickable, improving discoverability.
+*****Response*****
+-->
+
+</body>

@@ -1,0 +1,33 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget appears as a floating panel fixed 20px from the top of the viewport and horizontally centered. It has a maximum width of 600px.
+**Layout**: The widget has a main title ("Delivery & Extras") followed by two distinct sections: "Choose Your Delivery" and "Optional Add-ons". Each section has a title and lists several options vertically. Each option is presented as a clickable item with an input (radio/checkbox), a label (name and details), and a price aligned to the right. A prominent "Confirm Selections" button is at the bottom.
+**Colors**:
+-   Widget Background: White (`#ffffff`) for a clean look.
+-   Option Item Background: Light gray (`#f9f9f9`) to distinguish from the widget background.
+-   Text: Dark gray (`#333333`) for main text, slightly lighter gray (`#666666`) for details, ensuring readability.
+-   Accent: A vibrant blue (`#007bff`) is used for section titles, input accent color, selected item indicators, and the main button, drawing attention to key elements. Prices are green (`#28a745`).
+**Element Sizes**:
+-   Widget Title: 24px, bold.
+-   Section Titles: 18px, bold.
+-   Option Names: 16px.
+-   Details/Prices: Smaller font sizes (13px-16px).
+-   Button: Large, full-width within the widget.
+**Design Choices**: These choices aim for a modern, user-friendly e-commerce experience. The clean layout and clear typography enhance readability. Contrasting colors guide the user's focus. Rounded corners and subtle shadows provide a soft, contemporary feel. Clickable option items improve usability. The fixed positioning suggests it's a focused task panel. The :has(input:checked) CSS provides immediate visual feedback on selection by adding a left border and changing background color.
+
+## Question 2: What triggers the appearance of this widget?
+
+This widget is designed to be a focused interface for selecting shipping and add-on preferences. Its appearance would typically be triggered when the user:
+1.  Navigates to a specific "Shipping & Options" step in a multi-step checkout process. The entire page might be dedicated to this, or this widget could be the primary interactive element on that view.
+2.  Clicks an "Edit Shipping" or "Modify Options" button, perhaps from a cart summary page or a previous step in the checkout. This action would then load or display this fixed panel.
+Given its fixed position at the top of the viewport, it's intended to grab the user's attention for this specific task, overlaying other page content if any is present below it. It's not a passively visible section but rather an active component for a defined stage of user interaction.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the widget in the following ways:
+1.  **Select Shipping Option**: Users can choose one shipping method from the available radio buttons ("Standard Delivery," "Express Saver," "Next-Day Air"). Clicking on a radio button or its associated label/option item will select that option and automatically deselect any other previously chosen shipping method. The selected option item gets a visual highlight (left border and background change).
+2.  **Select/Deselect Add-ons**: Users can choose multiple optional add-ons (e.g., "Premium Gift Packaging," "Eco-Friendly Packaging") using checkboxes. Clicking a checkbox or its associated label/option item toggles its selection status (checked/unchecked). Selected add-ons also receive a visual highlight.
+3.  **Hover Effects**: Interactive elements like option items and the "Confirm Selections" button have hover effects (e.g., border color change for options, background color change for the button) to provide visual feedback and indicate clickability.
+4.  **Confirm Choices**: After making their selections, users can click the "Confirm Selections" button. This action would typically save their preferences and proceed to the next step in the e-commerce flow, such as payment or order review.
+The entire option item (the row containing the input, label, and price) is clickable to toggle the associated input, enhancing usability.
+-->

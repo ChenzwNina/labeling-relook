@@ -1,0 +1,18 @@
+**Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The widget is a sleek horizontal bar, fixed 20px from the top of the viewport. It has a clean white background (`#ffffff`) with a subtle bottom border and shadow for depth. The bar contains a header with a title like "Featured Finds For You" (17px, dark gray, bold) on the left, and an optional "See All" link on the right. Below this, a horizontally scrollable list of product items is displayed. Each item is a compact rectangle (approx. 230px wide, 70px high) with a light gray background (`#f7f8fa`), rounded corners, and a thin border. Inside each item, a small square product image (50x50px) is on the left, with the product name (14px, single line with ellipsis) and price (13px, bold green) stacked vertically to its right.
+
+These choices create a modern, unobtrusive component typical of e-commerce sites. The fixed position ensures visibility for promotions. The compact, horizontal design saves vertical space. Clear typography, distinct colors for price, and image previews provide essential information quickly. Hover effects enhance interactivity. The overall aesthetic is professional and user-friendly.
+
+**Question 2: What triggers the appearance of this widget?**
+
+This widget is designed to appear immediately when the page loads and remains persistently visible at the top. Its `position: fixed` CSS styling ensures it stays anchored 20px from the top of the viewport, regardless of page scrolling. It does not require any specific user action (like clicking a button or scrolling to a certain point) for its initial display. It functions as a standard part of the user interface on pages where it's included, typically to highlight featured products, recommendations, or new arrivals, making them constantly accessible to the user.
+
+**Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users can interact with the widget in the following ways:
+1.  **Horizontal Scrolling:** They can scroll through the product list horizontally using mouse wheel, trackpad gestures, or by dragging the styled scrollbar if more items are present than fit the viewport width.
+2.  **Viewing Information:** Users can quickly scan product images, names, and prices.
+3.  **Navigation:** Clicking on any part of a product item (as the entire item is a link) will navigate the user to that product's detailed page. If a "See All" link is present in the header, clicking it would typically lead to a page displaying all featured products.
+4.  **Hover Effects:** When hovering over a product item, its border may highlight or shadow may intensify slightly, providing visual feedback. The "See All" link will show standard link hover behavior (e.g., underline).
+-->

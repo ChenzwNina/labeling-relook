@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget has a clean, centered layout with a white background, subtle shadow, and rounded corners for a modern look typical of e-commerce sites. The header text is red (#d32f2f) to signify caution, while body text is dark gray (#333) for readability. Buttons are colored red for confirmation and gray for cancellation, with hover effects for interactivity. The widget is responsive, maxing at 600px width, ensuring accessibility across devices. These choices prioritize clarity and user focus on the critical decision. -->
+
+    <!-- Question 2: This widget appears when a user navigates to the membership settings in their account dashboard and selects the option to cancel their subscription. It may also trigger via a direct link in an email or notification related to membership management, ensuring users confirm their intent before finalizing cancellation. -->
+
+    <!-- Question 3: Users can interact with the widget by reading the warning message, then clicking either the "Yes, Cancel Membership" button to proceed with cancellation or the "No, Keep Membership" button to return to their account. Hover effects on buttons provide visual feedback. Post-confirmation, users might be redirected to a feedback form or confirmation page, though this is beyond the widget's scope. -->
+</body>

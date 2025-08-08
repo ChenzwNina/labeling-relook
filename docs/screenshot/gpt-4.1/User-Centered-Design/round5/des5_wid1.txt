@@ -1,0 +1,10 @@
+Question 1: 
+The filter panel is a fixed, horizontally-aligned box near the top of the viewport with a white background, rounded corners, and a soft drop shadow. Each filter section (Category, Brand, Price, Rating) uses readable labels and consistent spacing. Inputs (dropdowns, number fields, checkboxes) are styled for clarity with subtle colored focus states and informative feedback. Action buttons are highly visible; "Apply Filters" uses a bold blue, and "Reset" a soft gray. Immediate feedback (confirmation or input errors) appears inline or as subtle banners. This design guides users smoothly, ensures visibility, and keeps the interface modern and professional—matching leading e-commerce websites. Layout is responsive for smaller screens.
+
+Question 2:
+The widget appears at page load and remains visible, as filtering is a primary, persistent task on most e-commerce sites. It's top-positioned for immediate access.
+
+Question 3:
+Users can adjust category via a dropdown, select brands with checkboxes, set price min/max with validation, and set a minimum rating via dropdown. Clicking “Apply Filters” applies changes and shows a confirmation, while “Reset” restores the default state and provides feedback. The reset button is disabled unless changes are made. Invalid price ranges are blocked with inline feedback, and the panel auto-adapts for mobile. All interactive elements provide proper affordance and feedback cues.
+
+-->

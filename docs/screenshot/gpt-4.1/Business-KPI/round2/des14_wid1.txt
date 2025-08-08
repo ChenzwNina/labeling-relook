@@ -1,0 +1,19 @@
+4.1 Question 1: 
+  The widget is a polished, card-like box centered at the top of the viewport (20px from the top), max-width 700px. It uses a white background with subtle gray-blue (#f6f7fa, #e7f0fd) accents, softly rounded corners, and a modern drop shadow for visual lift. Progress steps are displayed with colored circles, green for completed, muted gray for pending, connected by a progress bar with a green fill. Products are shown with preview images and names, and suggested upsell content uses pastel gradients to catch the eye. Call-to-action buttons pop in bold blue and green color gradients. The clean, easy-to-read typography and hierarchical spacing make order status, addresses, and actions obvious and comforting, supporting user confidence and engagement.
+
+  4.2 Question 2:
+  This widget appears automatically at the top of the user’s account "My Orders" or "Track Order" page, or after a customer clicks a tracking link from their order confirmation or shipment email. It is triggered by user intent to track an order, ensuring high motivation and relevance.
+
+  4.3 Question 3:
+  Users can:
+    - Review order ID, placement date, and order status visually.
+    - See shipping progress and expected delivery.
+    - View purchased products, download their invoice.
+    - Review/manage their shipping address.
+    - Instantly reorder all items.
+    - View detailed order breakdown.
+    - Get help via the help link.
+    - Interact with a tasteful upsell for gift wrap (add to order).
+  All actions reduce friction and encourage further engagement or purchasing.
+
+  -->

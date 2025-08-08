@@ -1,0 +1,32 @@
+-->
+<!--
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The search panel is a wide, horizontal bar with rounded corners, centrally positioned at the top of the viewport. Its layout consists of three parts: a category dropdown on the left, a large search input field in the middle, and a search button on the right.
+
+For colors, the panel uses a clean, high-contrast palette: a white background (#ffffff) with a light grey border (#dfe1e5) for the main container. The category dropdown has a light grey background (#f8f9fa) to differentiate it slightly from the search input. The search button is a vibrant blue (#007bff), making it the primary call-to-action. Text colors are dark grey (#202124) for maximum readability.
+
+The search input field is intentionally the largest element, visually emphasizing its importance as the primary function. The overall size is responsive, taking up 90% of the viewport width up to a maximum of 800px, ensuring it's prominent but not overwhelming on any screen. This design is chosen because it's a standard, intuitive pattern for e-commerce, reducing cognitive load for users and promoting a professional, trustworthy aesthetic.
+-->
+<!--
+## Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is not triggered by a specific user action; it is a persistent, core component of the user interface. It loads along with the main page content and is immediately visible to the user upon visiting the website.
+
+It is positioned using `position: fixed`, which means it remains "fixed" in the same spot at the top of the viewport—20 pixels from the top edge—even when the user scrolls down the page. This ensures that the search functionality is always accessible, no matter where the user is on the page. This constant visibility is crucial for an e-commerce site where searching for products is a primary and frequent task. Therefore, the trigger is simply the loading of any page where search is a relevant function, such as the homepage or product listing pages.
+-->
+<!--
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several clear and direct interactions with the search panel:
+
+1.  **Category Selection**: The user can click on the "All Categories" dropdown on the left. This action reveals a list of predefined product departments like "Electronics" or "Men's Fashion". The user can then click one of these options to pre-filter their search, which provides a more focused set of results.
+
+2.  **Text Input**: The user can click inside the main search field, which has placeholder text "Search for products, brands, and more...". Once focused, they can type their search query using their keyboard.
+
+3.  **Search Submission**: To execute the search, the user has two options. They can either physically click the blue search button containing the magnifying glass icon, or they can press the "Enter" key on their keyboard after typing their query into the input field.
+
+4.  **Visual Feedback**: As a minor interaction, when the user hovers their mouse over the category selector or the search button, the element’s background color changes slightly, providing visual confirmation that it is a clickable element.
+-->
+
+</body>

@@ -1,0 +1,10 @@
+3.1 Question 1: 
+The filter panel has a modern card style with a white background, subtle shadow, and slightly rounded corners. The header features a large "Filter Products" title and a blue "Clear all" link. Four evenly spaced filter groups (Category, Price Range, Brand, Ratings) are aligned horizontally, each with clear section labels, checkboxes, and radio buttons styled with an accent blue color (#5c6ef8). Inputs are spaced for readability; the "Apply Filters" button is bold, full-width on mobile, and blue for a prominent call to action. These choices create a visually engaging yet clean and familiar user experience, echoing leading e-commerce sites.
+
+3.2 Question 2: 
+This filter panel appears automatically at the top of the product listing page, ensuring users can access filtering options immediately upon landing on the shop or category page. It's persistent for easy access while browsing and scrolling.
+
+3.3 Question 3: 
+Users can interact by checking/unchecking categories and brands, typing price min/max, selecting price or rating ranges, clearing selections with "Clear all," and applying the selected filters with the "Apply Filters" button. Input states update visually as selections are made, and on mobile, the layout adapts for touch usability.
+
+-->

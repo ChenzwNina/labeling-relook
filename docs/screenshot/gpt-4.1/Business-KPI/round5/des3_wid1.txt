@@ -1,0 +1,9 @@
+4.1 Question 1:
+This widget is a horizontally centered search panel set against a very light background, positioned with a 20px top margin. The panel itself is a rounded rectangle with a light shadow, white background, and subtle border. Its header has a brand logo and bold headline to build trust and engagement, complemented by a concise subtitle about product range. The main row features a prominent search box, department dropdown, and a colorful gradient search button for visibility and conversion. Below, a row of trending search links encourages browsing. The color palette uses blues and aquas to convey credibility and highlight calls to action, with accent backgrounds for interactive elements. Spacing and font sizes balance clarity, appeal, and hierarchy. Layout is fully responsive for all devices, with accessible touch targets.
+
+4.2 Question 2:
+This widget appears at the top of every page in the e-commerce site, as a persistent and always-available search entrypoint. It’s visible immediately on load and remains sticky during scroll. This maximizes discovery, site engagement, and speeds up user journeys.
+
+4.3 Question 3:
+Users can type a search query, select a department to narrow their search, and submit via button or Enter key. Clicking trending searches instantly pre-fills or executes searches, encouraging exploration. Responsive design ensures full usability on mobile and desktop. Logo and subtitles are non-interactive; all actions are focused on product discovery.
+-->

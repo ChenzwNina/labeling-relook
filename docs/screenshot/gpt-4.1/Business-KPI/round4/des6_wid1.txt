@@ -1,0 +1,8 @@
+4.1: The widget uses a white, rounded card floating above a light gray background. Elements are spaced for clarity: a vibrant "Best Seller" ribbon stands out, the product image is large and centered, the title in bold navy, and the subtitle (brand) is gray. Ratings use bright gold stars. Price is bold and red, with the old price struck-through and a green "Save" highlight. CTA buttons are large and high-contrast: blue gradient "Add to Cart" and a pink-outlined "Wishlist". A horizontal ad banner at the bottom uses pastel orange and bold text for upsell/cross-sell, with subtle hover motion. These choices draw attention to high-converting areas, reduce friction, and encourage further engagement.
+
+    4.2: The widget appears automatically at the top of a product page or wherever an individual product needs to be featured (e.g., in a product list or featured product section). No user initiation is required; it loads as part of page rendering.
+
+    4.3: Users can interact by clicking "Add to Cart" (initiating purchase flow), "Wishlist" (saving product for later), and clicking the ad banner for cross-selling deals. Hovering on CTAs changes their color and shadow to indicate interactivity. All text (like warranty, shipping) can display tooltips or link to more info if extended. Product rating and reviews could expand to show more detailed customer feedback if implemented. The design encourages clicking, saving, and exploring related offers.
+
+    -->
+</body>

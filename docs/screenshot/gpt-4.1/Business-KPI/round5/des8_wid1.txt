@@ -1,0 +1,7 @@
+4.1: The widget is a fixed, modern cart panel at the top center of the viewport, with a soft white background, rounded corners, and a subtle drop shadow. It features an attention-grabbing checkout button in orange-red gradient, subdued secondary buttons, and card-like product item displays with images, names, quantities, prices, and remove controls. The total is accented in bold, red, emphasizing importance. Brand colors and gradients are used to delineate primary actions, with blues highlighting promotions and ad banners to encourage further shopping. Subtle hover effects and clear visual hierarchy guide attention and drive conversion. The layout and prominence follow best practices to reduce abandonment and reinforce brand engagement.
+
+  4.2: The cart widget appears when a user adds an item to their cart or clicks the cart icon in the navigation header. Its fixed position ensures visibility as users browse or interact with the site, prompting action toward checkout or further engagement.
+
+  4.3: Users can: close the cart panel; review cart items; remove items; interact with quantity selectors (if present); see calculated totals; apply promo codes; click “Checkout Securely” (initiating purchase flow); “Continue Shopping” (cart panel closes and users resume browsing); and click the ad promotion to explore featured products. All actions are designed for both mouse and keyboard accessibility, enhancing engagement and minimizing bounce or abandonment.
+  -->
+</body>

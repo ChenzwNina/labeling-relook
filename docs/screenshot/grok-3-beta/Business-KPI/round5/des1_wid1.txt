@@ -1,0 +1,5 @@
+-->
+    <!-- Question 4.1: The deals banner features a vibrant gradient background (coral to peach) to grab attention and evoke excitement, aligning with e-commerce trends. The layout is centered with a bold 28px title and 18px subtitle for hierarchy. Deal items are displayed in 250px-wide cards with hover effects for interactivity, using white backgrounds for contrast. Buttons are coral (#FF6F61) to match the theme, encouraging clicks. These choices maximize sales and conversion by creating urgency and visual appeal. -->
+    <!-- Question 4.2: The banner appears automatically at the top of the page (20px margin) on load, visible on every page to ensure maximum exposure. It can be triggered by time-sensitive promotions or user behavior, like returning visitors, to re-engage them with fresh deals. -->
+    <!-- Question 4.3: Users can interact by hovering over deal items for a scale effect, clicking "Add to Cart" buttons to purchase instantly, and clicking the "Shop All Deals" link to explore more offers. These interactions reduce cart abandonment and increase time on site by simplifying the buying process and encouraging exploration. -->
+</body>

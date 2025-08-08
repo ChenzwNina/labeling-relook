@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and subtle box-shadow for elevation, mimicking e-commerce aesthetics. It uses a blue (#007bff) accent for selected or hovered elements to draw attention and indicate interactivity. Text is in shades of gray for hierarchy—dark (#333) for headings, lighter (#666) for details. The layout is responsive with a grid structure, ensuring cards adapt to screen size (minimum 250px width). Elements are sized for readability (1.5rem for section titles, 1.1rem for card headings). These choices ensure clarity, usability, and a professional look consistent with e-commerce platforms.
+
+    Question 2: This widget appears during the checkout process, typically after users review their cart and proceed to finalize shipping details. It is triggered either by navigating to the shipping page or as a collapsible section within a single-page checkout flow, ensuring users can customize their order before payment.
+
+    Question 3: Users can interact by clicking shipping option cards to select a method, with visual feedback (blue border) confirming the choice. They can also toggle checkboxes for add-ons, enabling or disabling extras like gift wrapping. Hover effects on cards provide subtle cues, enhancing the intuitive selection process across the component. -->
+</body>

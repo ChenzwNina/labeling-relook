@@ -1,0 +1,7 @@
+4.1: The widget is a clean, card-style panel in white with rounded corners and soft drop shadow for elevation. It’s 460px wide (responsive for mobile) and sits 20px from the top of the viewport. A green circular icon beside the order title ensures brand recall. Steps have clear progress circles (green for completed, blue for current) with a vertical progress line. Key order facts (address, payment, cost) are styled with readable type. Bright blue/green gradient CTA ("View Order Details") draws focus, while a subtle secondary CTA increases engagement. These choices ensure visual clarity, trust, and promote further site interaction.
+
+4.2: This widget appears after an order is placed and is accessible from order confirmation, emails, account dashboard, or when a user clicks “Track Order” from anywhere on the site. It’s available to logged-in and guest users with valid order IDs.
+
+4.3: Users can view real-time order steps, expand/collapse extra details for each step (if JS is added), click CTAs to see order details (invoices, reorder), or get help. The tracking number can be copied or linked to the courier. Engaging with these keeps users on-site, allows upsell/cross-sell opportunities, and reduces the likelihood of abandonment by providing transparency.
+-->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The deals banner spans the full width of the viewport with a gradient background transitioning from coral (#ff6f61) to light peach (#ffb88c), creating a vibrant, attention-grabbing look typical of e-commerce promotions. The text is white, bold, and uppercase at 1.5rem for visibility, while the "Shop Now" button is white with coral text for contrast, sized at 1rem with a hover effect for interactivity. The layout centers content with flexbox for balance. These choices mimic real-world e-commerce banners by prioritizing urgency and action.
+
+Question 2: The banner appears automatically at the top of the page on load, positioned 20px from the top, to ensure users see current promotions immediately upon visiting the site. It could also be triggered by specific events like a new sale launch or user login, managed via JavaScript (not included here).
+
+Question 3: Users can interact with the banner by clicking the "Shop Now" button, which would redirect to a deals page. Hovering over the button changes its background for visual feedback. The banner itself is static but could be enhanced with a close button or animation for dismissal if desired.
+***** -->

@@ -1,0 +1,15 @@
+4.1. The widget is a visually prominent card positioned at the top center with a 20px top margin. The primary color palette uses white, dark navy, gold, accent blue, and subtle backgrounds for clarity and trust, featuring rounded corners and soft shadows for a modern, inviting feel. Product photos (placeholder_image.jpg, 62x62px) and lines visualize cart items, each with controls to adjust quantity (plus/minus), a remove button, and clear price display to minimize purchase friction. Brand/ads banners and special offer rows boost engagement and motivation. CTA buttons (e.g., checkout) are wide, gradient, and brightly colored for high conversion. The layout is compact (420px wide), mobile responsive, easy to scan, and ensures all checkout drivers (subtotal, offers, ads, navigation, and extras) are in logical proximity.
+
+4.2. This shopping cart widget typically appears when the user clicks the cart icon anywhere on the site or upon adding an item to cart. It may also be persistently viewable on all e-commerce pages to give users instant access to their basket and promote continued action towards checkout.
+
+4.3. Users interact by:
+- Viewing products and item details (with images, variants, current quantity, and price)
+- Adjusting quantities via plus/minus buttons (potentially showing live subtotal updates)
+- Removing items instantly with the ‘Remove’ option
+- Checking subtotal and visual progress to free shipping/offers
+- Clicking "Proceed to Checkout" (primary CTA)
+- Clicking ads/brand banners for offers or upsells (increasing order size/time on site)
+- Accessing saved-for-later items
+- Clicking “Continue Shopping” to go back to browsing
+These interactions are designed to minimize abandonment, drive up conversion, average basket value, and engage with offers/ads.
+-->

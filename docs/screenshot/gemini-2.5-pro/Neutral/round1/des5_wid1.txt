@@ -1,0 +1,40 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The filter panel widget is a vertical sidebar, 280 pixels wide, positioned 20 pixels from the top and left edges of the viewport. Its height adjusts to fill most of the screen, leaving a 20px conceptual margin at the bottom. It has a clean, modern aesthetic with a white background (`#ffffff`) and a subtle border (`#e0e0e0`), creating a slight shadow for depth.
+
+**Layout:** The panel is divided into a header ("Refine Your Search"), a scrollable body containing filter sections, and a footer with "Apply Filters" and "Reset Filters" buttons. Each filter section (e.g., Category, Price Range, Brand) has a clear title with a bottom border for separation. Options within sections use checkboxes or custom-styled inputs (like color swatches).
+
+**Colors:**
+*   Background: White (`#ffffff`) for a clean, unobtrusive look.
+*   Text: Dark grey (`#212529` for main text, `#495057` for secondary) ensures readability.
+*   Accent: A vibrant blue (`#007bff`) is used for primary actions (Apply button, selected states, input focus) to draw attention and indicate interactivity.
+*   Secondary Button: A neutral grey (`#6c757d`) for the "Reset Filters" button.
+*   Color Swatches: Display actual product colors. Selected swatches have a blue border and an inner ring for clear visual feedback.
+*   Rating Stars: Gold (`#ffc107`) for visual appeal.
+
+**Design Choices Rationale:**
+The design prioritizes usability and clarity, common in e-commerce. The fixed sidebar layout keeps filters accessible while browsing. The color scheme is neutral with a clear accent for calls to action, enhancing user experience. Font sizes and spacing are chosen for readability and easy interaction on various screen sizes (though this is primarily a desktop component). The vertical stacking of filters is a standard pattern, allowing users to scan options efficiently. The scrollable body ensures all filters are accessible even if numerous.
+
+## Question 2: What triggers the appearance of this widget?
+
+The appearance of this filter panel widget is typically triggered by a user action. On an e-commerce product listing page, users would likely click a "Filter" or "Refine Results" button. This button is often located near the product grid, search bar, or category title.
+
+Once triggered, the panel would slide in from the side or appear in its fixed position as designed (20px from the top and left of the viewport). On desktop views where screen real estate is ample, it might also be persistently visible by default on product listing pages, without needing a specific trigger action to appear. However, for the described fixed positioning with a top margin, an explicit trigger action (like a button click) is a common pattern, especially if it's designed to overlay content or if it's one of several possible sidebars.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the filter panel in several ways to refine product listings:
+
+1.  **Selecting/Deselecting Options:**
+    *   **Checkboxes:** For categories like "Category," "Brand," and "Features," users can click checkboxes to select or deselect multiple options.
+    *   **Radio Buttons:** For "Average Customer Rating," users can select one option (e.g., "4 Stars & Up").
+2.  **Price Range Input:** Users can type numerical values into "Min Price" and "Max Price" fields to define a specific price range.
+3.  **Color Selection:** Users can click on color swatches to select one or more colors. Selected swatches are visually highlighted with a border and an inner ring.
+4.  **Applying Filters:** After making selections, users click the "Apply Filters" button. This action would typically send the chosen filter criteria to the backend to update the displayed product list.
+5.  **Resetting Filters:** Users can click the "Reset Filters" button to clear all current selections and revert the filters to their default state. This would also typically refresh the product list to show unfiltered results.
+6.  **Scrolling:** If the number of filter options exceeds the visible height of the panel's body, users can scroll vertically within the "filter-panel-body" section to access all options.
+7.  **Implicit Interaction:** Hovering over buttons or interactive elements provides visual feedback (e.g., color changes), guiding the user. Focusing on input fields or swatches (via keyboard navigation) will also show visual cues.
+
+While not explicitly built with a close button in this example, in a full implementation, users might also be able to close or hide the filter panel.
+*****Response*****
+-->

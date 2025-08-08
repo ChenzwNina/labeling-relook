@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation, positioned 20px from the top. Shipping options are displayed as cards with a blue border when selected, using a blue (#007bff) accent color for interactivity and visibility. Text is dark gray (#333) for readability, with smaller descriptive text in lighter gray (#666). Cards and buttons have hover effects for feedback. The layout is centered, with a max-width of 1200px for responsiveness. These choices ensure clarity, consistency, and a professional e-commerce look. -->
+
+    <!-- Question 2: This widget appears during the checkout process after users add items to their cart and proceed to shipping details. It is triggered by the user reaching the shipping selection step, ensuring relevance to the task at hand. -->
+
+    <!-- Question 3: Users can interact by selecting one shipping option from three cards (Standard, Express, Overnight), with visual feedback via border color changes. They can toggle optional add-ons using checkboxes, and confirm selections with a button that provides an alert for feedback. Constraints prevent multiple shipping selections, ensuring clarity and efficiency. -->
+</body>

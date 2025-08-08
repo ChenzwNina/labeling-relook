@@ -1,0 +1,10 @@
+Question 1:
+  The widget features a white rounded rectangle with a light shadow for depth and a 20px top margin to separate it from the viewport edge. At the top, a bold blue title “Featured Products” sits next to a blue “See All” link. Up to four product tiles appear horizontally (or stacked on smaller screens), each with a subtle background, product image, name, price, star rating, review count, and a blue “Add to Cart” button. I chose blue accents and white backgrounds for a clean, trustworthy appearance, legible font-sizes, and intuitive spacing, resembling modern e-commerce sites.
+
+  Question 2:
+  The featured products component appears at the top of the homepage or a key landing page of the e-commerce website, immediately on page load, to highlight trending or best-selling products.
+
+  Question 3:
+  Users can: (1) Click the “See All” link to view a full featured collection; (2) Hover over product cards for emphasis; (3) Click the “Add to Cart” button for any featured product to initiate adding that item to their shopping cart (requires backend integration for actual cart functionality); (4) Optionally, click on product images or names if further linking is implemented.
+  -->
+</body>

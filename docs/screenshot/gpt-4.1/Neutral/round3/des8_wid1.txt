@@ -1,0 +1,10 @@
+Question 1:
+    The shopping cart widget uses a white, rounded card with a subtle drop shadow, evoking a modern ecommerce feel and improving readability atop a light gray background. The width is 380px (responsive for mobile), with a 20px margin from the top. The header has a cart icon and bold title. Items are presented with product images, details (name, options), quantity controls (with + / - buttons), prices in green, and a clear remove button (“×”) in red. The footer bar shows the total price in green and a “Proceed to Checkout” button with a blue gradient. These choices support clarity and align with ecommerce UX conventions.
+
+    Question 2:
+    The widget typically appears at the top of the page when the user clicks a cart icon in the site’s navigation, hovers over it, or is redirected to the cart page. In this static component, it is always visible as an example; in a real website, it’s triggered by user navigation or interaction.
+
+    Question 3:
+    Users can review products (title/details/image), adjust quantities (+/-), remove items with a remove (“×”) button, see updated prices, and click “Proceed to Checkout.” While this example is non-interactive, in a real setting, clicking quantity buttons updates item and total prices, and “Proceed to Checkout” advances to payment. The widget also dynamically shows/updates an “empty cart” message if there are no items.
+  -->
+</body>

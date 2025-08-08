@@ -1,0 +1,7 @@
+4.1: The filter panel is a horizontal, white, rounded rectangle with subtle shadows for modernity. Padding and gaps create a light, uncluttered feel. Blue-ish #2f6be0 is used for CTA, highlighting actionable elements and reflecting trust. Forms and checkboxes are large enough for touch, improving usability. Key categories (category, brand, price, rating) are shown, while an “Apply” and “Clear” button promotes quick actions. Space on the right advertises a timed deal with an inviting, clickable banner. These choices make the panel highly actionable, visually appealing, and conversion-optimized.
+
+  4.2: The widget is always visible, fixed at the top margin of the products page, enabling shoppers to filter results anytime without page reload, thus maximizing engagement and conversion. No additional triggers are required; it appears immediately when the page loads.
+
+  4.3: Users can select/deselect categories, brands, rating levels via checkboxes, and adjust min/max price via input. Hitting “Show Results” filters products accordingly. “Clear all filters” resets selections. Users can click the deal banner for time-limited offers. Responsivity ensures it remains usable on mobile, with actions that keep users engaged, encourage browsing, and minimize cart abandonment.
+  -->
+</body>

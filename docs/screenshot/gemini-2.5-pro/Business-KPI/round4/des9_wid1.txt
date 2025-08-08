@@ -1,0 +1,34 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a clean, card-style component with rounded corners and a subtle shadow, making it float above the page content. It's centrally positioned at the top of the viewport for maximum visibility without being overly intrusive. 
+    
+    Layout: It's vertically structured with clear headings for "Shipping Method" and "Optional Add-ons". This creates a logical flow, guiding the user from a necessary choice (shipping) to an optional one (upsells). A prominent "free shipping" banner at the top uses psychological motivation to increase order value.
+    
+    Colors: The palette is intentional. A neutral white background with dark grey text ensures high readability. The primary action color for the main CTA is a vibrant green, which psychologically signals "Go" and "Success," encouraging clicks. A trustworthy blue is used as an accent for the free shipping promo and selected states, drawing attention without competing with the main CTA.
+    
+    Sizing: All interactive elements are large and have generous padding, making them easy to click on both desktop and mobile. Font sizes are hierarchical, with clear headings and readable body text, ensuring users can scan information quickly and confidently. This reduces friction and cognitive load.
+    *****Response*****
+
+    *****Response*****
+    4.2 Question 2: What triggers the appearance of this widget?
+
+    The ideal trigger for this widget is the user's action of clicking "Add to Cart" on a product page. Immediately upon this click, the widget would appear. 
+
+    This timing is chosen to capitalize on the user's peak purchase intent. They have just made a decision to buy, and their attention is focused on the transaction. Presenting shipping costs and relevant upsells at this exact moment is highly effective. It confirms their item was added, streamlines the next step, and presents opportunities to increase the order value before they enter the more formal, multi-step checkout process. This avoids surprising them with shipping costs later, a primary cause of cart abandonment, and makes the path to purchase feel faster and more integrated. It acts as an intermediary step that combines cart confirmation with checkout preparation.
+    *****Response*****
+
+    *****Response*****
+    4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    The user has a clear and focused set of interactions designed to guide them toward completing their purchase:
+
+    1.  **Shipping Selection:** The user must choose a shipping method. This is handled by radio buttons, ensuring only one option can be selected at a time. The "Standard" option is pre-selected as a sensible default to reduce decision fatigue.
+
+    2.  **Add-on Selection:** The user can opt-in to one or more add-ons, like "Gift Wrapping" or an "Extended Warranty". These are checkboxes, allowing for multiple, independent selections. Clicking an option toggles its selection state.
+
+    3.  **Proceed to Checkout:** The primary interaction is clicking the large, green "Proceed to Checkout" button. This is the main call-to-action that moves the user to the final payment stage.
+
+    4.  **Dismiss the Widget:** The user can click the "×" icon in the top-right corner. This allows them to close the widget and continue shopping, perhaps to add more items to qualify for the free shipping promotion mentioned in the banner. This interaction is crucial to prevent trapping the user and reducing friction.
+    *****Response***** -->
+
+</body>

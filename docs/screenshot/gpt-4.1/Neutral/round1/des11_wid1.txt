@@ -1,0 +1,10 @@
+Question 1:
+The widget is a 400px wide, white, rounded box with a soft drop shadow, centered at the top of the viewport with a 20px margin. It uses clean typography and blue/red accent colors common to e-commerce. Key info (plan, renewal, etc.) is displayed in a muted box, while red highlights the cancellation warning and button. This style is both modern and attention-grabbing for critical actions.
+
+Question 2:
+The widget typically appears when users click “Cancel Membership” within their account settings. It acts as a confirmation modal, preventing accidental cancellations and providing essential information before finalizing the action.
+
+Question 3:
+Users can: (a) Review membership details and warnings, (b) Click "Confirm Cancel" to proceed (triggers cancellation), or (c) Click "Keep Membership" to dismiss the widget and retain their plan. The buttons provide clear, distinct choices to avoid confusion.
+
+-->

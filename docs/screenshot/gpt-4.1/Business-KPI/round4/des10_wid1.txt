@@ -1,0 +1,6 @@
+4.1: The widget appears as a fixed, rounded banner near the top of the page, set 20px from the top for maximum visibility. It uses a bold gradient (blue-green) aligned with trustworthy/commercial themes, contrasted with white and cheerful yellow for CTAs. The main content features an attractive image alongside compelling membership offer text, benefit bullets, and a short form (email input + join button). Padding, rounded corners, subtle text effects, and spacious layout enhance professionalism and scannability—boosting trust and conversions.
+
+4.2: The widget appears immediately when the user visits the homepage or landing/product pages, targeting new or non-logged-in visitors to encourage immediate sign-up. It can reappear on session reloads if not dismissed or completed.
+
+4.3: Users can close the banner (minimizing annoyance/bounce), enter their email, and submit to join—all inline, instantly. Upon signup, the widget thanks the user, confirms the perk, and presents a "Shop Now" button, nudging them deeper into the conversion funnel. The close/X button is accessible. The banner automatically hides after successful signup, keeping the site uncluttered.
+-->

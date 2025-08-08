@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-like design with a white/light gray background (f8f9fa) and subtle shadow for depth. Sections are divided by light borders with clear headings in bold. Checkboxes are properly spaced with readable 14px labels. The blue apply button provides strong visual hierarchy. These choices enhance usability - clear sections organize information, adequate spacing prevents crowding, and color contrast ensures readability.
+    
+    Question 2: This filter panel would typically appear either persistently on product listing pages (left sidebar) or as a modal overlay triggered by a "Filter" button on mobile views. The persistent display helps users quickly see available filtering options without additional clicks.
+    
+    Question 3: Users can: 1) Select/deselect category checkboxes, 2) Set minimum/maximum price values, 3) Filter by rating thresholds, and 4) Apply all selected filters with the button. The design allows for multiple simultaneous filters across different criteria, with visual feedback for selected options.
+    -->
+</body>

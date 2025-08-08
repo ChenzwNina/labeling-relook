@@ -1,0 +1,11 @@
+Question 1:
+The widget is a 380px-wide, white, rounded rectangle with a soft drop shadow, positioned near the top center (20px margin). The header uses a bold, dark slate color. Primary actions are clear: a bold red “Confirm Cancellation” button and a muted gray “Go Back” button. Supporting text uses lighter colors for easy reading. The color palette echoes established, trustworthy ecommerce UIs, helping users feel at ease during a critical action. The design emphasizes legibility, hierarchy, and emotional reassurance.
+
+Question 2:
+This widget appears when a logged-in user initiates the process to cancel their paid membership—usually via an account settings or subscription management area.
+
+Question 3:
+Users can: (1) Review the consequences of cancellation and the renewal date; (2) Click “Go Back” to exit the widget without cancelling; (3) Click “Confirm Cancellation” to proceed; (4) Follow support or policy links for further information. The action buttons give clear, immediate choices for either confirming the cancellation or returning to the previous page.
+
+-->
+</body>

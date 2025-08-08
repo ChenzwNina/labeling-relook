@@ -1,0 +1,19 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, modern search panel fixed near the top of the screen. It has a white background with a subtle shadow, making it stand out from the page content below. The layout is structured using Flexbox for alignment, featuring a brand logo ("ShopWise") on the left, a large central search bar, and a shopping cart icon on the right. The search bar itself is a composite element with a category dropdown on its left and a prominent blue search button on its right. The primary color is a trustworthy blue (#007bff), used for the search button to create a clear call-to-action. Neutral grays are used for text and borders to ensure high readability and a professional look. This design is chosen for its familiarity and efficiency; it mirrors the layout of major e-commerce sites, reducing the cognitive load on users and making the core search functionality immediately accessible and intuitive.
+
+### Question 2: What triggers the appearance of this widget?
+
+This widget does not require a trigger to appear. It is a persistent, static element that is visible as soon as the webpage loads. It is styled with `position: fixed`, which anchors it to the viewport, 20 pixels from the top. This design choice ensures that the search functionality, a critical feature for an e-commerce site, is always available to the user, regardless of how far they scroll down the page. Constant visibility eliminates the need for users to scroll back to the top to perform a search, which streamlines the shopping experience and can help increase product discovery and conversion rates.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several key interactions with this widget. They can:
+1.  **Type a query:** The user's primary action is to type what they are looking for into the search input field. A `focus` state highlights the entire search form with a blue glow, providing clear visual feedback.
+2.  **Filter by category:** Before searching, the user can click the "All Categories" dropdown to select a specific category like "Electronics" or "Fashion," which narrows the scope of their search.
+3.  **Initiate the search:** By clicking the blue search button (with the magnifying glass icon) or pressing the 'Enter' key, the user submits their query and chosen category to view a results page.
+4.  **Navigate to the cart:** The user can click the cart icon on the right, which would take them to their shopping cart page. A red badge on the icon instantly informs them of the number of items currently in their cart.
+5.  **Return to the homepage:** Clicking the "ShopWise" logo typically serves as a universal way to navigate back to the website's homepage.
+
+-->
+</body>

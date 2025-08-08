@@ -1,0 +1,10 @@
+Question 1:
+    The widget has a clean, modern look with a white background, subtle shadows, and rounded corners. The header contains an image (product photo) and order info; beneath it, a horizontal progress bar shows the order's tracking status step-by-step, using circles (colored for completed/current, gray for incomplete) with status labels underneath. Text shows current tracking status and delivery estimate in a colored message box. Action buttons ("Track Package" in blue, "Order Details" in gray) are at the bottom, styled for visibility and touch. Design uses blue (#0070f3) and green (#20b883) as accents, medium font sizes, and spacing for clarity—mirroring real e-commerce UIs.
+
+    Question 2:
+    The widget appears when a logged-in user views their order status page, or when they click "Track Order" from their account, an order confirmation email, or similar navigation meant to check order progress.
+
+    Question 3:
+    Users can view their order number, date, track the shipping progress visually, and read delivery updates. They can click "Track Package" for detailed tracking (typically opens a shipping partner or modal) and "Order Details" to see full order info (invoice, address, items). On smaller screens, the design adapts (responsive). If applicable, clicking a status step could show more info (not implemented here).
+    -->
+</body>

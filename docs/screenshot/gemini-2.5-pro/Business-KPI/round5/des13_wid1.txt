@@ -1,0 +1,25 @@
+-->
+<!--
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a persistent, responsive banner positioned at the top of the viewport. It has a clean, white background with a subtle shadow to lift it off the page, conveying professionalism. The layout uses Flexbox to organize elements logically from left to right: a value proposition, input fields, a primary action button, and social logins.
+
+Colors are chosen strategically. The primary "Sign In" button is a vibrant green (#28a745), a color associated with "Go" and success, to maximize conversion rate. A prominent blue (#007bff) is used for the "Create an Account" link to offer a clear, high-value alternative, encouraging new sign-ups and driving sales with a 15% discount offer. Fonts are a highly-readable sans-serif (Lato), with larger, bolder text for headings to create a clear visual hierarchy. Social login buttons use official brand iconography, making them instantly recognizable and trustworthy, which helps minimize user hesitation and bounce rate.
+-->
+<!--
+4.2 Question 2: What triggers the appearance of this widget?
+
+The widget’s appearance is triggered by the page load itself. It is designed as a persistent, non-modal banner that is visible by default to all users visiting the site. This approach ensures that the powerful incentives—such as "Faster Checkout" for returning users and a "15% OFF" discount for new sign-ups—are immediately communicated. This strategy aims to maximize the number of unique and returning visitors who engage with the sign-in/sign-up process. While it appears by default, it includes a prominent "dismiss" button ('×'). This gives users full control, preventing the banner from feeling intrusive, which is crucial for minimizing the site's bounce rate. The banner remains fixed at the top as the user scrolls, keeping the call-to-action constantly in view to maximize engagement without disrupting the browsing experience.
+-->
+<!--
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a comprehensive range of interactions designed to be frictionless and cater to different user types, directly supporting e-commerce goals.
+
+1.  **Direct Sign-In:** A returning user can type their email and password into the labeled input fields and click the prominent green "Sign In" button. This primary path is streamlined to get users into their accounts quickly, facilitating faster checkouts and reducing cart abandonment.
+2.  **Create an Account:** A new user can click the "Create an Account & Get 15% OFF" link. This CTA is designed to maximize new user acquisition and drive initial sales by offering a clear, immediate financial incentive.
+3.  **Social Login:** Users can click the "Google" or "Apple" buttons for one-click authentication. This drastically reduces friction, which boosts conversion rates and is particularly effective for mobile users.
+4.  **Password Recovery:** Users who have forgotten their credentials can click the "Forgot Password?" link, an essential usability feature that prevents user frustration and potential session abandonment.
+5.  **Dismissal:** Any user can click the '×' icon to dismiss the banner, giving them control over their browsing experience and minimizing the bounce rate from users who aren't ready to sign in.
+-->
+</body>

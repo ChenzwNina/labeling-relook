@@ -1,0 +1,7 @@
+Question 1: The widget features a horizontal navigation bar with a light gray background (#f8f9fa) and subtle shadow. Main category links are dark gray (#333) with 500 font weight, turning blue (#007bff) on hover. Dropdown menus appear below with white background and shadow, containing 200px-wide items. The design is clean, professional, and accessible, with sufficient spacing (20px between categories) for easy interaction.
+
+    Question 2: The widget appears as a persistent navigation element at the top of the page. Dropdown menus appear on hover over category items, triggered by the :hover CSS pseudo-class. This provides immediate visual feedback without requiring clicks.
+
+    Question 3: Users can: 1) Hover over categories to reveal dropdown menus, 2) Click main category links to navigate to category pages, 3) Click dropdown items to navigate to subcategory pages, 4) The menus automatically hide when moving the cursor away. The design ensures smooth transitions between states with CSS animations.
+    -->
+</body>

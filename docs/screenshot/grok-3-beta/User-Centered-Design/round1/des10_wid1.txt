@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background, subtle shadow for elevation, and a centered layout for focus. The color scheme uses blue (#007bff) for interactive elements like buttons and links for trust and engagement, green (#28a745) for success feedback, and red (#dc3545) for errors. Input fields are full-width for easy interaction, with a soft border and focus glow for visibility. The layout is responsive, constrained to a max-width of 400px for readability. These choices ensure clarity, accessibility, and a professional e-commerce aesthetic. -->
+
+    <!-- Question 2: The widget appears at the top of the page with a 20px margin, likely triggered when a user visits the membership sign-up page or clicks a promotional banner/link encouraging membership. It may also appear for non-logged-in users as a call-to-action on the homepage. -->
+
+    <!-- Question 3: Users can enter their name, email, and password in the form fields, with real-time feedback via border color changes on focus. They can submit the form, receiving success or error messages. Hover effects on the button and links provide visual cues. The button disables during submission to prevent multiple clicks, and required fields constrain invalid actions. -->
+</body>

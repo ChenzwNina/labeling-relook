@@ -1,0 +1,5 @@
+Question 1: The widget has a clean, modern design with a white background and subtle shadow for depth. It uses red (#d32f2f) for the heading and cancel button to indicate importance, with neutral grays for other elements. The layout is organized vertically with clear spacing between sections. Radio buttons are large enough to click easily, and the textarea appears only when "Other" is selected to reduce clutter. These choices prioritize usability while maintaining visual hierarchy.
+
+    Question 2: The widget would appear when a user navigates to account settings and selects "Cancel Membership" or clicks a similar cancellation link. It might also appear after failed payment attempts or prolonged inactivity as a retention effort.
+
+    Question 3: Users can: 1) Select a cancellation reason via radio buttons, 2) See additional text field when choosing "Other", 3) Submit cancellation (with validation), or 4) Choose to keep their membership. The interface provides immediate feedback for incomplete submissions and confirms successful actions.

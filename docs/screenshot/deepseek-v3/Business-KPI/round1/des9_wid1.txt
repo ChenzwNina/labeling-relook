@@ -1,0 +1,5 @@
+Question 1: The widget has a clean, card-like design with white background and subtle shadow. It uses blue accents (#4a90e2) for selected options and interactive elements. Options are displayed in cards with 12px padding, 1px borders, and 6px border-radius for a modern look. The layout groups shipping options and add-ons separately with clear headings. These choices create visual hierarchy, ensure readability, and make the interface intuitive while maintaining brand consistency.
+
+    Question 2: This widget appears during the checkout process after the user enters their shipping address but before payment. It triggers when the system needs shipping method selection and offers optional add-ons that might enhance the purchase.
+
+    Question 3: Users can: 1) Select one shipping option by clicking radio buttons, 2) Choose multiple add-ons via checkboxes, 3) Hover over options to see highlight effects, 4) Click the "Continue" button to proceed. Each interaction provides visual feedback (color changes, selection states) to confirm user actions.

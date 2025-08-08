@@ -1,0 +1,11 @@
+Question 1:
+  The widget appears as a compact, centered modal box with a subtle shadow and clean, modern look on a muted background. It uses soft whites and grays for panels, a red accent on the cancel button, and highlighted warnings for important information. Action buttons are prominent and clear, with "Cancel Membership" in a red filled style and "Keep Membership" in muted neutral. Strong visual separation (header, warning, feedback) and iconography aid clarity. This layout ensures high visibility of core actions and consequences, drawing focus while aligning with e-commerce UI norms.
+
+  Question 2:
+  The widget appears when a user selects an option like "Cancel Membership" from their account settings or membership management page. It serves as a confirmation modal that intercepts cancellation attempts, requiring explicit user action before processing the request.
+
+  Question 3:
+  Users can review their plan, billing info, and the impact of cancellation instantly. Two actions are possible: keep (dismiss/return) or confirm cancellation. Feedback is provided ("Your Premium membership has been cancelled...") upon success, and further actions (re-cancel, double submit) are prevented by disabling relevant buttons after a choice, offering clear visual cues at every step.
+
+  -->
+</body>

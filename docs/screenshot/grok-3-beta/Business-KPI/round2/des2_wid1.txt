@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, white background with a subtle shadow for elevation, ensuring it stands out at the top of the page. Categories are displayed in a horizontal list with bold, dark text for readability, and the featured category (Electronics) is highlighted in coral (#ff6f61) to draw attention. Hover effects include color change and a slight scale transform for interactivity. The promo banner below uses a vibrant coral background for urgency. These choices maximize visibility, encourage clicks (conversion), and align with e-commerce branding for trust and engagement.
+
+Question 2: This widget appears statically at the top of every page with a 20px margin, ensuring constant visibility for navigation. It triggers on page load without user input, as it’s a core navigation element designed to guide users immediately to product categories.
+
+Question 3: Users can interact by hovering over category links for visual feedback (color change and scale), clicking links to navigate to specific category pages, and clicking the promo banner for flash sale deals. These interactions drive page views, reduce bounce rates, and minimize cart abandonment by keeping users engaged with clear navigation and enticing offers.
+-->

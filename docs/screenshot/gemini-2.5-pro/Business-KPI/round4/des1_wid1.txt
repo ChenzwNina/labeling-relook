@@ -1,0 +1,21 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The promotional banner is a sleek, rectangular bar that spans most of the viewport width. It features a vibrant, energetic color gradient from a warm red (#FF4E50) to a bright yellow (#F9D423). This high-contrast background is designed to immediately capture user attention (maximizing CTR and minimizing bounce rate). The text is crisp white for maximum readability against the colorful background.
+
+The layout uses flexbox to neatly organize its elements. On the left, bold text announces the "Mid-Season Super Sale" with a smaller sub-text detailing the "up to 50% off" and "Free Shipping over $75" offers. This multi-layered offer structure aims to maximize both conversion rate (with the discount) and average order size (with the free shipping threshold). In the center is a dynamic countdown timer, creating a sense of urgency to drive immediate sales. The primary call-to-action is a large, white "Shop The Deals" button that stands out, and a subtle '×' button on the far right allows users to dismiss the banner, ensuring a positive user experience.
+
+*****Response*****
+4.2 Question 2: What triggers the appearance of this widget?
+
+The banner is triggered to appear immediately on page load. As soon as a user lands on a key page of the website—such as the homepage, a category page, or a product page—the banner animates into view from the top. This immediate visibility is crucial for several reasons. First, it ensures that every visitor, new or returning, is instantly aware of the major ongoing promotion, which is key to maximizing sales and conversions from the very start of their session. Second, by presenting a compelling offer upfront, it reduces the bounce rate by giving users a strong reason to stay and explore the site. There's no need for the user to scroll or wait; the value proposition is presented right away to maximize engagement.
+
+*****Response*****
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have two primary and distinct interactions with this banner, catering to both engagement and user control.
+
+1.  **Positive Engagement (Clicking the CTA):** The main desired interaction is clicking the "Shop The Deals" button. This action immediately navigates the user to a dedicated landing page that exclusively showcases all products included in the sale. This streamlined path from offer to product discovery is designed to maximize the conversion rate by reducing friction and helping users act on their impulse to explore the deals.
+
+2.  **Dismissive Action (Clicking the Close Button):** Users who are not interested in the promotion can click the '×' close button. This action smoothly animates the banner out of view, hiding it for the remainder of the user's session. This respects the user's intent and prevents the banner from becoming an annoyance, which is crucial for minimizing site abandonment. This interaction ensures that users who want to focus on other tasks are not persistently obstructed, thereby maintaining a positive overall user experience.
+-->
+</body>

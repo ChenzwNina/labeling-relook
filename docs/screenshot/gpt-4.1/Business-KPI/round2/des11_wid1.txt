@@ -1,0 +1,6 @@
+4.1: The widget is a white card with soft drop shadow, rounded corners, and a moderate width (max 510px), aligned top-center with 20px margin-top. The layout features a friendly icon, bold heading, subtle description, yellow warning area, radio button reasons, a highlighted “save offer” box, bold color action buttons, and quick-support links. Colors (deep blue titles, orange/yellow warnings, red cancel, blue/green accents) leverage urgency, trust, and corporate branding standards for e-commerce retention. Call-to-action prominence, loyalty reminders, and visual hierarchy are optimized to reduce churn and abandonment.
+
+4.2: This widget appears when a logged-in user clicks “Cancel Membership” or similar from the account dashboard or subscription page. It's directly triggered by user intent to cancel, catching them before the process finalizes.
+
+4.3: Users can: select a cancellation reason (activates cancel button and may show a retention offer based on choice), click “Keep Membership” to dismiss, accept a special discounted offer, click to confirm cancellation (with confirmation popup and followup), or access support/features links. The save-offer link tries to intercept some cancellations, promoting retention and higher order value.
+-->

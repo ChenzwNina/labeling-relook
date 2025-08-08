@@ -1,0 +1,7 @@
+Question 1: The widget features a horizontal navigation bar with a light gray background and subtle shadow. Main categories are displayed in dark gray with 600 weight font, turning blue on hover. Dropdown menus appear below with white background and shadow. I chose clean, professional colors for readability, hover effects for interactivity, and sufficient spacing for touch devices. The layout is responsive with flexbox.
+
+    Question 2: The widget appears as a persistent navigation element at the top of every page. Dropdown menus appear on hover (desktop) or click (mobile, though not implemented here). The search box is always visible for quick access.
+
+    Question 3: Users can: 1) Hover over categories to reveal dropdowns, 2) Click category links to navigate, 3) Click subcategory links in dropdowns, 4) Type in the search box, 5) Click the search button. The design provides visual feedback for all interactions through color changes and smooth transitions.
+    -->
+</body>

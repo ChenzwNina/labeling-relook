@@ -1,0 +1,30 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a vertical filter panel positioned on the top-left of the viewport. It has a clean, modern aesthetic with a white background, rounded corners, and a subtle shadow, making it stand out from the main page content.
+
+**Layout**: It uses a single-column layout with distinct, scrollable sections for each filter type (Category, Price, Size, etc.). This organized structure helps users quickly locate the filter they need. Flexbox is used to manage the layout, ensuring the "Apply Filters" button sticks to the bottom.
+
+**Colors**: The color scheme is predominantly neutral (white, light greys, dark text) for high readability. A vibrant blue (`--primary-color`) is used as an accent for interactive elements like selected items, buttons, and the price slider. This contrast draws the user's attention to their selections and primary actions, providing clear visual feedback.
+
+**Elements**: Font sizes are legible (1rem for body, 1.25rem for the main heading). Interactive elements like size buttons and color swatches have ample padding and size, making them easy to click, especially on touch devices. These choices create a visually balanced, uncluttered, and user-friendly interface that feels professional and trustworthy.
+*****Response*****
+### Question 2: What triggers the appearance of this widget?
+
+This filter panel is not a widget that appears based on a specific user action like a click. Instead, it is a persistent component of the user interface. Its appearance is triggered by page navigation. It loads and becomes visible as soon as a user lands on a product listing page (PLP), such as a category page (e.g., "Men's Footwear") or a search results page. This "always-on" approach ensures that the primary function of refining product results is immediately visible and accessible to the user without requiring any extra steps. It's a standard and highly effective pattern in e-commerce design because it directly supports the main user goal on these pages: finding the right product efficiently.
+*****Response*****
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can engage with the widget in several ways to refine their product search:
+
+1.  **Selection/Deselection**: Users can click on checkboxes for text-based options like "Category" and "Brand". For "Size", they click on stylized buttons. Clicking toggles the selection state, which is clearly indicated by a checkmark or a change in background color, providing immediate feedback.
+
+2.  **Range Selection**: For the "Price Range" filter, users can conceptually drag the two handles on the slider to set a minimum and maximum price. The displayed numeric values would update in real-time, and the colored bar between the handles visually represents the selected range.
+
+3.  **Color Selection**: Users click on circular color swatches to filter by color. A selected swatch receives a distinct border, making it easy to see which colors are active filters.
+
+4.  **Applying Filters**: After making their selections, the user clicks the prominent "Apply Filters" button at the bottom. The number in the button would dynamically update to show how many products match the current filter selection, helping the user make informed decisions before applying.
+
+5.  **Clearing Filters**: A "Clear All" button in the header allows users to reset all active filters to their default state with a single click, enabling them to start their search refinement process over quickly.
+*****Response***** -->
+
+</body>

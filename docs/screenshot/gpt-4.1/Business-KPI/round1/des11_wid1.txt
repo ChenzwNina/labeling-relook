@@ -1,0 +1,7 @@
+4.1: The widget is a centered dialog at the top of the page, set against a subtle shadowed white card with rounded corners. The logo area uses a blue accent, while text combines deep navy and blue hues for brand trust. Key offers are highlighted on a blue-tinted box. Buttons are clearly differentiated: "Confirm Cancellation" is outlined in red, while "Keep My Membership" is a bold blue, encouraging retention. A feedback dropdown collects user insights. Layout is compact but well-spaced for clarity and ease-of-use. These design elements maximize retention, data collection, and user engagement, while keeping a premium feel aligned with leading e-commerce UX patterns.
+
+  4.2: The widget appears when a user navigates to the membership management or cancellation section, or after clicking "Cancel Membership" in their account. It intercepts the cancellation action to prompt retention and collect feedback.
+
+  4.3: Users can: (1) choose a cancellation reason; (2) confirm membership cancellation; (3) decide to keep membership; (4) explore more offers via the link, which redirects to a benefits page. The "Keep My Membership" and "Explore Offers" actions are designed to deter cancellation and encourage engagement. The dropdown ensures user feedback is gathered for analytics and service improvement.
+  -->
+</body>

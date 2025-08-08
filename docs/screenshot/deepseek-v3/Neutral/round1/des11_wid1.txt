@@ -1,0 +1,5 @@
+Question 1: The widget features a clean, centered white container with soft shadows for depth. It uses a red cancellation button for urgency/attention, balanced with a neutral keep membership option. Text is legible with proper hierarchy (heading > body > form elements). The design choices prioritize clarity, reduce cognitive load with clear options, and maintain brand consistency while guiding users through a potentially negative action.
+
+    Question 2: This widget would appear when a user navigates to their account settings and selects "Cancel Membership" from their subscription management options. It could also trigger from an email link for cancellation or after multiple failed payment attempts.
+
+    Question 3: Users can: 1) Select a cancellation reason from a dropdown, 2) Provide optional feedback via textarea, 3) Confirm cancellation (with validation), 4) Choose to keep their membership instead, and 5) See a confirmation message after cancellation. The interface provides clear feedback at each step to ensure intentional actions.

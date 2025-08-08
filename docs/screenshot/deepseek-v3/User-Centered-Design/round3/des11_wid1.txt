@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, centered white card on a light gray background. It uses a red confirmation button for urgency, with a neutral gray cancel option. Elements are sized for readability (24px heading, 16px body text) with ample padding. The layout is linear and intuitive, guiding users through the cancellation flow. These choices prioritize clarity, reduce cognitive load, and make the process feel deliberate to potentially reduce cancellations.
+
+    Question 2: The widget appears when a user navigates to account settings and selects "Cancel Membership" or clicks a cancellation link in their account portal. This ensures intentional access rather than accidental triggers.
+
+    Question 3: Users can: 1) Select a cancellation reason from a dropdown, 2) Provide optional feedback in a textarea, 3) Cancel the process with the gray button, or 4) Confirm cancellation with the red button. The interface provides clear feedback for each action with hover states and responsive form elements.
+    -->
+</body>

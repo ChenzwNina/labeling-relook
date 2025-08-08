@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design with white background and subtle shadows for depth. Shipping options are displayed as cards with blue accent colors for selected items. Text sizes are hierarchical (18px title, 16px options) for easy scanning. The layout uses ample spacing and rounded corners for a friendly feel. These choices enhance usability - clear visual hierarchy helps users quickly understand options, while the interactive elements provide clear feedback.
+
+    Question 2: This widget typically appears during checkout after the user enters their shipping address. It's triggered when the system needs shipping method selection before proceeding to payment. The timing ensures users see accurate shipping options and costs based on their location before finalizing purchase.
+
+    Question 3: Users can: 1) Select one shipping method by clicking radio buttons (visual feedback shows selection), 2) Choose optional add-ons via checkboxes, 3) Hover over options to see highlight effects, and 4) Click "Continue" to proceed. The widget provides immediate visual feedback for all interactions, with selected options highlighted in blue and price changes reflected in the total.
+    -->
+</body>

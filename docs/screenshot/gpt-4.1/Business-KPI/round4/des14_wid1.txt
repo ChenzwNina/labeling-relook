@@ -1,0 +1,7 @@
+4.1: The widget is a fixed top-center card with a clean white background, soft blue/green highlights, and subtle drop shadow for prominence. Key order info, a blue progress line, and rounded circular tracking icons create a modern, trust-inspiring look. The progress line is visually engaging, emphasizing current status and completion. Product summary and a prominent CTA use color and sizing hierarchy for clarity and encouragement. The colors blue and green are chosen for reliability and action, while element sizing ensures readability yet compactness, helping conversion and reducing abandonment.
+
+  4.2: The widget appears immediately on eligible order pages when a user logs in or visits their account/order details, triggered by page load or clicking “Track Order” from emails/notifications. This ensures high visibility at times users most desire reassurance or to re-engage with their purchase.
+
+  4.3: Users can check real-time order status at a glance, click “View Full Details” for granular shipment updates or support actions, open “Need help?” for assistance, and click product details for more info (enhancing cross-sell/upsell via more product views). Steps/labels provide clarity; responsive design enables interaction on all devices.
+  -->
+</body>

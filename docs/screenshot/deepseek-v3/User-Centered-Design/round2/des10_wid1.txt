@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and blue accent color for the button. It's 350px wide with ample padding (30px) and rounded corners for a friendly appearance. Text sizes are hierarchical (24px for heading, 14px for body) for good readability. The layout is centered with clear form labels above inputs. These choices create a professional yet approachable look that builds trust while maintaining usability.
+
+    Question 2: This widget would typically appear when a user clicks a "Join Membership" or "Sign Up" button in the website header, or as a popup after adding items to cart (for first-time visitors). It might also appear as a persistent sidebar option or after completing a purchase as an upsell opportunity.
+
+    Question 3: Users can: 1) Fill in form fields (name, email, password) with validation, 2) Submit the form (triggering success feedback), 3) View the membership benefits list, and 4) Close the widget (though this functionality would need to be implemented in the context where the widget appears). The form provides immediate validation feedback for required fields and password length.
+    -->

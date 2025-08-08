@@ -1,0 +1,6 @@
+Question 1: The widget is a product card with a clean, modern design. It uses a white background with a subtle shadow for elevation, a vibrant orange (#e44d26) for the price and "Add to Cart" button to draw attention, and grayscale text for hierarchy. The card is 300px wide, with a 200px image height for prominence, and consistent spacing (10-15px) for readability. These choices ensure a professional e-commerce look, emphasizing key actions (buying) and information (price, rating) for quick decision-making, aligning with visibility and efficiency principles.
+
+Question 2: This widget appears on product listing pages or search result pages of an e-commerce website. It is triggered when a user browses categories, searches for items, or views featured products, displaying individual items for sale as part of a grid or list layout.
+
+Question 3: Users can interact with the widget by hovering over the card for a subtle lift effect (feedback), clicking the "Add to Cart" button to purchase (clear affordance), and visually scanning key details like price and rating. The button’s color change on hover and click provides feedback, while the single action (add to cart) prevents unintended interactions, supporting constraints and efficiency.
+***** -->

@@ -1,0 +1,10 @@
+Question 1:
+  The widget appears as a white, rounded rectangle (460px wide, responsive) with a subtle drop shadow, positioned at the top center with a 20px top margin. The header section includes a square product image, order number, date, and a green status badge. The tracking steps are shown as a vertical progress timeline: each step has a colored circular indicator (green for completed, gray for upcoming), step titles, and timestamps or details. The bottom has a bold green button. The layout follows modern e-commerce styling, using green for progress, ample spacing for readability, and soft backgrounds to focus user attention.
+
+  Question 2:
+  This widget typically appears when the user clicks "Track Order" from their order history or order confirmation pages. It may also be triggered after placing an order by displaying immediately on the confirmation screen, or when a user enters their tracking number.
+
+  Question 3:
+  Users can read comprehensive status information in the visual step timeline. They can click the “View Delivery Details” button to see expanded logistics (map tracking, delivery address, contacts). On smaller screens, the widget remains fully accessible due to responsive design. The buttons and step indicators provide interactive feedback (such as color change on hover for buttons), but the steps themselves are for informational display only.
+  -->
+</body>

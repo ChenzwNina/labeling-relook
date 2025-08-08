@@ -1,0 +1,6 @@
+Question 1: The search panel spans the full width at the top of the page with a white background and subtle shadow for elevation. It uses a blue (#007bff) search button for high visibility and contrast, paired with a neutral gray border (#ddd) for input and dropdown. The layout is centered with a max-width of 800px for readability, featuring evenly spaced elements (input, dropdown, button) for a clean look. Element sizes are consistent (padding 10px, font-size 16px) to ensure uniformity. These choices prioritize clarity, accessibility, and a professional e-commerce aesthetic.
+
+Question 2: The search panel is a persistent component, always visible at the top of the page (fixed position) with a 20px margin from the viewport top. It appears on page load and remains accessible across all pages of the e-commerce site to facilitate quick product searches at any time.
+
+Question 3: Users can interact with the search panel by selecting a category from the dropdown to filter searches, typing queries into the input field with real-time focus feedback, and clicking the search button to initiate a search. The button is disabled if no input is provided, preventing invalid actions. Hover effects on the button provide visual feedback, ensuring users understand clickable elements.
+-->

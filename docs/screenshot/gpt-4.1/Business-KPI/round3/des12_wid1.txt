@@ -1,0 +1,11 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+  The widget uses a white card over a soft gray background, with brand colors in the logo and call-to-action (blue and green gradients). Input fields are large with clear labels for conversion. Visual hierarchy is ensured by bold titles and prominent signup/promo buttons. Alternative signup options have recognizably styled social buttons, promoting easy registration. Responsive design supports mobile and desktop. The clean, modern look inspires trust, increases engagement, and minimizes friction, fostering conversions and limiting abandonment.
+
+  4.2 Question 2: What triggers the appearance of this widget?
+  This widget is triggered when a user navigates to the "Create Account" page or chooses to sign up during checkout, promotion popups, or by clicking “Sign Up” on the main menu. It is always visible at the top of the viewport (20px margin) to ensure discoverability and immediate access.
+
+  4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+  Users can enter their name, email, and password, and press the "Sign Up & Get 10% Off" button. They can also register using Google or Facebook via dedicated buttons, access the Terms or Privacy Policy, or switch to the Sign In page. All input fields have real-time highlighting on focus for usability. Social registrations minimize friction and abandonment, while promotions and clear links boost engagement and time on site.
+
+  -->
+</body>

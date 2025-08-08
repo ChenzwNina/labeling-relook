@@ -1,0 +1,9 @@
+4.1 Question 1: 
+  The widget is a vertically-centered card with a clean white background, rounded corners, and subtle drop shadow for elevation. It’s 380px wide on desktop and fully responsive on small devices. The main colors are brand blue (#266ef1), dark slate text, and muted grays for secondary elements. Action buttons and error states are high-contrast for accessibility. Fields are generously spaced; the password field has a visible toggle. Social sign up buttons include a placeholder image to suggest Google/Facebook. This design is visually consistent, welcoming to new users, and exposes all available sign-up methods.
+
+  4.2 Question 2: 
+  This widget appears by default at the top of the page when a user selects “Create Account”/“Sign up” from navigation or when account creation is required to proceed (e.g., at checkout). It remains pinned with 20px top margin for visibility and easy access.
+
+  4.3 Question 3: 
+  Users can: (a) Enter full name, email, and password (with inline validation and feedback); (b) Toggle password visibility for affordance; (c) Submit the form to create an account (disabled until valid); (d) Sign up with Google/Facebook as alternatives; (e) Navigate to sign-in if they have an account. Invalid input is clearly indicated, and feedback (such as account creation progress) is visible to users.
+  -->

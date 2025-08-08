@@ -1,0 +1,9 @@
+4.1 Question 1:
+The widget employs a clean, professional design with a white background, blue accents (#185adb), soft box shadows for elevation, and rounded corners for modern appeal. Filter dropdowns and text fields are compact with subtle gray borders and backgrounds, optimizing for readability and an uncluttered look. The action buttons are prominent: “Show Products” uses a strong blue for conversion prominence, and “Reset” in an outlined blue conveys a secondary action. An integrated ad banner in the filter panel’s corner highlights a promotion with a mini image and direct CTA. This layout ensures high usability, draws attention to filtering (increasing product discovery and conversion), maximizes exposure to ads/promos, and supports efficient navigation—driving user engagement, more page views, and increased order size.
+
+4.2 Question 2:
+The filter panel appears immediately and persistently at the top of product listing/search/browse pages. It’s designed to be readily available for users needing to refine product results, thus triggering upon navigating to product-centric sections of the site, and remaining visible while users scroll or interact with product lists.
+
+4.3 Question 3:
+Users can: select categories, brands, set min/max prices, and filter by customer ratings. They can submit filters to update product listings or reset to view all items. Interacting with the ad banner (clicking its CTA) navigates to the related promotion, e.g., a free shipping landing page. The form supports keyboard navigation and quick data entry, maximizing accessibility and reducing cart abandonment risk.
+-->

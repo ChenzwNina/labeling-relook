@@ -1,0 +1,9 @@
+Question 1:
+The product card has a soft white background, rounded corners, and a subtle shadow for elevation, sitting atop a very light gray background. The component is compact (340px wide), with a prominent product image at the top (220px tall). Below, product details like the title (bold, dark), a concise description, a gold-star rating with muted review count, and a red price catch attention. Two action buttons—“Add to Cart” (blue, white text) and “View Details” (white with blue border)—stand out for conversion and product exploration. These choices mirror leading e-commerce UX for clarity and persuasive action.
+
+Question 2:
+This widget appears wherever an individual product is being displayed, such as in a product listing grid, a recommendation row, or search results. It is not triggered by a user action—it is a static component rendered to visually represent a product item.
+
+Question 3:
+Users can: (1) Click "Add to Cart" to add the item to their shopping cart. (2) Click "View Details" to navigate to the full product page. (3) View the product's image, star rating, review count, price, and key attributes. Image accessibility is supported through alt text. No further in-widget interactions are present, but external events (like hover) provide feedback for the buttons.
+-->

@@ -1,0 +1,30 @@
+-->
+<!--
+    Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The filter panel is a vertical rectangle (280px wide) with a clean, modern aesthetic. It has a white background with a subtle shadow, making it stand out against the light gray page background. The layout is organized into distinct sections for "Category," "Brand," "Price Range," and "Rating," each separated by a thin horizontal line.
+
+    Colors: The primary color palette is neutral (whites, grays, dark text) for readability. A vibrant blue (#3b82f6) is used as an accent for interactive elements like selected checkboxes, the price slider's range, and the main "Apply Filters" button. This draws the user's eye to selections and primary actions (Rule 3.1: High visibility). Star ratings use a gold color (#f59e0b), a universally understood convention.
+
+    Elements & Sizing: A clear typographic hierarchy is established with larger, bolder headings for titles and smaller, lighter text for options and item counts. Interactive elements like checkboxes and slider handles are sized appropriately for easy clicking/dragging. Generous padding and spacing prevent a cluttered feel, making the component look organized and satisfying to use (Rule 3.7).
+-->
+<!--
+    Question 2: What triggers the appearance of this widget?
+
+    This widget is a persistent element. It does not appear based on a user trigger like a click or hover. Instead, it is always visible on product category or search results pages. For example, when a user navigates to the "Men's T-Shirts" category, this filter panel would be present on the left side of the page, adjacent to the product grid.
+
+    This design choice directly supports Rule 3.1 (High visibility of functions). By making the filter functionality constantly available, we empower users to refine the product list at any point in their journey without needing to search for a hidden button. This persistence also supports efficient task execution (Rule 3.6), as users can immediately begin filtering products without an extra click to reveal the options, reducing friction in the shopping process. On smaller mobile screens, this panel would likely be collapsed by default and triggered by a "Filter" button to save space.
+-->
+<!--
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users can perform several actions to refine their product search, with each action providing clear feedback (Rule 3.2):
+
+    1.  **Select/Deselect Filters:** Users can click on checkboxes for categories and brands. The box immediately fills with a blue background and a white checkmark, giving instant visual confirmation. The number on the "Apply Filters" button might update to reflect the count of active filters.
+    2.  **Search Within Filters:** In the "Brand" section, users can type into a search field to quickly find a specific brand, which filters the list below. This greatly improves efficiency for long lists (Rule 3.6).
+    3.  **Adjust Price Range:** Users can click and drag the two circular handles on the price slider. This action has clear affordances (the handles look draggable) and the blue progress bar between them updates in real-time. The corresponding number inputs above the slider also update, providing precise feedback.
+    4.  **Select a Rating:** Users can click on a star rating option. The selected option becomes bold, providing a clear visual distinction of the current choice.
+    5.  **Apply Filters:** Clicking the prominent blue "Apply Filters" button would submit these choices and refresh the product list on the page.
+    6.  **Clear All Filters:** Clicking the "Clear All" link in the header resets all selections (checkboxes, slider, ratings) to their default state, providing an efficient way to start over (Rule 3.6).
+-->
+</body>

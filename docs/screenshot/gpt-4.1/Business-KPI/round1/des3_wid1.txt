@@ -1,0 +1,7 @@
+4.1 The widget features a horizontally-aligned panel fixed at the top of the viewport with a 20px margin. It has a white background, gentle box shadow, and rounded corners for a modern look. To the left is a circular logo (placeholder), followed by bold sales text and a colored discount alert for urgency. The search bar is large and central, with a search icon, placeholder guiding text, and bright yellow "Search" button for high visibility. Underneath is a row of clickable "Popular" keywords in colorful chips, encouraging engagement. Colors and white space create trust, urgency, and direct user focus toward searching or exploring deals.
+
+  4.2 This widget appears immediately upon page load at the top of any page, ensuring maximum discoverability and instant engagement with the site’s product catalog. Fixed positioning ensures it's always accessible as users browse.
+
+  4.3 Users can: type and submit product queries via the search bar, click "Search", tap on “Popular” keywords (which auto-fill the search bar and trigger searches or redirect), and click the discount code for copying. Accessibility is supported via ARIA labels and keyboard navigation. On mobile, the layout becomes vertical and touch-optimized. All interactions are designed to smoothly guide users toward searching and exploring, reducing bounce and abandonment.
+
+  -->

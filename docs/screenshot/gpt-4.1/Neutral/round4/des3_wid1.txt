@@ -1,0 +1,15 @@
+Question 1: 
+The widget is a centered, white rounded rectangle with subtle drop-shadow, providing a floating effect and clear separation from the background. The logo (circular placeholder) is on the left, next to a category dropdown and search input field, with a bold blue 'Search' button at the right. The button has a search icon for clarity. The UI uses neutral greys with a blue accent (#2d76ee), and the sizing is spacious: the overall height about 60px, with well-padded inputs, for good usability and modern aesthetics—matching real e-commerce interfaces.
+
+Question 2:
+The widget appears by default at the top of the webpage, always visible to encourage product discovery, following common e-commerce best practices. It is not triggered by interaction; it is present as soon as users land on the page.
+
+Question 3:
+Users can interact by: 
+- Clicking the logo (could be linked to home in full implementation).
+- Selecting a product category via the dropdown to filter their search.
+- Typing queries in the search input.
+- Submitting the search with the button or pressing Enter.
+- Field highlights on focus for feedback.
+- On narrower screens, the layout adapts for mobile.
+-->

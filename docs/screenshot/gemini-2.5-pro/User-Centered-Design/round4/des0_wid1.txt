@@ -1,0 +1,17 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The "Featured Products" widget is a wide, horizontally-scrolling carousel presented within a clean, white card with rounded corners and a subtle shadow for depth. It uses a modern, professional color palette: a neutral background (#f8f9fa), dark text for readability (#212529), and a vibrant blue (#007bff) as an accent for all interactive elements like prices and "Add to Cart" buttons. This blue draws the user's eye to key actions. The layout features a prominent title ("Our Top Picks for You"), followed by a grid of uniform product cards. Each card has a large image area, followed by a clear hierarchy of text: a small, light gray category, a bold product name, and the blue, bolded price. This design creates an uncluttered, premium feel that builds trust and makes product discovery visually appealing and efficient.
+
+    ## Question 2: What triggers the appearance of this widget?
+    
+    This widget is a static element designed for high-traffic pages like the homepage or a category landing page. Its appearance is not triggered by a specific user action; rather, it loads along with the page itself. It is positioned prominently near the top of the viewport to immediately capture the user's attention. The purpose is to surface curated, popular, or relevant products to the user without requiring them to search or navigate first. This proactive product showcase serves as a key tool for engagement and conversion, helping users discover items they might be interested in from the moment they arrive on the site.
+
+    ## Question 3: Can you describe the full range of interactions users can have with the widget?
+    
+    Users have several intuitive interaction points with this widget.
+    1.  **Hovering on a Product Card:** When a user hovers their mouse over a product card, it lifts slightly with an enhanced shadow. This provides immediate visual feedback that the element is interactive.
+    2.  **Clicking a Product:** The entire card, especially the image and title, acts as an affordance. Clicking on it would navigate the user to that product's detailed page for more information.
+    3.  **Clicking "Add to Cart":** This is the primary call-to-action. The button changes color on hover and has a "press down" effect on click, providing clear feedback. This allows for efficient purchasing directly from the featured list.
+    4.  **Carousel Navigation:** Users can click the left and right arrow buttons positioned on the sides of the product list to scroll horizontally and view more featured items without leaving the page context. These buttons also have hover states to indicate they are clickable.
+    -->
+</body>

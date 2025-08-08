@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The shopping cart widget is a compact, fixed-position box at the top-right of the viewport with a white background, subtle shadow, and rounded corners for a clean, modern look. It uses a green (#2ecc71) accent for price and button to evoke trust and action, common in e-commerce. The layout is vertical with a bold header (18px), item images (50x50px), and a full-width checkout button, ensuring clarity and easy navigation. These choices mimic real-world e-commerce designs by prioritizing accessibility and user focus on key actions like checkout. -->
+
+    <!-- Question 2: The widget appears when a user clicks on a cart icon typically found in the website’s header or adds an item to the cart. It could also display on hover over the cart icon, providing a quick preview without navigating away from the current page, enhancing user experience. -->
+
+    <!-- Question 3: Users can view cart contents with item details and prices, click the “Proceed to Checkout” button to finalize purchase, or close the widget by clicking outside or on a close icon (not coded but implied). They might also adjust quantities or remove items if extended functionality is added, though currently, it’s a static summary for quick reference and action. -->
+</body>

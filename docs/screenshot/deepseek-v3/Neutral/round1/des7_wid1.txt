@@ -1,0 +1,5 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow. Gold stars (★) represent ratings, with orange progress bars showing distribution. The layout is vertical with clear visual hierarchy - average rating at top, followed by star breakdowns. Font sizes decrease for less important information. These choices enhance readability while drawing attention to key metrics (average rating) and maintaining a professional e-commerce aesthetic.
+
+    Question 2: The widget appears when a user views a product page, automatically loading with the product details. It shows immediately as part of the product information section, typically near the price and description, to help shoppers evaluate the product before purchase.
+
+    Question 3: Users can: 1) View the average rating and total reviews at a glance, 2) Examine the detailed star distribution via the percentage bars, 3) Click on the total reviews count (if implemented) to read individual reviews, and 4) Hover over elements for tooltips (like exact percentage values). The widget is primarily informational but can link to more detailed review sections.

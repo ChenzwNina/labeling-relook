@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, card-based design with white background and subtle shadows for depth. It uses a vertical timeline with circular icons (30px diameter) to represent order status steps. Completed steps are green (#4CAF50), active steps are highlighted, and pending steps are gray. The layout is responsive with adequate padding (25px) and typography hierarchy (1.5rem title). These choices enhance readability, provide clear visual feedback about order progress, and maintain consistency with modern e-commerce design patterns.
+
+    Question 2: The widget appears when a user clicks on "Track Order" from their account page, order confirmation email, or after checkout. It can also appear automatically when visiting an order details page. The trigger is typically user-initiated action to view specific order status, not appearing without user request.
+
+    Question 3: Users can: 1) View all order status steps with timestamps, 2) Click "View Order Details" to see full order information, 3) Click "Need Help?" for customer support options, 4) Hover over buttons for subtle visual feedback. The widget is primarily informational but includes actionable elements for further exploration. No drag/swipe interactions as the content fits one view.
+    -->

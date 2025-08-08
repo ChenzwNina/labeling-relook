@@ -1,0 +1,7 @@
+-->
+    <!-- Question 4.1: The sign-in widget features a clean, modern design with a white background and subtle shadow for a professional look. The color scheme uses a vibrant tomato red (#ff6347) for the button and links to grab attention and encourage action, paired with neutral grays for text and borders to ensure readability. The layout is centered with a fixed width of 350px for the form, making it compact and focused. Input fields and buttons are spacious with 12px padding for ease of use. These choices maximize conversion by creating a user-friendly, visually appealing interface that builds trust and encourages sign-ins. -->
+
+    <!-- Question 4.2: The widget appears at the top of the viewport on pages where user authentication is beneficial, such as the homepage, checkout page, or when accessing personalized features like order history. It can also trigger as a pop-up when a user attempts to add items to a cart without being logged in, reducing cart abandonment. -->
+
+    <!-- Question 4.3: Users can interact with the widget by entering their email and password to sign in, clicking the "Sign In" button to submit, or clicking the "Create one now" link to register. Hover effects on the button and links provide visual feedback, enhancing usability. The form validates input, showing error messages if fields are empty or incorrect, guiding users to complete the process successfully. -->
+</body>

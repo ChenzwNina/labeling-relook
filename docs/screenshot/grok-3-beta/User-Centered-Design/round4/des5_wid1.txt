@@ -1,0 +1,6 @@
+Question 1: The filter panel has a clean, modern look with a white background, subtle shadow, and rounded corners for a professional appearance. It uses a blue (#007bff) 'Apply Filters' button for high visibility and contrast. Sections are evenly spaced with a flex layout, ensuring responsiveness. Font sizes (18px for headings, 14px for options) and padding provide clarity and ease of use. These choices align with e-commerce standards, ensuring familiarity and usability while maintaining a visually appealing, organized structure.
+
+Question 2: The filter panel appears at the top of the product listing page, positioned with a 20px margin from the top. It is triggered by default when a user navigates to a category or search results page, ensuring immediate access to filtering options without additional clicks, enhancing task efficiency.
+
+Question 3: Users can interact with the widget by selecting/deselecting checkboxes for categories, price ranges, and brands, providing granular control over filters. Hover effects on the 'Apply Filters' button offer visual feedback. Clicking the button applies selections (simulated with an alert). The disabled state of the button (when no filters are selected, in a real implementation) prevents invalid actions, ensuring a guided, error-free experience.
+***** -->

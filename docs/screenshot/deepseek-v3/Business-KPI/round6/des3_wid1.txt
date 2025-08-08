@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadows for depth. Input fields and buttons have rounded corners (4px radius) for a friendly appearance. The color scheme uses neutral grays (#333 for text, #666 for secondary elements, #ddd for borders) with a blue search icon for accent. The layout is organized vertically with clear visual hierarchy: search bar at top, filters in middle, results below. I chose this design for readability, accessibility, and to match common ecommerce patterns that users are familiar with.
+
+    Question 2: This search widget would typically appear when a user clicks on the search icon/magnifying glass in the website's header navigation. It could also be triggered by keyboard shortcuts (like Ctrl+K) or automatically when landing on a search results page. The widget is designed to overlay page content while maintaining context.
+
+    Question 3: Users can: 1) Type queries in the search input (with live results if implemented), 2) Filter by category via dropdown, 3) Sort results by different criteria, 4) Click on individual results to navigate to product pages, 5) Close the panel using the X button. Advanced implementations might include keyboard navigation, voice search, or search history suggestions.
+    -->
+</body>

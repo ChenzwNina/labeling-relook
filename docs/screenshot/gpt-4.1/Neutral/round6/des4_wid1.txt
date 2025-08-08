@@ -1,0 +1,10 @@
+Question 1: 
+The widget displays a horizontally laid out card grid, each card featuring a product image, name, price with optional old price, star rating, and an "Add to Cart" button. Colors are primarily white backgrounds with product images over soft gray, red for the price to attract attention, and green accent on the call-to-action button. Typography is modern and clear, and spacing is generous for readability. The header uses bold, larger text and a subtitle. Choices are inspired by successful mainstream e-commerce UIs to improve familiarity and usability.
+
+Question 2: 
+This widget is intended to be placed at the top of the e-commerce site's viewport, and appears automatically as part of the main product browsing page—showing users a curated or featured product listing immediately when they enter the website or the shop section.
+
+Question 3: 
+Users can visually scan product details, see current and old prices, and product ratings. Hovering over a product card elevates it for a sense of interactivity. Clicking the "Add to Cart" button initiates adding that item to the user's shopping cart. Product names, prices, and images serve informational purposes. Further interactions (like viewing details) would be available elsewhere but are not included directly in this component.
+
+-->

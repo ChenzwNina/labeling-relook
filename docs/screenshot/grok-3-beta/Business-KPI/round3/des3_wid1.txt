@@ -1,0 +1,6 @@
+Question 1: The search panel is designed with a clean, modern look using a white background with a subtle shadow for elevation. The color scheme incorporates a vibrant coral (#ff6f61) for the logo and search button to draw attention and evoke energy, encouraging action. The layout is centered with a fixed position at the top (20px margin) for easy access, spanning full width with a max-width of 1200px for readability. The search bar is wide and prominent to prioritize functionality, while quick links on the right maximize navigation. These choices enhance usability and brand recognition, driving conversions and time on site.
+
+Question 2: The search panel appears persistently at the top of every page on the e-commerce website. It is a fixed element, ensuring constant visibility regardless of scrolling or page content, triggered by the initial page load to facilitate immediate user interaction.
+
+Question 3: Users can interact with the search panel by typing queries into the search input field, clicking the search button to initiate a search, and hovering over or clicking quick links (Deals, Brands, Cart) for navigation. The search button changes color on hover for feedback, and links highlight to guide users, encouraging exploration and reducing bounce rates.
+-->

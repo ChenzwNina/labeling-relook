@@ -1,0 +1,5 @@
+Question 1: The widget features a dark blue navigation bar with white text for main categories. Each category has a subtle hover effect (lighter blue background). Dropdown menus appear below with white background and dark text, showing a red color change and left padding increase on hover. I chose these colors for good contrast and readability, with the red accent to highlight selection. The layout is horizontal with equal spacing, responsive to different screen sizes.
+
+    Question 2: The widget appears as a persistent navigation element at the top of the ecommerce website. The dropdown menus appear when users hover over any main category item, triggered by the :hover CSS pseudo-class. On mobile, this would typically convert to a hamburger menu with tap interactions.
+
+    Question 3: Users can: 1) Hover over main categories to reveal dropdown subcategories, 2) Click main categories to navigate to category pages, 3) Click subcategory links in dropdowns to navigate directly to those pages, 4) Experience visual feedback (color changes) during hover states. The interactions are designed to be intuitive with clear visual cues.

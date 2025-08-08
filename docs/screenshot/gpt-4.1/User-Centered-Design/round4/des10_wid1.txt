@@ -1,0 +1,11 @@
+4.1 Question 1:
+  The widget sits at the top, centered horizontally, with a 20px top margin. It uses a white background with a subtle drop-shadow for prominence on a pale blue/gray page. Rounded corners and rich blue highlight colors give it a polished, modern e-commerce feel. Fields are neatly stacked, clearly labeled, and use high-contrast for readability. The ‘Sign Up’ button uses a blue gradient to indicate interactiveness and is disabled until all inputs are valid. Error and success messages are given in red and green for high visibility. The layout is compact yet spaced for touch-friendliness, even on mobile.
+
+  4.2 Question 2:
+  This widget is designed to be present as soon as the user lands on a section of the website promoting membership benefits, such as the homepage, a user dashboard, or a dedicated membership page. Its persistent, top-centered position ensures easy access and visibility without requiring actions to trigger its appearance.
+
+  4.3 Question 3:
+  Users can enter their full name, email, and password. Inputs provide real-time feedback; errors are shown if data is missing or formats are incorrect. The sign-up button becomes enabled only when all fields are valid. On submit, the form is validated again, and either a helpful error message or a success confirmation is displayed. Links to Terms and Privacy open in a new tab. The user experience supports efficient, guided, and satisfying sign-up.
+
+  -->
+</body>

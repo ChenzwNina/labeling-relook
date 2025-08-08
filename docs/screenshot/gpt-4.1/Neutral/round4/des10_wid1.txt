@@ -1,0 +1,11 @@
+3.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+  The widget features a clean, modern card-like interface centered at the top of the page with a 20px top margin. Its background is white with subtle shadowing and rounded corners, creating a welcoming feel. The color palette leverages blue tones (#327bee, #234567) for buttons and titles, exuding trust and matching typical e-commerce branding. Text is clear and spaced, with large, legible fields and a bold call-to-action button. A highlight box at the bottom lists membership benefits, further incentivizing signups. Layout is mobile-responsive and avoids clutter to maximize conversions.
+
+  3.2 Question 2: What triggers the appearance of this widget?
+  The widget is mounted as a persistent, visually-prominent card at the top of the viewport. It would typically appear on high-traffic pages, such as the homepage, or be triggered when a user is not signed in or has not yet joined the membership program. It is not modal or pop-up; it stays fixed with a margin from the top for non-intrusive visibility.
+
+  3.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+  Users can review the membership offer and incentives, then fill out the form fields: full name, email, and password. Fields have interactive focus/validation states. Upon form submission, the user would (in a full implementation) be shown success, validation feedback, or errors. Button hover and field focus provide tactile feedback. The user cannot minimize or dismiss the widget (without code changes), encouraging sign-up completion.
+
+  -->
+</body>

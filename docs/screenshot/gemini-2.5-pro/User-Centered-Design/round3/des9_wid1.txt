@@ -1,0 +1,26 @@
+-->
+<!--
+Q1. Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a clean, modern card with rounded corners and a soft shadow, making it float visually above the page content. It uses a professional and trustworthy color palette: a white background for clarity, dark gray for primary text, and a muted gray for secondary descriptions. A vibrant blue (`#007bff`) serves as the primary accent color for selected states, hover effects, and the main "Continue to Payment" button. This high-contrast color draws the user's eye to interactive elements and the final call-to-action.
+
+The layout is structured with clear headings and generous spacing for readability. Each option is a self-contained, clickable row using flexbox to align details on the left and the price on the right, which is a common and easily scannable pattern. The typography, using the 'Inter' sans-serif font, is highly legible. These choices are made to create a sense of order, build trust, and guide the user efficiently through their decision-making process, fulfilling principles of clarity and efficient task execution.
+-->
+<!--
+Q2. What triggers the appearance of this widget?
+
+This widget is designed to appear during the checkout flow of an e-commerce website. Specifically, it would be presented to the user after they have entered their shipping address. Once the system has the destination, it can calculate and display the relevant shipping costs and delivery estimates.
+
+Therefore, the trigger is the successful completion of the "Shipping Address" step. The user would click a "Continue" or "Next" button on the address form, which would then load the page or view containing this component. It acts as a distinct and crucial step before proceeding to the final payment stage, ensuring users consciously select their preferred delivery method and any desired extras. This sequential flow prevents user error and makes the checkout process logical and predictable.
+-->
+<!--
+Q3. Can you describe the full range of interactions users can have with the widget?
+
+Users can perform several clear and responsive actions. First, they can select a shipping method. Since these are mutually exclusive, they are presented as radio buttons. Clicking anywhere on an option's container (the entire row) selects it, providing clear visual feedback: the row highlights with a light blue background and a blue border, and the custom radio button fills in. The previously selected option is automatically deselected.
+
+Second, users can choose optional add-ons. These are presented as checkboxes, allowing for zero, one, or multiple selections. Similar to shipping options, clicking a row toggles its selection state, with identical visual feedback (highlighting and a checkmark appearing).
+
+Hovering the mouse over any option row causes its border to turn blue, signaling interactivity. Finally, after making their selections, the user's primary action is to click the prominent "Continue to Payment" button at the bottom to finalize their choices and move to the next step in the checkout process.
+-->
+
+</body>

@@ -1,0 +1,29 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+    
+    The widget is a clean, card-style component with rounded corners and a soft shadow, making it appear to float over the main page content. It has a fixed position at the top-center of the viewport for high visibility.
+    - **Layout:** It uses a vertical flexbox layout. A header contains the title "Order Tracking" and the order number. This is followed by a prominent "Estimated Delivery" banner, a vertical timeline, a product information summary, and a call-to-action button at the bottom. This structure guides the user from general status down to specific details and actions.
+    - **Colors:** The palette is professional and intuitive. A primary blue (#007bff) is used for the main call-to-action and the active timeline step, drawing user attention. A success green (#28a745) signifies completed steps. Neutral grays and black are used for text and borders, ensuring high readability against the white background.
+    - **Elements:** Typography is hierarchical, with a bold, large title and smaller, lighter text for secondary details. This makes the component easy to scan. Interactive elements like buttons and the active timeline marker have hover effects and animations (a pulse) to provide clear feedback.
+    
+    *****Response*****
+    
+    Question 2: What triggers the appearance of this widget?
+    
+    The appearance of this widget is typically triggered by specific user contexts to be maximally helpful without being intrusive. The most common triggers are:
+    1.  **Post-Login Notification:** When a user with a recently shipped or out-for-delivery order logs into their account, the widget can appear automatically to provide a proactive update.
+    2.  **Clicking a "Track Order" Link:** A user might click a "Track Order" button from their order history page, a "shipped" confirmation email, or a notification icon in the website's header. This action would trigger the widget to appear as a quick-view overlay, saving them from loading an entirely new page just for a status check.
+    3.  **Returning Visit:** If a user returns to the site and the system detects their order status has changed (e.g., from "Shipped" to "Out for Delivery") since their last visit, the widget could appear to inform them of the progress.
+    In all cases, it serves as a non-disruptive, contextual overlay rather than a permanent page element.
+    
+    *****Response*****
+    
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+    
+    User interaction with the widget is designed to be simple and efficient, focusing on information consumption and clear navigation. The full range of interactions includes:
+    1.  **Viewing Information:** The primary interaction is passive. The user can immediately see the most current delivery status (e.g., "Out for Delivery"), the estimated arrival date, and a visual representation of the entire delivery journey via the timeline.
+    2.  **Dismissing the Widget:** The user can click the '×' close button in the top-right corner. This provides clear feedback by triggering a subtle fade-out and slide-up animation, dismissing the widget so the user can continue browsing the site. This action respects the user's control over their interface.
+    3.  **Navigating to Full Details:** The user can click the "View Order Details" button at the bottom. This is the primary call-to-action and would navigate them away from the current page to their full order history page, where they can see more comprehensive information like the shipping address, billing details, and carrier tracking number.
+    4.  **Hover Feedback:** Minor interactions include hovering over the close and details buttons, which change color to indicate they are clickable.
+    -->
+    
+</body>

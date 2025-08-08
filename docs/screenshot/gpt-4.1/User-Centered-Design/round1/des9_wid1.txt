@@ -1,0 +1,14 @@
+4.1 Question 1: 
+    The widget is a rounded white box with a subtle drop shadow, centered horizontally with a 20px top margin. Header text is bold. Shipping options are styled as cards, each highlighting on hover/focus or when selected, colored in blue shades. Radio buttons and add-ons' checkboxes are visually distinct, with color-coded highlights (blue for shipping, green for add-ons). Prices are prominent and colored. The structure is clean with clear divisions and padding, providing readability and affordance. Add-ons are optional and visually secondary. The button at the bottom is bright blue, with white text for emphasis. This color and layout mimic e-commerce best practices to ensure clear choices and trust.
+
+    4.2 Question 2:
+    The widget appears as a step in the checkout process, triggered when the user is required to select a shipping method for their order. It may appear after the cart review and before payment details, ensuring the user selects how their package will be shipped and if they want optional services.
+
+    4.3 Question 3:
+    Users can: 
+    - Select one shipping method by clicking or keyboard navigation.
+    - Optionally select multiple add-ons by clicking or keyboard (Space/Enter toggles checkboxes).
+    - See instant visual feedback when selecting options.
+    - Click "Continue" to confirm choices, receiving a brief feedback message before advancing.
+    Constraints: Only one shipping method is selectable; add-ons are optional and multi-select. All states are maintained visually and via ARIA for accessibility.
+    -->

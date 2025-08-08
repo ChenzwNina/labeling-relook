@@ -1,0 +1,20 @@
+**Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The component is a full-width, centered section against a light grey page background (`#f4f5f7`). It features a main header ("Discover Our Featured Collection") and a smaller subtitle, both using clean, sans-serif fonts ('Montserrat' and 'Lato'). Below the header, a responsive grid displays four product cards. Each card has a crisp white background, rounded corners, and a subtle shadow that intensifies on hover, creating a "lifting" effect. 
+
+The color palette is professional and minimalist: dark grey for text (`#1a202c`), a slightly lighter grey for subtitles (`#718096`), and a strong, trustworthy blue (`#2c5282`) for the price and the primary "Add to Cart" button. This high-contrast button immediately draws the eye, promoting the main call-to-action. The layout is clean and spacious, using a CSS grid to ensure the cards are well-aligned and adapt gracefully to different screen sizes. These choices create a modern, trustworthy aesthetic that focuses user attention on the products and makes key actions highly visible and intuitive.
+
+**Question 2: What triggers the appearance of this widget?**
+
+This component is a static, foundational element of a key landing page, such as the homepage or a main category page. Its appearance is not triggered by a specific user action like a click or scroll event. Instead, it loads instantly with the page itself. It is strategically placed near the top of the viewport (with a 20px top margin) to immediately capture the user's interest upon arrival. The purpose is to surface curated, high-value products without requiring any interaction from the user, acting as an instant entry point into the shopping experience and encouraging exploration from the moment the page is visible.
+
+**Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users have several clear and efficient interaction points with this widget:
+
+1.  **Visual Feedback (Hover):** Hovering the cursor over a product card causes it to lift and its shadow to deepen, signaling that the entire card is an interactive element.
+2.  **Navigation to Product Page:** Clicking on the product's image or its name, which both show a pointer cursor and a color change on hover, navigates the user directly to that item's detailed product page for more information.
+3.  **Add to Wishlist:** Each product card has a heart icon in the top-right corner. Hovering over it provides visual feedback. Clicking this button would add the item to the user's personal wishlist, with the icon ideally changing to a filled state to confirm the action.
+4.  **Add to Cart:** The most prominent interaction is the "Add to Cart" button at the bottom of each card. Clicking this button would add the product directly to the shopping cart, streamlining the purchase process and often triggering a success notification or opening a mini-cart overlay.
+-->
+</body>

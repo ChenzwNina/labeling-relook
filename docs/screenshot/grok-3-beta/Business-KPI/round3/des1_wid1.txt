@@ -1,0 +1,6 @@
+-->
+<!-- Question 4.1: The deals banner features a vibrant gradient background transitioning from coral (#ff6f61) to peach (#ffb88c), creating a sense of urgency and excitement to drive sales. The text is large (24px) and bold in white for high visibility, while the CTA button is white with coral text for contrast, encouraging clicks. The layout is centered for balance, with a max-width of 1200px to ensure readability on all devices. A subtle shadow adds depth, and hover effects on the CTA increase interactivity. These choices aim to grab attention, reduce bounce rates, and maximize conversion by focusing on urgency and clarity. -->
+
+<!-- Question 4.2: The banner appears on page load at the top of the viewport across all pages of the e-commerce site, ensuring maximum visibility. It is triggered for all users to promote current deals, especially during flash sales or seasonal promotions, to boost engagement and time on site. -->
+
+<!-- Question 4.3: Users can interact with the banner by clicking the "Shop Now" CTA button, which redirects to a deals page, driving conversions. Hovering over the button triggers a scale animation and color shift for feedback. The timer visually reinforces urgency, encouraging immediate action to reduce cart abandonment. -->

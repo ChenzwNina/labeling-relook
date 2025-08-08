@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow. It displays the average rating (4.7) in large bold text, accompanied by gold stars and total review count. Below are horizontal bars showing rating distribution, with orange progress bars on light gray backgrounds. The design choices prioritize readability and visual hierarchy, using color contrast to highlight important information while maintaining a professional e-commerce aesthetic.
+
+    Question 2: This widget would typically appear on a product page, triggered when the page loads to display aggregated customer ratings. It might also appear in a modal when users click a "See Reviews" button or as a hover effect on product cards.
+
+    Question 3: Users can: 1) View the average rating and total reviews at a glance, 2) Scan the distribution of ratings via the bar chart, 3) Click on specific star ratings to filter reviews (if implemented), and 4) Potentially click a "Write Review" button (not shown in this example) to add their own rating.
+    -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget is a clean, floating sign-up panel with rounded corners, a crisp white background, and a drop shadow for elevation. A membership badge image sits beside a bold blue headline. The form uses modern, readable fonts, generous padding, blue-themed input focus, and a vivid blue gradient button for prominence. These choices make it friendly, trustworthy, and easy to use, matching contemporary e-commerce styles.
+
+Question 2: This widget appears automatically at the top of the viewport (with a 20px margin) as a fixed sign-up invitation for users visiting the site, especially those not already logged in or not yet members.
+
+Question 3: Users can interact by entering their email and password and submitting the form via the “Sign Up Now” button. Inputs validate on type and requirement. Users can also click the “Sign in” link if they have an account, navigating to the login page. Hover effects on the button and link provide interactive feedback.
+ -->

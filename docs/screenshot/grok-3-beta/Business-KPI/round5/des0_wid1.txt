@@ -1,0 +1,7 @@
+**Question 1:** The widget features a clean, modern design with a white background and subtle shadows for depth. The layout uses a responsive grid for product cards, each with a consistent 250px minimum width, ensuring adaptability across devices. Colors include a bold red (#e44d26) for prices and buttons to draw attention and encourage clicks, paired with neutral tones (#333 for text) for readability. Product images are large (max-height 200px) to showcase items visually. These choices maximize sales and conversions by creating an inviting, easy-to-navigate display that highlights key actions.
+
+    **Question 2:** The widget appears statically at the top of the homepage with a 20px margin, visible immediately upon page load. This ensures instant visibility of high-value products, targeting unique and returning visitors to boost engagement and reduce bounce rates.
+
+    **Question 3:** Users can interact by hovering over product cards for a subtle lift effect, enhancing engagement. Clicking "Add to Cart" buttons initiates a purchase process, reducing cart abandonment. Clicking product images or names could lead to detailed pages, increasing time on site and page views.
+    *****Response***** -->
+</body>

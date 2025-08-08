@@ -1,0 +1,23 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The shopping cart widget is a clean, modern card that appears overlaid on the top-right of the page. It has a white background with a subtle shadow to make it "float" above the main content. The layout is a single vertical column divided into three clear sections: a header, a scrollable item list, and a footer.
+
+**Colors:** The palette is intentionally neutral (white, grays, dark text) to ensure readability and not clash with the website's branding. A vibrant blue (`#007bff`) is used for the primary "Checkout" button, making it the most prominent action (Rule 3.1: High visibility). A muted red is reserved for the hover state of the "Remove" icon, signaling a destructive action without being jarring.
+
+**Sizing & Layout:** The fixed width of 380px is spacious enough for content but not overwhelming. Generous padding and consistent spacing create an uncluttered, organized feel. Flexbox is used for alignment, ensuring elements like the quantity selector and item details are perfectly arranged. These choices create a helpful experience (Rule 3.7) and ensure consistency (Rule 3.4).
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this shopping cart widget is typically triggered when a user clicks on a cart icon, which is almost universally located in the main header of an e-commerce website. This action is a well-established convention, making the function's affordance clear to users (Rule 3.5). Upon clicking, the widget appears as a dropdown or slides in from the side without a full page reload. This allows users to quickly review their cart's contents and make adjustments without losing their place on the site, supporting efficient task execution (Rule 3.6). The widget would be dismissed by clicking the close button, the "Continue Shopping" link, or by clicking anywhere outside the component.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can perform several key tasks efficiently within the widget:
+1.  **Review Items:** Users can scroll through a list of products they've added, seeing a thumbnail, name, and price for each.
+2.  **Adjust Quantity:** Each item has `+` and `-` buttons to modify its quantity. The number input is read-only to prevent users from entering invalid values like zero or text, applying a constraint to prevent errors (Rule 3.3).
+3.  **Remove an Item:** A trash can icon next to each item allows for its removal. Hovering over the icon changes its color to red, providing clear feedback before this destructive action (Rule 3.2).
+4.  **Proceed to Checkout:** A large, brightly colored "Proceed to Checkout" button is the primary call-to-action, guiding the user to the next step in their purchase journey.
+5.  **Close the Widget:** Users can dismiss the cart to continue browsing by clicking the '×' icon in the header or the "Continue Shopping" link in the footer. This provides a clear and easy exit path.
+
+-->
+</body>

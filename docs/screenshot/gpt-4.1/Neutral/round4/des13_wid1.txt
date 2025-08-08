@@ -1,0 +1,9 @@
+Question 1:
+The sign-in widget uses a white background with rounded corners and a subtle box-shadow, positioned 20px from the top and centered horizontally. The logo area is light gray and circular, featuring a placeholder image. Headings use bold, dark gray text; secondary text is lighter for clarity. Input fields are gently rounded, slightly elevated with light borders, and focused states use a teal accent. The sign-in button uses a teal-to-mint gradient and becomes darker on hover, reflecting a fresh, trust-inspiring ecommerce palette. The layout stacks elements vertically with adequate spacing for a modern, readable appearance.
+
+Question 2:
+This widget should appear when users attempt to access their account (e.g., clicking “Sign In,” accessing account pages, or when authentication is required to continue a purchase process).
+
+Question 3:
+Users can enter their email and password, choose to "Remember me," recover a forgotten password via the link, submit the form by clicking "Sign In," and choose to create a new account with the sign-up link. Inputs are interactive, and users receive instant field focus/hover feedback. The sign-in button is the main action.
+-->

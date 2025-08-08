@@ -1,0 +1,8 @@
+4.1: The component uses a white card layout with soft shadows and rounded corners, giving it a modern and trustworthy look. Orange/pink gradients (for energy and urgency) highlight "Best Seller" and "Buy Now", while green highlights the price deals and "Add to Cart." The action buttons are large and brightly colored to attract clicks; supporting details like star ratings, crossed-out old prices, and a badge improve conversion. All elements are well-spaced for clarity, and critical actions are placed above the fold. The accent colors increase engagement, while clear images and detailed info build trust.
+
+  4.2: The widget appears at page load for any product item view—whether on a product detail page or as part of a featured products section. Appearance is not triggered by a specific action, but is instead an integral part of the page's initial content, ensuring all key product info is seen right away.
+
+  4.3: Users can view product info, click to read reviews via the rating (if implemented), add the item to their cart, click "Buy Now" to proceed straight to checkout, favorite the item (adding to a wishlist), explore bundle deals by clicking the upsell link, and view the product image (potentially opening a gallery in future). Every interactive element is designed to encourage purchase, engagement, or further exploration.
+  -->
+
+</body>

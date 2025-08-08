@@ -1,0 +1,30 @@
+1. Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a responsive grid of product cards against a light grey background (`#f4f5f7`). Each card is white with rounded corners and a subtle shadow, making it "pop." The layout within each card is a clean column: a square product image at the top, followed by product information, and a prominent "Add to Cart" button at the bottom.
+
+Colors are chosen for clarity: a neutral palette (`#ffffff`, `#f4f5f7`, dark text `#2c3e50`) ensures content is readable, while a strong blue (`#3498db`) is used for the primary call-to-action button, drawing the user's eye. A red badge highlights sale items.
+
+Elements are sized for hierarchy. The product image is largest, followed by the price (`1.25rem` font size) and product name (`1rem`), immediately conveying the most critical information for a purchase decision. This design is clean, scannable, and follows established e-commerce conventions, which reduces cognitive load for the user and feels trustworthy.
+
+*****Response*****
+2. Question 2: What triggers the appearance of this widget?
+
+This component is a primary content block, not a pop-up widget. Its appearance is triggered by user navigation. It would typically be the main content of a page when a user performs an action like:
+1.  Clicking on a product category (e.g., "Electronics" or "Apparel").
+2.  Using the search bar to find specific items.
+3.  Navigating to a curated page like "New Arrivals," "Best Sellers," or the main homepage, where it might be titled "Featured Products."
+
+Essentially, it appears whenever the user lands on a page whose primary purpose is to display a collection of products for browsing and selection.
+
+*****Response*****
+3. Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several clear interaction points designed for efficient browsing and purchasing:
+
+1.  **Hovering over a card:** The entire card lifts slightly with an increased shadow, and the cursor changes to a pointer. This affordance signals that the entire item is a single, clickable entity.
+2.  **Clicking a card:** Clicking anywhere on the card (except the button) would navigate the user to that product's detailed description page.
+3.  **Hovering over the "Add to Cart" button:** The button's background color darkens, providing visual feedback that it is an interactive element.
+4.  **Clicking the "Add to Cart" button:** This would trigger the action of adding the item to the shopping cart. Ideally, the button would provide further feedback, such as a brief animation or changing its text to "Added ✓".
+5.  **Interacting with a disabled item:** For the "Out of Stock" product, the card has reduced opacity, and the button is greyed out and disabled. Hovering and clicking on the button have no effect, which clearly communicates the item's unavailability and prevents user error.
+-->
+</body>

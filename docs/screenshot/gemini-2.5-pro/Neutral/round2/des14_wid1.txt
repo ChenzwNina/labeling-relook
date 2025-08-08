@@ -1,0 +1,58 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The order tracking widget is presented as a clean, card-style component centered on the page with a light background (`#ffffff`) and subtle shadow for depth. It has a maximum width of 700px for optimal readability.
+
+**Layout:**
+The layout is vertically stacked:
+1.  A clear title "Track Your Shipment".
+2.  An input section with a text field for the order ID and a "Track Order" button, arranged horizontally.
+3.  An (initially optional) message prompting the user.
+4.  A results section (shown by default in this static example) which includes:
+    *   The Order ID prominently displayed.
+    *   A summary with Estimated Delivery, Current Status, and last update time.
+    *   A horizontal, five-step progress bar indicating stages: "Order Placed", "Processing", "Shipped", "Out for Delivery", and "Delivered".
+    *   A footer with links for support or FAQs.
+
+**Colors:**
+*   **Background:** Widget background is white (`#ffffff`), page background is a light gray (`#f4f6f8`) for contrast.
+*   **Text:** Primary text is dark gray/black (`#333`, `#555`) for readability. The specific Order ID in the results is highlighted in blue (`#007bff`).
+*   **Button:** The "Track Order" button uses a primary blue (`#007bff`) common in e-commerce for actions, with a darker blue on hover.
+*   **Progress Bar:**
+    *   `Pending` steps: Light gray background (`#e9ecef`) with dark gray text.
+    *   `Completed` steps: Green background (`#28a745`) with white text, signifying successful completion.
+    *   `Current` step: Blue background (`#007bff`) with white text, drawing attention to the present status.
+
+**Element Sizes:**
+*   Input fields and buttons have generous padding (e.g., 12px) and a font size of 16px for easy interaction.
+*   The progress steps are equally sized, with text sized for clarity (step names 13px, dates 11px).
+*   Headings (H2, H3) are appropriately sized (24px, 20px) to establish hierarchy.
+
+**Design Choices Rationale:**
+The design aims for a professional, trustworthy, and user-friendly experience, typical of modern e-commerce sites. The card layout focuses user attention. Color choices use standard web conventions: blue for primary actions, green for success/completion, and neutral grays for readability and structure. The progress bar provides a quick visual summary of the order's journey, reducing user anxiety and inquiries. Clear typography and spacing enhance scannability.
+
+*****Response*****
+## Question 2: What triggers the appearance of this widget?
+
+The order tracking widget itself (the container with the input field) would typically be present on a dedicated "Track Order" page or section of the e-commerce website. Users would navigate to this page by:
+1.  Clicking a "Track Order" or "Order Status" link, often found in the website's header, footer, or within their user account dashboard.
+2.  Following a direct link provided in an order confirmation or shipping notification email.
+
+The *detailed results section* within the widget (showing the order summary and progress bar) is triggered after the user performs an action:
+1.  The user enters their specific order ID into the input field.
+2.  The user clicks the "Track Order" button.
+This action would (in a live application) send a request to the backend system. Upon receiving a successful response with the order details, JavaScript would then populate and display this results section, often replacing or appearing below the initial input form or a placeholder message. For this static HTML demonstration, the results are shown by default.
+
+*****Response*****
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the order tracking widget in the following ways:
+
+1.  **Input Order ID:** The primary interaction is typing their unique order identifier (e.g., "SHP-786543B") into the designated text input field. The field includes placeholder text to guide them on the expected format.
+2.  **Initiate Tracking:** After entering the Order ID, the user clicks the "Track Order" button. This action submits the ID for lookup.
+3.  **View Tracking Information:** Once the details are (dynamically) loaded and displayed:
+    *   They can read the confirmed Order ID, the Estimated Delivery window, and a textual description of the Current Status.
+    *   They can see the last update timestamp for the tracking information.
+4.  **Interpret Visual Progress:** Users can visually assess the order's journey through the styled progress bar. Different colors and text clearly indicate which steps are `Completed` (green), which is the `Current` active stage (blue), and which are `Pending` (gray). Each step also displays a relevant date or sub-status (e.g., "Nov 01, 2023", "Today").
+5.  **Access Support/FAQs:** Users can click on links in the footer, such as "Contact Support" or "Shipping FAQs," if they have further questions or issues not addressed by the tracking information. These links would navigate them to other relevant pages on the website.
+6.  **(Implicit) Error Interaction:** In a live application, if an invalid or non-existent Order ID is entered, the widget would display an error message, prompting the user to re-enter or check their ID. This is an important, though not explicitly visual, interaction.
+-->

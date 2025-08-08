@@ -1,0 +1,7 @@
+Question 1: The widget is a clean, white panel (280px wide) with subtle shadows and rounded corners. It uses a blue accent color (#4a6bff) for interactive elements. Sections are separated by light gray borders with 16px font for titles and 14px for options. The design prioritizes clarity and usability with adequate spacing, intuitive checkboxes, and a prominent "Apply" button. These choices create a professional, accessible interface that doesn't overwhelm users while making filters easy to scan and select.
+
+    Question 2: This filter panel would typically appear either permanently on the left side of product listing pages (for desktop) or as a slide-out panel triggered by a "Filter" button (on mobile). The implementation would depend on the site's responsive design approach, with mobile versions often requiring a button click to preserve screen space.
+
+    Question 3: Users can: 1) Select/deselect category/brand/rating checkboxes (multiple can be chosen), 2) Input minimum/maximum price values, 3) Click "Apply Filters" to submit selections. The panel could be enhanced with additional interactions like clearing all filters, seeing counts per filter option, or having sections collapse/expand, but these basics cover core ecommerce filtering needs.
+    -->
+</body>

@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth. It displays the average rating (4.7) in large bold text, gold stars for visual appeal, and the total review count. The breakdown shows percentage bars in gold with gray backgrounds for contrast. I chose these colors (gold, white, gray) for clarity and visual hierarchy, with gold representing positive ratings. The compact size (350px) ensures it fits well on product pages without overwhelming other content.
+
+    Question 2: This widget would typically appear on product pages, automatically loading with the page content. It might also appear in pop-ups when users click "View Ratings" from product listings or when they scroll to the reviews section. The widget is always visible once the product page loads to provide immediate social proof.
+
+    Question 3: Users can: 1) View the average rating and distribution at a glance, 2) Hover over percentage bars for exact values (enhanced version), 3) Click stars to filter reviews by rating, 4) Click "Write a Review" to submit their own rating and feedback, which would open a review form. The widget may also allow sorting reviews by helpfulness or recency if expanded.
+    -->
+</body>

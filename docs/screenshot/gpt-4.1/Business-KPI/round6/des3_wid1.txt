@@ -1,0 +1,7 @@
+4.1 Question 1: The widget features a fixed horizontal panel styled with a white background and blue branding accent (#3466ef), matching top e-commerce trends for trust and clarity. The layout includes a logo/brand section, a flexible search form (big input, clear call-to-action button, category dropdown) and right-aligned trending search terms for quick access. Sizing is optimized for click/tap, with paddings for comfort and generous border-radius for a modern feel. Design choices, such as prominent search, trending queries, and easy navigation, are chosen to drive search activity, product exploration, and return visits, directly addressing all the stated goals.
+
+  4.2 Question 2: The search panel appears immediately and persistently at the top of every main and landing page on the site. It is always visible (position: fixed;) with a 20px offset, so users can access the search function at any time in their journey. No user trigger is required; it’s part of the base UI.
+
+  4.3 Question 3: Users can click the logo to return to the homepage, select a product category, input search terms and submit with the “Search” button (or press Enter). They can click trending searches for instant results. All elements are keyboard and screen-reader accessible. On smaller screens, layout adapts but interactions remain the same. Search form validates for empty queries and lets users combine keywords and categories. UI feedback is provided on focus and hover, guiding intuitive interaction and ensuring an optimized search/browse experience.
+  -->
+</body>

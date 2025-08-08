@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a white, rounded rectangle with soft shadow, 420px wide, and 24px padding, positioned 20px from the top of the viewport. The left section prominently displays a bold, dark average rating (4.6), next to five gold stars and a gray count of ratings. Below, there’s a detailed ratings breakdown (bars and numbers for each star level), with highlighted yellow fill for higher counts, and gray for backgrounds/labels. At the bottom, a blue "See all reviews" link provides interactivity. These choices mirror contemporary e-commerce aesthetics, prioritizing readability and clarity.
+
+  Question 2:
+  This widget appears persistently (always visible) at the top of a product page to summarize user feedback for that product. It is triggered as part of the page load when viewing the product, meaning it loads immediately as users enter the product details section.
+
+  Question 3:
+  Users can read the average rating, interpret the star icons, view the quantity of ratings per star level, and click the "See all reviews" link to access all user reviews. The link can be configured to scroll or navigate to the full reviews section or page. There is hover feedback for interactivity, but no further interactive sorting/filtering or submission from this component.
+  -->
+</body>

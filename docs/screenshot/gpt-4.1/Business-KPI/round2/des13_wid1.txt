@@ -1,0 +1,7 @@
+4.1: The widget is a vertically stacked, centered card with a soft white background, pleasing blue brand accent, rounded corners, and subtle shadow. Key elements (logo, fields, buttons) are sizeable: logo is 64px, fields/buttons span full width, and text is clear and visible. Primary sign-in button is bold blue with a gradient to drive action. Social login buttons carry lighter accent with logo icons for recognition. CTAs (forgot, register, guest) are distinguishable as links or buttons for maximum clarity. Design is mobile-adaptive for accessibility. These choices focus attention, build trust, and drive conversions (rules 3.1–3.9).
+
+  4.2: The widget appears as soon as a user lands on the site or initiates a process needing authentication (like checking out, accessing account pages, or personalized features), ensuring maximum opportunity for sign-in and minimizing abandonment.
+
+  4.3: Users can enter credentials and sign in, recover passwords, enable "remember me" for frictionless return, opt for social authentication via Google or Facebook, proceed as guest, or quickly create an account if new. Interactive buttons and links provide clear pathways. Visual feedback (focus, hover) guides interactions, while mobile responsiveness ensures broad compatibility.
+  -->
+</body>

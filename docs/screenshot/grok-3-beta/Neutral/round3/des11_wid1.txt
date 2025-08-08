@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget is a fixed bar at the top of the page with a 20px margin, spanning the full width. It features a light red background (#fff3f3) with a bold red border (#ff6b6b) to grab attention, signaling urgency. The text is red and bold for emphasis, sized at 16px for readability. The "Cancel Membership" button is red (#ff6b6b), turning darker on hover (#e53935), with white text for contrast, sized at 14px. The layout uses flexbox for alignment between text and button. These choices mimic e-commerce urgency and clarity, ensuring users notice and act. -->
+
+    <!-- Question 2: This widget appears when a user's membership is nearing auto-renewal (e.g., within 7 days of renewal date) or if they have initiated a cancellation process in their account settings. It serves as a reminder or confirmation step, ensuring visibility at the top of the viewport. -->
+
+    <!-- Question 3: Users can interact with the widget by clicking the "Cancel Membership" button, which likely triggers a modal or redirects to a cancellation form for confirmation. Hovering over the button provides visual feedback with a color change. The widget is non-dismissible to ensure the user addresses the renewal, maintaining focus on the action. -->
+</body>

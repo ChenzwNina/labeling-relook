@@ -1,0 +1,7 @@
+4.1: The widget has a white, softly rounded card layout (~370px wide), shadowed to stand out on a soft light grey background. Elements are spaced for clarity and conversion: large, vibrant orange sign-up button; readable, modern inputs; and clear brand identity. Visual hierarchy guides users: logo and header, benefit-driven subtext, form, conversion-boosting checkboxes, social sign-up, and a subtle login prompt. Colors (blue/amber/white) are chosen for trust and impulse. Form fields are touch-friendly. Social sign-up icons use native brand colors. Design choices enhance trust, reduce abandonment, improve usability, and boost engagement/sales.
+
+    4.2: This widget appears either when a user clicks "Create Account" or "Sign Up" from the site header, is prompted at checkout, or when site analytics identify a new/guest user. It can also show proactively as a top-of-viewport drawer for non-logged-in users, especially when the user adds to cart or hovers over the profile/account icon.
+
+    4.3: Users can: enter name, email, and password; opt-in to offers; open Terms/Privacy links in a new tab; submit the account form; navigate to sign-in if they have an account; use Google, Facebook, or Apple to sign up via their accounts. All inputs validate in-browser, social sign-up triggers OAuth, and links can open modals or external pages. The widget closes or shows success/next-steps on form submit.
+  -->
+</body>

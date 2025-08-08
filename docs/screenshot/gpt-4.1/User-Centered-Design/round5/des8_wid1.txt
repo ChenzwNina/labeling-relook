@@ -1,0 +1,10 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+    The cart widget is a floating panel at the top center with a 20px margin from the viewport's top. Its card-like design uses a white background, subtle rounded corners, and a soft shadow for emphasis. The 400px width fits most screens, focusing attention without covering the entire window. The header uses a bold, dark blue font on a light background for clarity. Cart items are listed with concise, visually separated rows, featuring readable product info, thumbnail images, and clear quantity controls. Action buttons use green for checkout (positive action) and soft gray for secondary actions, supporting quick recognition and ease of task execution. Constraints (disabled buttons, proper affordances) increase usability and prevent errors. The close button provides feedback via hover state.
+
+    4.2 Question 2: What triggers the appearance of this widget?
+    The shopping cart widget typically appears when users click the cart icon in the site’s header/nav bar. Alternatively, it could also open after adding an item to the cart as immediate feedback. Its visible presence signals focus on cart review or checkout decisions.
+
+    4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+    Users can: close the cart panel by clicking the × button; view cart items with images, names, prices, and quantities; increase/decrease item quantity (with ‘-’ disabled at minimum, usually 1); remove items using the remove button; see error feedback if actions are not allowed (e.g., disabling buttons); continue shopping or proceed to checkout using clear, accessible buttons. Visual feedback (hover, disable states) consistently guides user actions.
+  -->
+</body>

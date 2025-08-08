@@ -1,0 +1,7 @@
+Question 1: The widget features a gradient background (#ff6b6b to #556270) with white text for contrast. Deal items are cards (250px wide) with semi-transparent white backgrounds, displaying product title (18px bold), current price (24px), and old price (16px strikethrough). The layout uses flexbox for responsive arrangement. These choices create visual hierarchy, highlight savings, and maintain readability while feeling modern and attention-grabbing.
+
+    Question 2: The banner appears automatically on page load with a fade-in animation (simulated via JavaScript). In a production environment, it might be triggered by session cookies (for first-time visitors) or specific page contexts (like product pages). The close button allows users to dismiss it permanently (would be stored via cookies in real implementation).
+
+    Question 3: Users can: 1) Click "Shop Now" buttons to navigate to product pages, 2) Hover over deal cards for subtle lift effect (visual feedback), 3) Close the banner entirely via the × button, 4) View multiple deals in a responsive layout that adapts to screen size. The interactions are designed to be intuitive while minimizing distraction from main content.
+    -->
+</body>

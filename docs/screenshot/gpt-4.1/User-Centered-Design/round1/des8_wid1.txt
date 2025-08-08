@@ -1,0 +1,10 @@
+Question 1:
+  The shopping cart widget is a white, rounded rectangle with a subtle drop shadow, centered near the top of the page (20px from top), and 420px wide (adapts to mobile). The header has a bold title, a cart icon, and a close button. Each cart item is displayed in a row with a product image, details, per-item price, quantity (with +/– controls that are visually accessible and constrained to minimum 1), and a clear remove button. The subtotal and prominent orange checkout button are always visible in the footer. Disabled states and feedback for button actions are included for clarity. These choices emphasize clarity, efficiency, and modern e-commerce conventions.
+
+  Question 2:
+  The widget appears when the user opens their shopping cart, typically by clicking a cart icon in the website’s navigation bar or following an “Add to Cart” action.
+
+  Question 3:
+  Users can: (1) Adjust quantity for each item (never below 1, disabled as needed), (2) Remove items using the visible remove button, (3) See live updates for subtotal and total items, (4) Proceed to checkout using the checkout button, (5) Close the cart with the close button. If the cart becomes empty, a helpful message appears and checkout is disabled, ensuring constraints and clear feedback for all actions.
+  -->
+</body>

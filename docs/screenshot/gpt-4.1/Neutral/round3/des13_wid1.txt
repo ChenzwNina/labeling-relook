@@ -1,0 +1,10 @@
+Question 1: 
+    The widget is a top-centered, card-like sign-in panel with a white background, rounded corners, and subtle shadow for elevation. It's 350px wide (responsive to 90vw), with a blue gradient sign-in button as the primary CTA. Headings are bold and dark, inputs are roomy with soft borders, and links and social buttons have brand-accentuated styles. Layout is vertical, elements are generously padded and spaced for clarity and real-world e-commerce feel.
+
+    Question 2: 
+    The widget appears when a user indicates a desire to sign in – for example, by clicking "Sign In" in a header or when an action requires authentication (such as proceeding to checkout or viewing account details).
+
+    Question 3: 
+    Users can: enter email/password, toggle "Remember me", use "Forgot password?", submit form, sign in via Google/Facebook, and navigate to registration. All input fields have focus and error capabilities, and links/buttons give standard hover/focus visual feedback. 
+  -->
+</body>

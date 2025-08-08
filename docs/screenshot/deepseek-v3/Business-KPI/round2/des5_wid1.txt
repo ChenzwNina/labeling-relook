@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-like design with a white background and subtle shadow for depth. It uses a 280px width for optimal mobile and desktop viewing. Sections are separated by light borders, with clear headings (16px, dark gray) and readable option labels (14px, medium gray). Blue is used for the primary action button to draw attention. These choices prioritize clarity, scannability, and accessibility while maintaining a modern ecommerce aesthetic.
+
+    Question 2: This filter panel would typically appear either persistently on the left side of product listing pages (for desktop) or as a slide-in overlay triggered by a "Filter" button (on mobile). The persistent display helps users quickly refine results without extra clicks, while the mobile version conserves screen space until needed.
+
+    Question 3: Users can: 1) Select/deselect category checkboxes, 2) Set price ranges via numeric inputs, 3) Filter by minimum rating, and 4) Apply all selected filters with the button. The panel supports multiple simultaneous filters, and users can modify selections before applying. The design allows for easy expansion with more filter types while maintaining usability.
+    -->
+</body>

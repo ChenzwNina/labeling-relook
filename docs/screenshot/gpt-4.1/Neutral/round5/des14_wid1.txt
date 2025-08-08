@@ -1,0 +1,10 @@
+Question 1: 
+  The widget features a white, rounded card with a subtle shadow, placed 20px from the viewport's top. The layout displays the order number and status at the top, followed by a line detailing the product image, title, options (color, size), and quantity. The main section shows a horizontal 5-step progress tracker: completed steps are blue (with checkmarks or shipping icon), incomplete steps are gray. Below are two action buttons: “Track Order” (blue) and “View Invoice” (gray). The clean color palette (blue, gray, white) matches industry e-commerce standards and emphasizes clarity and user trust.
+
+  Question 2:
+  This widget appears when a logged-in customer visits the “My Orders” page or selects an individual order detail from their account area. It can also be triggered by clicking a "Track Order" link from emails or order confirmation sections, ensuring users can always check their order's shipping progress.
+
+  Question 3:
+  Users can visually track the shipment status by examining which steps are completed. Clicking “Track Order” may open a modal or redirect to the carrier’s tracking site; “View Invoice” provides the order receipt. If present, product images, order summary, and statuses are non-editable but keep users informed at a glance.
+  -->
+</body>

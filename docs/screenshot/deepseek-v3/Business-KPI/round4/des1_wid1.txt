@@ -1,0 +1,7 @@
+Question 1: The widget features a gradient background (#ff6b6b to #556270) with white text for contrast. Deal items have semi-transparent white backgrounds with rounded corners, arranged horizontally. Titles are bold (18px), prices large (24px), and old prices struck-through (14px). This creates visual hierarchy, draws attention to savings, and maintains readability while feeling modern and energetic.
+
+    Question 2: The banner appears automatically when the page loads, positioned at the top for immediate visibility. It could alternatively be triggered by scrolling, time spent on page, or exit intent, but in this implementation appears immediately to showcase deals.
+
+    Question 3: Users can: 1) Click the X button to dismiss the banner, 2) Hover over deal items to see them lift slightly (visual feedback), and 3) Click any deal item to presumably navigate to that product page. The interactions are simple but provide clear affordances for both dismissing and engaging with the deals.
+    -->
+</body>

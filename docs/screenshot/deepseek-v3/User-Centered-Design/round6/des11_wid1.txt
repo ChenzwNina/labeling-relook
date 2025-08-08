@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with a white background and subtle shadow for depth. It uses a red cancel button for urgency/attention and a neutral keep button. Elements are sized for readability (16px base font) with ample padding. The layout is single-column for mobile-friendliness. These choices prioritize clarity, reduce cognitive load, and guide users through the cancellation flow while leaving room for feedback.
+
+    Question 2: The widget appears when a user navigates to account settings and selects "Cancel Membership" or clicks a similar cancellation link. It could also trigger from an automated email when a user attempts to cancel via email support.
+
+    Question 3: Users can: 1) Select a cancellation reason from a dropdown, 2) Provide optional written feedback, 3) Click "Cancel Membership" to confirm (would typically show a confirmation dialog), or 4) Click "Keep Membership" to abort cancellation. The interface includes hover states for buttons and form field interactions.
+    -->

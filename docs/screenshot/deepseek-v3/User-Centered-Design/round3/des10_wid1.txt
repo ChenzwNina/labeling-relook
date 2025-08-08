@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with a white background and soft blue accents. It's 350px wide with rounded corners and subtle shadow for depth. Input fields are full-width with clear labels, and the submit button is a prominent blue. I chose these colors for trust and clarity, with sufficient spacing for readability. The layout guides users naturally from top to bottom.
+
+    Question 2: This widget would typically appear when a user clicks a "Join Membership" button or link in the website header/navigation, or as a pop-up after adding items to cart (with a delay). It could also appear as a persistent sidebar option on product pages.
+
+    Question 3: Users can: 1) Fill in text fields (name, email, password) with validation, 2) Submit the form (with success feedback), 3) View membership benefits listed below the form, and 4) Close the widget if implemented as a modal (not shown in this basic version). The password field enforces minimum length requirements.
+    -->

@@ -1,0 +1,54 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The order tracking widget is a banner positioned 20px from the top of the viewport and centered horizontally, with a maximum width of 900px. It has a clean, modern aesthetic with rounded corners and a subtle box shadow for depth.
+
+**Colors:**
+*   Background: White (`#ffffff`) for clarity and a premium feel.
+*   Header Text: Deep blue (`#1a3b58`) for importance.
+*   Primary Icon (Truck): Bright blue (`#007bff`), aligning with common "action" or "information" cues.
+*   Body Text: Dark grays (`#333`, `#555`) for excellent readability.
+*   Progress Bar:
+    *   Completed Steps: Green (`#28a745`) icons and text, signifying success and completion.
+    *   Active Step: Bright blue (`#007bff`) icon and text, drawing attention to the current status.
+    *   Future Steps: Light gray (`#aaa`, `#e0e0e0`) for a clear visual hierarchy of what's pending.
+*   Buttons:
+    *   Primary ("Track Full Journey"): Bright blue (`#007bff`) background with white text, for high visibility and click-through.
+    *   Secondary ("Explore Top Gadgets"): Light gray (`#f0f0f0`) background with dark text, making it less prominent but still accessible.
+
+**Size of Elements:**
+*   The overall banner is noticeable but not overly intrusive.
+*   Heading font size is larger (1.3em) than body text (0.95em) for hierarchy.
+*   Progress bar step icons are distinct (28px).
+*   Buttons are adequately sized for easy clicking.
+
+**Layout:**
+*   Flexbox is used for overall structure and internal alignment.
+*   Top section: Header with a truck icon and title, and a close button on the right.
+*   Middle section: Order details (product snippet), a visual progress bar with 5 stages (Order Placed, Processing, Shipped, Out for Delivery, Delivered), and a status/ETA summary.
+*   Bottom section: Action buttons aligned to the right.
+
+**Design Choices Rationale:**
+The design aims to be reassuring and informative, enhancing user trust (minimizing bounce, encouraging repeat visits). The white background and clear typography ensure readability. Color choices are intentional: blue for trust and action, green for progress/success. The progress bar offers an intuitive visual update. The primary CTA ("Track Full Journey") is prominent, while the secondary CTA ("Explore Top Gadgets") subtly encourages further engagement and potential sales (addressing KPIs like AOV, CTR, time on site). The dismissible nature respects user control.
+
+## Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is typically triggered when a user who has a recent, active order (e.g., status is "Processing," "Shipped," or "Out for Delivery") visits the e-commerce website. Specific triggers could include:
+
+1.  **User Login:** Upon logging in, if an active order is associated with their account.
+2.  **Session/Cookie Data:** If a cookie or session variable indicates a recent purchase and the order is still in transit. This allows the banner to appear even for guest users returning to the site, provided this information was stored.
+3.  **Visiting Specific Pages:** It might appear on the homepage, account dashboard, or order history page.
+4.  **Returning Visit Post-Purchase:** If a user made a purchase and revisits the site within a relevant timeframe (e.g., before expected delivery).
+
+The widget should ideally only appear once per session or until dismissed, to avoid being intrusive. It provides timely and relevant information without requiring the user to actively seek out their order status.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the order tracking widget in the following ways:
+
+1.  **Viewing Information:** The primary interaction is passively consuming the displayed order status, including the order number, a snippet of items, the current stage in the progress bar (e.g., "Shipped"), and the estimated delivery date/carrier.
+2.  **Clicking "Track Full Journey" Button:** This primary call-to-action button would typically navigate the user to a more detailed order tracking page. This page could be internal to the e-commerce site (showing map tracking, full history) or link to the external courier's tracking portal using the specific tracking number.
+3.  **Clicking "Explore Top Gadgets" Button:** This secondary call-to-action button encourages further site engagement. Clicking it would lead the user to a product category page, a new arrivals section, or a page featuring items similar to what they ordered, aiming to increase page views, time on site, and potentially average order value.
+4.  **Closing the Widget:** Users can click the "×" (close) button to dismiss the banner. This action would typically hide the widget for the remainder of their session or until a significant update in their order status occurs, respecting their preference not to see it.
+5.  **Hovering over Elements (Implicit):** Buttons and interactive elements have hover states (e.g., color changes) to provide visual feedback before a click, a standard usability feature.
+No direct manipulation of the progress bar is intended; it's purely informational.
+-->

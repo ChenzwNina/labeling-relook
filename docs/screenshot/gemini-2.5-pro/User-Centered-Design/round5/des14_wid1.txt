@@ -1,0 +1,24 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The order tracking widget is a clean, rectangular card with rounded corners, positioned centrally at the top of the screen. It has a white and light-gray background (#FFFFFF, #f9fafb) with a subtle shadow, making it float above the page content. 
+    
+    The layout is structured vertically: a header with the order number, a body with the tracking visualization, and a footer with actions. A key feature is the horizontal progress bar with five distinct steps.
+    
+    Colors are used purposefully: a trustworthy blue (#007bff) highlights the current status and primary actions, a reassuring green (#10b981) marks completed steps, and dark grays (#111827, #4b5563) ensure text is highly readable. Element sizes are generous, with large, clickable buttons and clear typography ('Inter' sans-serif) to enhance usability on both desktop and mobile. These choices create a modern, clear, and reassuring user experience, conveying reliability and making information easy to digest at a glance.
+
+    Question 2: What triggers the appearance of this widget?
+
+    The appearance of this widget is typically triggered contextually for a logged-in user with a recent, active order. The most common trigger would be the user landing on the e-commerce site's homepage or their account dashboard. The system would check the user's session or account data for any orders that are in a "shipped" or "in transit" state. If such an order is found, the widget appears automatically to proactively provide the latest tracking information, saving the user the effort of navigating to their order history page. Alternatively, it could be triggered by the user clicking a "Track My Latest Order" link in an email notification or a persistent site-wide banner.
+
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users have several clear and efficient interaction options with this widget:
+    
+    1.  **Gleaning Information**: The primary interaction is passive; users can quickly see the current order status, estimated delivery date, and a visual representation of the shipping progress via the progress bar and timeline.
+    2.  **External Tracking**: Users can click the linked USPS tracking number. This action opens the official USPS tracking page in a new browser tab, providing more granular, third-party details and validating the information.
+    3.  **Viewing Order Details**: Clicking the "View Full Order Details" button will navigate the user away from the current page to their dedicated order history page, where they can see item details, costs, and shipping addresses.
+    4.  **Closing the Widget**: Users can dismiss the widget by clicking the '×' icon in the top-right corner, allowing them to continue browsing the site without the tracker present. This action would likely set a session cookie to prevent it from reappearing immediately.
+    5.  **Hover Feedback**: All interactive elements (buttons, links, close icon) provide visual feedback on hover, changing color or style to clearly indicate they are clickable.
+
+    *****Response***** -->
+</body>

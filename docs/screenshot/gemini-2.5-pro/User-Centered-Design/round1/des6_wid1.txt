@@ -1,0 +1,29 @@
+Q1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+The widget is a product card, fixed 20px from the top of the viewport and horizontally centered, with a `max-width` of 380px. It has a clean, modern aesthetic.
+Layout: The card stacks elements vertically: an image section (4:3 aspect ratio with a placeholder and a discount badge), followed by a details section. The details section includes brand, product name, star rating, a short description (truncated to 3 lines), price (current and original), action buttons ("Add to Cart" and "Wishlist"), and stock availability.
+Colors:
+- Card: White (`#ffffff`) background with a subtle shadow.
+- Main CTA ("Add to Cart"): Bright blue (`#007bff`) with white text.
+- Price: Current price is prominent in green (`#28a745`); original price is gray and struck-through.
+- Discount Badge: Red (`#dc3545`).
+- Text: Dark grays for headings/names (`#343a40`), lighter grays for secondary info (`#6c757d`, `#495057`).
+- Stars: Yellow (`#ffc107`). Wishlist icon turns red on hover/active.
+Element Sizes: Product name (`1.3rem`), current price (`1.6rem`) are larger. Buttons have ample padding.
+Rationale: Choices prioritize clarity and e-commerce conventions. The color scheme uses contrast for CTAs and key info (Design Rule 3.1). Hover/active states provide feedback (3.2). Consistent typography and spacing aid readability and create a satisfying experience (3.4, 3.7). Affordances are clear (buttons look clickable, image zoom on hover) (3.5). The layout supports efficient information scanning (3.6).
+
+Q2: What triggers the appearance of this widget?
+The widget is designed with `position: fixed`, `top: 20px`, and centered horizontally. This means it appears automatically as soon as the web page loads. It does not require any specific user action (like a click, scroll, or hover on another element) to become visible. It's rendered as part of the initial page content and remains persistently displayed at the top of the viewport, overlaying other page content if the page scrolls. This makes it suitable for highlighting a featured product or a persistent offer.
+
+Q3: Can you describe the full range of interactions users can have with the widget?
+Users can interact with the widget in several ways:
+1.  **Visual Consumption:** View the product image, read details like brand, name, rating, description, price, discount, and stock status.
+2.  **Image Interaction:** Hovering over the product image triggers a subtle zoom effect, providing an affordance that it might be clickable for a larger view (though the modal itself is not implemented).
+3.  **"Add to Cart" Button:**
+    *   Hovering changes the button's background to a darker blue, signaling interactivity.
+    *   Clicking changes the background further and applies a slight scale transform for tactile feedback. This action would typically add the item to a shopping cart.
+4.  **"Wishlist" Button:**
+    *   Hovering changes its background, border, and the heart icon's fill color to red.
+    *   Clicking toggles an 'active' class (making the heart icon stay red, simulating a toggled state) and provides a scale transform for feedback. This action would add/remove the item from a wishlist.
+5.  **Card Hover Effect:** Hovering over any part of the card itself causes it to slightly lift and its shadow to become more pronounced, enhancing its perceived interactivity.
+These interactions provide clear feedback and make common e-commerce actions easily accessible.
+*****Response***** -->

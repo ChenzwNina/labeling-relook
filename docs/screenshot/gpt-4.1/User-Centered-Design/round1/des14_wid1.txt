@@ -1,0 +1,9 @@
+Question 1:
+The widget is a centered, card-like component placed 20px from the top of the viewport, with a soft white background, rounded corners, and a slight shadow for focus. The color scheme uses deep blue (#4880ff) for interactive and current steps, muted gray-blue for inactive steps, and gentle backgrounds for contrast. Layout is vertically modular: header (bold, clear), product summary (image, details), prominent step-by-step tracker, a status area, and clear action buttons. This hierarchy and color ensure high usability, good feedback, and clarity.
+
+Question 2:
+The widget appears when a user clicks “Track Order” from their account/orders page or order confirmation email, signaling intention to view tracking.
+
+Question 3:
+Users can (a) review all order tracking steps with visual progress, (b) see details such as item, expected delivery, and courier data, (c) click "View Live Map" (opens tracking in a new tab), (d) see the "Cancel Order" button, which is disabled when cancellation is not allowed (here, since order is out for delivery), and (e) get immediate visual feedback about current order status and available actions. All functions are clearly represented and provide appropriate feedback or constraints.
+-->

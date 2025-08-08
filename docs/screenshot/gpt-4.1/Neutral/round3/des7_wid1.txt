@@ -1,0 +1,7 @@
+Q1: The widget has a clean, white card appearance (420px wide), with soft shadows and rounded corners, ensuring visual separation from the page. Headings use strong blue for legibility; the average rating is highlighted in large gold numbers beside stylized stars to attract attention. Breakdown bars visually show distribution, using gold gradients for positives and subtle grays for background. Margins and padding are generous for a premium, uncluttered look. All choices emphasize credibility, clarity, and modern ecommerce UI conventions. 
+
+  Q2: This ratings widget is always visible at the top of a product page, 20px from the top viewport, so users immediately see community feedback as part of their buying experience.
+
+  Q3: The user can: (1) see the overall average rating (4.6/5), (2) view a count of ratings, (3) assess star-rating distribution with visual bars and raw numbers, (4) click the "Write a Review" button (which would normally open a modal or take them to a review submission form), and (5) hover the button for a feedback highlight. No filtering or paging is built in to this version.
+  -->
+</body>

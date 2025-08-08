@@ -1,0 +1,6 @@
+Question 1: The widget is a fixed bar at the top of the viewport with a 20px margin, ensuring high visibility. It uses a clean white background with a subtle shadow for a professional look. The text is dark gray for readability, and the primary "Cancel Membership" button is a striking red (#ff5252) to draw attention and encourage action. The secondary "Contact Support" button is neutral gray to provide an alternative without competing for focus. The layout is responsive, stacking elements on mobile for usability. These choices aim to maximize conversion rates (Rule 3.2) and minimize cart abandonment (Rule 3.8) by offering clear, accessible options.
+
+Question 2: This widget appears on user account pages or during checkout processes where membership status is relevant. It can also be triggered after a user has been inactive for a set period or expresses dissatisfaction through feedback, ensuring it’s contextually relevant and increases time on site (Rule 3.5).
+
+Question 3: Users can click the "Cancel Membership" button to initiate cancellation, triggering a confirmation modal. They can also click "Contact Support" to explore alternatives, encouraging engagement. Hover effects on buttons provide visual feedback, enhancing user experience and reducing bounce rate (Rule 3.9).
+***** -->

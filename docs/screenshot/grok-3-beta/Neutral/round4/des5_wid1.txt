@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The filter panel has a clean, modern design with a white background and subtle shadow for elevation. It uses a blue (#007bff) accent color for the "Apply Filters" button and hover effects on labels, aligning with common e-commerce branding for trust and interactivity. The layout is responsive, using flexbox to adapt to different screen sizes, with sections for Categories, Price Range, and Brands. Text is sized for readability (18px for headings, 14px for labels), and spacing ensures clarity. These choices mimic real-world e-commerce sites like Amazon, prioritizing usability and familiarity. -->
+
+    <!-- Question 2: The filter panel appears on product listing pages, triggered by the user navigating to a category or search results page. It remains visible at the top of the viewport (with a 20px margin) as a persistent tool for narrowing down product options, ensuring easy access without scrolling. -->
+
+    <!-- Question 3: Users can interact with the widget by checking/unchecking filter options for categories, price ranges, and brands to refine product listings. Hovering over labels provides visual feedback with color changes. Clicking the "Apply Filters" button submits the selected criteria, updating the product list. The design allows for multiple selections, catering to diverse user preferences. -->
+</body>

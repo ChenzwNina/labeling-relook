@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background container, subtle shadows, and rounded corners for a professional look. The layout uses a responsive grid with product items of equal width (min 250px), ensuring adaptability across devices. Colors include a vibrant orange (#e44d26) for prices and buttons to draw attention, paired with neutral grays and blacks for text. Images are 200px tall for visibility, and hover effects (elevation and shadow) provide feedback. These choices enhance readability, focus on products, and align with e-commerce aesthetics for trust and familiarity. -->
+
+    <!-- Question 2: This widget appears on the main homepage or category pages of the e-commerce website. It is triggered by default upon page load to showcase featured or popular products, ensuring users immediately see items for purchase without additional navigation. -->
+
+    <!-- Question 3: Users can interact with the widget by hovering over product items for visual feedback (lift effect), clicking product images or names to view detailed pages, and clicking "Add to Cart" buttons to add items to their shopping cart. Hovering over buttons changes color for clarity, and disabled states prevent invalid actions (e.g., out-of-stock items). These interactions support browsing and purchasing efficiently. -->
+</body>

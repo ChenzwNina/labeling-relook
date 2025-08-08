@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget has a clean, modern design with a white background and subtle shadow for depth, mimicking e-commerce aesthetics. It uses a yellow (#f1c40f) star rating for visibility and contrast. The layout is responsive, with cards adjusting from 3 to 2 to 1 per row on smaller screens. Text is dark gray (#555) for readability, and elements like user images (40x40px) and bold usernames enhance trust. These choices ensure a professional, user-friendly look aligned with e-commerce standards. -->
+
+    <!-- Question 2: This widget appears statically at the top of a product or homepage, positioned with a 20px top margin as requested. It could be triggered dynamically by scrolling to a reviews section or loading a product page, ensuring users see social proof early to build trust and encourage purchases. -->
+
+    <!-- Question 3: Users can view ratings and read detailed feedback from other customers. While this static version lacks interactivity, a dynamic implementation could allow hovering over stars for rating details, clicking to expand reviews, or submitting their own feedback. These interactions would enhance engagement and trust in the e-commerce platform. -->
+</body>

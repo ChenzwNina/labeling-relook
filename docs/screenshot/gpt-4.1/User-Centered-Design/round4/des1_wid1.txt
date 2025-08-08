@@ -1,0 +1,9 @@
+Question 1:
+  The widget is a fixed banner, 20px from the top, with a soft orange gradient background and white bold text for high visibility. It includes a round icon (using "placeholder_image.jpg") for clear affordance of deals, bold headline ("Summer Savings: Up to 40% Off!"), a subline showing flash deal details with a live timer, a prominent “Shop Deals” button in contrasting dark green, and a clear close (“×”) button. Padding, gaps, and smooth corners ensure readability and delight. Responsive sizing preserves legibility on mobile.
+
+  Question 2:
+  The widget appears automatically on page load when users visit the site, announcing the latest deals at the moment. It remains visible until user dismisses it by clicking the close button, ensuring the offer is seen by all visitors without interfering with navigation.
+
+  Question 3:
+  Users can read the deal info, see a real-time countdown, click "Shop Deals" to go to the deals page (efficient execution), or dismiss the banner by clicking the close button (clear constraint, consistent with notifications). Buttons show focus and hover feedback, and all actions are accessible via labeled controls. No other interactions are permitted to avoid distractions and ensure purpose-driven engagement.
+  -->

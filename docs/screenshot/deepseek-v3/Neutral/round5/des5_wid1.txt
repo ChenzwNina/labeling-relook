@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-like design with white background and subtle shadow for depth. It uses a 280px width for compactness while remaining readable. Sections are divided with light borders, and options use 14px font for clarity. Blue is used for the primary action button to draw attention, while neutral colors maintain focus on content. This design prioritizes usability with clear hierarchy, adequate spacing, and intuitive controls.
+
+    Question 2: This filter panel would typically appear permanently on product listing pages, either as a sidebar (desktop) or in a collapsible drawer (mobile). Alternatively, it could be triggered by a "Filter" button on mobile views or when users want to refine search results.
+
+    Question 3: Users can: 1) Select/deselect checkboxes to filter by category, brand, or rating; 2) Set price ranges via numeric inputs; 3) Apply all filters with the blue button; 4) Reset all selections. Each interaction provides immediate visual feedback (checked states, button hover effects) to confirm actions.
+    -->
+</body>

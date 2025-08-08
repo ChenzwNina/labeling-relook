@@ -1,0 +1,6 @@
+Question 1: The widget features a gradient banner (red to dark blue) with white text for contrast. Deal items are in semi-transparent cards that lift slightly on hover. I chose these colors for visual appeal and readability, with the gradient creating urgency. The layout uses flexbox for responsiveness, with deal items sized for easy scanning (200px min-width). Hover effects provide subtle interactivity cues.
+
+    Question 2: The banner appears immediately when the page loads, positioned at the top for maximum visibility. It could alternatively be triggered by user behavior (e.g., scrolling) or timing (e.g., after 5 seconds), but in this implementation it's always visible until dismissed.
+
+    Question 3: Users can: 1) Click the close button to dismiss the banner, 2) Hover over deal items for visual feedback, 3) Click on any deal item (though not implemented here, this would typically navigate to the deal page). The close button has aria-label for accessibility.
+    -->

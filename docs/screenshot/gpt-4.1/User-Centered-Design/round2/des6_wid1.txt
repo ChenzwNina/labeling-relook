@@ -1,0 +1,9 @@
+4.1 Question 1:
+  The widget is a 360px wide card with rounded edges, shadow, and white background. At the top is a 220x220px image area for the product, then the title ("Nike Air Max 270") in bold, a star rating with review count, short product description, then the price (with old price struck through) and live stock status. The action row has 'Add to Cart' (blue, bold, primary) and a heart icon 'Add to Wishlist' (outline style). A feedback message appears when an action occurs. All functions are visible, constraints (e.g., out of stock disables Add to Cart) are clear, and feedback is immediate, supporting efficiency and consistency.
+
+  4.2 Question 2:
+  This widget appears wherever a single product display is needed—such as in product lists, feature highlights, or dedicated product pages. There’s no modal or dynamic trigger: it is immediately visible, positioned with a 20px top margin from the viewport, as per instructions.
+
+  4.3 Question 3:
+  Users can (1) add the displayed product to the cart (if in stock), (2) add it to their wishlist, (3) hover to zoom the image slightly, (4) receive feedback for their actions, and (5) visually observe constraints, e.g., "Add to Cart" is disabled if out of stock. The visual interface communicates affordances through button states, color cues, and direct messaging, making interactions clear and satisfying.
+  -->

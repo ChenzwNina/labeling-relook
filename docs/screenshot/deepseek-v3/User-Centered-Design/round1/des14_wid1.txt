@@ -1,0 +1,5 @@
+Question 1: The widget has a clean, modern design with a light background (#f9f9f9) and subtle shadow for depth. Key elements include a progress bar (green for completed steps, gray for upcoming), bold order number, and status badge (green for positive states). I chose these colors for clarity and positive user experience. The layout is organized hierarchically with clear visual separation between sections. Font sizes vary (12px-18px) to establish information hierarchy.
+
+    Question 2: This widget appears when a user clicks on "Track Order" from their account page or order confirmation email. It may also appear automatically after checkout with a "View Order Status" prompt. The trigger is always user-initiated action related to order viewing.
+
+    Question 3: Users can: 1) View order status and progress through visual timeline, 2) See detailed tracking information (carrier, tracking number, location), 3) Click "Track Package" to open carrier's tracking page, 4) Click "View Order Details" to see full order information, and 5) Potentially contact support if integrated. The widget is primarily informational but includes actionable buttons.

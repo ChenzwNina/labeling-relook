@@ -1,0 +1,9 @@
+Question 1: 
+  The widget is a centered white card with soft shadows, rounded corners, and a top margin of 20px. At the top is a 60x60px logo on a light gray background, followed by a clear title and inviting subtitle. Inputs (email, password) use soft borders and rounded corners for comfort, with error feedback in red below each. The blue “Sign in” button is prominent, full-width, and disables unless valid input is provided. Below, alternate sign-in social buttons feature subtle outlines and logos. All elements maintain spacing for clarity and usability. Soft blues and grays suggest trust and modernity, commonly seen on major ecommerce sites, maximizing legibility and visual harmony.
+
+  Question 2: 
+  This widget appears when a user clicks “Sign In” or a similar entry point in a site header. It may also appear if account-only features (like order tracking) are accessed by an unauthenticated user, ensuring accessibility from any top-level navigation.
+
+  Question 3: 
+  Users can enter their email and password, receiving instant feedback if requirements aren’t met or entries are invalid. The “Sign in” button activates only with valid input. Users may click “Forgot password?” to begin recovery, or use “Sign in with Google/Facebook” for one-click authentication. Error messages guide corrections. A link is present to create a new account, assisting new shoppers. All interactive elements provide visual feedback on active/hover states, and actions are visually clear and unambiguous.
+  -->

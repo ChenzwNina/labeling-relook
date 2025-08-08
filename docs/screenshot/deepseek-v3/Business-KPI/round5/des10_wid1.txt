@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with white background (#ffffff) and blue accent color (#3498db). It's 350px wide with rounded corners (10px radius) and subtle shadow for depth. Input fields are full-width with 12px padding, and the button has a hover effect. This design ensures readability, visual hierarchy, and encourages conversions while matching typical ecommerce aesthetics.
+
+    Question 2: This widget would typically appear when a user performs a conversion-triggering action like adding an item to cart, or after browsing several pages. It could also appear as a timed popup after 30 seconds on site or as an exit-intent overlay when mouse movement suggests leaving.
+
+    Question 3: Users can: 1) Fill in the form fields (name, email, password), 2) Submit the form (with validation), 3) Close the widget via the X button, 4) See visual feedback on hover (button color change), and 5) Receive a confirmation message after submission. The interaction flow is linear and focused on conversion.
+    -->

@@ -1,0 +1,9 @@
+Question 1: 
+  The widget is a horizontally oriented search bar with a subtle white background and rounded corners. On the left, there's a 44x44px square with a shop logo (placeholder_image.jpg). The large, central search field has soft gray text and a clear call-to-action "Search products, brands and categories." A blue, circular search button with a magnifying glass icon is attached on the right. Elements have sufficient spacing (gap 24px), moderate padding, and a subtle box-shadow for floating effect. On mobile, components stack vertically for accessibility. The color palette is modern, with a blue accent, white backgrounds, and gray borders/icons for clarity. These choices ensure clarity, efficiency, and brand presence.
+
+  Question 2:
+  The widget is always visible at the top of the page, appearing naturally as part of the e-commerce website’s main navigation on every load. It provides immediate access to search functionality, a core task for users when shopping online.
+
+  Question 3:
+  Users can interact by typing in their search terms (e.g., product names, brands, categories). The button is only actionable when input is non-empty (using required). Pressing Enter or clicking the blue search button submits the form. When the user submits, immediate feedback is given (simulation in this demo: alert), and the field is cleared/blurred. The search button is visually deactivated if the field is empty, preventing accidental blank searches.
+  -->

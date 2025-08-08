@@ -1,0 +1,32 @@
+-->
+    <!-- 
+        Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The component is a clean, full-width navigation bar positioned near the top of the viewport. It features a white background with a subtle shadow, creating a sense of depth and separating it from the page content. The primary text color is a dark grey (#333) for high readability, set in a clean, sans-serif font (Lato). Top-level category links are generously spaced, uppercase, and bold for clarity and easy clicking.
+
+        The key design choices are:
+        - **Color Palette:** The neutral base (white, grey) ensures it fits with any brand aesthetic. A single, vibrant accent color (#E74C3C, a warm red-orange) is used for hover states, the 'Sale' link, and calls-to-action. This color is chosen to draw attention and encourage clicks, directly supporting conversion rates (Rule 3.2).
+        - **Layout:** On hover, a "mega-menu" appears, using a multi-column grid layout to display sub-categories. This avoids long, clumsy dropdowns and allows users to see the breadth of products at a glance, reducing bounce rate (Rule 3.9) and encouraging exploration (Rule 3.6). A dedicated promotional block within the menu helps maximize average order size by upselling new collections (Rule 3.3).
+    -->
+    <!-- 
+        Question 4.2: What triggers the appearance of this widget?
+
+        The main navigation bar itself is a static component, permanently visible at the top of the page. This ensures that core navigation is always accessible, which is crucial for minimizing user frustration and bounce rate (Rule 3.9).
+
+        The interactive part of the widget, the detailed "mega-menu" dropdown, is triggered when a user hovers their mouse pointer over a top-level category link (like 'Women' or 'Men'). This interaction model is chosen because it is intuitive, widely understood by users, and requires minimal effort—no click is needed to explore the options. This low-friction discovery process allows users to quickly understand the site's offerings, which increases page views per visit (Rule 3.6) and helps guide them towards a purchase, thereby boosting conversion rates (Rule 3.2). A subtle fade-in animation makes the appearance smooth and less jarring.
+    -->
+    <!-- 
+        Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+        Users can engage with the widget in several ways, designed to be intuitive and efficient:
+
+        1.  **Exploration via Hover:** The primary interaction is hovering over main category links ('Women', 'Men'). This action instantly reveals a large, organized 'mega-menu' with columns of sub-categories. This allows for effortless discovery without committing to a click, encouraging users to browse more of the site (Rules 3.5, 3.6).
+
+        2.  **Direct Navigation via Click:** Users can click on any link—whether it's a top-level category, a sub-category link within the mega-menu, or the standalone 'Sale' link. Each click navigates them directly to the corresponding product listing page, streamlining the path to purchase (Rule 3.2).
+
+        3.  **Visual Feedback:** All clickable elements provide immediate visual feedback. Hovering over any link changes its color to the brand's action color (#E74C3C), clearly indicating a clickable area and improving usability.
+
+        4.  **Promotional Engagement:** Within the mega-menu, users can interact with a dedicated promotional block. They can view the image and click the "Shop Now" button to be taken directly to a featured collection or sale, driving clicks to high-margin items and increasing average order size (Rules 3.3, 3.4).
+    -->
+
+</body>

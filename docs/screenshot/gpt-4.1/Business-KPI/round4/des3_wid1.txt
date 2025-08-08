@@ -1,0 +1,9 @@
+Question 4.1:
+The widget uses a modern and clean style: a white rounded search panel with a logo, brand name "ShopNow," a wide search input, a category dropdown, and a big blue Search button with an icon. Beneath, there are attractive blue links to trending and sales pages. The main panel uses generous padding and soft shadows for visibility, a 20px top margin, and max width of 680px to focus user attention. Blue emphasizes CTAs and links to maximize conversion and engagement. Responsive design ensures usability on mobile. These choices ensure the search is dominant and inviting, boosting discoverability, conversions, and revenue.
+
+Question 4.2:
+The widget appears automatically on every page load at the very top of the viewport, 20px from the top, ensuring it's the first interactive element users see. No user action is required to trigger it. This immediacy encourages product discovery and supports engagement, conversion, and low bounce rates.
+
+Question 4.3:
+Users can: (1) Type queries in the search box and submit or press enter, (2) refine their search by selecting a category filter, (3) use the search button (with visual feedback on hover/focus), and (4) click any of the promotional links for trending products, sales, or categories. All form elements are keyboard-accessible and mobile-friendly, facilitating easy engagement for a broad user base.
+-->

@@ -1,0 +1,7 @@
+Q1: This widget is a compact signup box, 430px wide with white rounded corners and a subtle drop shadow for elevation, positioned 20px from the top of the viewport. The main color is ShopClub blue (#4064e6) for the button, complemented by dark navy text for contrast and highlights of green in the benefits list. Inputs and CTAs are spaced for clarity, with a visually engaging icon area. These design choices create a welcoming, modern, and trustworthy impression for new customers.
+
+  Q2: The widget appears as part of the page layout—mounted at the top for maximum visibility when a user visits the site, especially on home, offers, or registration landing pages. It is not modal or pop-up by default, but can be adjusted as needed.
+
+  Q3: Users can interact by entering their name and email, then pressing "Sign Up Now." Form focuses on inputs when clicked. The button provides a hover transition. There's no navigation away; inputs validate for simple required fields. The benefit list is purely informational. On mobile, the layout adapts for smaller screens. (Further JS can add confirmation or backend integration.)
+  -->
+</body>

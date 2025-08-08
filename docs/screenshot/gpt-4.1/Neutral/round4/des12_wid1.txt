@@ -1,0 +1,10 @@
+Question 1: 
+    The widget features a clean, modern look: a white, rounded rectangle (350px wide), shadowed, and centered at the top (20px margin from viewport top). The header includes a 36px store logo and "Create Your Account" in bold. Text is mostly dark gray, with the button in a blue gradient (#1366d6 to #0b9df1), white text, and subtle input borders. Inputs and button are large and high-contrast for accessibility. This matches contemporary e-commerce UIs, providing clarity, visual appeal, and user confidence.
+
+    Question 2: 
+    The widget appears by default when the user navigates to the account creation (sign-up) page or selects "Create Account" from the website navigation. No additional trigger (like modals/popups) is defined here; it statically appears at page load.
+
+    Question 3:
+    Users can input their name, email, and password, using tab/focus to move between fields. The "Create Account" button submits the form (presumably creating an account). A link at the bottom lets existing users navigate to the sign-in page. Inputs show focus styling for accessibility. Visual feedback or form validation are not included but could be added.
+    -->
+</body>

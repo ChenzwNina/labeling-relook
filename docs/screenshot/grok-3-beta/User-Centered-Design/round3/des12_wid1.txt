@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation. It uses a blue color scheme (#007bff) for interactive elements like the button and links, ensuring high visibility and consistency. Input fields are spacious (padding: 10px) with clear borders that highlight in blue on focus for feedback. The layout is centered, with a fixed width of 400px for readability, adhering to e-commerce standards for form design. These choices promote clarity, trust, and ease of use. -->
+
+    <!-- Question 2: This widget appears when a user clicks on a "Sign Up" or "Create Account" link, typically found in the header or during checkout on the ShopEasy website. It may also be triggered as a modal or dedicated page when a user attempts to access account-specific features without logging in. -->
+
+    <!-- Question 3: Users can interact by entering their full name, email, and password into the respective fields, with real-time feedback via border highlights and error messages for invalid inputs. They can submit the form using the "Create Account" button, which disables during processing to prevent multiple submissions. Users can also click on links to read the Terms of Service and Privacy Policy for more information. -->
+</body>

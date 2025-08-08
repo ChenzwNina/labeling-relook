@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with a white background and subtle shadow for elevation, ensuring it stands out at the top of the page. It uses a green color scheme (#27ae60) for status updates and CTA buttons to evoke trust and urgency. The layout is centered with a max-width of 800px for readability, and elements like order details are in a grid for clarity. Font sizes (24px for headers, 16px for body) ensure hierarchy and accessibility. These choices build trust, encourage interaction, and reduce bounce rates by providing clear information.
+
+Question 2: The widget appears when a user logs into their account and has an active order, or when they navigate to the order tracking page. It can also be triggered via a notification link sent through email or SMS after an order is placed, ensuring users are prompted to check status updates.
+
+Question 3: Users can view order details like date and shipping info, track progress through visual status steps, and click the CTA button to access full order details. Hover effects on the button provide feedback, encouraging clicks. These interactions increase time on site and page views.
+-->

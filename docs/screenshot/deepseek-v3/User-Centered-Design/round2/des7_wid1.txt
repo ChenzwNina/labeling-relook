@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a light gray background (#f9f9f9) and subtle shadow for depth. It displays the average rating (4.7) in large bold text, gold stars for visual appeal, and the total review count. The breakdown uses orange progress bars (#FFA500) against light gray backgrounds, with percentages for clarity. The design choices prioritize readability, visual hierarchy, and trust-building through clear rating data presentation.
+
+    Question 2: This widget would typically appear on product pages in an e-commerce site, automatically loading with the page to show the product's rating summary. It might also appear in search results or category pages for highly-rated products, or as a pop-up after purchase asking customers to rate their experience.
+
+    Question 3: Users can: 1) View the average rating and distribution at a glance, 2) Hover over elements for more details (if implemented with JavaScript), 3) Click "Write a Review" to submit their own rating (which would open a review form), and 4) Potentially filter reviews by star rating if connected to a review system.
+    -->
+</body>

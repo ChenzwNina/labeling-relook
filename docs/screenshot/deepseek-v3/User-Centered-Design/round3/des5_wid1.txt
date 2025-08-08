@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, minimalist design with a light gray background (#f8f9fa) and subtle shadow for depth. It's 280px wide with ample padding (20px) for readability. Section titles are bold (600 weight) in dark gray (#333) with 16px font size, while options use 14px font in medium gray (#555). The design uses borders to separate sections and a blue (#007bff) apply button for clear action. These choices prioritize usability - clear hierarchy, sufficient white space, and intuitive interactive elements.
+
+    Question 2: This filter panel would typically appear either permanently in a sidebar layout for desktop views, or as a collapsible panel triggered by a "Filter" button on mobile/tablet views. In some implementations, it might slide in from the side when a filter icon is clicked.
+
+    Question 3: Users can: 1) Select/deselect category/brand checkboxes, 2) Adjust price range via slider or direct number input, 3) Apply all filters with the button. The panel provides immediate visual feedback for selections. Future enhancements could include seeing product counts per filter or reset options.
+    -->
+</body>

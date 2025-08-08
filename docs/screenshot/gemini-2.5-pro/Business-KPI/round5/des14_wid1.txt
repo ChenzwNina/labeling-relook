@@ -1,0 +1,20 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, modern banner positioned at the top of the viewport. It has a white background with a subtle shadow to lift it off the page. The layout uses flexbox to organize content into three sections: left, center, and right.
+- **Layout & Size**: On the left, a friendly blue truck icon sits next to the main status ("Your Order is Out for Delivery!") and delivery ETA. The center section is dominated by a visual progress bar. The right section holds two call-to-action buttons and a dismiss 'X' icon. The banner is slim to be noticeable but not obstructive.
+- **Colors**: The design uses a professional color palette. A trustworthy blue for the icon, high-contrast dark gray text (#111827) for readability, and a vibrant, positive green (#16a34a) for the progress bar to signify successful advancement.
+- **Why**: This design prioritizes clarity and trust. The visual hierarchy immediately answers the user's main questions: "What's the status?" and "When will it arrive?". The progress bar offers instant comprehension, reducing anxiety and support inquiries. This positive, informative experience builds brand loyalty and encourages repeat purchases (Rules 3.2, 3.7, 3.8).
+
+4.2 Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is triggered contextually for a logged-in user upon visiting the website. Specifically, it appears if the user has an active order that has entered a trackable shipping phase (e.g., "Shipped" or "Out for Delivery"). It would display on high-traffic pages like the homepage, account dashboard, or category pages where the user is likely to return. It would be suppressed on checkout pages to avoid distraction (Rule 3.9) and after being dismissed by the user for that session. This targeted approach ensures the information is timely and relevant, providing value without being intrusive. The goal is to proactively answer the user's most pressing post-purchase question the moment they return to the site, reinforcing the brand's reliability and attentiveness (Rule 3.7).
+
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three primary interactions with the widget, designed to address their needs and guide them effectively:
+1.  **Track Package (Primary CTA)**: Clicking this solid, dark button would open the carrier’s (e.g., UPS, FedEx) detailed tracking page in a new tab. This is the most direct way for users to get granular, real-time data, fulfilling their primary intent immediately.
+2.  **View Order (Secondary CTA)**: Clicking this outlined button navigates the user to their order history page within the e-commerce site. This encourages deeper engagement with the site, potentially leading to further browsing or another purchase (Rules 3.5, 3.6). It's styled as secondary to guide users toward the more immediate tracking action first.
+3.  **Dismiss**: Clicking the 'X' icon closes the banner for the current session. This provides essential user control, preventing the widget from becoming an annoyance, which is crucial for a positive experience and minimizing bounce rates (Rule 3.8, 3.9).
+All interactive elements also feature clear hover states for better usability.
+*****Response***** -->
+</body>

@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth, mimicking typical e-commerce aesthetics. The layout is horizontal, with categories evenly spaced for easy scanning, and a max-width of 1200px ensures readability on various devices. Text uses a neutral color (#555) for links, with an active state and hover effect in a vibrant orange (#e44d26) to draw attention and indicate interactivity. Font sizes (18px for title, 16px for links) ensure hierarchy and clarity. These choices prioritize usability and brand consistency seen on sites like Amazon. -->
+
+    <!-- Question 2: This widget appears statically at the top of the page with a 20px margin and remains sticky as users scroll, ensuring constant access to navigation. It is triggered on page load as a core navigation element, not dependent on user actions, to provide immediate category access on an e-commerce site. -->
+
+    <!-- Question 3: Users can interact with the widget by hovering over category links, which change color to indicate clickability. Clicking a link navigates to the respective category page. The active state visually confirms the current category. There are no additional interactions like dropdowns, keeping the design simple and focused on primary navigation. -->
+</body>

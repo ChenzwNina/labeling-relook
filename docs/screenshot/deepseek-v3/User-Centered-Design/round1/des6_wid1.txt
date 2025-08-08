@@ -1,0 +1,5 @@
+Question 1: The widget features a clean, card-based design with a white background, soft shadows, and rounded corners. The image takes the full width with a fixed height, followed by product details below. I used a blue accent color for price and primary button to draw attention to key actions, with ample spacing between elements for readability. These choices create a modern, approachable look that highlights the product while maintaining visual hierarchy.
+
+    Question 2: This widget appears as part of a product listing page, search results, or recommendation section. It's triggered by page load or dynamic content loading when users browse the e-commerce site. Multiple instances would typically appear in a grid layout.
+
+    Question 3: Users can hover for a subtle lift effect, click the image or "View Details" to see more product information, or click "Add to Cart" to purchase. The design provides visual feedback on hover and click states. Additional interactions could include quick-view modals or wishlist icons if implemented.

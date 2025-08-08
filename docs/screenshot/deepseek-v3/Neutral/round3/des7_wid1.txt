@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow. It displays the average rating (4.8) in large bold text, followed by gold stars. Below are horizontal bars showing rating distribution (5-1 stars) with green progress bars. The design uses a neutral color palette with green for positive elements, making it visually appealing while ensuring readability. The layout is organized hierarchically to highlight the most important information (average rating) first.
+
+    Question 2: This widget would typically appear on a product page, automatically loading when the page renders to show the product's ratings. It might also appear in a modal when users click a "View Ratings" button or as part of a product listing card when hovering over the rating section.
+
+    Question 3: Users can: 1) View the average rating and distribution at a glance, 2) Hover over stars or bars for more details (if enhanced with JavaScript), 3) Click to expand and read individual reviews (not implemented here), and 4) Potentially filter reviews by rating if connected to a larger review system.
+    -->
+</body>

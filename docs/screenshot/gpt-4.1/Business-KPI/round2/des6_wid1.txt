@@ -1,0 +1,6 @@
+4.1: The widget is a card-style product component, ~400px wide, white background, soft drop-shadow, rounded corners. The product image is prominent at top with a “Best Seller” red badge and “Ad” gold label. Below, the product title, star rating, selectable color and storage variants are visible, followed by new price in bold pink/red, old struck price, and green savings highlight. Two large CTAs—blue “Add to Cart” and pink “♡ Wishlist”—are at the bottom. Colors use contrasts for visibility and brand energy; layout organizes info for easy scanning. Choices focus on visual appeal, trust, and making shopping frictionless, which maximizes conversion and sales.
+
+4.2: This widget appears wherever a single product is listed (e.g., on product listing, on a recommendations slider, related items, or standalone product detail display at the top of a page). It is visible immediately upon page load when product details are being presented.
+
+4.3: Users can view key product info at a glance, examine the image, click the title to view detail, click the Ad label for promotional offers, see ratings, select color or storage options, add to cart, add to wishlist, or interact with variant options. All interactive areas react visually (hover/selection), and CTAs trigger e-commerce flows, fostering engagement and minimizing abandonment.
+-->

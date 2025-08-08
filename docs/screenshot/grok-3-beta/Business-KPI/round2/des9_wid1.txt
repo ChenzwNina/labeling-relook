@@ -1,0 +1,5 @@
+-->
+    <!-- Question 1: The widget uses a clean white background with subtle shadows for a professional look, positioned sticky at the top with a 20px margin. Blue accents (#007bff) highlight prices and CTAs to draw attention and encourage action. Cards have borders and hover effects for interactivity, with a balanced layout (48% width per section, responsive for mobile). Font sizes are hierarchical (1.5rem titles, 1.1rem subtitles) for clarity. These choices maximize conversions by focusing on clarity, trust, and urgency. -->
+    <!-- Question 2: This widget appears on the checkout or cart review page, triggered when a user proceeds to finalize their purchase. It can also reappear if the user revisits the cart or modifies their order, ensuring shipping and add-on options remain prominent. -->
+    <!-- Question 3: Users can interact by selecting shipping options via clicking cards (highlighted when selected), choosing add-ons similarly, and clicking the "Add Selected Options to Cart" button to confirm choices. Hover effects provide visual feedback, and the responsive design ensures usability across devices, reducing friction and abandonment. -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The search panel is a fixed bar at the top with a 20px margin, featuring a white background and subtle shadow for elevation. It uses a blue (#007bff) theme for the search button and focus states, ensuring high visibility and consistency. The layout is centered with a max-width of 800px for readability, including a category dropdown, wide input field, and prominent button. These choices prioritize clarity, accessibility, and a modern, clean look typical of e-commerce sites, enhancing user focus on search functionality.
+
+Question 2: The search panel is always visible at the top of the viewport on every page of the e-commerce website. It does not require a specific trigger to appear, as it is a core navigation tool designed for constant accessibility, ensuring users can search for products at any time during their browsing experience.
+
+Question 3: Users can interact with the search panel by selecting a category from the dropdown to narrow their search, typing queries in the input field with real-time focus feedback, and clicking the search button to submit. Hover and click states on the button provide visual cues, while the input constraints prevent empty searches (via potential JS validation not shown here), ensuring efficient and guided interactions.
+***** -->

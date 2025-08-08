@@ -1,0 +1,10 @@
+Question 1: 
+The widget is a white, rounded-rectangle panel centered at the top of the viewport with a 20-pixel space. It is 520px wide on desktop, has a soft shadow, and uses modern, readable fonts. The "Search Products" header is bold, with a subtle description below. The search bar combines an input and a blue call-to-action button with an SVG search icon. Below, there are clickable suggestions with soft background tags. The color scheme prioritizes blue (#0070f3), neutrals, and a clean interface for a credible, ecommerce feel. Responsive design ensures mobile usability.
+
+Question 2: 
+This search panel is intended to appear at the top of every page, always visible for easy product searching. Some designs might show it only on product or shop pages, but in this implementation, it’s designed to always appear at the top with a 20px margin.
+
+Question 3:
+Users can type a product, brand, or category into the search input, press "Enter" or click the "Search" button to submit a search. Users can also click on any of the suggested search tags to auto-fill the input with the clicked suggestion, prompting a new search for that category. The search input reacts visually when focused.
+
+-->

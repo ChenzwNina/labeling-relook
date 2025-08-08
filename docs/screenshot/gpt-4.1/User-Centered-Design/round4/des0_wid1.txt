@@ -1,0 +1,10 @@
+4.1 Question 1: 
+  The widget has a modern, clean look with a white rounded card layout and subtle box-shadows for depth. Top bar displays a bold dark title on left and a blue "View All" button on right. Featured product cards are horizontally scrollable, each with a product image (120x120px), name, price (discounted if applicable), stock status, and an "Add to Cart" button. Colors use white, blue (#326fff), green for stock, red for out-of-stock, and subtle greys for background. Responsive for mobile. Design choices optimize clarity, affordances, and feedback, prioritizing conversion and user satisfaction.
+
+  4.2 Question 2: 
+  The widget appears immediately at the top of the page when a user lands on the e-commerce site's main or any product-related page. There are no interaction triggers; it's visible by default to maximize product discovery.
+
+  4.3 Question 3: 
+  Users can scroll horizontally through featured products. For each product, they can view details (name, image, price, stock status), and click or keyboard-navigate to the "Add to Cart" button (enabled if in stock, disabled if not). Hover/focus highlights elements for feedback. "View All" button navigates to full listings. Disabled actions (e.g., adding out-of-stock items) are visibly constrained and non-interactive.
+  -->
+</body>

@@ -1,0 +1,9 @@
+Question 1:
+The widget is a horizontally scrollable navigation bar, positioned fixed at the top of the page with a 20px top margin. The background is white (#fff) for a clean look, with a subtle box-shadow for elevation. Each category is displayed as a rounded button with a faint gray hover effect (#f3f4f6) and an icon (placeholder image) to the left of the category name. Active categories appear bolder with a different background. Typography is modern (17px), and padding promotes touch accessibility. Layout is responsive, condensing spacing and font sizes on smaller devices.
+
+Question 2:
+This widget appears persistently at the top of the viewport on any page where users can browse or filter products by category—typically the homepage, shop, or product listing pages.
+
+Question 3:
+Users can interact by clicking/tapping on any of the category buttons, which navigates them to the respective product category page. Hovering over categories highlights them. On mobile, users can horizontally scroll through all available categories if they don’t fit on the screen. No dropdowns or hidden items—the navigation is flat and direct.
+-->

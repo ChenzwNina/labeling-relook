@@ -1,0 +1,23 @@
+**Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The component is a clean, modal-like card centered at the top of the viewport. It has a white background with a soft shadow to make it float above the page content. A subtle, red border at the top immediately signals a "warning" or "important decision" context.
+
+- **Layout:** It uses a single-column layout for clarity. The headline is large and centered, followed by smaller descriptive text. A key element is an inset, light-gray box that lists the specific benefits the user will lose, each marked with a green checkmark. This visual breakdown makes the consequences of cancellation tangible. The action buttons are stacked vertically at the bottom, making them easy to tap on mobile.
+- **Colors & Elements:** The primary headline is a dark, serious gray. The "Keep My Membership" button is a solid, trustworthy blue, signaling it's the primary, recommended action. The "Continue to Cancel" button is styled as a secondary action with a white background and red text, which clearly indicates a destructive path without being overly aggressive on initial view. Hovering over it turns it solid red, providing clear feedback on the user's intent to proceed with a negative action. These choices create a clear visual hierarchy, guiding the user towards retention while respecting their choice to cancel.
+
+**Question 2: What triggers the appearance of this widget?**
+
+This widget is not a random popup. Its appearance is triggered by a specific, intentional user action. The user would first navigate to their account dashboard or a dedicated "Membership" section within the website's main navigation. On that page, they would find and click on a link or button explicitly labeled "Cancel Membership" or "Manage Subscription". Clicking this control would then display this widget, serving as a confirmation and retention step before finalizing the cancellation. This ensures the component is shown in the correct context, only when the user has already expressed a clear intent to cancel their membership, making the experience relevant and not intrusive.
+
+**Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users have a clear and focused set of interactions designed for deliberate decision-making:
+
+1.  **Close:** The user can click the '×' icon at the top-right. This is a neutral action that dismisses the widget, effectively cancelling their cancellation attempt and returning them to their previous page without any changes. This respects user indecision.
+2.  **Affirm Retention:** The user can click the primary blue button, "Keep My Membership Benefits". This is the positive-path action. Clicking it would close the widget and confirm their membership remains active, likely returning them to their main account page. The button's solid appearance and hover effect encourage this choice.
+3.  **Confirm Cancellation:** The user can click the secondary button, "Continue to Cancel". This action confirms their intent to proceed with the cancellation process. Upon clicking, the widget would likely close and navigate them to a final confirmation screen or a short exit survey. The button's style (changing from outline to solid red on hover) acts as a final "Are you sure?" visual cue.
+4.  **Reading:** The user can read the heading, subheading, and the bulleted list of benefits they will lose. This interaction is passive but crucial for informing their decision.
+
+-->
+
+</body>

@@ -1,0 +1,9 @@
+Question 1:
+The widget sits at the top of the page with a 20px margin. It has a warm, light yellow background (#fffbe8) and rounded corners (18px) to provide a modern, welcoming look. The main header is a large, dark golden color, with a friendly subheader below. Featured products are displayed horizontally in white cards with drop shadows, highlighted on hover with a light gold border. Product images are center-aligned, with prominent product titles, price in orange, and a clear 'Add to Cart' button featuring a gold gradient. The layout is responsive and scrollable on small screens to keep usability high. These choices echo professional e-commerce design standards for approachability and visual clarity.
+
+Question 2:
+This widget appears automatically at the top of the e-commerce homepage or landing page to feature top/bestselling products as soon as the user loads the site, increasing product visibility.
+
+Question 3:
+Interactions include: Hovering over a product card highlights the border and adds shadow, drawing attention; clicking the 'Add to Cart' button initiates a product add-to-cart action for that item (in practice, event handlers would be bound). On mobile, users scroll horizontally to view all featured products in the list, ensuring accessibility across devices.
+-->

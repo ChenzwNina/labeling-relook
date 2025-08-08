@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a white, card-styled product display with soft shadow, rounded corners, and a centered layout. The product image sits above the details inside a light gray rounded box, giving separation and focus. The title is bold and prominent in black, followed by a subtle brand name. Price uses bold red for the current price, faded gray for the old price, and an orange badge for the discount. Large blue "Add to Cart" and a bordered light-red wishlist button anchor the card. Sizing is optimized for desktop and mobile, at 340px wide or expanding to almost full width on small screens. This mirrors modern e-commerce best practices for clarity, visual hierarchy, and ease of action.
+
+  Question 2:
+  The widget appears as a standalone component on an e-commerce catalog or product listing page. It is not triggered by an event but is displayed as users browse the site, possibly within a product grid or featured listing at page load.
+
+  Question 3:
+  Users can visually review the product image, name, brand, pricing (including old price and discount), and interact with two main actions: "Add to Cart" and "Add to Wishlist". Hovering over buttons gives visual feedback. The wishlist button uses a heart icon for quick recognition. Buttons can be connected to backend logic for cart/wishlist operations, but currently offer UI feedback only.
+  -->
+</body>

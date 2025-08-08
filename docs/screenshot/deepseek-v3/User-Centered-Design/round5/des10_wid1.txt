@@ -1,0 +1,6 @@
+Question 1: The widget features a clean white card (350px wide) with soft shadows, rounded corners, and a blue call-to-action button. Input fields have ample padding and subtle borders for clarity. The color scheme uses blue (#3498db) for the primary action, with dark gray (#2c3e50) for headings and light gray (#7f8c8d) for secondary text. Benefits are listed with green checkmarks. These choices create visual hierarchy, ensure readability, and make the form feel approachable while maintaining professionalism.
+
+    Question 2: This widget would typically appear when a user clicks a "Join Membership" or "Sign Up" button in the website header/navigation, or it might appear as a popup after adding items to cart for non-members. It could also be displayed on a dedicated membership landing page.
+
+    Question 3: Users can: 1) Fill in form fields (name, email, password) with validation, 2) Submit the form triggering success/error messages, 3) View membership benefits listed below the form, 4) Hover over the submit button for visual feedback. The form prevents submission until all required fields are completed with valid information.
+    -->

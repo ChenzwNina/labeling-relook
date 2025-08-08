@@ -1,0 +1,10 @@
+3.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+  - The filter panel is a white, rounded card with a subtle box-shadow, 340px wide and top-centered on the viewport with a 20px top margin. It uses a clean Segoe UI font and blue/green accent colors for controls, echoing modern e-commerce trends for clarity and usability. Each filter group is clearly separated, labels are bolded, and buttons are prominent (blue for Apply, grey for Clear). This design improves scan-ability and invites interaction.
+
+  3.2 Question 2: What triggers the appearance of this widget?
+  - The filter panel is typically always visible on desktop screens at the top of the product listing page, allowing users to adjust filters at any time. On mobile, this may be toggled via a "Filter" icon, though in this implementation it remains fixed for demonstrative purposes.
+
+  3.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+  - Users can select or deselect categories, brands, and ratings using checkboxes. Price range is adjusted via two range sliders for minimum and maximum values. The "Apply" button processes the filter selections, updating the product list accordingly; the "Clear" button resets all selections to the default state. Hover styles on buttons help indicate interactivity, enhancing usability.
+
+  -->

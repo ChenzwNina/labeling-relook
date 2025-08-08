@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based design with a white background and subtle shadow for depth. The image takes top prominence (280x200px), followed by product details in a structured layout. Price is highlighted in blue (#2a5885) for visibility, while the "Add to Cart" button uses green (#4CAF50) to encourage action. The design choices prioritize clarity, visual hierarchy, and mobile-friendliness while maintaining a professional e-commerce aesthetic.
+
+    Question 2: This product widget appears as part of a product listing page, category page, or search results in an e-commerce site. It can also appear in recommendation sections ("Customers also viewed") or promotional displays. The appearance is triggered by the page loading or dynamic content loading as users browse or filter products.
+
+    Question 3: Users can: 1) Click the product image/title to view details, 2) Click the heart icon to toggle wishlist status (turns red when active), 3) Click "Add to Cart" to purchase, 4) Hover to see elevation effect (visual feedback). The widget provides visual feedback for all interactions through color changes, transforms, and state indicators.
+    -->
+</body>

@@ -1,0 +1,22 @@
+1.  **Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+    The component is a clean, modern banner that sticks to the top of the viewport as the user scrolls. It has a white background with a subtle shadow, making it float above the main page content. The layout consists of a main heading, "This Week's Featured Tech," and a responsive grid of four product cards.
+
+    Design choices were made to create a premium, trustworthy feel.
+    *   **Colors:** A neutral white background keeps the focus on the products. The sale price is a striking red (`#d9534f`) to create urgency, while the call-to-action button uses a standard, clickable blue (`#007bff`).
+    *   **Layout:** A responsive grid (`display: grid`) ensures the layout adapts seamlessly from large desktops to mobile devices. Each product card has a 1:1 aspect ratio for its image, creating visual consistency.
+    *   **Sizing & Spacing:** Generous padding and spacing provide a clean, uncluttered look. The typography (`Poppins`) is modern and highly legible, with a clear hierarchy between the main title, product names, and prices. This combination guides the user's eye effectively.
+
+2.  **Question 2: What triggers the appearance of this widget?**
+
+    The appearance of this widget is not triggered by a specific user action like a click or hover. Instead, it is designed to be an integral part of the page, loading simultaneously with other content when the user navigates to a relevant page, such as the homepage or a major category page. Its `position: sticky` property ensures it remains visible at the top of the viewport as the user begins to scroll down, maximizing exposure for the featured offers without being intrusive like a modal pop-up. The visibility could be programmatically controlled based on marketing campaigns or user segments, but the fundamental trigger is the page load itself.
+
+3.  **Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+    Users have several clear interaction points designed to guide them toward a purchase.
+    *   **Hovering:** When a user hovers over a product card, it slightly lifts and gains a more prominent shadow, providing visual feedback that the item is interactive. The "View Deal" button also changes color on hover, indicating it's clickable.
+    *   **Clicking a Product:** Clicking anywhere on a product card (the image, title, or price area) functions as a single link, navigating the user directly to that product's detailed description page. This reduces friction by making the entire card a tappable target.
+    *   **Clicking the CTA:** Clicking the explicit "View Deal" button also takes the user to the product detail page.
+    *   **Dismissing:** A user can click the "×" icon in the top-right corner to dismiss the entire banner. In a real-world application, this action would typically set a cookie or use local storage to prevent the banner from reappearing for the remainder of the user's session.
+-->
+</body>

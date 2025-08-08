@@ -1,0 +1,10 @@
+Question 1:
+  The widget features a white, rounded rectangle with subtle box-shadow, centered at the top of the viewport with a 20px top margin. The product image is 110x110px with rounded edges and a soft border. Next to it, product details are laid out vertically, with bolded product title, brief description, gold star ratings, price (with discount visibly struck through), and a blue “Add to Cart” button. Feedback (“Added to cart!”) appears near the button after clicking. An “Out of stock” message, in red, is displayed if applicable. Colors are chosen for clarity, visibility, and a trustworthy e-commerce look.
+
+  Question 2:
+  This widget appears wherever an individual product needs to be shown on a product list, recommendation section, or product details modal—typically triggered by the website rendering a product for the user to view or interact with.
+
+  Question 3:
+  Users can: view product image, name, short description, price (with discount if present), see star ratings, and click “Add to Cart.” Clicking shows a brief feedback message. If the product is out-of-stock, the button is disabled and a red “Out of stock” notice appears, preventing user action. All interactive elements are accessible via mouse and keyboard.
+
+  -->

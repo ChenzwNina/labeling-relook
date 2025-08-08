@@ -1,0 +1,5 @@
+Question 1: The widget has a clean, card-like design with a white background, subtle border, and soft shadow. It uses a blue color scheme for selected options and interactions, with green for prices to indicate cost. The layout is vertical with clear section headings, adequate spacing, and responsive elements. These choices enhance readability, create visual hierarchy, and make the interface intuitive while maintaining a professional ecommerce aesthetic.
+
+    Question 2: This widget would typically appear during the checkout process after the user enters their shipping address. It might be triggered automatically when progressing to the shipping step or appear when clicking a "Choose shipping options" button in the checkout flow.
+
+    Question 3: Users can: 1) Select one shipping method by clicking radio buttons, which visually highlights the chosen option, 2) Toggle add-ons using checkboxes, 3) View pricing details for each option, 4) See estimated delivery times, and 5) Hover over options for visual feedback. The selections would typically be saved when proceeding to payment.

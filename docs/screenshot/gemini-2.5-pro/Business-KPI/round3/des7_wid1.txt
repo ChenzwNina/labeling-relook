@@ -1,0 +1,28 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The component is a sleek, pill-shaped banner that remains fixed at the top of the screen. Its layout is horizontal, starting with a green "verified purchase" icon for immediate visual context. The text follows, clearly stating a customer's name and location, the product they rated, and a five-star rating. The product name is a clickable blue link. A subtle '×' button on the right allows users to dismiss it.
+
+    This design is intentional:
+    - **Colors:** A clean white background with a subtle shadow makes it pop against site content without being jarring. The green icon instills trust, the gold stars are universally understood, and the blue link follows web conventions, encouraging clicks.
+    - **Shape & Size:** The rounded, compact form feels modern and friendly, not like an aggressive, boxy ad. It’s large enough to be legible but small enough not to obstruct the main site content, minimizing user annoyance.
+    - **Layout:** The flow from icon to text to action (the link) guides the user's eye logically, communicating the social proof quickly and efficiently to build trust and drive product discovery.
+
+
+    4.2 Question 2: What triggers the appearance of this widget?
+
+    The widget is triggered to appear automatically upon page load for visitors, particularly on high-traffic entry points like the homepage, category pages, or popular product pages. It uses a CSS animation to slide down from the top of the viewport, grabbing the user's attention immediately. This strategy is chosen to establish social proof and credibility the moment a user begins their journey. To respect the user's experience and avoid being a permanent nuisance, the widget is designed to automatically slide away and disappear after 10 seconds. This provides sufficient time for the message to be absorbed without overstaying its welcome, striking a balance between maximizing impact and minimizing intrusiveness.
+
+
+    4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users have three primary interactions with this widget, designed to serve different user needs:
+
+    1.  **Clicking the Product Link:** The main call-to-action is clicking the product name, "Artisan Leather Handbag." This interaction is designed to maximize engagement and page views by taking the user directly to a product page that has recently received a positive review, leveraging social proof to increase the likelihood of a sale.
+
+    2.  **Closing the Widget:** Users can click the '×' button on the right. This immediately removes the widget from view, giving users full control over their browsing experience. This is crucial for minimizing user frustration and preventing potential bounces from users who find such elements distracting.
+
+    3.  **Passive Viewing:** The third interaction is simply observing the widget. Its animated appearance and clear, concise information are designed to be passively consumed. This builds subconscious trust and brand confidence even if the user doesn't click anything, positively influencing their overall perception and potentially reducing cart abandonment later in their session.
+
+    *****Response***** -->
+    
+</body>

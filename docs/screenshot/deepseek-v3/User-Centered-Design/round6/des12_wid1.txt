@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, minimalist design with a white background and blue accent color (#4285f4). It's 350px wide with appropriate padding, containing form fields for name, email, and password (with confirmation). Input fields have subtle borders (#ddd) and labels in a smaller gray (#555) font. The design choices prioritize usability with clear visual hierarchy, sufficient spacing, and a prominent blue button for the call-to-action. The color scheme is professional yet inviting, typical for ecommerce trust-building.
+
+    Question 2: This widget would typically appear when a user clicks a "Sign Up" or "Create Account" button in the website's header/navigation, or when attempting to checkout without an account. It could also appear as a modal overlay or on a dedicated registration page.
+
+    Question 3: Users can: 1) Fill in text fields (name, email, passwords), 2) Submit the form (triggering validation), 3) See password requirements if validation fails, 4) Click the login link to switch to login form, and 5) Close the widget if it's a modal. Successful submission would create an account and likely redirect to a welcome page or their account dashboard.
+    -->
+</body>

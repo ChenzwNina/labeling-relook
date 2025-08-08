@@ -1,0 +1,31 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, grid-based product listing contained within a white card with a subtle shadow, set against a light gray page background. This contrast makes the products stand out. The layout is a responsive grid that adapts to screen size, ensuring a good viewing experience on any device.
+
+**Colors:** The primary call-to-action button, "Add to Cart," uses a vibrant, trustworthy blue (`#007BFF`) to draw the user's eye and encourage clicks. Sale prices and tags use a distinct red (`#DC3545`) for urgency, while "New" tags use green (`#28a745`) for positivity. Text is a highly readable dark gray on a white background.
+
+**Elements & Layout:** Each product card has a consistent vertical layout: a large image at the top, followed by the product name, star rating, price, and finally the "Add to Cart" button. This creates a clear visual hierarchy, allowing users to scan information efficiently. The product name uses a bolder 'Montserrat' font to differentiate it from the 'Lato' body font. This entire structure is designed to be scannable, visually appealing, and optimized for the primary goal of adding items to the cart.
+*****Response*****
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this product list component is triggered by a primary user navigation action. It is not a pop-up or a dynamic widget that appears based on a specific event like scrolling. Instead, it forms the main content of a core e-commerce page.
+
+For example, a user would see this component after:
+1.  **Navigating to a product category:** Clicking on a link like "Home Goods" or "Decor" in the website's main navigation menu. The header within the component, "Artisan Home Decor," confirms the user's location.
+2.  **Performing a search:** Entering a term like "vases" into the site's search bar and landing on the search results page.
+3.  **Clicking on a promotional banner:** Interacting with an on-site ad, such as "Shop our New Decor Collection," which would lead to this curated list.
+
+In essence, the component appears whenever the user explicitly requests to see a collection of products.
+*****Response*****
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several clear and intuitive interactions available with this component, designed for efficient browsing and purchasing.
+
+1.  **View Product Details:** Users can click on the product image or the product name. Both are given a `cursor: pointer` style on hover, indicating they are clickable links that would navigate the user to the detailed product page for more information.
+2.  **Add to Cart:** The most prominent interaction is clicking the blue "Add to Cart" button. Hovering over it provides visual feedback as the color darkens and the button slightly lifts.
+3.  **Add to Wishlist:** A secondary, quick action is the heart icon on the product image. Hovering over it changes its color to red and enlarges it slightly, affording a clear way to save an item without leaving the page.
+4.  **Visual Feedback on Hover:** Hovering over an entire product card makes it lift and cast a more prominent shadow, signaling to the user that the entire element is an interactive entity. The product image also zooms in slightly.
+5.  **Recognize Item Status:** Users can immediately identify an item's status. "New" or "Sale" tags provide context. For the "Sold Out" item, all interactions are visually constrained: the card is faded, the "Add to Cart" button is disabled and grayed out, and a "Sold Out" banner appears over the image, preventing clicks.
+-->
+
+</body>

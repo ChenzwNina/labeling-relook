@@ -1,0 +1,22 @@
+**Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+    The widget is a horizontal banner titled "Top Picks For You," fixed 20px from the top of the viewport. It has a clean, modern aesthetic with a white background (`#ffffff`) and a subtle shadow, distinguishing it from page content. Product cards within the banner also use a white background and are separated by a `20px` gap.
+    Key colors include a primary blue (`#007bff`) for "Add to Cart" buttons and the price, promoting action and drawing attention. Text is a dark grey (`#333333` or `#1c1c1e`) for high readability. Disabled elements use muted greys (`#6c757d`).
+    Product cards are `220px` wide, featuring a square image container (1:1 aspect ratio) for `placeholder_image.jpg`. Product names are `1em` (typically `16px`) and prices are `1.125em` (typically `18px`), bolded. Buttons are prominent and full-width within the card.
+    The layout uses Flexbox for the horizontally scrollable product list, allowing users to browse multiple items efficiently without consuming excessive vertical space. This design prioritizes clarity, ease of use, and follows common e-commerce conventions for a familiar and trustworthy user experience. High contrast and clear CTAs enhance function visibility.
+
+    **Question 2: What triggers the appearance of this widget?**
+
+    This widget is designed to be a persistent element, appearing as soon as the page loads. Its fixed position at the top of the viewport (with a `20px` top margin) ensures it's immediately visible and remains accessible as the user scrolls through the page content.
+    It’s intended for showcasing curated product selections like "Top Picks For You," "Featured Items," or "New Arrivals," making it suitable for homepages, category pages, or even product detail pages (suggesting related items). While it could be conditionally displayed (e.g., after a user action like adding to cart), its current design as a prominent, always-visible banner suggests it's part of the site's core browsing experience, aimed at increasing product discovery and engagement from the outset.
+
+    **Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+    Users can interact with the widget in several ways:
+    1.  **Horizontal Scrolling:** If there are more products than fit the viewport width, users can scroll horizontally within the banner using mouse drag, touchpad gestures, or the scrollbar to discover all items. The scrollbar provides visual feedback on the list's extent.
+    2.  **Hovering over Product Cards:** When a user hovers over a product card, it slightly elevates and its shadow intensifies. This provides visual feedback (Rule 3.2) that the card is an interactive element.
+    3.  **Hovering over Buttons:** "Add to Cart" buttons change their background color to a darker shade on hover, signaling clickability (Affordance, Rule 3.5).
+    4.  **Clicking "Add to Cart" Button:** Clicking this button would typically initiate adding the item to the user's shopping cart. In a live site, this would trigger further feedback like a mini-cart update or a success message. For this static component, the button has a focus style.
+    5.  **Interacting with Disabled Buttons:** One product is shown as "Out of Stock" with a disabled button. This button is visually distinct (greyed out) and has a `not-allowed` cursor, preventing clicks and clearly communicating the item's unavailability (Constraint, Rule 3.3).
+    6.  **Clicking Product Image/Name (Implied):** While not functionally implemented here, the product images and names are styled as typical clickable elements. Users would expect these to navigate to the respective product detail page (Affordance, Rule 3.5).
+*****Response***** -->

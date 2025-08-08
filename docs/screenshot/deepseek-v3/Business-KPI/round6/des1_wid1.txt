@@ -1,0 +1,7 @@
+Question 1: The widget features a gradient banner with white text for high contrast. Deal items have semi-transparent backgrounds, hover effects, and are arranged in a responsive flex layout. Yellow highlights prices to draw attention. These choices create visual hierarchy, maintain readability, and encourage interaction while fitting modern ecommerce aesthetics.
+
+    Question 2: The banner appears automatically when the page loads, as it's placed in the document body. In a real implementation, it could be triggered by user behavior (first visit, returning after time away) or timed to appear after scrolling.
+
+    Question 3: Users can: 1) View all deal items at once, 2) Hover over deals for subtle elevation effect, 3) Click the close button to dismiss the banner permanently (until next session), 4) Click on deals (though links aren't implemented here) to navigate to relevant product pages.
+    -->
+</body>

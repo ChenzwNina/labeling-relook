@@ -1,0 +1,19 @@
+3.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a horizontal banner titled "Deals You Can't Miss," fixed 20px from the top of the viewport. It has a light gray background (`#f8f9fa`) with a subtle shadow for depth. Inside, three product cards are displayed side-by-side, centered within the banner. Each card has a white background (`#ffffff`), a light border, and rounded corners. Product images are 180px tall, covering the width of their space. Product names are `1.1em` in a dark color, followed by a 3-line description in a smaller, grey font (`0.875em`). Prices are prominent (`1.2em`, bold, warm orange `#e67e22`). "Add to Bag" buttons are a strong blue (`#007bff`) with white uppercase text.
+
+These choices aim for a modern, clean e-commerce aesthetic. The light banner background is unobtrusive. Contrasting colors for text, prices, and buttons ensure readability and guide user attention to key information and actions. Consistent card sizing and layout create a professional, organized appearance. Hover effects (slight lift and increased shadow) provide interactive feedback, enhancing user experience.
+
+3.2 Question 2: What triggers the appearance of this widget?
+
+This widget, the "Featured Products Banner," is designed to appear automatically as soon as the web page loads. It is styled with `position: fixed` and `top: 20px`, meaning it becomes visible at the top section of the viewport (with a 20px margin from the absolute top) immediately upon page rendering. Its appearance is not contingent on any specific user action like scrolling to a certain point or clicking an element; it's part of the initial page layout, intended for persistent visibility to highlight featured products or promotions.
+
+3.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the widget in several ways:
+1.  **Visual Feedback on Hover:** When a user hovers their mouse over a product card, the card visually lifts slightly and its shadow intensifies, indicating it's an interactive element. The "Add to Bag" button also changes its background color on hover.
+2.  **Product Navigation (Implied):** Clicking on a product's image or name would typically navigate the user to that product's detailed page. (Note: This component provides the HTML/CSS; actual navigation would require JavaScript or `<a>` tags).
+3.  **Adding to Cart:** Clicking the "Add to Bag" button is intended to initiate the process of adding the respective product to the user's shopping cart. This would trigger a JavaScript function in a live e-commerce site.
+4.  **Persistent Visibility on Scroll:** As the widget is fixed, it remains visible at the top of the viewport while the user scrolls through other content on the page, ensuring the featured items are always accessible.
+There are no internal navigation elements like carousels or filters within this specific banner design.
+*****Response***** -->

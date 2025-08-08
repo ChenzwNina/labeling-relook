@@ -1,0 +1,16 @@
+* Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+The shopping cart widget is a 380px wide panel with a clean, modern aesthetic. It uses a professional color palette: a white background for clarity, dark grey text for high readability, and a vibrant blue for the primary "Proceed to Checkout" button to draw the user's attention (affordance and visibility). Secondary actions and text use a lighter grey to create a clear visual hierarchy.
+
+The layout is structured using flexbox for alignment and spacing. A fixed header contains the title "Your Cart" and a close icon. The body lists each product with an image, name, price, and action controls. The footer provides a subtotal summary and the primary checkout button. A key design choice is the inclusion of a "free shipping" progress bar. This gamifies the experience slightly and incentivizes users to increase their order value, which is a common and effective e-commerce strategy. Elements have generous spacing and rounded corners for a soft, approachable feel.
+
+* Question 2: What triggers the appearance of this widget?
+The appearance of this widget is typically triggered by a user's explicit action: clicking on a shopping cart icon located in the main header of the e-commerce website. This is a universally understood convention, ensuring high predictability and user control. When clicked, the cart slides into view from the top-right corner of the viewport, providing immediate visual feedback that their action was successful. This interaction is designed to be non-disruptive, allowing the user to quickly review their cart without navigating away from their current page, thus supporting efficient task execution. Alternatively, some sites might trigger it to appear automatically for a few seconds after a user adds an item to their cart.
+
+* Question 3: Can you describe the full range of interactions users can have with the widget?
+Users have a comprehensive set of interactions designed for efficient cart management. They can:
+1.  **View Cart Contents:** At a glance, users see a summary of all items, including images, names, prices, and the total item count in the header.
+2.  **Adjust Quantity:** For each item, users can click "+" or "-" buttons to increment or decrement the quantity. They can also type a specific number directly into the input field, which is constrained to accept only numbers greater than zero.
+3.  **Remove an Item:** By clicking a distinct trash can icon next to an item, the user can remove it from the cart entirely. The icon's hover state turns red to give feedback on this destructive action.
+4.  **Proceed to Checkout:** The most prominent action is clicking the large, brightly colored "Proceed to Checkout" button, which navigates them to the next step of the purchasing funnel.
+5.  **Dismiss the Cart:** Users can click the "X" icon in the header to close the cart and continue browsing the website.
+-->

@@ -1,0 +1,7 @@
+1. The filter panel appears as a horizontally aligned bar with a white background, rounded corners, and a subtle shadow for elevation, located at the top of the viewport with 20px margin from the top. Main components are spaced with visible sections for Category, Price Range, Brand, and Rating, each using modern "filled" fields (soft gray). Interactive elements like selects and checkboxes are sizable for easy clicking. The "Apply Filters" button is prominent blue, "Reset" is a subtle accent. Feedback for invalid input (e.g., min>max price) is shown clearly in red. High consistency and visible affordances ensure clarity and usability.
+
+  2. This widget is always visible at the top of the product listing or category page, as an integral filter panel for browsing products. It appears as part of the page (not modal or triggered by user interaction), ensuring immediate access to filtering functions.
+
+  3. Users can: select a category from a dropdown, enter a price range (min/max), select multiple brands via checkboxes, select a minimum star rating, apply filters (button enabled when at least one filter is changed), and reset all filters. Price range input is constrained with inline feedback for invalid input. After "Apply," a feedback message summarizes filters. Only permissible actions are allowed; for example, "Apply" is disabled for invalid or unchanged states. All inputs have visible affordances for clarity.
+  -->
+</body>

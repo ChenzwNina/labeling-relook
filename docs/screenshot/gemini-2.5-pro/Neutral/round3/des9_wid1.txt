@@ -1,0 +1,26 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+    
+    The widget is a clean, card-style component with a white background, rounded corners, and a subtle shadow, making it float visually above the main page content. The color palette is minimal and professional: a trustworthy blue (#007bff) for the primary action button and highlights, dark grey for text (#333), and a lighter grey for borders and section backgrounds (#f8f9fa).
+    
+    The layout is vertically structured for a clear user flow. It starts with a header, followed by shipping options using radio buttons, and then optional add-ons with checkboxes. The final element is a prominent "Continue to Payment" button. Font sizes and weights create a strong visual hierarchy. This design is chosen for its clarity, familiarity, and trustworthiness. The clean aesthetic minimizes distractions and guides the user efficiently towards completing their purchase, which is a key goal in e-commerce design.
+    -->
+    <!-- *****Response*****
+    Question 2: What triggers the appearance of this widget?
+
+    This widget is best triggered immediately after a user clicks the "Add to Cart" button on a product page. Instead of a simple "Item added" notification, this component would appear, typically sliding in from the top-right corner of the viewport. 
+    
+    This timing is strategic for several reasons. First, it confirms the user's action was successful. Second, it capitalizes on the moment of high purchase intent to present relevant upsells (faster shipping) and cross-sells (add-ons like gift wrap or warranty). It acts as an interactive "mini-cart" summary, encouraging the user to enhance their order and proceed directly to checkout, thereby streamlining the conversion funnel and potentially increasing the average order value without being disruptive.
+    -->
+    <!-- *****Response*****
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+    
+    A user has several clear interaction pathways with this widget:
+    
+    1.  **Select a Shipping Option:** The user can click on any of the three shipping method containers (or their radio buttons) to change their delivery preference. The selected option receives a blue border to provide clear visual feedback.
+    
+    2.  **Choose Add-ons:** The user can click the checkboxes next to "Premium Gift Wrapping" or the "2-Year Protection Plan" to add these services to their order. They can also deselect them by clicking again.
+    
+    3.  **Proceed to Checkout:** Clicking the main blue "Continue to Payment" button at the bottom would advance the user to the next step in the checkout process, carrying over their selected shipping and add-on choices.
+    
+    4.  **Dismiss the Widget:** The user can click the '×' icon in the top-right corner to close the widget, allowing them to dismiss the upsell offers and continue shopping on the website.
+    -->

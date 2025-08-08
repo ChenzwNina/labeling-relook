@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The sign-in widget features a clean, centered layout with a white background container, subtle shadow for depth, and a max-width of 400px for readability. It uses a blue (#007BFF) primary color for the sign-in button and links, ensuring high visibility and consistency with common e-commerce branding. Input fields have a soft border and focus effects for feedback. The design choice prioritizes simplicity and clarity, reducing user distraction while maintaining a professional, trustworthy look aligned with e-commerce standards. -->
+
+    <!-- Question 2: The widget appears when a user navigates to the sign-in page of the e-commerce website, typically triggered by clicking a 'Sign In' link in the header or attempting to access account-specific features like order history or checkout without being logged in. -->
+
+    <!-- Question 3: Users can interact with the widget by entering their email and password in the respective fields, which provide focus feedback. They can submit the form via the 'Sign In' button, receiving alerts or error messages for feedback. Links for 'Forgot Password?' and 'Create an Account' offer additional navigation. Constraints like required fields and disabled states prevent invalid actions, ensuring efficient and guided interaction. -->
+</body>

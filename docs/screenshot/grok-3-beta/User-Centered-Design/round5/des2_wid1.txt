@@ -1,0 +1,6 @@
+-->
+<!-- Question 1: The widget features a clean, white background with a subtle shadow for depth, ensuring it stands out at the top of the page. Categories are displayed in a horizontal list with a coral (#ff6f61) hover effect for interactivity, using a consistent font size of 16px for readability. The layout is centered with ample spacing (30px gaps) for clarity. These choices prioritize visibility, consistency, and a modern, minimalistic look typical of e-commerce sites, enhancing user focus on navigation. -->
+
+<!-- Question 2: The widget appears statically at the top of the viewport with a 20px margin, remaining sticky as users scroll. It is a persistent navigation element on all pages of the e-commerce site, ensuring constant access to product categories without any specific trigger beyond page load. -->
+
+<!-- Question 3: Users can interact with the widget by hovering over category links, which change color to coral and display an underline for feedback. Clicking a link navigates to the respective category page. The design prevents errors by limiting interactions to clickable links, and the responsive layout adapts to smaller screens by wrapping items, ensuring usability across devices. -->

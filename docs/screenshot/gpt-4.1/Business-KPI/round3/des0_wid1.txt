@@ -1,0 +1,9 @@
+4.1 Answer: 
+The widget uses a clean, modern design with a white background, soft shadows, and rounded corners for trust and aesthetics. Main text is dark blue; CTAs use orange gradients to draw attention. Products are presented in easy-to-scan horizontal cards, each with a large product image, rating, price (with discount), and a prominent “Add to Cart” button. An ad banner is included to increase page views/ad revenue. These choices guide the user’s attention, highlight deals, encourage immediate action, promote cross-selling, and visually separate components for readability.
+
+4.2 Answer: 
+The widget appears automatically at the top of the homepage (and potentially relevant category/landing pages) as soon as the page loads. Its persistent visibility ensures maximum exposure to both new and returning visitors, driving engagement from the first moment.
+
+4.3 Answer: 
+Users can: 1) Scroll horizontally to explore all featured products; 2) Click on any product’s image/name to view its detail page (optionally, if linked); 3) Click “Add to Cart” to instantly add items (integrates with cart logic); 4) Click “View all” to browse the full featured collection; 5) Click on the ad banner to explore a high-impact promotion. Card and button hovers provide visual feedback. These interactions promote both shopping flow and time on site.
+-->

@@ -1,0 +1,7 @@
+3.1 Question 1: The widget has a rounded white card design, shadowed to stand out from the light gray background. It’s 380px wide and vertically stacked. At the top is a bold header, below is a row of yellow stars denoting the average (4.2/5), with one gray star for the fractional value. The total number of ratings ("486 ratings") is listed, followed by a breakdown bar chart showing the proportion of each star rating with colored bars, numbers, and star icons. At the bottom is a deep blue "Write a Review" button. The layout mimics established ecommerce rating modules for familiarity and clarity, using dark text for readability and yellow (#fbc233 / #ffc107) for positive visual hierarchy.
+
+  3.2 Question 2: This widget is typically always visible at the top of product pages or near product details, either upon initial page load or when users scroll to the reviews section. Here, it's fixed near the top of the viewport to immediately inform shoppers about customer satisfaction.
+
+  3.3 Question 3: Users can visually scan overall ratings, examine a detailed breakdown of rating levels, see the total review count, and click the “Write a Review” button to contribute their own feedback (leading to a review form/modal). There are no advanced interactions (e.g., filtering) in this static version, but in production, individual breakdown bars could be clickable for filtering.
+  -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, card-like design with a light background (#f9f9f9) and subtle shadow for depth. It uses a green color (#4CAF50) for completed steps and active status, creating visual hierarchy. The layout is vertical with clear step progression, using icons (✓ for completed, numbers for upcoming) to enhance scannability. Font sizes range from 12px for dates to 18px for the order number. These choices prioritize clarity, visual hierarchy, and mobile responsiveness while maintaining a professional e-commerce aesthetic.
+
+    Question 2: The widget appears when a user clicks on "Track Order" from their account page or order confirmation email. It may also auto-display after checkout completion or when visiting a unique order tracking URL sent via email. Some sites might show it as a persistent element in the account dashboard for recent orders.
+
+    Question 3: Users can: 1) Scan the visual timeline to understand order progress, 2) Click "View Order Details" to see the full order, 3) Click "Contact Support" to initiate help requests, 4) Hover over steps for potential tooltips with more details (if implemented), and 5) On mobile, they might swipe horizontally if there are many steps. The widget is primarily informational but connects to deeper actions.
+    -->

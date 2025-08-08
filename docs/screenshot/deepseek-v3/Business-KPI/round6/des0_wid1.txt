@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based layout with a white background and subtle shadows for depth. Product cards are arranged in a responsive grid that adjusts based on screen size. I chose a color scheme with green accents (for buttons) to encourage action, with blue price tags for trust. Card sizes (250px min width) ensure good visibility while allowing multiple products to display. The design prioritizes clarity with ample white space, consistent typography, and visual hierarchy to guide users' attention to key elements like price and CTA buttons.
+
+    Question 2: This widget would typically appear on the homepage or landing pages of an ecommerce site, loading immediately with the page. It might also appear on category pages or as a recommendation section after certain user actions (like viewing a product). The appearance is automatic as part of the page layout, not triggered by specific user interaction, though the specific products shown could be personalized based on user behavior.
+
+    Question 3: Users can: 1) Hover over cards to see a subtle lift effect (visual feedback), 2) Click product images/titles to view details, 3) Click "Add to Cart" buttons to purchase, 4) Scroll horizontally if space is limited (on mobile), and 5) Potentially swipe through carousel-style on touch devices. The widget is designed to be fully responsive, adapting interactions for different screen sizes while maintaining all core functionality.
+    -->
+</body>

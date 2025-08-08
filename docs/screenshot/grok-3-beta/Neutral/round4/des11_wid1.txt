@@ -1,0 +1,5 @@
+-->
+    <!-- Question 1: The widget is a centered, fixed-position modal at the top of the viewport with a 20px margin. It features a clean white background with a subtle shadow for elevation, and a red header text (#d32f2f) to signify urgency. The layout is vertically aligned with a max-width of 600px for readability. Buttons are styled with contrasting colors (red for confirm, gray for cancel) to guide user action. These choices mimic e-commerce design standards by prioritizing clarity, urgency, and user focus. -->
+    <!-- Question 2: This widget appears when a user navigates to the membership settings page and selects the "Cancel Membership" option, or if they initiate cancellation through their account dashboard. It acts as a confirmation step to prevent accidental cancellations. -->
+    <!-- Question 3: Users can interact with the widget by clicking the "Yes, Cancel Membership" button to proceed with cancellation, or the "No, Keep My Membership" button to dismiss the widget and retain their subscription. Hover effects on buttons provide visual feedback, enhancing usability. -->
+</body>

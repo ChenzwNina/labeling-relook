@@ -1,0 +1,26 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a vertical panel with a clean, modern aesthetic, designed for clarity and ease of use. It has a white background, sharp corners, and a subtle drop shadow, making it float above the page content. Text is a highly readable dark grey ('#333') set in the 'Lato' sans-serif font. The layout is structured with a fixed header ("Filter & Sort") and footer, with a scrollable central area for filter categories.
+
+Key design choices include:
+- **Color:** A single, vibrant blue ('#007bff') is used as the primary action color for selected items and the "Apply Filters" button. This creates a strong visual hierarchy, guiding the user to the most important action (Rule 3.2).
+- **Size & Spacing:** Generous padding and larger, custom-styled checkboxes/radio buttons make the component touch-friendly and reduce mis-clicks. This minimizes user frustration and abandonment (Rule 3.8).
+- **Layout:** Each filter category is clearly separated. Displaying the item count (e.g., "128") next to each option manages user expectations, preventing them from navigating to an empty results page and thus reducing the bounce rate (Rule 3.9).
+
+4.2 Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is user-initiated. On a product listing page (e.g., a category page like "Men's Outerwear" or a search results page), the user would click a prominent "Filter" or "Filter & Sort" button, typically located just above the grid of product images. Clicking this button would cause the filter panel to appear as an overlay or slide into view from the side.
+
+This trigger mechanism is designed to be intentional and contextual. It doesn't appear automatically, which would be intrusive and annoying. By giving the user explicit control, we ensure the tool is used when it's most needed, empowering them to narrow down a large product selection. This positive, user-controlled experience is crucial for increasing time on site and encouraging repeat visits (Rules 3.5, 3.7), as users feel in command of their shopping journey.
+
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a comprehensive set of interactions designed for efficient product discovery:
+- **Selection:** Users can select multiple options in categories like "Brand" or "Size" using checkboxes. For mutually exclusive options like "Price Range," they use radio buttons.
+- **Visual Feedback:** As users select options, the checkboxes/radio buttons instantly fill with the primary blue color, providing immediate confirmation of their action. A counter on the "Clear All" button updates to show how many filters are active.
+- **Application:** After making selections, the user clicks the prominent "Apply Filters" button. This is the primary call-to-action that dismisses the panel and refreshes the product grid on the page to reflect their choices.
+- **Resetting:** Users can click the "Clear All" button, a secondary action, to deselect all chosen filters and start over.
+- **Dismissal:** Users can close the panel without applying changes by clicking the 'X' icon in the header, giving them an easy escape route if they change their mind.
+
+This full range of interactions helps users quickly and accurately find desired products, which directly supports maximizing conversion rates and minimizing cart abandonment (Rules 3.2, 3.8).
+*****Response***** -->

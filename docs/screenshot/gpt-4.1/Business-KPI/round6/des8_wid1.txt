@@ -1,0 +1,7 @@
+4.1: The widget has a modern, clean card style with a white background, rounded corners, and subtle box-shadow, 20px from the top. Title text is bold and dark for attention. Cart items have a thumbnail, concise product details, price, and quantity adjusters for quick edits. A horizontal ad promotes offers (CTR). The summary area highlights savings and “eligible for free shipping”, reducing abandonment and boosting orders. 'Checkout Now' uses a prominent green gradient (conversion) and 'View Cart' is a secondary call-to-action. 'Continue shopping' encourages further browsing (time/pageviews). Design is optimized for mobile too.
+
+    4.2: The widget appears when a user clicks the cart icon (or similar).
+
+    4.3: Users can: increase/decrease item quantity, remove items, click product names/thumbnails to view, click ad to visit promotions, click 'Checkout Now' to purchase, 'View Cart' to see full details, and 'Continue Shopping' to return to browse. All controls are large/touch-friendly and actionable, with visual feedback on interaction.
+
+    -->

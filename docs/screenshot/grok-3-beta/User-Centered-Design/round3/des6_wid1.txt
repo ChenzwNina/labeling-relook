@@ -1,0 +1,6 @@
+Question 1: The product card widget is a compact 300x400px card with a clean white background, subtle shadow, and rounded corners for a modern look. The image occupies the top 200px, ensuring visual prominence. Text elements use a clear hierarchy with a bold title (#333), vibrant price (#e44d26), and muted description (#666) for readability. The orange "Add to Cart" button stands out, inviting action. These choices prioritize visibility, consistency with e-commerce design, and a satisfying user experience through hover effects and feedback.
+
+Question 2: This widget appears on product listing pages or search results within an e-commerce website. It is triggered by user navigation to a category page, search query execution, or when browsing featured or recommended items, ensuring relevant products are displayed dynamically.
+
+Question 3: Users can interact with the widget by hovering over the card for a subtle lift effect (feedback), clicking the card to view detailed product information, and clicking the "Add to Cart" button to purchase. The button changes color on hover and click for clear feedback. Constraints prevent invalid actions (e.g., no input fields to misuse), ensuring efficient and focused interactions.
+***** -->

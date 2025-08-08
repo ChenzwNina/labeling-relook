@@ -1,0 +1,28 @@
+Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The component is a sleek, pill-shaped banner centered at the top of the screen. It has a clean white background with a soft shadow and a thin border, making it pop against the page content. The layout is horizontal, using flexbox to align three key elements:
+    1.  **Star Rating:** Five 20px gold-colored stars (#FFC107) are paired with a bold "4.8 / 5" score. Gold is universally associated with high quality and excellence.
+    2.  **Review Count:** A vertical separator leads to the text "Based on 25,487 Verified Customer Reviews." The high, specific number and the word "Verified" are chosen to maximize credibility and social proof.
+    3.  **Call-to-Action:** A standard blue (#007bff) link encourages users to "See all reviews."
+
+    This design instantly communicates trustworthiness and high customer satisfaction (Rule 3.1, 3.2), which is crucial for reducing bounce rates (Rule 3.9) and encouraging users to start browsing. The professional, modern aesthetic reflects a reputable brand.
+
+    *****Response*****
+    Question 4.2: What triggers the appearance of this widget?
+
+    The widget appears immediately upon page load. It is a persistent, site-wide element intended to be one of the very first things a new or returning visitor sees, regardless of which page they land on (homepage, product page, etc.). It is not triggered by user actions like scrolling, hovering, or adding an item to the cart.
+
+    This "always-on" strategy is deliberate. Its purpose is to establish trust and credibility from the first second of a user's visit. By immediately presenting strong social proof, we combat initial user skepticism, which helps to lower the bounce rate (Rule 3.9) and builds a foundation of confidence that can positively influence the entire customer journey, ultimately increasing the likelihood of a conversion (Rule 3.2).
+
+    *****Response*****
+    Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+    User interactions with the widget are designed to be simple yet effective, catering to different levels of user interest.
+
+    1.  **Passive Viewing (Primary Interaction):** The most common interaction is simply seeing the widget. Its prominent placement, clear star rating, and large review count subconsciously build trust and reassure the user that they are on a reputable site. This helps minimize the bounce rate and cart abandonment (Rule 3.8, 3.9).
+
+    2.  **Hovering (Micro-interaction):** The user can hover their mouse over the "See all reviews" link. This triggers a standard hover effect (an underline appears), providing visual feedback that the element is clickable. This small detail follows web conventions and improves usability.
+
+    3.  **Clicking (Active Interaction):** The user can click the "See all reviews" link. This action would navigate them to a dedicated reviews page, featuring detailed testimonials, ratings for specific products, and user-submitted content. This encourages deeper engagement, increasing time on site and page views per visit (Rule 3.5, 3.6).
+    -->
+</body>

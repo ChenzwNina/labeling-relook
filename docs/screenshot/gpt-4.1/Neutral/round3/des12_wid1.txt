@@ -1,0 +1,10 @@
+Question 1: 
+The widget is a white, rounded-corner panel with a subtle shadow, sized 350px wide and centered at the top with a 20px margin. Main branding is shown as a heading and descriptive text, followed by a well-spaced signup form consisting of Name, Email, Password inputs, and a prominent purple-blue gradient "Sign Up" button with hover effects. Font is modern and readable, with gentle gray and accent purple/blue colors for interaction cues. Layout and styling reflect those of modern major e-commerce sites for trust and usability.
+
+Question 2:
+The widget is meant to appear on pages where user account creation is relevant—primarily when a non-logged-in user chooses to register (for example, clicking "Create Account" on the navigation bar or needing to create an account during checkout).
+
+Question 3:
+Users can fill in their full name, email, and password. All fields are required; password requires minimum length. Submitting the form triggers the account creation process. There's a clear call to action, and users who already have an account can click the "Sign in" link to switch. Focus and hover styles provide visual feedback for interaction.
+-->
+</body>

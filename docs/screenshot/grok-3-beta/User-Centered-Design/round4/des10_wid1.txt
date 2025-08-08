@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background, subtle shadow, and rounded corners for a professional look. The color scheme uses blue (#3498db) for the CTA button for visibility and trust, green (#27ae60) for success feedback, and red (#e74c3c) for errors. Text inputs are spacious with a light border, and the layout is centered with a max-width of 500px for focus. These choices enhance readability, evoke trust, and ensure accessibility across devices. -->
+
+    <!-- Question 2: This widget appears at the top of the homepage or during a user's first visit to the e-commerce site, triggered by a session cookie check or a promotional campaign. It can also be shown on a dedicated membership page or after a user adds items to their cart to encourage sign-up. -->
+
+    <!-- Question 3: Users can interact by entering their name and email in the input fields, with real-time focus feedback via border color change. They can submit the form via the "Sign Up Now" button, which disables during processing to prevent multiple submissions. Post-submission, users receive success or error feedback messages, ensuring clarity on the outcome of their action. -->
+</body>

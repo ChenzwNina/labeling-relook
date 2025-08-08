@@ -1,0 +1,14 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a horizontal banner with rounded corners, positioned centrally at the top of the screen. It features a rich, dark gradient background transitioning from deep purple to magenta, creating a premium and energetic feel. The text is white for high contrast and excellent readability. The layout, managed by flexbox, places a festive "🎉" icon on the left, followed by the main offer text, a call-to-action (CTA) button, and a close button. The main title, "Mid-Season Mega Deals Are Here!", is larger and bolder than the descriptive text to create a clear visual hierarchy. The CTA button is a vibrant amber-yellow, a contrasting color chosen specifically to draw the user's eye and encourage clicks. This entire design is intended to be eye-catching and feel like a special event, motivating users to engage with the promotion without disrupting the overall site experience.
+
+    ### Question 2: What triggers the appearance of this widget?
+    
+    Typically, this deals banner is triggered on page load. It appears almost immediately when a user lands on a key page of the e-commerce site, most commonly the homepage, category pages, or specific campaign landing pages. The goal is to present the most important current promotion to the visitor as soon as possible to influence their shopping journey from the outset. In more advanced setups, its appearance could be conditional, triggered by factors such as the user's status (e.g., a special offer for new visitors), the traffic source (e.g., users arriving from a specific email campaign URL), or after a short delay to ensure it doesn't cause layout shift while the main page content loads. The primary trigger, however, remains the user's arrival on the site.
+
+    ### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users have three main interactions with the banner. The primary interaction is clicking the "Shop The Sale" call-to-action button. This action would navigate the user directly to a curated product listing page displaying all items included in the promotion. The second interaction is clicking the '×' close button. This would dismiss the banner, hiding it from view for the user's current session to provide an unobtrusive browsing experience if they are not interested. The third interaction is hovering over the clickable elements. Hovering over the "Shop The Sale" button causes it to lighten in color and lift slightly, providing visual feedback that it's interactive. Similarly, hovering over the close button increases its opacity, making it more prominent and signaling its function. The text portion of the banner is intentionally not clickable to prevent accidental navigation.
+    
+    -->
+</body>

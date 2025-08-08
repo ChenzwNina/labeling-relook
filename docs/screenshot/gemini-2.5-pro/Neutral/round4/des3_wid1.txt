@@ -1,0 +1,19 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a clean, modern search bar with rounded corners and a subtle shadow, making it float above the page content. It has a horizontal layout composed of three parts: a light grey category dropdown, a white central search input field, and a vibrant blue search button. The font size for all text is a readable 16px.
+
+These design choices are intentional. The horizontal layout is a widely recognized pattern from major e-commerce sites, making it immediately intuitive. The contrasting blue button serves as a clear call-to-action, drawing the user's eye. Separating the category dropdown with a different background color and a border visually segments the controls. The overall aesthetic is clean and professional, designed to build trust and provide a seamless, user-friendly experience without distracting from the main site content.
+
+### Question 2: What triggers the appearance of this widget?
+
+The widget does not require a specific trigger for its appearance. It is a persistent, primary navigation component. It is designed to be "always on," loaded and visible as soon as a user lands on key pages like the homepage, category pages, or product listings. Its `position: fixed` CSS property ensures that it remains locked in place at the top of the viewport (with a 20px margin) even as the user scrolls down the page. This constant visibility provides immediate and continuous access to the site's search functionality, which is crucial for an e-commerce platform where users frequently search for products.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+A user can interact with the widget in several ways to perform a search:
+1.  **Direct Search:** The primary interaction is typing a query (e.g., "running shoes") into the main search field and then either clicking the blue search button or pressing the 'Enter' key on their keyboard to submit.
+2.  **Category-Refined Search:** For a more targeted search, the user can first click the "All Categories" dropdown to select a specific department (e.g., "Men's Fashion"). After selecting a category, they can then type their query and submit the search, which will be limited to that category.
+3.  **Clear and Re-search:** Most modern browsers will automatically add a small 'x' icon inside the search input field once the user starts typing. They can click this icon to quickly clear their current query and start a new one without having to manually delete the text.
+
+-->
+</body>

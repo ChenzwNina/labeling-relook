@@ -1,0 +1,11 @@
+Question 1: 
+  The widget uses a clean white background (#fff) with soft gray-blue shadows to give a subtle elevation, echoing modern e-commerce design. The header uses deep blue for the title and bright blue for action links. Product cards feature rounded corners, slight inner shadows, and display product images, names, prices in green, and prominent blue “Add to Cart” buttons. This hierarchy and color palette were chosen for clarity and to guide users’ attention naturally.
+
+  Question 2:
+  The widget appears automatically at the top of the homepage or any page designated to showcase featured products. It is not triggered by user interaction—it is a persistent, always-visible module for promoting select items.
+
+  Question 3:
+  Users can scroll horizontally to browse all featured products. Within each card, users can click the “Add to Cart” button to initiate adding that item, and click “View All” to navigate to a page listing all featured offerings. Hover states for buttons and cards provide visual feedback, but no further modal or popup interactions are present in this basic version.
+
+  -->
+</body>

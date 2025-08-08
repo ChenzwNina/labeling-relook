@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a light gray background (#f8f9fa) and subtle shadow for depth. The average rating (4.7) is prominently displayed in large, dark text (28px) with gold stars below. Rating bars use a blue gradient (#3498db) against a light gray background, with percentages clearly labeled. The design choices prioritize readability and visual hierarchy - larger elements draw attention to key information (average rating), while the color contrast ensures accessibility. The compact size (350px max-width) makes it suitable for product pages without overwhelming other content.
+
+    Question 2: This widget would typically appear on a product detail page, automatically loading when the page renders to display aggregate customer ratings for that specific product. It might also appear in a modal when users click a "See Reviews" link/button elsewhere on the site.
+
+    Question 3: Users can: 1) Scan the visual rating breakdown at a glance, 2) Hover over stars to see tooltips with exact percentages, 3) Click the "Write a Review" button to open a review submission form, and 4) Potentially click individual rating bars to filter and read reviews of that specific star rating (though this functionality would require additional JavaScript implementation).
+    -->
+</body>

@@ -1,0 +1,7 @@
+4.1: The widget is a wide, rounded, high-contrast horizontal banner with a soft orange-pink gradient. Colors evoke urgency and specialness, with highlights in vivid coral, tangerine, and cool teal for secondary calls to action. The left side headlines "Today's Top Deals" and lists specific, appealing offers (e.g., "60% OFF Electronics"). Below, two standout CTA buttons ("Shop Now" and "See All Deals") are brightly colored and large for high tapability/clickability. On the right is an attractive product image placeholder. The design emphasizes clarity, visual hierarchy, and urgency, aiding conversion and driving user engagement.
+
+  4.2: The banner is displayed immediately at the top of every shopping-oriented landing page (e.g., homepage, category, or deals pages), automatically on page load, to maximize visibility and to immediately draw attention to current deals.
+
+  4.3: Users can click the "Shop Now" button (taking them to the main deals page or current sale selection) or "See All Deals" (visiting a page with all active savings). The banner and image are non-interactive otherwise. On hover/focus states, buttons animate and highlight to encourage interaction. On touch devices, the buttons grow slightly for easy tapping. On smaller devices, layout stacks vertically, preserving legibility and call-to-action prominence.
+  -->
+</body>

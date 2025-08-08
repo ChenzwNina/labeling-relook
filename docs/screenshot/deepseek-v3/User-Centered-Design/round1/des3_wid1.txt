@@ -1,0 +1,5 @@
+Question 1: The widget features a clean, modern design with a white background and green accents (#4CAF50). It has a search bar (800px wide) with a prominent search button, category and price filters displayed as pill-shaped buttons, and a recent searches section. The layout is organized vertically with clear section headings. These choices ensure readability, visual hierarchy, and intuitive navigation while maintaining brand consistency with the green color scheme.
+
+    Question 2: The widget would typically appear when a user clicks on the search icon in the website header or presses a keyboard shortcut (like Ctrl+K). The close button in the top-right corner would hide it again.
+
+    Question 3: Users can: 1) Type search queries, 2) Click the search button or press Enter to submit, 3) Filter by category or price by clicking pill buttons, 4) Select recent searches to repeat them, and 5) Close the panel. The active filter (Clothing) is highlighted to show selection.

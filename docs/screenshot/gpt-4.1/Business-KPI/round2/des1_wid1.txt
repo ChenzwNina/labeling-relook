@@ -1,0 +1,11 @@
+4.1: The widget uses a bright orange/yellow gradient background with rounded corners and clean white/orange text, inspired by top e-commerce deal banners. A small product image draws attention, followed by prominent large text for the "Flash Sale" and details. A live timer with clock icon adds urgency, and conversion-focused buttons ("Shop Now", "See All Deals") along with an unobtrusive close button are present. Generous padding, bold fonts, and shadow ensure visibility and appeal, driving clicks and engagement.
+
+  4.2: The widget appears automatically when the homepage or a main product category page loads, positioned at the top with a 20px margin. It is sticky and high-impact, shown to both new and returning users when a deal is active.
+
+  4.3: Users can: 
+  - Click "Shop Now" to go to the main deal/landing page.
+  - Click "See All Deals" for a browse/all-offers page.
+  - Close the banner, hiding it for the session.
+  - See a live countdown (auto-updates).
+  Banner is responsive, adapting to smaller devices.
+  -->

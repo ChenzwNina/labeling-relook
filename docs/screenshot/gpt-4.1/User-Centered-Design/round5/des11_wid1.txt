@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a centered card with a white background, soft rounded corners, and a gentle drop shadow for depth. It features a membership icon on the left and textual instructions with a bold red warning about losing access. The text area for feedback is visually clear and has input constraints. The action buttons, “Cancel Membership” (red) and “Keep Membership” (grey), are large, easy to click, and provide hover/disabled feedback. On completion, a green-tinted success message is shown. This layout ensures high visibility, clear affordances, feedback, and consistency.
+
+  Question 2:
+  This widget appears when a user explicitly chooses “Cancel Membership” in their account or subscription section. It is intended to act as a modal or prominent inline card at the top of the page upon that initiation.
+
+  Question 3:
+  Users can type a cancellation reason (required), which enables the “Cancel Membership” button. If submitted with no reason, clear inline feedback appears. Clicking “Cancel Membership” submits the form and shows a confirmation message. Choosing “Keep Membership” reloads the widget or closes the popup, letting users abort the cancellation.
+
+  -->

@@ -1,0 +1,9 @@
+Question 1: 
+The widget features a horizontally-aligned navigation bar fixed at the top of the viewport with a 20px margin from the top. It has a clean white background, subtle box-shadow, and rounded corners for a modern e-commerce look. Each category is represented with an icon (placeholder image) and a bold category name below, with a soft blue highlight and drop-shadow effect on hover and active states. Spacing is generous for desktop, but adjusts for small screens for mobile usability. This layout and color palette closely match leading e-commerce navigation components.
+
+Question 2: 
+This category navigation widget appears immediately upon page load and stays fixed at the top as the user browses, providing persistent access to product categories.
+
+Question 3: 
+Users can scan and click any category link, which navigates to the corresponding product listing page. On hover (or focus), the link and its icon highlight for feedback. The active category is visually indicated. The navigation is scrollable horizontally on smaller screens. Category images are for quick visual recognition.
+-->

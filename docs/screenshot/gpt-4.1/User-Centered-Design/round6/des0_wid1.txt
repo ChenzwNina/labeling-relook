@@ -1,0 +1,7 @@
+Question 1: The widget is a horizontally scrollable, visually elevated white bar near the top of the viewport, with a 20px top margin. It contains a purple-accented “Featured Products” header and 4 product cards. Each card has a soft lavender background, product image, product name, price in accent color, and a clear purple gradient “Add to Cart” button. Hover and action feedback are provided for clarity and engagement. Cards are spaced apart for clarity on all screen sizes. These choices together create a modern, trustworthy, appealing e-commerce card component with crisp visual hierarchy.
+
+  Question 2: This widget is designed to always appear at the top of the page, directly below any main header or navigation, to immediately showcase featured products upon landing on the site. There is no special trigger; it is always visible, giving instant access to popular or promoted items.
+
+  Question 3: Users can scroll horizontally to browse all featured products. Each card's “Add to Cart” button can be clicked; it gives visual feedback by disabling the button, briefly showing “Added to cart!” so users know their action succeeded, and then resets to allow repeated actions. Buttons are disabled during feedback, preventing duplicate actions and clarifying action results.
+  -->
+</body>

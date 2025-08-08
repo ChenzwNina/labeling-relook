@@ -1,0 +1,25 @@
+**Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The component is a clean, card-style modal centered horizontally at the top of the viewport, designed to focus user attention. It has a soft shadow and a light grey border to lift it off the page content.
+
+**Colors:** The primary action button, "No, Keep My Benefits," uses a solid, positive blue (#0065ff), making it the most prominent choice to gently guide users toward retention. The destructive action, "Yes, Cancel Membership," is a secondary button with a red (#de350b) outline on a white background, which clearly signifies a warning without being overly aggressive. This color hierarchy aligns with business goals while respecting user intent.
+
+**Layout & Size:** The layout is spacious with generous padding (24px) to avoid a cluttered feel, reducing user anxiety. The typography, using the 'Inter' font, is clean and highly readable. A clear heading asks a direct question, followed by a highlighted section reminding users of their benefits, using icons for quick scannability. This logical top-to-bottom flow is designed for efficient task execution and a helpful, non-confrontational experience.
+
+**Question 2: What triggers the appearance of this widget?**
+
+This cancellation widget is not something that appears unexpectedly. It is triggered by a direct and intentional user action. The user would first need to navigate to their personal account section on the e-commerce website, typically under a page labeled "My Account," "Settings," or "Manage Membership." On that page, they would find and click on a button or link explicitly labeled "Cancel Membership" or "Cancel Subscription." The appearance of this widget is the direct result of that click, ensuring that the user has consciously initiated the cancellation process before being presented with the final confirmation steps. This prevents user confusion and ensures the context is well-understood.
+
+**Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users have several clear interaction paths designed for control and clarity:
+
+1.  **Abort Cancellation:** A user can click the prominent blue "No, Keep My Benefits" button or the 'X' icon in the header. Both actions would immediately close the widget and abort the cancellation process, providing a simple way out.
+
+2.  **Consider an Alternative:** They can click the "pause your membership" link, which would navigate them to a different flow, offering a less permanent solution.
+
+3.  **Proceed with Cancellation:**
+    *   They can optionally select a reason for leaving from a dropdown menu. This provides clear affordance and is a low-effort way for the user to give feedback.
+    *   They must click the confirmation checkbox. This is a critical constraint; until it's checked, the final cancel button remains disabled and visually greyed out.
+    *   Once the box is checked, the "Yes, Cancel Membership" button becomes enabled, providing clear visual feedback that the final step is now possible. Clicking this button would complete the cancellation process.
+-->

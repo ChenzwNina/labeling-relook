@@ -1,0 +1,32 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The deals banner widget features a deep blue background (`#0056b3`) with white text (`#ffffff`) for the promotional message, ensuring high contrast and excellent readability. The Call-to-Action (CTA) button, "Shop Deals Now," uses a vibrant yellow background (`#ffc107`) with dark grey text (`#333333`) to make it visually prominent and inviting.
+
+The banner itself spans the full width of the viewport and has a padding of 15px vertically, creating a noticeable but not overly intrusive height. The main promotional text font size is `1em`, while the CTA button text is slightly smaller at `0.9em` but bolded for emphasis.
+
+Layout-wise, the banner is fixed at the top of the viewport with a 20px margin from the absolute top. The text and CTA button are centered and arranged in a single line on wider screens, adapting to a stacked vertical layout on smaller screens (below 600px width) for better mobile usability.
+
+These design choices are made to:
+1.  **Attract Attention:** The color scheme is energetic and typical for promotions. Blue evokes trust, while yellow is highly visible for the CTA.
+2.  **Ensure Readability:** High contrast between text and background is crucial for accessibility.
+3.  **Maintain Visibility:** The fixed position keeps the deals in sight as users scroll.
+4.  **Promote Action:** The distinct CTA button clearly indicates a clickable path to the deals.
+5.  **Responsive Design:** The layout adjusts to ensure a good user experience across different device sizes.
+
+*****Response*****
+## Question 2: What triggers the appearance of this widget?
+
+The deals banner widget is designed to appear automatically as soon as the webpage loads. It does not require any specific user interaction, event, or condition to be met for it to become visible. Its `position: fixed` CSS property ensures that it loads with the page and remains displayed at the top of the viewport (with the specified 20px top margin) as the user navigates or scrolls through the content of the page. This immediate and persistent visibility is intentional to maximize the exposure of the promotional offers to every visitor from the moment they land on the site.
+
+*****Response*****
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the deals banner widget in the following ways:
+
+1.  **Reading the Promotional Information:** Users can read the text within the banner (e.g., "🎉 Weekend Flash Sale! Get 30% Off All Electronics & Free Shipping on orders over $75! Don't miss out! 🎉") to learn about the current special offers, discounts, or promotions available on the e-commerce website.
+
+2.  **Clicking the Call-to-Action (CTA) Button:** Users can click the "Shop Deals Now" button. This action is designed to navigate them to a specific page related to the promotion, such as a dedicated sales page, a category page featuring the discounted electronics, or a page detailing the terms of the free shipping offer. The `href="#shop-deals"` is a placeholder and would typically link to an actual URL.
+
+The banner is primarily informational with a direct pathway to engage with the offers. It does not include other interactive elements like dismiss buttons or carousels in this specific design.
+-->
+</body>

@@ -1,0 +1,26 @@
+**Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The component is a clean, centered sign-in card with a white background and a soft box-shadow, making it float above the light-grey page background. This layout focuses the user's attention.
+
+Colors are chosen for clarity and trust. The primary call-to-action button, "Sign In," uses a strong, saturated blue (`#0052cc`) to be highly visible. Text colors are hierarchical: a dark grey (`#172b4d`) for the main heading, a softer grey (`#5e6c84`) for labels, and the brand blue for links.
+
+Elements are sized for readability and ease of use. The main heading is large (24px), input fields are tall with generous padding, and the primary button is prominent. This spacious design prevents a cramped feeling and makes the form easy to interact with on both desktop and mobile devices. These choices create a professional, user-friendly, and efficient sign-in experience, building user confidence.
+
+**Question 2: What triggers the appearance of this widget?**
+
+This sign-in component is typically triggered by a direct user action. The most common trigger is the user clicking a "Sign In" or "My Account" link, which is usually located in the top-right corner of the website's main navigation header.
+
+Alternatively, its appearance can be triggered contextually. For example, if a non-authenticated user attempts to perform an action that requires a login—such as adding an item to a wishlist, viewing their order history, or proceeding to checkout—the website would present this sign-in component. This "just-in-time" authentication approach minimizes friction for users who are just browsing, asking for credentials only when absolutely necessary for the task they wish to complete.
+
+**Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users have a clear and efficient path of interaction with this widget. They can:
+
+1.  **Enter Credentials**: Click into the "Email Address" and "Password" fields to type their login information. The fields have clear focus states (a blue border) to provide feedback on which field is active.
+2.  **Submit the Form**: Click the primary "Sign In" button to attempt to log in. The button has hover and active states for immediate visual feedback.
+3.  **Initiate Password Recovery**: Click the "Forgot Password?" link. This is a secondary action that would navigate them away from this component to a dedicated password reset workflow.
+4.  **Navigate to Registration**: Click the "Create an account" link at the bottom. This action is for new users and would take them to a separate registration form or page.
+5.  **Use Keyboard Navigation**: Users can use the 'Tab' key to move sequentially through the email field, password field, "Forgot Password?" link, "Sign In" button, and "Create an account" link, and press 'Enter' to activate buttons or links, ensuring accessibility.
+-->
+
+</body>

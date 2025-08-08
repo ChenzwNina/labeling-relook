@@ -1,0 +1,9 @@
+Question 1:
+This widget has a clean, white card layout with subtle shadows and rounded corners, placed at the top center with a 20px top margin. It is 480px wide for usability on desktops. Titles use bold, dark blue-gray text to support clear hierarchy. Shipping options are in a radio list, each with a name, estimated delivery, and price clearly separated. Optional add-ons are shown as checkboxes with concise descriptions and prices in green. Primary action buttons are colored for prominence: blue ("Apply") and gray ("Cancel"). The design is accessible, modern, and mirrors common e-commerce modals for user familiarity.
+
+Question 2:
+The widget appears when the user is at the shipping step in checkout or when they click a “Change Shipping”/“Add-ons” link in the cart or on the checkout page. This mirrors the modal or embedded panels often seen in checkout flows.
+
+Question 3:
+Users can select a shipping method via radio buttons (only one is active). They can check or uncheck any number of add-ons. After making selections, users press "Apply" to confirm (the parent app processes selections), or "Cancel" to ignore changes. Inputs are interactive and respond to clicks/taps, typical for desktop and mobile web interfaces.
+-->

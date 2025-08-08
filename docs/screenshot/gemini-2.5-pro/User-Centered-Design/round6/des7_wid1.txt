@@ -1,0 +1,15 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+    
+    The widget has a clean, two-column layout within a white container with a subtle shadow, making it stand out against a light grey page background. The left column provides a high-level summary: a large, bold "4.8" average score, gold stars (using a standard #ffc107 color for universal recognition), and progress bars showing the rating distribution. The right column lists individual reviews, separated by light grey borders. Key colors include a trustworthy blue (#007bff) for the main "Write a Review" button to draw attention, dark grey (#212529) for text for high readability, and green for the "Verified Purchase" tag to build trust. This layout is chosen for efficiency; users can get a quick summary on the left or dive into detailed feedback on the right, catering to different information-seeking behaviors.
+
+    *****Response*****
+    Question 2: What triggers the appearance of this widget?
+    
+    The appearance of this widget is not triggered by a specific user action like a click or hover. Instead, it is a permanent, static component of a product detail page on an e-commerce website. It would typically be located below the primary product information section (which includes images, price, and the "Add to Cart" button) and above other sections like "Related Products" or the page footer. Users will see this widget simply by scrolling down the product page to learn more about other customers' experiences before making a purchase decision. Its constant presence reinforces transparency and the importance of community feedback on the site.
+
+    *****Response*****
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+    
+    Users have several interaction points designed for efficiency and control. First, they can read the summary and individual reviews. Second, they can use the "Sort by" dropdown to reorder the reviews by recency, rating, or helpfulness, allowing them to find the most relevant information quickly. Third, the prominent "Write a Review" button provides a clear call-to-action that would navigate them to a review submission form. Fourth, on each individual review, a "Helpful" button allows users to upvote a review, providing social proof and feedback; clicking it would ideally change its state and increment the counter. Lastly, though not explicitly coded for filtering in this example, a common extension would be to allow users to click on the progress bars in the summary section (e.g., the "4 star" bar) to filter the list and show only reviews with that specific rating.
+    -->
+</body>

@@ -1,0 +1,7 @@
+-->
+    <!-- Question 4.1: The widget uses a clean white background with subtle shadows for a professional look, positioned at the top with a 20px margin. Blue accents (#007bff) highlight prices and the CTA button to draw attention and encourage action. Option cards are spacious with clear typography (18px titles, 14px descriptions) for readability. The layout is centered and responsive, adapting to smaller screens. These choices maximize conversion by creating trust, clarity, and ease of use, aligning with e-commerce goals of sales and engagement. -->
+
+    <!-- Question 4.2: This widget appears during the checkout process, typically after users add items to their cart and before payment. It is triggered when users navigate to the shipping or order summary page, ensuring they can customize their purchase at a critical decision point, reducing cart abandonment. -->
+
+    <!-- Question 4.3: Users can interact with the widget by selecting shipping options and add-ons by clicking on the option cards, which highlight when chosen. Hover effects provide visual feedback. Users can click the 'Proceed to Checkout' button to finalize selections, encouraging completion. These interactions are intuitive, minimizing bounce rates and maximizing order size through upselling opportunities. -->
+</body>

@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based design with a white background and subtle shadow. It includes a product image (280x200px), title (18px bold), price (20px red), description (14px gray), and an "Add to Cart" button (green). The design choices prioritize readability, visual hierarchy, and a modern aesthetic while maintaining enough white space for clarity. The hover effect adds interactivity.
+
+    Question 2: This widget would appear as part of a product listing page, category page, or featured products section. It could also appear in search results or recommendation carousels. Multiple instances would typically be displayed in a responsive grid layout.
+
+    Question 3: Users can: 1) View product details (image, title, price, description), 2) Click the "Add to Cart" button to purchase, 3) Hover for a lift effect (visual feedback), and 4) Potentially click the product image/title to view more details (though this functionality isn't implemented in this basic version).
+    -->
+</body>

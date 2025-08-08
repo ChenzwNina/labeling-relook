@@ -1,0 +1,23 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a clean, modern-looking card that floats near the top-center of the screen. It has a white background, soft rounded corners, and a subtle shadow to make it pop against the main page content. The color palette is intentionally simple: dark grey for text ensures high readability, a bright blue is used for links to signify interactivity, and a vibrant, inviting green is used for the primary "Create Account" button to draw the user's eye and encourage action.
+
+The layout follows a clear vertical hierarchy. A prominent heading and descriptive subheading are at the top. These are followed by neatly organized form fields with clear labels, a checkbox for legal consent, the main call-to-action button, and finally, a secondary link for existing users. This structure guides the user logically through the sign-up process without causing confusion, a design choice aimed at reducing friction and increasing conversion rates.
+
+### Question 2: What triggers the appearance of this widget?
+
+This widget is designed to appear based on a direct user action, ensuring it is expected and not intrusive. The most common trigger would be the user clicking a "Sign Up" or "Create Account" button, typically located in the website's main header or navigation bar. 
+
+Alternatively, it could be triggered contextually. For instance, if a guest user attempts to save an item to a "wishlist" or proceeds to checkout where creating an account is encouraged for a better experience (like order tracking), a prompt could appear with an option that, when clicked, reveals this account creation widget. This method provides the functionality precisely when the user needs it.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several clear interaction pathways with this widget:
+1.  **Form Entry:** Users can click into each input field (Full Name, Email, Password) to type their information. The active field is highlighted with a blue border to provide clear visual feedback.
+2.  **Consent:** They can click the checkbox to agree to the Terms of Service and Privacy Policy, which is a required step to proceed. They can also click the associated links to view those policies.
+3.  **Submission:** Clicking the green "Create Account" button will submit the form data to the server for processing.
+4.  **Dismissal:** Users can click the "×" icon in the top-right corner to close the widget entirely and return to their previous view, abandoning the sign-up process.
+5.  **Alternative Action:** If they realize they already have an account, they can click the "Log In" link at the bottom, which would typically close this widget and open a separate login form or redirect them to a login page.
+
+-->
+</body>

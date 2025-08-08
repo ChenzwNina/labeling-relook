@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a white, rounded rectangle with a subtle drop shadow, measuring up to 400px wide for desktop. It's vertically spaced 20px from the top and centered. The header contains a bold "Your Cart" title and a muted gray close (×) button. Items are listed with left-aligned thumbnails, bolded names, gray quantity info, and right-aligned prices. The action bar at the bottom has a blue "Proceed to Checkout" button and a prominent total row. Colors are professional and clean, with blue as the primary action color for clarity and visual trust—standard in real e-commerce design.
+
+  Question 2:
+  Typically, this widget would appear when a user clicks a shopping cart icon or a "View Cart" link, often present in a website’s navigation bar or after adding an item to the cart. In this HTML, it’s shown by default for demonstration; hiding/showing can be managed via JavaScript.
+
+  Question 3:
+  Users can: review the products in their cart (see names, quantities, prices, and images), see the cart total, proceed to checkout via the button, and close/hide the cart by clicking the ×. Extending this, a real widget might also allow quantity edits or item removals per cart line.
+  -->
+</body>

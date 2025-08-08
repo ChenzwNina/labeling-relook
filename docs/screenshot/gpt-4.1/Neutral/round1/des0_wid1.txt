@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design: white background, rounded corners, and subtle shadows for separation from the page. Titles use dark blue for clarity, while price highlights and CTAs use a vibrant blue (#0081e7). Product cards are spaced horizontally and show product images, titles, pricing (including discounts), and a bold "Add to Cart" button. All text sizes and paddings reflect a typical e-commerce style—comfortable and easy to scan, while responsiveness ensures usability on desktop and mobile. These choices aim for maximum clarity, visual hierarchy, and clickability, enhancing ease of use and conversion.
+
+  Question 2: The widget appears at the top of the homepage (or landing area) of the e-commerce website, with a 20-pixel top margin. It is always visible on the page where it is placed, typically during general browsing or in response to the site's display logic prioritizing featured or seasonal products.
+
+  Question 3: Users can scroll horizontally through the featured products, view key product details (images, names, prices, discounts), click "Add to Cart" to initiate a purchase flow for individual items, or use the "See all" link to view a broader list of featured products or the entire category. Hovering on product cards brings minor visual feedback (increased shadow/border color), and buttons have hover states for clearer interactivity. No additional interactions (like swapping images or quick views) are included in this widget.
+  -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation, ensuring it stands out at the top of the page. The color scheme includes green (#2ecc71) for active status steps, blue (#3498db) for the interactive button, and neutral grays for text, enhancing readability and feedback. Elements like the header (1.5rem) and details (1rem) are sized for clarity, while the layout uses a centered container with a grid for details and a flexbox for status steps, ensuring a balanced, intuitive look. These choices prioritize visibility and consistency.
+
+Question 2: This widget appears when a user logs into their account on the e-commerce website and has an active order. It is triggered automatically on the dashboard or order history page to provide immediate tracking information without manual searching.
+
+Question 3: Users can view static order details (ID, date, amount) and the current status via a visual progress tracker. They can click the "View Detailed Updates" button for more tracking info, with hover effects providing feedback. The button disables if no updates are available, preventing invalid actions, ensuring clear affordances and efficient interaction.
+***** -->

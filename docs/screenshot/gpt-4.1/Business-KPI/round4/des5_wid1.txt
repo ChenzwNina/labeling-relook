@@ -1,0 +1,8 @@
+4.1: The filter panel is a horizontally wide (up to 1120px), fixed component at the top with 20px top margin. It uses a white background, subtle rounded corners, and soft blue accents for call-to-action elements. Filter controls are separated in groups (category, brand, price, rating, features), using readable font sizes and ample space to avoid crowding. "Apply Filters" uses a vivid blue to grab conversion-focused attention, and "Clear All Filters" is a less-prominent text-link for usability. The clean look minimizes friction and decision fatigue, encouraging filter use and exploration.
+
+  4.2: The widget is always visible, anchored at the top of the viewport whenever users are exploring or searching product listings. It is visible on all main product discovery pages, so users can continuously refine their search and maximize session engagement.
+
+  4.3: Users can select categories and ratings from dropdowns, specify a price range, pick one or more brands and features using checkboxes. Users may clear all selections at once, or click “Apply Filters” to refresh the product results below. There is also a direct link to view promotional deals, serving both as a discovery incentive and a display ad opportunity. All interactions are designed to promote exploration, personalization, and conversion.
+
+  -->
+</body>

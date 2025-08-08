@@ -1,0 +1,10 @@
+4.1 Question 1: 
+  The widget uses a clean, modern design with a white background for the container, subtle box shadows, and rounded corners to evoke trust and professionalism. Each product card features a pale blue background with raised hover effects, a large product image (145x145px), product title, rating (displayed with stars), price (discount shown if applicable), and clear call-to-action buttons. Blue and green tones are used to catch the user's eye and reinforce a trustworthy, modern brand. The layout is responsive with a grid that adapts to device width. This design enhances product visibility, encourages browsing, clicking, and purchasing.
+
+  4.2 Question 2: 
+  The widget appears by default at the top of the site’s main page (e.g., homepage or category landing page), 20px from the top of the viewport, serving as a featured products or "trending" section to immediately draw user attention and promote browsing.
+
+  4.3 Question 3: 
+  Users can scroll the visible list, click on individual product cards’ "Add to Cart" and "View Details" buttons, or click "See All" to view the full product catalog. Hover effects on cards and buttons provide interactive feedback. Users can also click product images or titles for navigation (if enabled). These interactions encourage deeper engagement, increase chances of add-to-cart and higher average order value, and help minimize bounce and abandonment rates.
+  -->
+</body>

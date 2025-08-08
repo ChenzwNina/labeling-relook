@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, minimalist design with white background and subtle shadows for depth. It uses a 400px width for optimal readability on all devices. The color scheme uses red (#e74c3c) for the primary action button to indicate importance, with neutral grays for secondary elements. Font sizes are legible (16px body, 24px heading) with ample spacing between elements. These choices create a professional, focused interface that guides users through the cancellation process without distractions.
+
+    Question 2: The widget appears when a user clicks a "Cancel Membership" button in their account settings. This ensures the action is intentional and prevents accidental cancellations. The modal overlay design focuses attention on the cancellation process while dimming the background content.
+
+    Question 3: Users can: 1) Select a cancellation reason from a dropdown, 2) Provide optional written feedback in a textarea, 3) Cancel the process via "Go Back", or 4) Confirm cancellation with the red button. The interface validates that a reason is selected before allowing confirmation. Hover states on buttons provide visual feedback, and the layout is responsive for different screen sizes.
+    -->

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, white background with a subtle shadow for elevation, ensuring visibility. The color scheme uses gold (#f39c12) for stars and rating bars to signify quality and positivity, with neutral grays for text to maintain readability. The layout is centered with a max-width for responsiveness, using large fonts (48px for average rating) for key info and smaller fonts (14-16px) for details. Bars visualize rating distribution for quick comprehension. These choices prioritize clarity, hierarchy, and a professional e-commerce aesthetic.
+
+Question 2: This widget appears on a product detail page, triggered when a user navigates to view specific product information. It’s positioned near the top (20px margin) to ensure immediate visibility as part of the decision-making process, typically below product images and descriptions.
+
+Question 3: Users can view the average rating, detailed breakdown, and individual reviews for insights. They can interact by clicking the "Write a Review" button to submit feedback (hover effect provides feedback). The design prevents invalid actions by disabling the button if not logged in (constraint not coded but implied). Users can scroll through reviews for more details, supporting efficient information gathering.
+*****Response***** -->

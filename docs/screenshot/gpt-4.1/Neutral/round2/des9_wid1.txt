@@ -1,0 +1,10 @@
+Question 1: 
+  The widget features a clean, modern card with a white background, subtle box-shadow, and rounded corners, sized for a content width of about 520px. Section headers use green or boldened labels to separate "Shipping Options" and "Optional Add-Ons". Each shipping option is displayed in a row with a radio button, option name, small description, and price, left-aligned for easy scanning. Add-ons are similarly designed but use checkboxes. Primary colors include white (#fff), blue (#0053a7) for accents, and green for section labels. The font is modern and readable. Sizing and spacing follow familiar e-commerce card designs to facilitate quick decision-making and clarity.
+
+  Question 2:
+  The widget is typically triggered when a user advances to the checkout or cart summary step in the shopping process. It appears at the relevant stage where users must choose their shipping method and can select any extra add-ons before placing an order.
+
+  Question 3:
+  Users interact by selecting one shipping method (radio buttons ensure only one is chosen), and they can opt into any combination of provided add-ons using checkboxes. Each selection updates the user's shipping and add-on preferences. No further action buttons are included here, but in an actual checkout, these selections would influence order totals and proceed to payment.
+  -->
+</body>

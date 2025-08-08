@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The search panel is a fixed component at the top of the viewport with a 20px margin. It features a clean white background with a subtle shadow for elevation, mimicking modern e-commerce designs. The width is responsive, maxing at 600px for readability, and centered using transform. The coral (#ff6f61) search button contrasts with the neutral background for visibility, with a hover effect for interactivity. Rounded corners (25px border-radius) provide a friendly, approachable look. The layout is flex-based for alignment, ensuring elements like the magnifying glass icon, input field, and button stay cohesive. These choices reflect usability and aesthetics common in e-commerce platforms like Amazon. -->
+
+    <!-- Question 2: The search panel is always visible at the top of the page as a persistent navigation tool, typical for e-commerce sites. It does not require a specific trigger to appear since quick access to search functionality is crucial for user experience in online shopping environments. -->
+
+    <!-- Question 3: Users can interact with the search panel by clicking into the input field to type queries, using keyboard input for search terms, and pressing Enter or clicking the 'Search' button to submit. The button’s hover effect provides visual feedback. Users may also visually note the placeholder text for guidance on searchable content like products or brands. -->
+</body>

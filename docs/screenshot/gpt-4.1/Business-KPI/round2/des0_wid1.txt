@@ -1,0 +1,11 @@
+4.1: The widget features a white background with subtle shadow and rounded corners for a modern, high-trust look. The header uses bold black text for "Featured Products", flanked by a blue “View All Deals” link. Product cards are arranged horizontally (stacking on mobile), each with an image, product name, short benefit-driven description, rating, price (highlighted with discount), and a bold orange-to-red “Add to Cart” button. Promo banners and sponsored content are in contrasting yellow or orange. The design draws the eye to products and CTA, with hints of color to stimulate action, while whitespace and compact card sizes keep it uncluttered and scannable.
+
+4.2: The widget appears automatically at the top of landing, home, or category pages—always visible 20px from the viewport top. It is not user-triggered but is shown by default for maximum exposure and engagement.
+
+4.3: Users can click:
+- Any product image or product name to view that product’s detail page.
+- “Add to Cart” buttons to add the product without leaving the page.
+- “View All Deals &rarr;” to browse all featured/sale items.
+- “Ad • Sponsored” banners for promoted products (if applicable).
+They may also click ratings (if linked) for reviews. On hover, cards shadow for feedback. All cards are fully keyboard-accessible.
+-->

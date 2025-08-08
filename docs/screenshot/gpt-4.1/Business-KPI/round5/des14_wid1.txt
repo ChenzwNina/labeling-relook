@@ -1,0 +1,7 @@
+4.1 Question 1: The widget uses a modern, clean design with a white container, soft blue and green accents, and rounded corners to evoke trust and a positive brand image. Key details (order status and item) are highlighted with colors (#2073d4 blue for action, #00d97e green for completion), large accessible fonts (1rem+), and generous spacing. The horizontal step-tracking bar visually reinforces progression, boosting engagement and confidence. Interactive buttons are prominent and colored for actionability, maximizing conversion and engagement.
+
+  4.2 Question 2: The widget appears when a user views their orders, such as after logging in and clicking "Track Order" or from an order confirmation/overview page.
+
+  4.3 Question 3: Users can view detailed order and tracking information at a glance, click to see full order details, track the package live (potentially launching a map/location interface), get help (opening support/chat/help center), and reorder the same item seamlessly. Each step in the status bar provides visual confirmation of progress, keeping users informed and reducing abandonment or uncertainty.
+  -->
+</body>

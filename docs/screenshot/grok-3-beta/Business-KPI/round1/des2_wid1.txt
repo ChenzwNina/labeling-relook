@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, fixed navigation bar with a white background and subtle shadow for depth, positioned 20px from the top. Categories are centered with bold, 16px text in dark gray (#333), turning vibrant orange (#e44d26) on hover to grab attention. Dropdown menus appear on hover with a light shadow, offering subcategories in a slightly lighter font. Promo badges in orange highlight deals, encouraging clicks. This design prioritizes clarity and visual hierarchy to guide users, boosting conversions and time on site.
+
+Question 2: The widget is always visible at the top of the viewport as a fixed element, ensuring constant access to navigation. It appears automatically on page load, requiring no specific user action to trigger it, which minimizes bounce rates and maximizes page views.
+
+Question 3: Users can hover over main categories to reveal dropdown menus with subcategories, click links to navigate to specific product pages, and interact with promotional badges that highlight deals. Hover effects provide visual feedback, enhancing engagement. These interactions encourage exploration, reduce cart abandonment, and increase average order size by showcasing offers.
+***** -->

@@ -1,0 +1,15 @@
+Question 1:
+The widget is a horizontally centered, card-like panel with a white background, soft shadow, and rounded corners, set 20px from the top viewport edge. The order number sits at top right in a blue badge; the header uses strong color and modern font. A small product image appears left of the product name, variant, and green highlighted delivery estimate. Below, a horizontal stepper visualizes tracking (Ordered, Shipped, In Transit, Delivered) as equally spaced nodes: completed steps are green/blue gradients, the current step is solid blue, pending is gray. Action buttons are distinctly styled. These choices ensure visual clarity, clear status communication, and real e-commerce consistency.
+
+Question 2:
+This widget appears when a user clicks “Track Order” from anywhere in the e-commerce experience: post-purchase, account orders list, or a confirmation email link.
+
+Question 3:
+Users can:
+- View product/order tracking progress, names, estimated dates, and step states.
+- Understand that “Cancel Order” is disabled at this tracking stage.
+- Click “View Order Details” for full order info.
+- Visually verify which tracking step the order is at.
+All touchpoints (buttons, steps) give clear feedback (color, pressed state, disabled state) and keep actions efficient.
+-->
+</body>

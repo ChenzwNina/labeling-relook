@@ -1,0 +1,31 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a rectangular banner, designed to be clean and modern, appearing centered near the top of the viewport.
+
+*   **Colors:** The background is white (`#ffffff`) to contrast well with typical webpage content and convey cleanliness. Text is primarily dark grey (`#333` for headings, `#555` for body) for high readability. The call-to-action button uses a vibrant primary blue (`#007bff`), a common trust-inducing color in web design, making it stand out. Links and input focus states also use this blue.
+*   **Size of Elements:** The main heading ("Unlock Exclusive Member Perks!") is prominent (1.75rem). The benefit description text is slightly smaller (1rem) for readability. The email input and submit button are sized for easy interaction (12px padding). The overall banner has a `max-width` of 650px to be noticeable but not overwhelming.
+*   **Layout:** The banner uses `position: fixed` to stay visible 20px from the top. Content within the banner is centered. The headline and subtitle are stacked, followed by the signup form. The form elements (email input and button) are arranged in a row on wider screens and stack vertically on smaller screens for responsiveness. A subtle close button ('×') is positioned at the top-right.
+
+**Design Choices Rationale:**
+These choices aim for a professional, trustworthy e-commerce aesthetic. The fixed position and prominent CTA are to maximize sign-up conversions. The clean layout and readable typography ensure a good user experience. The responsive design adapts the form for usability on various devices. The color scheme is chosen for clarity, visual appeal, and to guide the user's eye to the primary action (signing up).
+
+## Question 2: What triggers the appearance of this widget?
+
+This widget is designed to appear automatically for users who are likely candidates for membership, such as new visitors or users not currently logged into a member account. Typically, it would load with the page or shortly after the main content has loaded (e.g., after a 1-2 second delay to avoid being too abrupt).
+
+For this specific implementation, the widget appears immediately on page load due to its fixed position and presence in the HTML. In a real e-commerce application, its appearance could be further controlled by JavaScript logic based on conditions like:
+*   **Visitor Status:** Only showing to non-members or first-time visitors (tracked via cookies or server-side logic).
+*   **Page Context:** Appearing on specific pages like the homepage, product pages, or checkout (if the user isn't a member).
+*   **User Behavior:** Potentially triggered by scroll depth or after a certain time spent on site, though immediate visibility for a top banner is common.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the widget in several ways:
+
+1.  **Read Information:** Users can view the headline ("Unlock Exclusive Member Perks!"), the detailed benefits (10% off, free shipping, early access), and the terms notice.
+2.  **Enter Email Address:** They can click into the email input field (which has a placeholder "your.email@example.com") and type their email. The field is marked as required.
+3.  **Submit Signup Form:** By clicking the "Join for Free" button, users attempt to submit their email for membership. In a live system, this would send the email to a server for processing.
+4.  **Close/Dismiss Widget:** Users can click the '×' (close) button in the top-right corner. In this example, a simple JavaScript `onclick` hides the banner. In a real application, this would typically set a cookie or use local storage to prevent it from reappearing for a set period or for the session.
+5.  **Interact with Links:** Users can click on the "Terms of Service" and "Privacy Policy" links, which would navigate them to those respective pages (in this placeholder, they link to '#').
+6.  **Hover and Focus States:** Standard visual feedback is provided. Buttons and links change appearance on hover (e.g., button color darkens, links get underlined). The email input field receives a visual focus indicator (blue border and shadow) when selected, aiding accessibility.
+-->

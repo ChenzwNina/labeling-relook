@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and blue accent color for the button. It's 350px wide with rounded corners and subtle shadow for depth. Input fields are full-width with proper spacing. The design choices prioritize clarity and usability - ample white space improves readability, the blue button draws attention to the primary action, and the layout guides users naturally through the form.
+
+    Question 2: This widget would typically appear when a user clicks a "Join Membership" or "Sign Up" button in the website header, or as a popup after adding items to cart for non-members. It might also appear as a persistent element on certain pages highlighting membership benefits.
+
+    Question 3: Users can: 1) Fill in form fields (name, email, password) with validation, 2) Submit the form triggering confirmation, 3) View membership benefits listed below the form, 4) Receive visual feedback on invalid inputs, and 5) After submission, get a success message and form reset. The hover effect on the button provides additional interactive feedback.
+    -->

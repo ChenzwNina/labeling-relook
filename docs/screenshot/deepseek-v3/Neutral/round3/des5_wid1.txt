@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, minimalist design with a light gray background (#f8f9fa) and subtle shadow for depth. It's 250px wide with 20px padding, containing clearly labeled sections (Categories, Price Range, Brand) separated by light borders. Checkbox options use standard web styling with 14px labels for readability. The blue apply button provides clear call-to-action. These choices prioritize usability - clear visual hierarchy, adequate spacing, and familiar UI patterns help users quickly understand and use the filters.
+
+    Question 2: This widget would typically appear either persistently in a sidebar on category/product listing pages, or as a modal/popup triggered by a "Filter" button on mobile views. The implementation would depend on the site's responsive design needs, with desktop showing it permanently and mobile requiring explicit user action to view filters.
+
+    Question 3: Users can: 1) Select/deselect category/brand checkboxes, 2) Adjust price range via slider or direct number input, 3) Apply all filters with the button. The widget provides immediate visual feedback for selections. Future enhancements could include showing product counts per filter or adding a reset option. The interactions follow standard ecommerce patterns for familiarity.
+    -->
+</body>

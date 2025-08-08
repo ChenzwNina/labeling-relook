@@ -1,0 +1,23 @@
+**Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The order tracking widget is a clean, card-style component with rounded corners and a soft shadow, designed to float above the main page content. Its layout is vertical and structured for scannability. The color palette uses a professional blue for primary actions and highlights, a reassuring green for success states like the progress bar, and neutral grays for text and backgrounds. This scheme builds trust and guides the eye.
+
+Key information like "Estimated Delivery" and the current status ("Out for Delivery") are given prominence with larger, bolder fonts. A visual progress bar gives an instant summary of the order's journey. The step-by-step tracking history uses icons and a vertical line to create a clear timeline. These choices prioritize clarity and user confidence. The overall aesthetic is modern and clean, aiming to reduce user anxiety by presenting information in a calm, organized, and helpful manner.
+
+**Question 2: What triggers the appearance of this widget?**
+
+The widget is designed to appear proactively and contextually. The most common trigger would be a logged-in user, who has a recent and active order in the "shipped" or "out for delivery" state, visiting the e-commerce website's homepage or their account dashboard. It acts as a helpful, non-intrusive notification, providing an immediate status update without requiring the user to navigate to their order history.
+
+Alternatively, it could be triggered when a user clicks a "Track My Order" link from a shipping confirmation email. Upon landing on the website, this widget would instantly appear, presenting the relevant tracking information for that specific order and creating a seamless user journey from their inbox to the website. The goal is to surface this crucial information at the most relevant moments.
+
+**Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+User interactions are intentionally simple and focused to ensure efficiency. The full range includes:
+
+1.  **Viewing:** The primary interaction is passive information consumption. The user can immediately see the estimated delivery date, the current status, and the full tracking history at a glance.
+2.  **Closing:** The user can dismiss the widget at any time by clicking the '×' icon in the top-right corner. This provides user control and allows them to return to their main browsing task.
+3.  **Navigation:** The user can click the "View Full Order Details" link in the footer. This action navigates them to the complete order page, where they can find more comprehensive information like billing details, return options, and a full list of items.
+4.  **Hovering:** Hovering over the close button and the footer link provides visual feedback (a color change or underline), clearly indicating that these elements are clickable and interactive.
+-->
+
+</body>

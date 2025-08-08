@@ -1,0 +1,5 @@
+Question 1: The widget has a clean, minimalist design with a light gray background (#f8f9fa) and subtle shadow. It's 250px wide with 20px padding, containing clearly labeled sections (Categories, Price Range, Brand) separated by light borders. Checkboxes are aligned with labels, and the price range includes a slider plus numeric inputs. The design choices prioritize usability - clear hierarchy, adequate spacing, and intuitive controls help users quickly find and apply filters without visual clutter.
+
+    Question 2: This filter panel would typically appear either permanently in a sidebar layout or as a collapsible panel triggered by a "Filter" button on mobile views. In some implementations, it might slide in from the side when users click a filter icon, especially on smaller screens where space is limited.
+
+    Question 3: Users can: 1) Select/deselect category/brand checkboxes, 2) Adjust price range using either the slider or direct numeric input, 3) Click "Apply Filters" to submit selections. The widget should provide immediate visual feedback for selections (checked states) and may show product count updates after applying filters in a real implementation.

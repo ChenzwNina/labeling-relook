@@ -1,0 +1,9 @@
+Question 1:
+The search panel is a horizontally-oriented white box with soft shadows and rounded corners, positioned at the top center of the viewport with a 20px margin. Its width is 480px (responsive for mobile), housing (from left to right) the shop logo, a large rounded input with a subtle placeholder, and a bold blue "Search" button with a magnifying glass icon. All controls are spaced for easy tap/click. Error feedback appears in red text under invalid entries, and the panel provides visual feedback with shadow changes and button states. These choices maximize visibility, touch targets, task efficiency, and a consistent, modern e-commerce feel.
+
+Question 2:
+The widget appears by default on every page load, fixed at the top. It is always visible for efficient searching, consistent with major e-commerce UX patterns so users can search from anywhere. No additional trigger is required.
+
+Question 3:
+Users can click in the input, type a query, and the button enables only when there is text (prevents empty search). Pressing Enter or the button submits; invalid or empty attempts show feedback inline. The panel visually indicates focus. Once submission is in progress, the button shows a spinner and disables to prevent spam. The placeholder and icons guide affordance, and errors are clearly visible. The design provides direct, efficient, and satisfying search interactions.
+-->

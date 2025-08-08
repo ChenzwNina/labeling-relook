@@ -1,0 +1,24 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The deals banner is a sleek, rectangular component with rounded corners, positioned centrally at the top of the screen. It features a deep blue gradient background (#1D2B64 to #3c509b) with crisp white text for high contrast and readability (Rule 3.1). The layout is organized using flexbox: a tag icon, the promotional text, and a call-to-action (CTA) button are aligned horizontally. The CTA button is a vibrant green (#28a745) to draw the user's eye and signify a primary action (Rule 3.5). A subtle, semi-transparent 'X' button is placed in the top-right corner for dismissal.
+
+These choices create a professional and trustworthy aesthetic. The dark background feels premium and makes the banner stand out against a typical light-themed website. The green CTA uses the psychological principle of color to encourage action, while the clear layout and legible fonts (`Lato`) ensure the message is conveyed efficiently (Rule 3.6). The entire banner has a subtle drop shadow to give it depth and separate it from the page content.
+
+### Question 2: What triggers the appearance of this widget?
+
+The banner is designed to appear automatically upon page load. As soon as a user lands on a relevant page (like the homepage, a category page, or the entire site), the banner animates into view from the top. This proactive approach ensures that every visitor is immediately aware of current promotions, maximizing the visibility of the deal (Rule 3.1).
+
+This trigger mechanism is ideal for time-sensitive offers like "Flash Sales" or "Weekend Deals" where broad and immediate communication is key to success. For a more tailored experience, its appearance could be further controlled by cookies, showing it only to first-time visitors or hiding it for users who have already dismissed it during their session.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+User interaction is intentionally simple and clear, focusing on two distinct paths to support efficient task completion (Rule 3.6).
+
+1.  **Engage with the Deal:** The primary interaction is clicking the green "Shop Now" button. This is a clear call-to-action that affords being clicked. Upon clicking, the user is redirected to a page displaying all the products included in the promotion. This provides a direct path from awareness to action. For feedback, the button lifts slightly and darkens on hover, indicating its interactivity (Rule 3.2).
+
+2.  **Dismiss the Banner:** If the user is not interested, they can click the 'X' icon in the top-right corner. This is a universally understood symbol for closing or dismissing an element (Rule 3.4). Clicking it immediately hides the banner, allowing the user to continue their browsing journey without obstruction. This provides a sense of control and makes the experience helpful rather than intrusive (Rule 3.7).
+
+There are no other interactive elements, which prevents user confusion and adheres to design constraints (Rule 3.3).
+
+*****Response***** -->
+</body>

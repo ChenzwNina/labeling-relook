@@ -1,0 +1,6 @@
+4.1 The widget features a vibrant, gradient background (orange to yellow) to attract attention, with white and brown/yellow accents that convey urgency and value. Elements are well-padded and rounded for a modern, positive appearance. At 44px, the deal icon is eye-catching, while responsive layouts adapt for mobile. The CTA "View All Deals" is blue and underlined, maximizing click-throughs. Banners utilize lively icons for deals, boosting engagement, and a close button improves user control/minimizes bounce.
+
+4.2 The banner displays immediately when the site or page loads, occupying the top center area, 20px from the top. It could also be re-triggered when new deals become available.
+
+4.3 Users can: click individual deals to learn more (if expanded), click "View All Deals" to see a dedicated deals section, and close the banner via the close button. The banner is always visible until dismissed, focusing the user’s attention on promotional content, and minimizing friction to maximize conversions and time on site.
+-->

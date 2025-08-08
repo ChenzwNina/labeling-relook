@@ -1,0 +1,24 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The filter panel is a 300px wide, white card with rounded corners and a subtle shadow, making it float above the page content. It is vertically organized, with a fixed header and footer, and a central scrollable area for filter groups.
+
+*   **Colors:** The palette is clean and professional. A white background (`#ffffff`) provides high contrast for the dark grey text (`#343a40`). The primary interactive color is a vibrant blue (`#007bff`), used for button backgrounds, selected states, and focus rings. This scheme ensures readability and draws attention to key actions without being overwhelming.
+*   **Elements & Layout:** The layout uses clear visual hierarchy. A bold header "Filter & Sort" immediately orients the user. Each filter group ("Category", "Price", etc.) has a title and is separated by a light grey border. Interactive elements are designed for intuitive use: custom checkboxes, circular color swatches that enlarge on selection, and pill-shaped size toggles. These choices create a modern, user-friendly experience that is common in leading e-commerce sites, prioritizing clarity and ease of interaction.
+
+### Question 2: What triggers the appearance of this widget?
+
+For a desktop or large tablet view, this widget is designed to be persistently visible. It would appear automatically on page load of a product listing page (e.g., when a user clicks on "Men's Apparel" or searches for "jackets"). Its fixed position at the top-left of the viewport ensures it's always accessible for refining product results without extra clicks.
+
+On smaller mobile screens, where space is limited, this panel would typically be hidden by default. Its appearance would be triggered by the user tapping a "Filter" or "Refine" button, usually located near the top of the product list. The panel would then slide in from the side or appear as a modal overlay.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a comprehensive set of interactions to refine product listings:
+
+1.  **Multi-Select Filtering:** Users can check and uncheck multiple checkboxes in the "Category" and "Size" groups to broaden or narrow their search (e.g., view both "Hoodies" and "Jackets" in size "M").
+2.  **Single-Select Filtering:** For colors, users click a circular swatch to select a single color. Clicking a different color deselects the previous one.
+3.  **Range Filtering:** Users can define a specific price range by typing minimum and maximum values into the corresponding input fields.
+4.  **Applying Filters:** Clicking the primary "Apply Filters" button submits all selected criteria, which would then trigger an update of the products displayed on the page.
+5.  **Clearing Filters:** Clicking the "Clear All" button resets every filter option to its default, unchecked, or empty state, allowing the user to start over.
+6.  **Scrolling:** If the list of filter options is long, users can scroll vertically within the main content area of the panel to access all available choices.
+-->

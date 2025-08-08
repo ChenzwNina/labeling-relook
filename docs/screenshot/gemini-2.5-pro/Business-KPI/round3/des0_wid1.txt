@@ -1,0 +1,29 @@
+-->
+    <!-- 
+        Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The component is a wide, rectangular container that remains sticky at the top of the viewport as the user scrolls. It has a soft, light-gray background (#f8f9fa) and a subtle shadow to make it float above the page content. Inside, a clear heading, "Curated For You: Top Picks This Week," sits above a four-column grid of product cards.
+
+        Each product card has a clean white background, a prominent product image, and bold, readable text for the name and price. Sale prices are highlighted in a vibrant green (#28a745) next to a gray, struck-through original price to create urgency and highlight value, which boosts conversion rates. The most crucial element, the "Add to Cart" button, uses a high-contrast blue (#007bff) to draw the user's eye and encourage clicks, directly maximizing sales. This clean, organized, and visually appealing layout builds trust and reduces cognitive load, minimizing bounce rate and encouraging exploration.
+    -->
+    <!-- 
+        Question 4.2: What triggers the appearance of this widget?
+
+        The widget's appearance is not triggered by a specific user action like a click or scroll. Instead, it is loaded by default and is immediately visible on high-intent pages of the website, such as the homepage, main category pages, or popular search result pages. 
+
+        The rationale for this is to immediately engage visitors the moment they land on a key entry point of the site. By proactively showcasing best-sellers, high-margin items, or curated recommendations, the design aims to capture user interest instantly. This strategy helps reduce bounce rate by providing clear, attractive options upfront, increases page views by encouraging clicks, and maximizes the potential for early conversion in the user's journey. It acts as a powerful, always-on merchandising tool.
+    -->
+    <!-- 
+        Question 4.3: Can you describe the full range of interactions users can have with the widget?
+        
+        Users have several clear and intuitive interaction points designed to guide them toward a purchase:
+
+        1.  **Scrolling:** The entire component scrolls normally with the page until it reaches 20 pixels from the top of the viewport, at which point it becomes "sticky," ensuring the featured products remain visible to maximize exposure and click-through rates.
+
+        2.  **Hovering:** When a user hovers their mouse over a product card, it lifts slightly and gains a more pronounced shadow. This provides immediate visual feedback, making the interface feel responsive and encouraging deeper engagement, which helps increase time on site.
+
+        3.  **Product Exploration:** Clicking on the product's image or its name acts as a link, navigating the user to the full product detail page. This allows interested users to learn more, view additional images, and read reviews, increasing page views per visit.
+
+        4.  **Direct Purchase Action:** Clicking the prominent blue "Add to Cart" button adds the item directly to the shopping cart without leaving the page. This streamlined action reduces friction in the buying process, aiming to boost conversion and average order size while minimizing cart abandonment.
+    -->
+</body>

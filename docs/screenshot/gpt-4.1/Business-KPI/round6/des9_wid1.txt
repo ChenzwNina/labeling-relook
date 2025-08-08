@@ -1,0 +1,6 @@
+4.1 Question 1: This widget is a horizontally split card at the top of the page, with a white, rounded background, subtle shadow, and organized sections. Soft blue and green accents dominate, reinforcing reliability and freshness, while orange and green highlights call out key actions. Shipping options appear as light cards with clear radio buttons, descriptions, and bold pricing; optional add-ons use checkboxes with price callouts. Spacing, modern font, and touch-friendly controls underpin usability and trust—key for conversions, lower cart abandonment, and up-sell.
+
+4.2 Question 2: The widget appears when a user proceeds to the checkout process or reviews their cart before payment—ideally as soon as a user may consider shipping or order customization options, prompting informed choices and potential add-on purchases.
+
+4.3 Question 3: Users select one shipping option (radio); further interactivity promotes an Express upgrade offer with contextual messaging. Optional add-ons (checkboxes) are easily toggled, giving engaging order customization without friction. Interactions update pricing and order summary downstream. Add-on/option selection highlights on hover/click, reinforcing action. All elements are device-friendly and can expand to show more details on mobile devices.
+-->

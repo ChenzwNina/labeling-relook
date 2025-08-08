@@ -1,0 +1,32 @@
+Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a large, modal pop-up that appears over a dimmed site background, immediately focusing the user's attention. It has a two-column layout: the left 45% is a visually appealing lifestyle image (`placeholder_image.jpg`), and the right 55% contains the form. This split-design is chosen to be both engaging and functional.
+
+Colors are intentionally selected for trust and action. The background is a clean white with dark grey text for high readability. The primary Call-to-Action (CTA) button ("Claim My 15% Discount") is a vibrant, confident green (#28a745) to maximize click-through rates and signify a positive action (Rule 3.2, 3.4). Input fields have a subtle blue highlight on focus, providing clear user feedback.
+
+The main headline ("Create Your Account & Get 15% Off") is large and extra-bold to immediately communicate the core value proposition, directly tying account creation to a monetary incentive to maximize sales (Rule 3.1). The form is minimal, asking for only essential information to reduce friction and minimize abandonment (Rule 3.8).
+*****Response*****
+Question 4.2: What triggers the appearance of this widget?
+
+The appearance of this widget should be strategically timed to maximize conversion without causing annoyance, thereby minimizing bounce rate (Rule 3.9). The primary trigger is a direct user action, such as clicking a "Create Account" or "Sign Up" button in the website's header or footer.
+
+A secondary, proactive trigger can be implemented for engaged users. For example, the modal could appear after a user has:
+1.  Attempted to use an account-only feature, like "Save to Wishlist."
+2.  Added two or more items to their shopping cart, presenting the 15% discount as an immediate incentive to complete the purchase.
+3.  Spent a significant amount of time on the site (e.g., 90 seconds) or viewed multiple product pages (e.g., 4+ pages).
+
+This "engaged-user" approach ensures the offer is presented to visitors who have already shown interest, making them more receptive and increasing the likelihood of conversion (Rule 3.2) and continued site engagement (Rule 3.5). It avoids interrupting a user's initial discovery phase.
+*****Response*****
+Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several clear and intuitive interaction paths designed to be user-friendly and reduce frustration.
+
+1.  **Form Input:** Users can click into the "Full Name," "Email," and "Password" fields to type their information. The fields have clear labels and placeholder text to guide them. On focus, the input border highlights, providing visual feedback.
+
+2.  **Submission:** The primary interaction is clicking the large, green CTA button ("Claim My 15% Discount") to submit the form and create their account. A hover effect (darker color, slight lift) signals its interactivity.
+
+3.  **Dismissal:** To avoid trapping the user, they can easily close the widget in two ways: by clicking the '×' icon in the top-right corner or by clicking on the dark, semi-transparent overlay surrounding the modal. This is a critical feature to prevent user frustration and site abandonment (Rule 3.8).
+
+4.  **Navigation:** If a user already has an account, they can click the "Sign In" link to be redirected to the login form. They can also click the "Terms of Service" and "Privacy Policy" links to view those pages, which builds trust and transparency.
+-->
+</body>

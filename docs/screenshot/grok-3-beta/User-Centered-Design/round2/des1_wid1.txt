@@ -1,0 +1,6 @@
+Question 1: The deals banner spans the full width of the viewport with a vibrant gradient background transitioning from coral (#FF6F61) to peach (#FFB88C), ensuring high visibility. The text is white for contrast, with a bold 1.5rem font for the deal message and 1.2rem for the timer. The CTA button is white with coral text, sized at 1rem, and has hover/click effects for feedback. The centered layout with flexbox ensures balance and responsiveness, adapting to smaller screens. These choices prioritize clarity, urgency, and accessibility, aligning with e-commerce aesthetics.
+
+Question 2: The banner appears automatically at the top of the webpage upon loading, positioned 20px from the top. It is triggered by active promotions or flash sales defined in the backend, ensuring users are immediately aware of limited-time offers without manual interaction.
+
+Question 3: Users can interact with the banner by hovering over the "Shop Now" button, which scales and changes color for feedback, and clicking it to navigate to the deals page. The timer visually reinforces urgency, though it’s non-interactive. No invalid actions are possible, maintaining simplicity and focus on the CTA.
+***** -->

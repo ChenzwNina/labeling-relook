@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background, soft shadow, and rounded corners for a professional look. The color scheme uses a vibrant coral (#ff6f61) for the CTA button and links to draw attention and encourage action, paired with neutral grays for text to ensure readability. The layout is centered and compact (max-width: 500px) for focus, with spacious input fields and clear labels. These choices maximize trust (clean design), conversion (bold CTA), and usability (clear layout), aligning with e-commerce goals. -->
+
+    <!-- Question 2: This widget appears when a user visits the website and is not logged in, or clicks on a 'Sign Up' link from the header or during checkout. It can also trigger as a pop-up after a user adds items to the cart without an account, encouraging registration to save progress and reduce cart abandonment. -->
+
+    <!-- Question 3: Users can interact by filling out the form with their name, email, and password, and submitting it via the 'Create Account' button. They can click the 'Log in here' link to switch to the login page. Hover effects on the button and link provide visual feedback, enhancing engagement. Errors (e.g., invalid email) could display below fields for correction. -->
+</body>

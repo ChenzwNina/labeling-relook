@@ -1,0 +1,6 @@
+Question 1: The widget uses a modern, clean design with a white background and subtle shadows for contrast. Product cards are soft-gray with rounded corners and contain a product image (140px tall), a bold product title, yellow star ratings, clear pricing in greenish-blue, and a square blue "Add to Cart" button. Responsive design ensures cards reflow neatly on smaller screens. The high contrast and large touch targets ensure visibility and affordances while the feedback "Added to cart!" is eye-catching in green, reinforcing user action.
+
+Question 2: This widget appears as a fixed section at the top of the viewport when users access a product listing page, home page, or featured collection—its presence is immediate and constant (no pop-up or trigger), enabling users to browse products without further interaction to reveal the component.
+
+Question 3: Users can view featured products, examine key info (image, title, price, rating), and click the accessible "Add to Cart" button for each. Upon clicking, the button is temporarily disabled, and a transient feedback message appears ("Added to cart!"). This prevents repeated clicks, communicates success, and encourages exploration of other products, optimizing for a satisfying, efficient browsing experience.
+-->

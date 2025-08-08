@@ -1,0 +1,24 @@
+4.1 Question: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+    
+    Answer: The component is a horizontal filter bar enclosed in a white, rounded-corner panel with a subtle box-shadow. This "card" design lifts it off the page, making it a clear, distinct tool for the user. The layout is clean and organized, with a "Filter By:" label followed by filter group buttons (Size, Color, etc.).
+    
+    Colors are intentionally minimalist: a neutral palette (#ffffff, #f8f9fa) for the panel and buttons ensures it doesn't compete with product images. The key accent color is a vibrant blue (#007bff), used exclusively for the primary "Apply Filters" button, selected states, and active filter tags. This strategic use of color draws the user's eye to the most important actions, maximizing conversion.
+    
+    Elements are sized for clarity and ease of use. Buttons have ample padding (8px 16px) and a legible 14px font size. The "Apply Filters" button is slightly larger and bolder to signify its importance. This user-friendly design reduces friction and bounce rate by making a complex task feel simple and intuitive.
+    
+    4.2 Question: What triggers the appearance of this widget?
+    
+    Answer: This filter panel is a fundamental part of the browsing experience, not a pop-up. It appears automatically and is persistently visible by default when a user navigates to a product listing page (e.g., a category page like "Men's Running Shoes" or a search results page). Because finding and narrowing down products is the primary goal on these pages, the filter panel must be immediately accessible without any user action. This approach minimizes the bounce rate, as it instantly provides users with the tools they need to engage with the site's offerings, preventing them from feeling overwhelmed by too many choices and leaving.
+    
+    4.3 Question: Can you describe the full range of interactions users can have with the widget?
+    
+    Answer: A user's interaction flow is designed to be intuitive and efficient:
+    
+    1.  **Open a Filter Group:** The user clicks on a filter button (e.g., "Size"), which opens a dropdown menu containing specific options. The button highlights and its arrow flips to indicate an active state.
+    2.  **Select Options:** Inside the dropdown, the user can select one or more options using checkboxes. Each option displays the number of available products, helping the user avoid zero-result dead ends.
+    3.  **Apply Selections:** After making selections, the user clicks the prominent blue "Apply Filters" button to refresh the product list with their chosen criteria.
+    4.  **View & Remove Active Filters:** Selected filters appear as "tags" in a dedicated area below the buttons. This gives users a clear summary of their current view. They can remove an individual filter by clicking the '×' on its tag, allowing for quick adjustments.
+    5.  **Reset All Filters:** The user can click the "Clear All" link to deselect all options and revert to the original, unfiltered product list, simplifying the process of starting a new search.
+    -->
+
+</body>

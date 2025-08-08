@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based layout with a white background and subtle shadows for depth. Product cards have a blue accent color for prices and buttons, creating visual hierarchy. Cards are 250px wide with consistent 200px tall images for uniformity. The design choices prioritize readability, visual appeal, and responsive behavior across devices while maintaining ecommerce best practices for product presentation.
+
+    Question 2: This widget appears automatically on the homepage or landing pages of the ecommerce site as a standard section. It may also appear on category pages or as a personalized recommendation section based on user browsing history when logged in.
+
+    Question 3: Users can: 1) Hover over cards to see elevation effect, 2) Click product images/names to view details, 3) Click "Add to Cart" buttons to purchase, 4) On mobile, tap instead of hover. The grid layout adapts to different screen sizes. Future enhancements could include quick view modals or wishlist buttons.
+    -->
+</body>

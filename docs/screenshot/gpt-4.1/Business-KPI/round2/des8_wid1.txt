@@ -1,0 +1,7 @@
+4.1 The widget is a modern, clean cart popup aligned at the top center of the page with a 20-pixel top margin. The cart is 430px wide, uses a white background with soft blue accents, subtle shadows, and generous border radii. Item thumbnails are 52x52px, text is clear and hierarchy is enforced via font size/weight. Prominent CTA buttons encourage checkout and further shopping, with a gradient blue for "Checkout" and a soft blue for "Continue Shopping." A promo banner and ad area add urgency and cross-sell opportunities. The structure is scrollable for longer carts and is mobile responsive. This layout increases conversion, order size, ad exposure, and reduces abandonment.
+
+  4.2 The widget appears when a user hovers over or clicks a cart icon in the site header, or when an action adds a product to cart. It overlays the current page, letting users review and update their cart without leaving (an "off-canvas" pattern).
+
+  4.3 Users can: close the cart, view/edit quantities for each item, remove items, see subtotal/shipping/total amounts, view promotions, click “Proceed to Secure Checkout” to convert, click “Continue Shopping” to browse more, and engage with an in-cart ad for cross-sell. The promo banner updates dynamically based on cart value. All interactions happen instantly, minimizing page loads and friction.
+  -->
+</body>

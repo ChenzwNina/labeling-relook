@@ -1,0 +1,34 @@
+-->
+<!--
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component presents a clean, responsive grid of product cards under a clear heading like "Best Sellers in Home & Living". Each card has a white background, rounded corners, and a subtle shadow, which lifts on hover to provide satisfying feedback. The layout is designed to feel premium and trustworthy.
+
+Colors: The palette is intentionally simple: a neutral light gray background (#f4f4f7) makes the white cards pop. Text is dark gray (#333) for high readability. The primary call-to-action color for the "Add to Cart" button is a deep, confident blue (#005a9c), chosen to inspire trust and action. Sale prices are in a vibrant green (#28a745) to signal value, while special badges use blue for information ("New Arrival") and red for urgency ("Limited Stock").
+
+Elements & Layout: A responsive CSS grid ensures the layout adapts perfectly from mobile to desktop. Large, high-quality images (1:1 aspect ratio) maximize visual appeal. A clean 'Montserrat' font is used for headings and buttons to convey modernity, while 'Lato' is used for body text for its excellent readability. These choices aim to maximize conversion and sales by building brand confidence and clearly guiding the user's eye towards key information and actions.
+-->
+<!--
+4.2 Question 2: What triggers the appearance of this widget?
+
+This component is a fundamental part of a web page, not a pop-up or dynamically triggered widget. Its appearance is triggered by the user's navigation and the subsequent page load. For instance, it would appear instantly when a user:
+
+1.  Lands on the homepage, where it might be titled "Featured Products" or "Trending Now".
+2.  Navigates to a specific product category page, such as "Lighting" or "Textiles". The header would then reflect that category.
+3.  Executes a search, with the component appearing on the search results page to display the relevant items.
+
+This immediate presentation of products is crucial for minimizing the bounce rate. It provides instant value and relevance to the user, confirming they are in the right place and encouraging them to explore further. By being an integral part of the core page structure, it ensures a seamless and expected user experience, which is essential for building trust and keeping users on the site.
+-->
+<!--
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can have several intuitive and purposeful interactions with the component, each designed to move them through the conversion funnel:
+
+1.  **Visual Scanning:** The user's first interaction is to scan the grid. The clear hierarchy, strong imagery, and badges ("Sale", "New Arrival") allow for rapid assessment of the products, maximizing engagement.
+
+2.  **Hovering:** When a user hovers their mouse over a product card, it gently lifts and its shadow deepens. This subtle animation provides visual feedback, confirming the item is interactive and encouraging a click. This small detail helps maximize time on site by making exploration more engaging.
+
+3.  **Navigation to Product Page:** Clicking anywhere on the product card—except for the "Add to Cart" button—navigates the user to that item's dedicated product detail page. This is the primary way the component increases page views per visit.
+
+4.  **Adding to Cart:** Clicking the prominent blue "Add to Cart" button directly adds the item to the user's shopping cart. This is the key conversion action. The button is styled for maximum visibility and has a clear hover state to encourage clicks, directly addressing the goals of maximizing sales and minimizing cart abandonment.
+-->

@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with white background and subtle shadow for depth. It's 400px wide with ample padding. Elements use a color scheme of red (for cancellation) and gray (for neutral actions), with typography that's easy to read. The layout is organized with clear sections for reason selection, feedback, and action buttons. These choices prioritize clarity, reduce cognitive load, and guide users through the cancellation flow while maintaining brand consistency.
+
+    Question 2: The widget appears when a user navigates to the account settings and selects the "Cancel Membership" option. It could also appear after multiple failed payment attempts or when a user clicks a cancellation link in their membership details email.
+
+    Question 3: Users can: 1) Select a cancellation reason from a dropdown, 2) Provide optional feedback in a textarea, 3) Click "Keep Membership" to dismiss the widget, or 4) Click "Cancel Membership" to confirm cancellation. The interface provides clear visual feedback on hover states and maintains focus on the primary action (cancellation) while offering an easy exit path.
+    -->

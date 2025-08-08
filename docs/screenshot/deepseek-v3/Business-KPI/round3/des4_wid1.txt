@@ -1,0 +1,7 @@
+Question 1: The widget displays products in a responsive grid with white cards, subtle shadows, and rounded corners. Each card has a product image, title, price, and "Add to Cart" button. I chose clean white backgrounds for focus on products, green buttons for clear CTAs, and a responsive grid for adaptability. The hover effect provides visual feedback, and ample spacing ensures readability.
+
+    Question 2: This widget would typically appear when a user visits a product category page or the homepage of an ecommerce site. It could also appear as search results or recommended products based on user browsing history.
+
+    Question 3: Users can: 1) View product images and details, 2) Click "Add to Cart" to purchase, 3) Hover over cards for visual feedback, and 4) The grid layout automatically adjusts to different screen sizes. In a full implementation, users might also click products for more details or see quick-view options on hover.
+    -->
+</body>

@@ -1,0 +1,27 @@
+-->
+    <!-- 
+        Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The widget is a clean, card-style component centered at the top of the viewport. It has a white background (#ffffff) with a subtle border and a soft box-shadow, making it float above the page's light gray background. This creates a clear focal point. The color palette is professional and trustworthy: dark grays for text (#212529, #495057) ensure high readability, while a vibrant blue (#007bff) is used for the primary "Create Account" button and links. This blue draws the user's attention to key actions. 
+        
+        The layout is a single vertical column, guiding the user logically from the header, through the input fields, to the final action button. Generous padding (28px) and margins between form groups provide ample whitespace, preventing a cluttered feel. Input fields are large with rounded corners for a modern, friendly appearance. The typography uses 'Lato', a sans-serif font, with a clear hierarchy: a large heading (24px), smaller descriptive text (15px), and standard-sized labels and inputs (14-16px). These choices are intended to create an interface that feels modern, secure, and easy to navigate, thereby encouraging user sign-ups.
+    -->
+    <!-- 
+        Question 2: What triggers the appearance of this widget?
+
+        This component is designed as a modal or pop-over widget, not a full page. Its appearance is typically triggered by a specific user action. The most common trigger would be the user clicking on a "Create Account" or "Sign Up" button located in the main header navigation of the e-commerce website. 
+        
+        Alternatively, it could be triggered contextually. For example, if a guest user attempts to access a feature reserved for members (like viewing an order history or creating a wishlist), the site could display this widget to prompt them to sign up. Another trigger could be during the checkout process, where an option like "Create an account for faster checkout next time" is presented, and clicking it reveals this form. In all cases, the trigger is a direct user interaction indicating a desire to register.
+    -->
+    <!-- 
+        Question 3: Can you describe the full range of interactions users can have with the widget?
+
+        Users have a complete and intuitive range of interactions with this widget. They can:
+        1.  **Input Data:** Click into and type their full name, email, and password into the respective text fields.
+        2.  **Receive Visual Feedback:** See the border of an input field change color to blue and gain a subtle glow when it's active (in focus), confirming which field they are editing.
+        3.  **Agree to Terms:** Click the checkbox to agree to the Terms of Service. The custom-styled checkbox will show a blue checkmark, providing clear visual confirmation.
+        4.  **Submit the Form:** Click the primary "Create Account" button to submit their information. Hovering over this button darkens its blue background, indicating it's a clickable element.
+        5.  **Navigate to Other Pages:** Click the hyperlinked "Terms of Service," "Privacy Policy," or "Log In" text to be taken to those respective pages or modals. These links also have a hover effect (underline).
+        6.  **Close the Widget:** Click the '×' icon in the top-right corner to dismiss the form and return to the previous page view without creating an account.
+    -->
+</body>

@@ -1,0 +1,9 @@
+Question 1:
+This widget is a clean, card-style product display set against a light gray background. The card features a product image (120x120px, rounded corners), next to product details laid out vertically. The title (bold), star rating (gold stars + review count), a bold price (with a crossed-out old price for discount display), a concise product description, a prominent "Add to Cart" button (orange-pink gradient that animates on hover), and a secondary wishlist link in pink. White, gray, and accent brand colors create visual order while emphasizing the call-to-action.
+
+Question 2:
+This widget appears anywhere an individual product must be displayed—on a product listing or during browsing. It is rendered as soon as the page loads and is visible by default, placed at the top of the page with a 20px margin.
+
+Question 3:
+Users can interact with the widget by clicking the "Add to Cart" button to place the item in their cart (triggers backend cart logic), and click the wishlist link to save the item to their favorites (likely triggers a modal or backend action). On hover, the button color animates and the link shows an underline, providing visual feedback. The entire widget is otherwise static.
+-->

@@ -1,0 +1,40 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The deal banner widget is designed to be eye-catching and informative.
+**Layout:** It's a full-width banner positioned fixed at the top of the viewport, with a 20px margin from the top edge. The content within the banner (text and a close button) is horizontally centered for optimal viewing on various screen sizes, though the banner itself can span up to 1200px and then centers on larger screens. The text is primarily on the left/center, with a dismiss ('×') button on the far right.
+
+**Colors:** The banner uses a vibrant linear gradient background, transitioning from a warm red (#FF6B6B) to a bright orange (#FF8E53). This choice aims to attract immediate attention, as these colors are often associated with sales, urgency, and excitement. The text is white (#ffffff) for high contrast against the colorful background, ensuring readability. The close button is also white.
+
+**Size of Elements:** The banner has a padding of 15px vertically. The main promotional text is 16px, with key phrases like the discount percentage bolded and slightly larger (implicitly, via `<strong>` styling if further enhanced, or just bold). The call-to-action "Shop Now!" link is clearly distinguishable. The close button ('×') is 24px, making it easily clickable. The overall height is determined by its content and padding, providing a substantial but not overly intrusive presence. A subtle box shadow is applied to make the banner 'pop' from the page content.
+
+**Design Choices Rationale:**
+- **Fixed Position & Top Margin:** Ensures the deal is immediately visible to users upon visiting the site, as requested.
+- **Vibrant Colors & Contrast:** Maximizes visibility and emotional engagement, crucial for promotional content.
+- **Clear Typography & Sizing:** Prioritizes readability of the offer.
+- **Prominent CTA:** The "Shop Now!" link encourages immediate action.
+- **Dismissible:** The close button respects user experience by allowing them to hide the banner if they choose, reducing potential annoyance.
+- **Rounded Corners & Shadow:** Modern aesthetics that help the banner feel integrated yet distinct.
+
+## Question 2: What triggers the appearance of this widget?
+
+The appearance of this deal banner widget is typically triggered **on page load**. When a user navigates to a relevant page on the e-commerce website (e.g., the homepage, category pages, or specific landing pages for a promotion), the banner would be rendered and displayed automatically as part of the initial page content.
+
+It's designed to be immediately visible to inform users about current promotions as soon as they engage with the site. More advanced implementations could involve triggers based on user segmentation, visit frequency (e.g., show to new visitors), or specific marketing campaign parameters, but the fundamental trigger for this component is the loading of the web page it's embedded on.
+
+## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can have the following interactions with the deal banner widget:
+
+1.  **Reading the Information:** The primary interaction is for the user to read the promotional message displayed on the banner. This includes understanding the discount, the eligible products/categories, and any conditions like minimum order value for free shipping.
+
+2.  **Clicking the Call-to-Action (CTA) Link:** The banner includes a "Shop Now!" link. Users can click this link, which would typically navigate them to a dedicated sales page, a relevant product category, or apply a filter showing the discounted items. This is the main conversion-focused interaction.
+
+3.  **Dismissing the Banner:** Users can click the '×' (close) button located on the right side of the banner. This action will hide the banner from view for the current session (or longer, depending on how cookies/local storage might be implemented to remember this preference, though the provided code only hides it visually for the current page view). This allows users to remove the banner if it's obstructing content or if they are not interested in the offer.
+
+4.  **Hover Effects (Implicit Interaction):**
+    *   Hovering over the "Shop Now!" link might show a slight visual change (e.g., underline removed or opacity change as styled), indicating it's an interactive element.
+    *   Hovering over the close button also has a subtle opacity change, reinforcing its clickability.
+
+There are no other complex interactions like form inputs or dropdowns within this specific banner design; it's focused on information delivery and a single CTA.
+-->
+</body>

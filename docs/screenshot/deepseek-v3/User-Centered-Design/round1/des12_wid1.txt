@@ -1,0 +1,5 @@
+Question 1: The widget features a clean, minimalist design with white background and blue accents. It's 350px wide with rounded corners and subtle shadow for depth. Input fields are full-width with proper spacing, and the submit button uses a vibrant blue that darkens on hover. These choices create visual hierarchy, ensure readability, and follow modern web design principles while maintaining accessibility.
+
+    Question 2: This widget would typically appear when users click a "Sign Up" or "Create Account" button in the website's header/navigation, or when they attempt to checkout without an account. It might also appear as a modal overlay or on a dedicated registration page.
+
+    Question 3: Users can: 1) Fill in text fields (name, email, password), 2) Submit the form (triggering validation), 3) See password requirements, 4) Click the login link to switch to sign-in, and 5) Receive feedback for errors. The form validates inputs in real-time and provides clear error messages if submission fails.

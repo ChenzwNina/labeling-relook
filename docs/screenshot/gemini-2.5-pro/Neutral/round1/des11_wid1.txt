@@ -1,0 +1,47 @@
+**3.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The widget is a rectangular panel with rounded corners, designed to float at the top-center of the viewport.
+
+*   **Colors:**
+    *   Background: White (`#ffffff`) for the panel itself, providing a clean and focused area, contrasting with a very light grey (`#e9e9e9`) page background.
+    *   Text: Dark grey (`#343a40`, `#495057`) for headings and paragraphs ensures high readability.
+    *   Benefit Icons: A positive green (`#28a745`) checkmark for listing benefits, reinforcing their value.
+    *   Buttons: The "Proceed to Cancel" button uses a cautionary red (`#dc3545`) to signify a significant, potentially negative action. The "Keep My Elite Benefits" button uses a positive blue (`#007bff`), encouraging retention.
+    *   Form Elements: Light grey background (`#f8f9fa`) with dark borders for the select dropdown for subtle differentiation.
+
+*   **Size of Elements:**
+    *   Width: Max-width of `550px` makes it prominent but not overwhelming on larger screens, and responsive (`90%` width) on smaller ones.
+    *   Heading (`h2`): `22px`, bold, to clearly state the widget's purpose.
+    *   Body Text: `15px` for readability.
+    *   Buttons: Sufficient padding (`12px 20px`) for easy interaction, with clear, concise text.
+
+*   **Layout:**
+    *   Positioning: Fixed at `20px` from the top and centered horizontally.
+    *   Structure: Information is logically structured: title, personalized message, consequences (lost benefits listed clearly), final active date, optional feedback dropdown, and action buttons.
+    *   Benefit List: Uses custom checkmark icons for visual appeal.
+    *   Buttons: Stacked vertically on smaller screens for better usability, and horizontally (Keep on left, Cancel on right) on screens wider than `500px`. A close '×' button is in the top-right corner.
+
+*   **Design Choices Rationale:**
+    The design aims for a professional, trustworthy e-commerce aesthetic. Clarity is paramount: users must understand the implications of cancellation. Color psychology is used for buttons to guide users and highlight the severity of cancellation. The layout follows a natural reading flow. The optional feedback mechanism is standard for understanding customer churn. The responsive button layout enhances user experience across devices.
+
+*****Response*****
+**3.2 Question 2: What triggers the appearance of this widget?**
+
+The appearance of this membership cancellation widget is typically triggered by a direct user action within their account or subscription management area of the e-commerce website. For example, a user might:
+
+1.  Navigate to "My Account" > "Membership Details".
+2.  Click on a button or link explicitly labeled "Cancel Membership," "Manage Subscription," or "End Subscription."
+
+This widget serves as a confirmation step or a "retention offer" interface. It's not something that appears unprompted. It appears *after* the user has already expressed an initial intent to cancel, aiming to ensure they are certain, fully informed of the consequences, and potentially to offer them a reason to reconsider.
+
+*****Response*****
+**3.3 Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users can interact with the widget in the following ways:
+
+1.  **Read Information:** Users can read the personalized greeting, the name of their membership, the benefits they will lose upon cancellation (clearly listed with checkmarks), and the date until which their current membership will remain active.
+2.  **Close the Widget (Dismiss):** Users can click the '×' (close) button located at the top-right corner. This action would typically dismiss the widget and abort the cancellation process for the current session, returning them to their previous page or dashboard.
+3.  **Provide Feedback (Optional):** Users can click on the dropdown menu labeled "To help us improve, please share why you're considering cancellation (Optional):" and select a predefined reason from the list (e.g., "Membership cost is too high," "Not utilizing benefits"). This is an optional step.
+4.  **Decide to Keep Membership:** Users can click the "No, I Want to Keep My Elite Benefits" button. This action would also close or hide the widget, signifying their decision to not proceed with the cancellation, and potentially navigate them back to their membership dashboard or the previous page.
+5.  **Confirm Cancellation:** Users can click the "Yes, Proceed to Cancel" button. This is the primary action to finalize the cancellation request. Clicking this would typically submit the cancellation (and any selected reason) to the website's backend for processing.
+-->

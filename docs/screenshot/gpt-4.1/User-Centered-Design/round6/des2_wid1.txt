@@ -1,0 +1,7 @@
+Question 1: The widget is a fixed, horizontally-oriented navigation bar positioned 20px from the top of the viewport. It has a white rounded box with a subtle drop shadow for elevation, a left-aligned logo, and clearly labeled category buttons with product counts. Active and focused states use light blue backgrounds and blue text for feedback and visibility. Categories like "Beauty" are visually disabled with muted text and no pointer interaction, making constraints clear. The design uses soft tones and clear spacing for a balanced, modern look, ensuring high visibility, usability, and task efficiency.
+
+Question 2: This widget appears immediately on page load or upon navigating to the store's main pages, making product category access persistent and available at all times near the top of the viewport.
+
+Question 3: Users can click or keyboard-navigate between available categories, which are highlighted on selection and focus, providing instant visual feedback. Disabled categories (like "Beauty") cannot be selected, enforcing constraints. Product counts are always visible. The widget is responsive, touch-friendly, and consistent across devices. Interacting with a category navigates to the corresponding page or reloads products, enabling efficient browsing.
+
+-->

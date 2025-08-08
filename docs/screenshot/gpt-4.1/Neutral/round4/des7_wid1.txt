@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a compact floating panel, 410px wide, with a white rounded background and subtle drop-shadow, giving it a modern card look. The "Customer Reviews" title uses a bold, readable sans-serif. The star rating (4/5 highlighted in gold, last star greyed out) is prominent, followed by a large average score and review count in muted text. There’s a breakdown of ratings (1–5 stars), each with a bar visualizing the proportion and numeric count. The "Write a review" button is styled in blue with white text, rounded edges, and a hover effect for interactivity. These choices ensure clear readability, familiar visual cues, and attractive hierarchy for e-commerce contexts.
+
+  Question 2:
+  The widget appears immediately and is always fixed at the top of the viewport, 20px from the top edge, making ratings highly visible when a user loads any relevant product page. In an actual implementation, it would appear when viewing any product detail page.
+
+  Question 3:
+  Users can visually evaluate the average rating and review count, explore detailed breakdowns, and click the “Write a review” button. This button would typically open a form for submitting new reviews. The stars and bars react visually but are not interactive in this static demo. Further possible interactions (left for backend): clicking breakdown bars to filter reviews, hovering for tooltips, etc.
+  -->
+</body>

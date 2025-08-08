@@ -1,0 +1,8 @@
+Question 1: This widget is a modern, top-fixed filter panel with a white background, soft 10px corners, and a subtle drop shadow, consistent with leading e-commerce sites. Each filter is housed in clearly separated vertical sections, with category and brand dropdowns, price range numeric inputs, and star rating checkboxes. CTA buttons ("Apply Filters" in bold blue, "Reset" in gray) are prominent for clear affordance and feedback, including color transitions on action. The color palette—white, #1a73e8 blue, soft grays—prioritizes clarity. The layout is responsive, stacking vertically on mobile screens. Design choices optimize function visibility, feedback, and reliable constraints for a trustworthy branding feel.
+
+  Question 2: The widget is always visible at the very top of the page, anchoring product navigation and filtering. No action triggers its appearance—it serves as a persistent entry point for filtering the main product grid, ensuring high discoverability and efficient task execution from the outset.
+
+  Question 3: Users can select filter criteria (category, price range, brand, and rating) via dropdown menus, number inputs, or checkboxes. "Apply Filters" triggers instant visual feedback, confirming application of the selected filters. The "Reset" button clears all filters and provides feedback. Inputs enforce logical constraints (e.g., min price ≤ max price), giving error prevention. Focus and interactivity states change visually for clarity. All controls are keyboard and screen-reader accessible, supporting an accessible, consistent, and satisfying experience.
+
+  -->
+</body>

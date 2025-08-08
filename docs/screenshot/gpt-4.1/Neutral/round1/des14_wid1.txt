@@ -1,0 +1,10 @@
+Question 1: 
+  The order tracking widget uses a clean, modern card design with a white background, subtle shadows, and rounded corners for approachability. The container is 600px wide and sits 20px from the top. Status colors are used: success green (#00A57C, #1BC47D) for completed steps and the current status, grey for pending steps, and a blue accent for the action button. Tracking steps are horizontally aligned with clear step icons and progression, similar to Amazon or Shopify tracking UIs. These choices provide clarity, highlight key progress, and align with familiar e-commerce styles.
+
+  Question 2:
+  The widget typically appears on the "Order Details" or "Track Order" page, possibly after clicking "Track Package" elsewhere or when a user navigates to their order history and selects a specific order to view its status.
+
+  Question 3:
+  Users can view the order number, order date, current shipment progress (with visually distinct steps), and product details. The "Track Package" button invites deeper tracking (e.g., opening carrier tracking or a modal). The user can interpret at a glance where their order is and what item is being tracked; the steps visually update based on live status.
+  -->
+</body>

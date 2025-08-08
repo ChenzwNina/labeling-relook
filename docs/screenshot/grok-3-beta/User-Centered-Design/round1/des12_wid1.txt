@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation, ensuring it stands out at the top of the viewport. Primary colors include blue (#007bff) for the submit button, providing a clear call-to-action, and neutral grays for text and borders for readability. Input fields are spacious with a 12px padding, and the form width is constrained to 400px for focus and ease of use. These choices enhance visibility, consistency, and a professional e-commerce aesthetic, aligning with user expectations. -->
+
+    <!-- Question 2: This widget appears when a user clicks on a 'Sign Up' or 'Create Account' link, typically located in the header of the e-commerce website, or when redirected from a login page with an option to register. It may also trigger during checkout if the user is not logged in, prompting account creation for a seamless purchase experience. -->
+
+    <!-- Question 3: Users can interact by entering their name, email, and password in the respective fields, with real-time feedback via border color changes on focus and error messages for invalid input. They can submit the form using the 'Sign Up Now' button, receiving a success message upon completion. Constraints like required fields and password length ensure valid data, while hover effects on the button guide user actions intuitively. -->
+</body>

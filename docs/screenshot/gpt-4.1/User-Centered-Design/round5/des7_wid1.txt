@@ -1,0 +1,11 @@
+Question 1:
+    The widget has a white, rounded rectangular card with a subtle shadow at the top center of the viewport (20px from top). It uses clear black/gray text on a white background for high contrast, with yellow stars for ratings (active stars in #FFD600, inactive in gray). A prominent average rating is shown in large font, followed by a horizontal star rating and review count. Below, a breakdown presents horizontal yellow bars representing the percent of each rating (5–1 stars), each labeled and followed by the count. At the bottom, a bold blue button ("Add Your Rating") invites input, providing feedback with focus and hover effects. The layout is compact, visually separated, and legible, supporting fast scan and interaction.
+
+    Question 2:
+    This widget appears automatically at the top of e-commerce product pages, ensuring users have immediate visibility of key reputation information for the item. It does not require any prior interaction, as its role is to promote trust and collect further reviews.
+
+    Question 3:
+    Users can visually scan the average rating, read review counts, and inspect the breakdown of each rating level. They can click or keyboard-focus the "Add Your Rating" button, which would trigger the site’s review form (integration needed). On hover or focus, a tooltip encourages users to share their experience. The layout is responsive and accessible but constrains function to display and rating input, preventing accidental or unauthorized edits.
+
+  -->
+</body>

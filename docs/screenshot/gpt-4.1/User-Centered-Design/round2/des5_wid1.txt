@@ -1,0 +1,10 @@
+4.1 Question 1:
+The product filter panel appears as a white, rounded rectangle with subtle shadow at the very top of the viewport, spaced 20px down. It has horizontally aligned, highly visible filter controls: dropdowns for Category, Brand, and Rating, plus two number fields for price range, and two clear, prominent buttons ("Apply Filters" in blue, "Clear All" as a link). The panel is roughly 760–980px wide (responsive), with generous spacing between controls, subtle colors (#2665d1 blue, #49547a label, gentle backgrounds) for consistency and clarity. Elements are sized for comfortable clicking and readability, which supports usability and affordance.
+
+4.2 Question 2:
+The widget is persistently visible, fixed to the top of the viewport (beneath any site header), so users can instantly access filtering options without extra clicks. This maximizes efficiency, discoverability, and control over product browsing. No user-trigger is required to reveal it—it's always available while viewing products.
+
+4.3 Question 3:
+Users can select a category, brand, and rating via dropdowns, and define a price range via two number inputs (with validation/constraints for correct ranges). Clicking "Apply Filters" submits the selections, providing immediate feedback below the controls about applied filters; clicking "Clear All" resets filters and provides confirmation. Input fields highlight on focus. Disabled states and validations prevent impossible actions (e.g., price "from" > "to"). The UI supports both mouse and keyboard navigation for accessibility.
+
+-->

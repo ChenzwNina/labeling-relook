@@ -1,0 +1,15 @@
+Question 1: 
+  The widget features a bright, modern gradient (yellow to orange) with a card-like shadow for prominence. All elements are horizontally aligned in a row: a product-themed image on the left, prominent bold orange title, smaller descriptive text, an animated countdown timer in a contrasting orange for urgency, and a vivid "Shop Now" button on the right. Elements use generous padding, medium-large font sizes, and rounded corners for approachability. Mobile responsiveness keeps layout compact and legible. The warm palette and clear visual hierarchy draw user attention immediately, in line with real ecommerce banners.
+
+  Question 2:
+  The widget appears automatically at the top of the viewport as soon as a user lands on any page where deals are promoted (e.g., homepage, category, or deals page). Its persistent positioning and 20px top margin ensure high visibility without obscuring other navigation elements.
+
+  Question 3:
+  Users can:
+  - See current deals, including discount details and time left (countdown auto-updates live).
+  - Click the “Shop Now” button to be redirected to the deals section (intended functionality).
+  - Experience visual constraints: button is disabled (greyed out) when the deal timer ends, preventing expired deal clicks.
+  - On all devices, user affordances and feedback are clear via visual cues, timer updates, and consistent interactive design.
+
+  -->
+</body>

@@ -1,0 +1,9 @@
+Question 1:
+    The widget is a compact, card-style sign-up form with a white background, rounded corners, and subtle drop shadow, resembling contemporary e-commerce UI. At the top, a 42px rounded image appears next to the bold “Sign Up for ShopPrime Membership” headline. Below, a lightly colored section lists benefits as a bulleted list with icons. The form fields (Name, Email, Password) are large, rounded, and use subtle focus highlights for clarity. The primary “Join Now” button is bold with a blue/teal gradient. Text feedback shows inline for errors. The overall look is inviting, focused, and modern, to feel trustworthy and frictionless.
+
+    Question 2:
+    This widget is meant to be always visible at the top of the viewport with a 20px margin from the top as a prominent call-to-action for membership. It could be set to display on a landing page, pricing page, or via modal as part of the onboarding funnel.
+
+    Question 3:
+    Users interact by filling Name, Email, and Password. Immediate validation feedback appears if a field is invalid. The “Join Now” button only activates when all fields are valid (constraints). On submit, the button and fields give clear feedback: progress indication, alerts for completion, and form reset. If the user is already a member, they can select the “Sign In” link.
+    -->

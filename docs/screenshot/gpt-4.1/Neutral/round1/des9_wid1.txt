@@ -1,0 +1,9 @@
+Question 1: 
+The widget is a compact, card-style panel (430px max-width) with a clean white background and subtle shadow for prominence. A prominent blue accent is used for selected shipping methods, with clear radio buttons and checkboxes for selection. Each shipping option is framed within rounded, light-blue highlighted containers on selection, echoing modern e-commerce UX patterns. Add-ons are visually separated by a line, each with a thumbnail, name, and gold-highlighted price for priority. The "Proceed to Payment" button uses branded blue for attention. The design is clean, familiar, touch-friendly, and visually grouped.
+
+Question 2: 
+This widget appears at the checkout or cart stage—specifically when users are required to select their shipping method before payment. It displays immediately so users can review and choose shipping and add-on preferences prior to completing their purchase.
+
+Question 3: 
+Users interact by selecting one shipping method (radio buttons), and can additionally opt in to any number of add-ons (checkboxes). The “Proceed to Payment” button finalizes their choices. The shipping options are clickable for easy selection, and the add-ons each have descriptive labels and thumbnails, improving usability and informing choices.
+-->

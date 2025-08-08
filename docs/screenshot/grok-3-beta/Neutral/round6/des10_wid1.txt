@@ -1,0 +1,6 @@
+Question 1: The membership signup widget features a light gray background (#f8f9fa) for a clean, subtle look, with dark gray text (#343a40) for headings and lighter gray (#6c757d) for descriptions to ensure readability. The centered layout with a prominent blue button (#007bff) draws attention to the call-to-action. The widget spans the full width of the viewport with a subtle shadow for depth. Text sizes (24px for heading, 16px for body) ensure hierarchy and visibility. These choices mimic e-commerce designs by prioritizing clarity and user engagement.
+
+Question 2: This widget appears when a user visits the website for the first time or hasn’t signed up for membership yet. It can also be triggered after a user adds items to their cart to encourage membership benefits like free shipping.
+
+Question 3: Users can interact with the widget by clicking the "Sign Up Now" button to proceed to the registration form. They can also dismiss the widget using the close button (×) in the top-right corner, which hides it temporarily or until the next session, depending on cookie settings.
+***** -->

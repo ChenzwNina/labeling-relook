@@ -1,0 +1,34 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a sleek, full-width banner fixed at the top of the viewport, maintaining a 20px margin from the absolute top edge.
+    **Layout**: It employs flexbox for a responsive arrangement. The main promotional text and a call-to-action (CTA) button are grouped and centered within the available space, while an '×' close button is aligned to the far right. This layout ensures key information and actions are prominent.
+    **Colors**:
+    - Banner Background: A deep navy blue (`#1A254F`) provides a professional, trustworthy backdrop typical of e-commerce sites and ensures high text contrast.
+    - Text: White (`#FFFFFF`) for primary text offers excellent readability. Important phrases like "Weekend Flash Sale!" are highlighted in a vibrant yellow (`#FFDD57`) to attract attention.
+    - CTA Button: A bright coral-red (`#FF6B6B`) makes the "Explore Deals" button stand out, encouraging clicks.
+    - Close Button: A subtle, lighter blue (`#ADC0F0`) that brightens to white on hover, making it visible yet unobtrusive.
+    **Element Sizes**:
+    - Padding: The banner has `12px` vertical and `20px` horizontal padding.
+    - Text: Deal text is approximately `0.95em`, optimized for readability.
+    - CTA Button: `10px 22px` padding, with a `0.9em` font size, balancing prominence with the overall design.
+    - Close Button: The '×' icon is `1.8em`, ensuring it's an easy target.
+    **Design Rationale**: Choices are driven by clarity and user experience: high contrast for readability (Rule 3.1), distinct CTA for action (Rule 3.5), hover states for feedback (Rule 3.2), and a professional aesthetic for trust (Rule 3.7). The layout supports efficient task execution (Rule 3.6) by guiding users to the offer and action. Responsive adjustments ensure consistency across devices (Rule 3.4).
+    *****Response***** -->
+<!-- *****Response*****
+    Question 2: What triggers the appearance of this widget?
+
+    The deals banner is designed to appear automatically as soon as a user loads or navigates to a relevant page on the e-commerce website. It becomes visible as part of the initial page render, without requiring any specific user action like scrolling or clicking. Its fixed position near the top of the viewport (with a 20px top margin) ensures that the current promotions are immediately brought to the user's attention, maximizing visibility for important offers.
+    *****Response***** -->
+<!-- *****Response*****
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users can engage with the deals banner in several ways:
+    1.  **Reading Promotional Information**: The primary interaction is to read and understand the displayed deal, including discount details, eligible products (e.g., "Home Electronics"), and any special conditions like free shipping criteria.
+    2.  **Clicking the Call-to-Action (CTA) Button**: Users can click the "Explore Deals" button. This action is intended to navigate them to a relevant page, such as a dedicated sales collection, a specific product category, or a landing page with more details about the advertised promotion.
+    3.  **Dismissing the Banner**: Users can click the '×' (close) button located on the right side. This action is designed to hide the banner from view, allowing users to remove it if they are not interested or have already noted the information. (The actual hiding mechanism would typically involve JavaScript, but the button and its intent are part of the component's design).
+    4.  **Hovering for Visual Feedback**:
+        *   Hovering over the CTA button changes its background color to a darker shade and applies a subtle upward lift, signaling its interactivity.
+        *   Hovering over the close button increases its opacity and changes its color to white, making it more prominent and indicating it's a clickable element.
+    These interactions ensure the banner is informative, provides clear pathways for action, and respects user control by offering a dismissal option.
+    *****Response***** -->
+</body>

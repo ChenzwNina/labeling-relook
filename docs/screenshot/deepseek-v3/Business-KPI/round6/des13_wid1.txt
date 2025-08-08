@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white container (350px wide) on a light gray background. It uses Google's blue (#4285f4) for the primary button, neutral grays for text (#333, #555, #666), and subtle shadows for depth. Input fields are full-width with 12px padding, and the sign-in button is prominent. These choices create visual hierarchy, ensure readability, and follow common e-commerce design patterns for familiarity.
+
+    Question 2: This widget would typically appear when a user clicks a "Sign In" link in the website header, when attempting to access account-specific features, or during checkout if not logged in. It could also appear as a modal overlay or on a dedicated sign-in page.
+
+    Question 3: Users can: 1) Enter email and password in the form fields, 2) Submit the form by clicking the button or pressing Enter, 3) Click "Create one" to register, or 4) Click "Forgot password" to reset credentials. Form validation ensures required fields are completed before submission. The button provides visual feedback on hover.
+    -->

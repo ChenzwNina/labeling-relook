@@ -1,0 +1,6 @@
+Question 1: The widget uses a clean white background with subtle shadows for elevation, ensuring readability. Gold (#f1c40f) highlights ratings for visibility, while neutral grays and blacks are used for text to maintain a professional look. The layout is centered with a max-width of 1200px for responsiveness. Elements like the rating bars (200px wide) and large average rating (36px) are sized for clarity. These choices create a familiar e-commerce aesthetic, prioritizing user focus on ratings and reviews.
+
+Question 2: This widget appears on a product detail page, triggered when a user navigates to view specific product information. It is positioned near the top (with a 20px margin) to ensure immediate visibility of social proof, influencing purchase decisions early in the user journey.
+
+Question 3: Users can view the average rating, detailed star breakdown, and individual reviews for insights. They can click the "Write a Review" button to submit feedback (disabled if not logged in or haven't purchased, providing constraints). Hover effects on the button offer feedback, enhancing interaction. These actions support quick information access and contribution to community feedback.
+*****Response***** -->

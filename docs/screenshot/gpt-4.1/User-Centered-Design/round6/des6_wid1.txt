@@ -1,0 +1,15 @@
+Question 1:
+  The product widget is a card 370px wide with a white background, rounded corners, and subtle shadow for depth. The product image is large (220x220px) and centered, followed by a prominent product name, SKU, star rating, price (with old price struck through), and actionable buttons ("Add to Cart," and "Wishlist"). Colors: green ("Add to Cart"), red (wishlist, out-of-stock), gold (stars), and plenty of neutral white/gray for clarity. This layout is informed by real e-commerce patterns for high usability and visual hierarchy.
+
+  Question 2:
+  The widget appears as an individual product listing, typically triggered anywhere the site wants to show product details—product listing, search results, or recommendations—at page load. The appearance could be tied to a product being rendered in a list/grid, or on a dedicated product details area.
+
+  Question 3:
+  Users can: 
+    - Click "Add to Cart" (unless out of stock, then button is disabled); instant feedback via button state.
+    - Click "Wishlist" to add/remove from wishlist; button and icon toggle visually and via ARIA feedback.
+    - Review product details (image, name, SKU, rating, price/discount).
+    - See "Out of Stock" message if enabled; cart action is then unavailable (constraint).
+    - All interactive elements have hover, focus, and pressed states for clear feedback and accessibility.
+  -->
+</body>

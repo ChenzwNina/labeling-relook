@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and blue accents (#4285f4). It includes a large search input (16px font) and a prominent search button. The layout is centered with max-width of 800px, ensuring good readability. Filter options appear as rounded pills below the search bar. These choices prioritize usability - high contrast for visibility, ample spacing for touch targets, and familiar patterns from major ecommerce sites to reduce cognitive load.
+
+    Question 2: This search widget would typically appear permanently in the website's header or as the main focus on the homepage. It could also appear in a modal when users click a search icon on mobile devices. The persistent visibility encourages product discovery throughout the browsing experience.
+
+    Question 3: Users can: 1) Type queries in the input field, 2) Submit searches by button click or Enter key, 3) Filter by category by clicking pill buttons (which toggle active states), and 4) On focus, the input field highlights with a blue border. The design provides visual feedback for all interactions through color changes and transitions.
+    -->

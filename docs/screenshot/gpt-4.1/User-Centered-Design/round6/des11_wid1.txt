@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a fixed, centered dialog with a white background, soft box-shadow, and 12px rounded corners, creating a card-like appearance. A membership icon (placeholder) and strong title are at the top, followed by clear, concise text and a bullet list of lost benefits. User choices are presented via radio buttons, with a "Confirm Cancel" (red, strong affordance) and "Keep My Membership" (neutral gray) actions. On successful completion, a green confirmation message appears. The compact, vertically structured layout promotes clarity and quick navigation. Accessible color contrasts and large touch targets ensure usability.
+
+  Question 2:
+  This widget is triggered when a user elects to cancel their membership via a relevant section on their account/dashboard page, such as clicking a "Cancel Membership" button or link. It appears as a modal overlay at the top, drawing user attention.
+
+  Question 3:
+  Users can: view the consequences of cancelling, select a cancellation reason (required, using radio buttons), optionally enter feedback, choose "Keep My Membership" to dismiss/close the widget, or click "Confirm Cancel" (enabled only if a reason is selected) to complete cancellation—resulting in a success message, disabling further actions, and hiding form fields.
+  -->
+</body>

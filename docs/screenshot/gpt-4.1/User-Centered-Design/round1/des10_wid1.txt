@@ -1,0 +1,11 @@
+Question 1: 
+    The widget appears as a compact, centered card with 400px width, 20px top margin, and soft box-shadow. The header uses a blue-to-teal gradient, white text, and a bold membership invitation. Inputs are padded, rounded, and aligned (full name, email, password, accept terms). The prominent "Sign Up Now" button is blue with white text, is disabled until all fields/terms are completed (clear affordance/constraint). Success and error feedback messages use green/red color coding. Layout is clean, touch-friendly, and adapts on mobile. Choices create high clarity, a modern trustworthy look, and functional clarity.
+
+    Question 2: 
+    The component is displayed at the top of the main page or as a modal/dialog when users click "Sign Up," land on membership offers, or when prompted during checkout as a “join to unlock benefits” call-to-action.
+
+    Question 3: 
+    Users can: enter full name, email, password, accept terms (checkbox); the sign-up button enables only when all required criteria are met. On submission, users get immediate success/error feedback. There’s a link to sign in if already a member. All fields offer standard input feedback (focus, errors). 
+
+  -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, minimalist design with a white background and subtle shadow for depth. It uses blue (#4285f4) as the primary action color for the button and links, which is common in e-commerce for trust. Input fields have light gray borders that turn blue when focused. The layout is centered with proper spacing (20px margins between sections) for readability. These choices create a professional, accessible interface that focuses users on the sign-in task without distractions.
+
+    Question 2: This widget would typically appear when users click a "Sign In" link in the website header or when attempting to access account-specific features like order history. It could also appear as a modal overlay when users try to checkout without being logged in, with an option to continue as guest.
+
+    Question 3: Users can: 1) Enter email and password in the input fields (with real-time validation), 2) Submit the form (triggering validation and potential error messages), 3) Click "Create one" to switch to registration, 4) Click "Forgot password" for recovery options, and 5) Close the widget if implemented as a modal. Error messages appear for invalid inputs on submission.
+    -->

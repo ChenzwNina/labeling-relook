@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based design with white background and subtle shadow for depth. It uses a green color (#4CAF50) for active steps and buttons, creating visual hierarchy. The progress tracker uses circular icons connected by a line, with 30px diameter for good visibility. Text sizes range from 12px for labels to 18px for the title. This design ensures clarity, with sufficient contrast and spacing for easy scanning.
+
+    Question 2: The widget appears when a user views their order details after purchase or clicks a "Track Order" link from their account dashboard or order confirmation email. It may also appear as a persistent element in the user account section for active orders.
+
+    Question 3: Users can: 1) View order status through the visual progress tracker, 2) See key details like delivery date and tracking number, 3) Click the "Track Package" button to open carrier tracking, 4) Potentially expand the widget for more details if implemented. The design focuses on presenting information clearly while offering one primary action.
+    -->
+</body>

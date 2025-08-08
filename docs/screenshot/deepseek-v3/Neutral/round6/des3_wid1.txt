@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadows for depth. The search input is prominent with a magnifying glass icon, while filter dropdowns are equally spaced below. The color scheme uses green for the primary action button (contrasting well with white) and neutral grays for secondary elements. Font sizes are hierarchical (24px for title, 16px for input/button, 12-14px for secondary text). This design ensures clarity, visual hierarchy, and mobile responsiveness while maintaining ecommerce conventions users expect.
+
+    Question 2: This search widget would typically appear when a user clicks on the search icon/magnifying glass in the website header. It could also appear automatically when landing on a search results page or be triggered by keyboard shortcuts (like Ctrl+F). The close button allows dismissal.
+
+    Question 3: Users can: 1) Type search queries, 2) Select filters from dropdowns (category, price, sort), 3) Click search button to submit, 4) Click recent search tags to repeat searches, 5) Close the panel. The input supports autocomplete suggestions as they type. Hover states on buttons provide visual feedback. The layout adapts to different screen sizes.
+    -->
+</body>

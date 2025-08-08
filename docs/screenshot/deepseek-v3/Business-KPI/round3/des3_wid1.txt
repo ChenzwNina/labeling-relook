@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and blue accent color (#4285f4) for the search button. The search input is large (16px font) with ample padding for easy typing. The layout includes a prominent search bar with a button and filter dropdowns below. This design prioritizes usability with clear visual hierarchy, sufficient spacing, and intuitive controls that follow ecommerce conventions while maintaining aesthetic appeal.
+
+    Question 2: This search widget would typically appear at the top of every page in the ecommerce site's header/navigation area, remaining persistently visible for easy access. It might also appear expanded on the homepage as a featured search panel or appear when users click a search icon in mobile views.
+
+    Question 3: Users can: 1) Type search queries in the input field, 2) Submit searches by pressing Enter or clicking the button, 3) Filter results by category, price range, and sort order using dropdowns, 4) Clear searches by deleting text. The input field provides autocomplete suggestions as they type, and the button has hover feedback for better interactivity.
+    -->
+</body>

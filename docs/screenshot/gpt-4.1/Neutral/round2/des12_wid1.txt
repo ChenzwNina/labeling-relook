@@ -1,0 +1,6 @@
+Question 1: The widget is a centered white box (380px wide, 32px padding) with a rounded, soft drop shadow. It uses a deep blue (#2563eb) for CTAs and link highlights, with subtle gray text and field backgrounds, echoing modern e-commerce UIs. Labels are clear; input fields are ample and easy to interact with. The title is bold and welcoming. The design conveys trust and usability, key for onboarding in e-commerce.
+
+Question 2: This widget appears when the user selects "Create Account," typically from a registration or account area, or when users try to access features (like tracking orders) that require registration.
+
+Question 3: Users can enter their name, email, and password, submit the form, navigate to the sign-in page if they have an account, and review terms and privacy. Interactive elements highlight on hover and focus. Submission triggers account creation (form handling to be implemented); invalid fields are caught by native validation.
+-->

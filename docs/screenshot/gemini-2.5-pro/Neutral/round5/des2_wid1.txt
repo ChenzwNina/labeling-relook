@@ -1,0 +1,27 @@
+-->
+    <!-- 
+        Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+        The component is a clean, modern, horizontal navigation bar. It has a white background (#ffffff) with rounded corners and a subtle box-shadow, which makes it "float" visually above the page content. The layout is centered horizontally within the viewport. Text for main categories is a dark grey (#333), semi-bold, and 16px for excellent readability. On hover, the link color changes to a standard interactive blue (#007bff). 
+        
+        These design choices prioritize clarity and usability. The neutral color scheme ensures it integrates seamlessly into various e-commerce site designs without clashing. The floating effect and fixed position keep it accessible while distinguishing it as a primary navigation tool. Generous padding around links creates large, easy-to-click targets, improving user experience on both desktop and touch devices.
+    -->
+    <!-- 
+        Question 2: What triggers the appearance of this widget?
+
+        The widget is a core navigational component, so it does not require a user action to be triggered. It is persistently visible from the moment the web page loads. It is styled with `position: fixed` and a `top` value of 20px, meaning it is anchored near the top of the browser's viewport. As the user scrolls down the page, the navigation bar remains in the same position, ensuring that the main product categories are always accessible. This immediate and constant visibility is crucial for helping users navigate the site efficiently without having to scroll back to the top.
+    -->
+    <!-- 
+        Question 3: Can you describe the full range of interactions users can have with the widget?
+
+        Users can interact with the widget in several ways:
+
+        1.  **Hovering:** When a user's mouse pointer moves over a main category link, the link's text color changes to blue, providing immediate visual feedback that it is an interactive element. For categories with sub-menus (indicated by a small arrow), hovering over the parent item also triggers a dropdown menu to appear smoothly below it.
+
+        2.  **Dropdown Navigation:** Within an open dropdown menu, hovering over each sub-category link highlights its background in light gray, indicating the current selection before clicking.
+
+        3.  **Clicking:** Clicking on any link—whether a main category or a sub-category in a dropdown—will navigate the user to the corresponding product listing page.
+
+        4.  **Exiting:** When the mouse pointer moves away from a category or its open dropdown menu, the menu disappears, and the link returns to its default state, decluttering the view.
+    -->
+</body>

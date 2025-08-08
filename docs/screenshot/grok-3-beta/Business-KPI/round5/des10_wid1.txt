@@ -1,0 +1,6 @@
+Question 1: The widget features a vibrant gradient background transitioning from coral (#ff6f61) to peach (#ffb88c), creating a warm, inviting look to grab attention. The layout is centered with a max-width of 800px for readability, using white text for contrast. The heading is large (2.2em) for emphasis, inputs are wide (300px) for ease of use, and the CTA button is bold with hover effects (scale transform) to encourage clicks. These choices are made to maximize visibility, user engagement, and conversion by creating an attractive, urgent call-to-action.
+
+Question 2: This widget appears at the top of the homepage for all non-logged-in users or those without a membership. It can also be triggered as a pop-up after a user spends a certain amount of time on the site (e.g., 30 seconds) or when they attempt to exit the page (exit-intent trigger) to capture potential sign-ups and reduce bounce rate.
+
+Question 3: Users can interact by entering their name and email in the input fields, submitting the form via the "Sign Up Now" button, and viewing membership benefits. Hover effects on the button provide feedback, while form validation ensures correct input, enhancing user experience and reducing cart abandonment through incentives.
+***** -->

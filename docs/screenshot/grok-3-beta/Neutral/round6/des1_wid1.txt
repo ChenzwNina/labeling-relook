@@ -1,0 +1,6 @@
+-->
+<!-- Question 1: The deals banner is positioned at the top with a 20px margin, spanning the full width of the viewport for maximum visibility. It features a gradient background transitioning from coral (#ff6f61) to light orange (#ffb88c) to evoke urgency and excitement, common in e-commerce sales. The text is white for contrast, with a bold 1.5rem font for the deal message to grab attention, a 1.2rem timer for urgency, and a white "Shop Now" button with coral text for a cohesive look. The centered flex layout ensures balance and responsiveness. These choices mimic real-world e-commerce banners that prioritize visibility and action. -->
+
+<!-- Question 2: The banner appears on page load, typically triggered by a promotional event like a flash sale or seasonal discount. It could also be dynamically shown based on user behavior (e.g., returning visitors) or time-sensitive campaigns managed via a backend system, ensuring relevance to current offers. -->
+
+<!-- Question 3: Users can interact with the banner by clicking the "Shop Now" button, which would redirect them to the sale page or product category. Hovering over the button provides visual feedback with a subtle background color change. There are no other direct interactions, as the banner’s purpose is to inform and drive traffic to deals. -->

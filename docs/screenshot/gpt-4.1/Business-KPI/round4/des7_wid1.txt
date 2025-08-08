@@ -1,0 +1,7 @@
+4.1: The widget features a clean white card with rounded corners, box-shadow, and subtle blue/orange brand accents. It has a bold, large average rating, bright gold stars (with a gradient for partial stars), review count, and a prominent orange "Write a Review" button. On the right, a detailed bar breakdown visualizes the distribution of star ratings with yellow bars and count labels. The "See all reviews" link urges exploration. The structure balances visual scannability and click incentives, with high-contrast CTAs and a mobile-responsive layout, chosen to optimize trust, engagement, and actionable clicks, thereby maximizing sales and conversions while reducing abandonment and bounce.
+
+  4.2: This widget appears at the top of product detail pages, visible as soon as a user lands. It is sticky when scrolling so ratings data and actionable review features are always in sight during consideration or shopping, increasing confidence and encouraging engagement at key decision points.
+
+  4.3: Users can read the average rating, see the breakdown, and click the "See all reviews" link to access all customer reviews (and filter by number of stars). They can also click the "Write a Review" button to leave their own feedback. Both interaction points encourage product research, community contribution, site stickiness, and trust–boosting conversion, while the sticky position ensures users are always aware of a product’s perceived value.
+  -->
+</body>

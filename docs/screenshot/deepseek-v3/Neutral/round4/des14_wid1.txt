@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design with white background and subtle shadows for depth. I used a progress stepper with green for completed steps and blue for the active step, creating clear visual hierarchy. The layout is organized vertically with proper spacing, making it easy to scan. These choices enhance usability - colors indicate status at a glance, while the vertical flow matches the chronological order of shipping steps.
+
+    Question 2: This widget appears when a user clicks "Track Order" from their account page or order confirmation email. It could also appear automatically after checkout with a "Track your order" call-to-action, or when visiting a tracking link from a shipping notification.
+
+    Question 3: Users can: 1) View their order status and progress through shipping stages, 2) See detailed shipping information, 3) Click "Track Package" to open carrier tracking, 4) Contact support via the secondary button. The widget is primarily informational but provides clear action points for common needs during order fulfillment.
+    -->
+</body>

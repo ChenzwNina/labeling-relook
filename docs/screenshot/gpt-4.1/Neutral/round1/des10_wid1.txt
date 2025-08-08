@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a card-like pop-up with a white background, soft drop-shadow, and rounded corners to convey clarity and modernity. At the top, there is a circular logo placeholder. The title uses bold, dark blue text for visibility, while the description is lighter and smaller for subtlety. The input fields are wide with gentle borders and background shade. The sign-up button is bright blue, echoing established e-commerce design trends for primary actions, and reacts on hover for interactivity. Key membership benefits are listed for scannability with a highlighted title, and light grey terms text balances emphasis. The layout is vertically aligned and center-justified for easy reading and accessibility. 
+
+  Question 2:
+  This widget is designed to appear at the top of the viewport (with a 20-pixel margin) to immediately catch a visitor’s attention when they enter the site or land on a relevant page, such as the homepage or after browsing a few products—usually triggered on first visit, after a delay, or for non-logged-in users.
+
+  Question 3:
+  Users can interact with the widget by entering their name, email, and password, then clicking "Sign Up for Free." Input fields validate for completeness (with “required”). They can also follow the link to view terms of service. Links and buttons highlight on hover, and users can scroll on smaller screens for full access. The only primary action is submitting the sign-up form.
+  -->
+</body>

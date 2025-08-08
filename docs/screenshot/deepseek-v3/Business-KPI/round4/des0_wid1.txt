@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, card-based layout with a white background and subtle shadows for depth. Product cards are 250px wide with consistent image heights (200px). I used a green color (#2a7f62) for prices and buttons to suggest eco-friendliness and positive action. The design is minimalist to keep focus on products, with hover effects for interactivity. The responsive grid ensures good display on all devices.
+
+    Question 2: This widget would typically appear on the homepage or landing pages of an ecommerce site. It could be triggered by page load, or dynamically appear when a user shows interest in certain product categories. Some sites might show it after a user returns from browsing specific products.
+
+    Question 3: Users can: 1) Hover over cards to see elevation effect, 2) Click product images/titles to view details, 3) Click "Add to Cart" buttons to purchase, 4) On mobile, tap elements for the same interactions. The grid layout would adapt to different screen sizes, and with more implementation, could include swipe gestures on mobile.
+    -->

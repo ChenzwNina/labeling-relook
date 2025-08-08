@@ -1,0 +1,6 @@
+4.1: The widget is a wide, horizontally-oriented component with a white background, rounded corners, and a subtle shadow for prominence. At the left, a large, bold average rating (4.7) sits atop five yellow stars and the total review count. To the right, the breakdown of 1-5 star ratings uses horizontal progress bars in gold/yellow for quick visual insight, with accompanying counts. Strong color contrast, clear visual hierarchy, and interactive buttons (yellow CTA, blue links) are chosen to maximize trust, engagement, and ease of use, directly supporting sales, conversion, and retention.
+
+4.2: The widget is always visible at the top of product detail pages, appearing as soon as the page loads. This supports trust and conversion by allowing customers to instantly evaluate product credibility and drives engagement with ratings/reviews.
+
+4.3: Users can click "Rate this product" to submit their own review (typically opening a form or modal), boosting content and engagement. "See all customer reviews" links to the full reviews section, increasing session time/page views. Users interpret visual feedback via the ratings breakdown to inform their decision. The component is both informative and actionable.
+-->

@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The sign-in widget features a clean, minimalistic design with a white background and subtle shadow for elevation, mimicking modern e-commerce aesthetics. It uses a calming blue (#007BFF) for buttons and links to evoke trust and encourage interaction. The form is centered with a fixed width of 350px for readability, and input fields have a soft border with a focus effect for accessibility. Text sizes are hierarchical (24px for title, 16px for inputs) to guide users naturally. These choices ensure a user-friendly, professional look aligned with e-commerce standards. -->
+
+    <!-- Question 2: The widget appears when a user navigates to the sign-in page of the ShopSmart website, typically triggered by clicking a "Sign In" link in the header or attempting to access account-specific features like order history or checkout without being logged in. It may also appear as a modal during certain actions if integrated dynamically. -->
+
+    <!-- Question 3: Users can interact with the widget by entering their email and password in the respective fields, clicking the "Sign In" button to authenticate, selecting "Forgot Password?" to reset credentials, or clicking "Create an Account" to register. Inputs provide visual feedback on focus, and hover effects on buttons/links enhance usability. If integrated with validation, error messages may appear for incorrect credentials. -->
+</body>

@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The shopping cart widget has a clean, modern design with a white background, subtle shadows for depth, and a fixed position at the top-right (20px from top). It uses green (#2ecc71) for positive actions like checkout and toggle button, and red (#e74c3c) for removal, ensuring high visibility. Elements like item images (50x50px) and buttons are consistently sized for clarity. The layout is compact (350px wide) with a scrollable overflow for multiple items, prioritizing usability and minimal screen obstruction. These choices enhance feedback and consistency. -->
+
+    <!-- Question 2: The widget appears when the user clicks the "View Cart" toggle button, which is always visible at the top-right corner. This button also displays the current item count (e.g., "View Cart (3)"), providing immediate feedback on cart status and triggering the cart dropdown. -->
+
+    <!-- Question 3: Users can interact with the widget by clicking the toggle button to open/close the cart, viewing item details (image, name, quantity, price), removing items via the "Remove" button with hover feedback, and proceeding to checkout with the prominent green button. Hover effects on buttons enhance affordances, while the fixed position and clear layout support efficient task execution. -->
+</body>

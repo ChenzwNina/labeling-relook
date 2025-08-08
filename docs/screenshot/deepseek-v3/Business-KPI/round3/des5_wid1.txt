@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, white panel (280px wide) with subtle shadows for depth. It uses a blue color (#0066cc) for interactive elements like the reset button and apply button. Text is in dark gray (#333) for headings and lighter gray (#555) for options. The layout is organized into clear sections with proper spacing (20px margins). These design choices enhance usability - the white background improves readability, the blue highlights actions, and the spacing prevents visual clutter.
+
+    Question 2: This filter panel would typically appear as a persistent sidebar on category/product listing pages in an ecommerce site. It's always visible to help users refine their product searches without needing to trigger its appearance. For mobile views, it might be hidden behind a "Filter" button that toggles its visibility.
+
+    Question 3: Users can: 1) Select/deselect checkboxes to filter by category, brand, or rating, 2) Set price ranges via number inputs, 3) Reset all filters with the "Reset All" button, and 4) Apply their selections with the "Apply Filters" button. The panel provides immediate visual feedback as options are selected/deselected.
+    -->
+</body>

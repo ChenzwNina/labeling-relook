@@ -1,0 +1,23 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The filter panel is a vertical rectangle (320px wide) with rounded corners, positioned on the top-left of the screen. It has a subtle shadow, making it appear layered on top of the main page content. The layout is structured into three distinct parts: a fixed header with the title "Filters" and a "Clear All" button, a central scrollable body containing the filter options, and a fixed footer with a prominent "Apply Filters" button.
+
+The color scheme is clean and professional: a white background (#ffffff) ensures high contrast and readability. Most text is a dark gray (#333), while the primary action color is a vibrant blue (#007aff), used for active links, buttons, and checkbox accents. This blue draws the user's attention to key interactive elements. Sizes and colors are represented visually with buttons and circular swatches, which are more intuitive than simple text lists. These design choices aim to create a modern, user-friendly, and trustworthy interface that is common in leading e-commerce sites, prioritizing clarity and ease of use.
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this filter panel is typically triggered by a direct user action on a product listing page. The most common trigger is the user clicking a button labeled "Filter" or an icon representing filters (often a funnel or slider icon), which is usually located near the top of the product grid. On wider screens, such as desktops, this panel might also be persistently visible on the left-hand side of the page, without needing a specific trigger to appear. For mobile views or cleaner desktop layouts, the on-demand appearance via a button click is standard practice to conserve screen space until the user explicitly needs to refine their product search.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a comprehensive set of interactions designed for efficient product filtering. They can:
+1.  **Select a Category:** Click on a single product category (e.g., "Jeans") from a list of links.
+2.  **Select Multiple Brands:** Check or uncheck boxes next to brand names to include products from multiple brands in their search.
+3.  **Choose Colors:** Click on color swatches to toggle them as active filters. Multiple colors can be selected.
+4.  **Pick Sizes:** Click on size buttons (e.g., "S", "M", "L") to toggle size selections.
+5.  **Set a Price Range:** Type minimum and maximum values into dedicated input fields to define a specific price bracket.
+6.  **Apply Filters:** Click the main "Apply Filters" button in the footer, which updates the product list based on all chosen criteria.
+7.  **Clear Filters:** Click the "Clear All" link in the header to instantly reset all selected filters to their default state.
+8.  **Scroll:** If the list of filter options is long, the user can scroll within the central body of the panel to access all available choices.
+*****Response*****-->
+</body>

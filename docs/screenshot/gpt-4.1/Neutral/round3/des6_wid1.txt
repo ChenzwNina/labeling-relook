@@ -1,0 +1,10 @@
+Question 1: 
+  The widget is a card-shaped product component, 360px wide, with rounded corners, a slight shadow, and a white background. It includes a 220x220px product image at the top, followed by the product title in bold, a concise description, the current (green) and old (gray, strikethrough) prices, a large orange-yellow “Add to Cart” button, and a star-based rating with review count. The layout is vertically stacked and well-spaced for readability, using e-commerce brand colors and a modern font for professionalism and trust.
+
+  Question 2: 
+  This widget is intended to be displayed whenever an individual product needs to be showcased, such as in a product listing page, a featured products widget, or a product quick-view popup/modal.
+
+  Question 3: 
+  Users can click the “Add to Cart” button to add the product to their cart. They can review the image, read the title and short description, view pricing (and any discount), and see ratings with the review count. Optional: If integrated into a site with modal or zoom functionality, the image or full card could be made clickable for further detail.
+  -->
+</body>

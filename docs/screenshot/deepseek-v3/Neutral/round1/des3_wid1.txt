@@ -1,0 +1,5 @@
+Question 1: The widget features a clean, modern design with a white background and blue accents (#4285f4). It has a large search input (16px font) with a prominent search button, category filter buttons in pill shapes, and recent search tags. The layout is organized vertically with clear visual hierarchy. These choices improve usability - high contrast for readability, sufficient spacing for touch targets, and familiar patterns for intuitive interaction.
+
+    Question 2: The widget would typically appear when a user clicks on the search icon in the website header or presses a keyboard shortcut (like Ctrl+K). The close button in the top-right suggests it's a modal overlay that appears over page content.
+
+    Question 3: Users can: 1) Type search queries, 2) Click search button or press Enter to submit, 3) Filter by category by clicking pill buttons (active state shown), 4) Click recent search tags to repeat searches, and 5) Close the panel with the X button. The design supports both mouse and keyboard navigation.

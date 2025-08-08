@@ -1,0 +1,5 @@
+-->
+    <!-- Question 1: The widget has a clean, modern design with a white background and subtle shadow for elevation. It uses a green (#28a745) progress bar for active steps and gray (#ccc) for inactive ones, ensuring high visibility. Text uses a hierarchy with darker shades (#333) for emphasis and lighter (#666) for labels. The layout is centered with a max-width of 800px for readability, and elements like buttons and progress bars are sized for easy interaction. These choices enhance clarity, accessibility, and align with e-commerce aesthetics for trust and familiarity. -->
+    <!-- Question 2: The widget appears when a user logs into their account and has an active order, or when they click on a tracking link in an email or order confirmation page. It remains fixed at the top for quick access until dismissed. -->
+    <!-- Question 3: Users can view detailed order information (date, status, address), track progress via a visual bar, close the widget using the '×' button, view full order details with the primary button, or contact support via the secondary button. Hover effects on buttons provide feedback, ensuring intuitive interaction. -->
+</body>

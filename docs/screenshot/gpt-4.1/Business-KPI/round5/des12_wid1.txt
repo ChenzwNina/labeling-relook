@@ -1,0 +1,7 @@
+4.1: The widget is a card with a soft white background, rounded corners, and a subtle drop shadow for a premium feel. Key brand colors are blue (#267df5), accented with soft blue gradients and interactive color feedbacks; highlight buttons for Google (red) and Facebook (blue) signups. The form is compact (370px width), fields and calls-to-action are large and touch-friendly, text is clear with larger font for conversion. Benefits are listed to highlight value, motivating sign-ups.
+
+  4.2: This widget appears when a user selects "Create Account" from the main navigation, or is prompted at checkout if not already signed in. It can also be triggered from promotional banners encouraging saving more with an account.
+
+  4.3: Users can: Sign up using Google or Facebook; fill the form with name, email, password and confirm password; hit "Create my account" to submit; see error feedback (not shown here); click "Sign In" to switch to login if they have an account; view the value/benefits of creating an account; all interactions are designed for fast, frictionless onboarding to minimize abandonment and maximize new user conversion.
+  -->
+</body>

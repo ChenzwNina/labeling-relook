@@ -1,0 +1,11 @@
+Question 1: 
+  The widget features a clean card-style design with a white background, soft rounded corners, and subtle shadow for elevation. Headings are in deep blue (#253858 or #42526E) for readability and brand feel, with accent blue (#2166ef) highlighting prices and selected states. Each shipping/add-on option sits in a light background card with hover/selected borders. Options align left, with prices bolded to the right. Spacing and font sizes ensure accessibility, with section titles standing out for intuitive scanning. This style reflects modern e-commerce UX standards—efficient, focused, and approachable.
+
+  Question 2:
+  This widget appears at the shipping step of the checkout process, typically after the customer has reviewed their cart and provided shipping details. It prompts users to select their preferred shipping speed and lets them add optional services.
+
+  Question 3:
+  Users can select one of three mutually exclusive shipping options by clicking the radio buttons—each highlights when selected. They can also select any combination of the three add-ons (gift wrap, insurance, Saturday delivery) by checking checkboxes, with the add-on card visibly responding to selection. All interactions use standard HTML input elements for accessibility, with immediate UI feedback on selection.
+
+  -->
+</body>

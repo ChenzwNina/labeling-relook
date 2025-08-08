@@ -1,0 +1,35 @@
+Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a full-width banner that adheres 20px from the top of the viewport upon scrolling. It features a warm, soft beige background (`#FAF7F2`), conveying an inviting and premium feel. A prominent, dark blue-grey (`#2C3E50`) heading announces the "Featured Collection." Below, up to four product cards are arranged horizontally, centered within a spacious product grid. This grid uses flexbox for layout, allowing cards to wrap gracefully on smaller screens.
+
+    Individual product cards are white (`#FFFFFF`) with smooth rounded corners (12px) and a subtle shadow, offering a clean, modern aesthetic. Product images are generously sized (230px high) and use `object-fit: cover` to ensure visual appeal. Product titles share the heading's sophisticated dark blue-grey. Prices are bold and clear; sale prices are emphasized in a striking red (`#E74C3C`), with the original price shown in a muted grey, clearly communicating value. Call-to-action (CTA) buttons are a distinct, trustworthy blue (`#3498DB`) with ample padding for easy interaction. Badges like "New Arrival" (green), "Limited Stock" (orange), and "Bestseller" (red) employ vibrant, easily recognizable colors to quickly convey status or urgency.
+
+    These design choices are strategically made to maximize sales and key e-commerce metrics (Rules 3.1-3.9) by:
+    1.  **Enhancing Visual Appeal & Trust:** High-quality presentation, pleasing color palette, and clear information hierarchy build user confidence.
+    2.  **Driving Conversions:** Prominent CTAs, clear value propositions (sales, badges), and an easy-to-navigate layout encourage clicks and purchases.
+    3.  **Optimizing User Experience:** Responsive design, readable typography, and interactive hover effects ensure usability across devices and keep users engaged.
+    The overall design aims for a balance of elegance and effectiveness, encouraging product discovery and facilitating conversions.
+    *****Response***** -->
+<!-- *****Response*****
+    Question 4.2: What triggers the appearance of this widget?
+
+    The "Featured Products" banner is designed as an intrinsic and highly visible element of key e-commerce pages. Its appearance is triggered automatically upon the loading of these pages, such as:
+    1.  **The Homepage:** To immediately present top or strategic products to every visitor.
+    2.  **Main Category Pages:** To highlight bestsellers or new items within specific product categories.
+    3.  **Targeted Landing Pages:** Used in conjunction with marketing campaigns to spotlight promoted items.
+
+    No specific user action, like a click or mouse hover, is required for its initial display. The component uses CSS `position: sticky; top: 20px;`, meaning it initially occupies its place in the page's document flow. As the user scrolls down, and the component's original position reaches 20px from the top of the viewport, it "sticks" there. This ensures continuous visibility of the featured products, keeping these key items in the user's view as they explore further content (Rules 3.1, 3.5, 3.7), acting as a persistent but non-intrusive call to explore.
+    *****Response***** -->
+<!-- *****Response*****
+    Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+    Users can engage with the "Featured Products" banner through several intuitive interactions, all designed to facilitate product discovery and progression towards a purchase:
+
+    1.  **Visual Exploration:** Users can scan the product images, titles, prices, and promotional badges (e.g., "New Arrival," "Limited Stock," "Bestseller"). This allows for a quick overview and initial assessment of the featured offerings.
+    2.  **Hover Feedback (Desktop):** On desktop, hovering the cursor over a product card triggers a visual response – the card lifts slightly and its shadow becomes more pronounced. This provides immediate feedback, signals interactivity, and draws focus to the selected item.
+    3.  **Navigation to Product Details:** Clicking on a product's image or its title navigates the user directly to that specific product's detail page. Here, they can access comprehensive information, view more images, choose product variants (size, color), and read customer reviews.
+    4.  **Engaging with Call-to-Action (CTA) Buttons:** Each product card includes a clear CTA button (e.g., "View Details," "Shop Now"). Clicking these buttons also directs the user to the corresponding product detail page, offering an explicit path to learn more or purchase.
+    5.  **Interpreting Badges:** The visually distinct badges provide at-a-glance information about product status (newness, popularity) or availability (limited stock), influencing user perception and potentially creating urgency or reinforcing interest.
+
+    These interactions are structured to be seamless and user-friendly, guiding users from initial awareness in the banner to deeper engagement on product pages, thereby supporting goals like increased page views, conversion rates, and reduced bounce rates (Rules 3.2, 3.6, 3.9).
+    *****Response***** -->

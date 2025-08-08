@@ -1,0 +1,14 @@
+Question 1:
+    The widget consists of a white, softly rounded container with a subtle shadow for elevation, positioned 20px from the viewport top. Inside is a bold section title and a right-aligned sorting dropdown. Products are displayed in a responsive grid (4 columns on large screens, less on smaller devices). Each product card features a vivid product image, clear title, concise description, price in blue, stock badge (green for in-stock, red for out), and a highly visible “Add to Cart” button (blue, disabled when out of stock). A small feedback notification appears above the card when a product is added to the cart. The design uses cool tones and plenty of whitespace for clarity and approachability.
+
+    Question 2:
+    This widget appears by default at the top of the e-commerce catalog or homepage. It is meant to be always visible (not triggered by user action), serving as a primary means of product exploration and selection.
+
+    Question 3:
+    Users can: 
+    - Use the sort dropdown to reorder products (though only UI is shown here).
+    - Read product images, names, features, prices, and stock status.
+    - Click/focus on “Add to Cart” (if in stock), receiving instant feedback. If the item is out of stock, the button is disabled and cannot be clicked, providing a clear constraint. Visual highlight/feedback on focus/hover supports accessibility and efficiency.
+
+    -->
+</body>

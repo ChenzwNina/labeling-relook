@@ -1,0 +1,6 @@
+Question 1: The filter panel is a fixed, vertical sidebar on the left, 250px wide, with a white background and subtle shadow for depth. It uses a clean color scheme with blue (#007bff) for interactive elements (hover effects, selected states, and the apply button) to indicate actionability. Text is in shades of gray for hierarchy, with bolding on selected options for feedback. The layout is organized into collapsible categories with checkboxes and a price slider for intuitive filtering. These choices ensure visibility, consistency, and a modern e-commerce aesthetic that guides users efficiently.
+
+Question 2: The widget appears automatically when a user navigates to a product listing page on the e-commerce site. It remains fixed at the top (20px margin) and left of the viewport, ensuring constant access to filtering options while browsing products.
+
+Question 3: Users can interact by clicking category headers to collapse/expand sections, checking/unchecking options for categories and brands, adjusting the price range slider, and clicking the "Apply Filters" button to update the product list. Hover effects and color changes provide feedback, while the fixed position and clear labels support efficient task completion.
+***** -->

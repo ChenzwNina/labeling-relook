@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation, ensuring high visibility. It uses a blue color scheme (#007bff) for interactive elements like the submit button and links, providing consistency and clear affordances. Input fields have a soft border with focus states (blue outline) for feedback. The layout is centered, with a max-width of 400px for readability, and elements are spaced (15px gaps) for clarity. These choices enhance user focus, accessibility, and a professional e-commerce aesthetic. -->
+
+    <!-- Question 2: This widget appears when a user clicks on a "Sign Up" or "Create Account" link, typically located in the header or during checkout on the e-commerce website. It may also be triggered as a modal or dedicated page when a user attempts to access account-specific features without being logged in. -->
+
+    <!-- Question 3: Users can interact with the widget by entering their full name, email, and password in the respective fields, with real-time feedback via error messages for invalid inputs. They can click the "Create Account" button to submit (disabled if inputs are invalid), and hover states on the button provide visual cues. Users can also click on links to view Terms of Service or Privacy Policy for more information. -->
+</body>

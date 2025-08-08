@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation. It uses a blue (#007BFF) signup button for high visibility and contrast, with hover effects for feedback. Text inputs are wide and have rounded borders for ease of use, with error messages in red (#dc3545) and success messages in green (#28a745). The layout is centered for focus, with a max-width form for readability. These choices enhance usability, consistency, and a professional e-commerce look. -->
+
+    <!-- Question 2: The widget appears at the top of the viewport with a 20px margin, likely triggered when a user visits the membership page or as a promotional banner during a special campaign. It could also appear for non-members after login or during checkout to encourage sign-ups. -->
+
+    <!-- Question 3: Users can interact by entering their name, email, and password in the form fields, receiving real-time validation feedback with error messages. They can click the signup button when enabled, triggering a success message. Constraints prevent submission until valid input, and hover effects on the button provide visual cues for interactivity. -->
+</body>

@@ -1,0 +1,7 @@
+Question 1: The deals banner appears as a wide, fixed component near the top of the screen with a bright orange-yellow gradient background for high visibility and warm energy. It has a strong drop shadow, rounded corners, and a clean, modern layout. To the left is an image representing deals, flanked by bold titles and a countdown for urgency. Primary action and dismiss buttons are large and accessible, maintaining consistent color, spacing, and feedback on hover/focus/active. The design choices maximize user attention, clarity, and ease of use.
+
+  Question 2: This widget appears automatically on page load (e.g., site visit, homepage, or special event) to immediately inform users of current deals. It's positioned at the top for maximum visibility but can be manually dismissed.
+
+  Question 3: Users can (a) click “Shop Now” which takes them directly to the deals page, (b) read details about the deals including a timer, and (c) dismiss the banner to hide it. Button states (focus, hover, disabled) give clear feedback. The call-to-action is always enabled unless constrained (e.g., time-out), and affordances (clickable/button visuals) are clear. The dismiss button is always available to close the banner manually.
+  -->
+</body>

@@ -1,0 +1,23 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The banner has a modern, clean aesthetic. It features a deep navy blue background (#1a253c) with crisp white text, ensuring high contrast and readability. The layout is a centered, horizontal flexbox that places the promotional text on the left and a prominent call-to-action (CTA) button on the right. The CTA button is a vibrant orange (#ff7b00) to draw the user's eye and encourage clicks. Elements are generously spaced with rounded corners on the banner and button for a soft, friendly feel. A subtle 'X' icon is placed in the top-right corner for dismissal.
+
+These choices were made for clarity and effectiveness. The professional color scheme builds trust, while the high-contrast CTA and clear, concise text make the banner's purpose instantly understandable, supporting efficient task execution without overwhelming the user. The layout adapts to a vertical stack on smaller screens for optimal mobile viewing.
+*****Response*****
+Question 2: What triggers the appearance of this widget?
+
+The appearance of this promotional banner is typically triggered by a page load event. It would appear automatically as soon as a user navigates to a relevant page on the e-commerce site, such as the homepage, a category landing page, or any other strategic entry point where the promotion is applicable. The goal is to present the offer to the user immediately upon their arrival, maximizing its visibility without requiring any user action. In a real-world implementation, its appearance might be further controlled by business logic, such as showing it only to new visitors or during specific campaign periods, managed via session cookies or user account status.
+*****Response*****
+Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three primary interactions with the banner, designed to be simple and intuitive:
+
+1.  **Engage with the offer:** The main intended action is clicking the "Shop Deals" button. This is the primary call-to-action and would navigate the user directly to a page displaying all the products included in the promotion, allowing them to efficiently act on the offer.
+
+2.  **Dismiss the banner:** If the user is not interested, they can click the 'X' icon in the top-right corner. This action would permanently close the banner for the duration of their session, respecting their focus and preventing it from becoming an annoyance. This provides a clear escape hatch.
+
+3.  **Ignore the banner:** The banner is not a modal and does not block the main content. Users can choose to simply ignore it and continue scrolling and interacting with the rest of the page.
+
+Hovering over the "Shop Deals" button or the 'X' icon provides visual feedback (color change, slight lift effect) to confirm they are interactive elements.
+-->
+</body>

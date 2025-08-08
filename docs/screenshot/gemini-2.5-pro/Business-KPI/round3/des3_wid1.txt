@@ -1,0 +1,21 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a large, rectangular panel with rounded corners, positioned centrally at the top of the screen. It has a clean white background with a soft shadow, making it float above the page content. The layout is structured: a prominent search input and a blue "Search" button sit at the top. Below, a two-column grid displays "Trending Searches" and "Popular Categories" with blue, clickable links. Spanning the full width at the bottom is a "Top Picks For You" section featuring four product cards with images, names, and prices in green.
+
+    These choices are deliberate. The large size and central position command user attention. The clean layout, ample whitespace, and sans-serif font (Lato) enhance readability and reduce cognitive load. The vibrant blue call-to-action button and links guide users to primary actions, maximizing click-through rates. The green price text draws attention to value. Displaying trending searches (social proof), categories (navigation shortcut), and personalized picks (direct product discovery) turns a simple search bar into an engine for engagement and conversion, aiming to increase time on site, page views, and ultimately, sales.
+
+    ## Question 2: What triggers the appearance of this widget?
+
+    This expanded search panel is triggered when a user shows intent to search. In a typical e-commerce site header, there would be a simple, single-line search input field. The full, feature-rich widget described here appears dynamically when the user clicks into that search input field or brings it into focus using keyboard navigation (e.g., tabbing). This common and intuitive interaction model ensures the main page content is not obscured until the user actively decides to search. Once the user clicks away from the panel or presses the 'Escape' key, the panel would collapse back into its simple input field form in the header, maintaining a clean and uncluttered user interface. This approach respects the user's screen real estate while providing powerful functionality on demand.
+
+    ## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users have multiple interaction pathways designed to shorten the journey from discovery to purchase. They can:
+    1.  **Perform a standard search:** Type a query into the large input field and click the "Search" button or press Enter to navigate to a full search results page.
+    2.  **Explore trends:** Click on any link under "Trending Searches" to immediately execute a search for that popular term, aiding discovery for users unsure of what they want.
+    3.  **Browse categories:** Click on a link under "Popular Categories" to bypass the search process and navigate directly to a specific category page, reducing bounce rate.
+    4.  **Discover recommended products:** Click on any product card in the "Top Picks For You" section. This action takes them directly to that product's detail page, significantly shortening the conversion funnel and increasing the likelihood of a sale.
+    5.  **Close the widget:** Click anywhere outside the panel or press the 'Escape' key to dismiss it and return to their browsing session.
+    -->
+
+</body>

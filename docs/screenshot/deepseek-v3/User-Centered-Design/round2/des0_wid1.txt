@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with white product cards on a light background. Each card has a 200px product image area, clear pricing in red (#e63946) for visibility, and star ratings. The grid layout (4 columns on desktop) ensures good visibility of all products. I chose this design because it's visually appealing, emphasizes product images, and makes price/CTA buttons stand out for conversion.
+
+    Question 2: This widget appears immediately when the page loads, typically on the homepage or landing pages. It's a permanent section designed to showcase featured/popular products to all visitors as soon as they arrive.
+
+    Question 3: Users can: 1) Hover over cards to see a subtle lift effect, 2) Click product images to view details, 3) See star ratings at a glance, 4) Click "Add to Cart" buttons to purchase, and 5) The grid is responsive, rearranging on smaller screens. These interactions help users quickly evaluate and purchase featured items.
+    -->
+</body>

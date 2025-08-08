@@ -1,0 +1,18 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a clean, card-style component with a white background (`#ffffff`), rounded corners, and a subtle box shadow, making it float above the page's light gray (`#f4f6f8`) background. It has a fixed maximum width of 550px to ensure readability on larger screens. The layout is vertical, guiding the user from top to bottom. The main title is a prominent 24px bold font. Sections are separated by headers and a horizontal rule.
+
+    Each option has a generous padding (16px) and a light gray border. Interactive elements and selected states use a vibrant blue (`#3b82f6`), a common choice for trust and clarity. When an option is selected, its border turns blue and a soft blue glow appears, providing strong visual feedback. Text is a highly readable dark gray (`#111827`), with secondary descriptions in a lighter shade (`#6b7280`). This minimalist, high-contrast design reduces cognitive load, clearly communicates function, and builds user confidence during the critical checkout process.
+
+    ## Question 2: What triggers the appearance of this widget?
+
+    This widget would typically appear as a primary step in the checkout process. After a user has reviewed their shopping cart and clicked a button like "Proceed to Checkout," they would be taken to a new page or a modal view where this component is the central focus. Its purpose is to gather necessary shipping and preference information before proceeding to the final payment step. It is not something that appears unexpectedly; its appearance is a direct and logical consequence of the user's explicit action to advance in the purchasing funnel. This ensures the user is not surprised and understands the context of the choices they are being asked to make.
+
+    ## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users have a clear and focused set of interactions designed for efficiency:
+    1.  **Selection of Shipping Method:** Users can select only one shipping option from the radio button group. Clicking anywhere on an option's container (the text, price, or radio button) will select it. Upon selection, the previously chosen option is deselected, and the new choice is highlighted with a blue border and a subtle glow, providing immediate feedback. One option is pre-selected by default to streamline the process.
+    2.  **Selection of Add-ons:** Users can select any combination of optional add-ons (zero, one, or multiple) by clicking the checkbox or its associated container. Each selection is independent and is also highlighted with a blue border and glow. Clicking a selected add-on again will deselect it.
+    3.  **Progression:** After making their selections, the user's final action is to click the large, blue "Continue to Payment" button at the bottom. Hovering over this button slightly darkens its color, and clicking it provides a subtle scaling effect, confirming the action before proceeding to the next step.
+    -->
+</body>

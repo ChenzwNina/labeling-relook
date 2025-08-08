@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, card-based grid layout with white backgrounds, subtle shadows, and green action buttons. Cards are 250px wide with consistent image heights (200px). I chose this design for readability, visual hierarchy (price stands out), and mobile responsiveness. The color scheme (white/green/blue) conveys trust and action.
+
+    Question 2: This product list widget would typically appear when a user visits a category page or search results page in an ecommerce site. It could also appear as a "featured products" section on the homepage or as recommendations on product detail pages.
+
+    Question 3: Users can: 1) View product images and details, 2) Click "Add to Cart" to purchase, 3) Hover over cards for visual feedback (lift effect), and 4) Scroll through the grid layout. On mobile, the grid would stack vertically for better touch interaction.
+    -->

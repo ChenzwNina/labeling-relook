@@ -1,0 +1,6 @@
+Question 1: The widget features a green cart button (top-right) that toggles a dropdown panel. The panel has a clean white background with subtle shadows and borders for depth. Items are listed with clear separation, prices right-aligned, and a prominent checkout button. The design uses green for primary actions (consistent with e-commerce conventions), ample white space for readability, and responsive sizing for different devices. These choices prioritize usability, visual hierarchy, and brand consistency.
+
+    Question 2: The widget appears when users click the cart button in the top-right corner. In a full implementation, it might also auto-open when items are added to cart. The button shows current item count, providing constant feedback. The dropdown can be closed by clicking the '×' button or clicking outside the panel (in an extended implementation).
+
+    Question 3: Users can: 1) Toggle cart visibility via the button, 2) View all cart items with prices, 3) Remove items via '×' buttons, 4) See real-time quantity and total updates, and 5) Proceed to checkout. The design supports all critical cart operations while maintaining simplicity. Hover states (not shown) would enhance interactivity.
+    -->

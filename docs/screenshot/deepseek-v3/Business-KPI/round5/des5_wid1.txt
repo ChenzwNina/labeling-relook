@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, minimalist design with a light gray background (#f8f9fa) and subtle shadow for depth. It's 280px wide with ample padding (20px) for breathing room. Section titles use a slightly darker color (#444) at 16px, while options are smaller (14px) in a lighter gray (#555). The blue apply button (#007bff) provides clear action. These choices prioritize readability, visual hierarchy, and a non-intrusive appearance that complements most ecommerce sites.
+
+    Question 2: The widget would typically appear either persistently in a sidebar on category/search pages, or as a modal/popup triggered by a "Filter" button on mobile views. The exact trigger depends on the site's implementation, but it's commonly always visible on desktop and toggleable on mobile.
+
+    Question 3: Users can: (1) Select/deselect category/brand checkboxes, (2) Adjust price range via slider or direct input, (3) Clear all selections with "Clear all", (4) Apply filters with the button. The widget provides visual feedback for selections and maintains state until explicitly cleared or applied. Hover effects on interactive elements improve usability.
+    -->
+</body>

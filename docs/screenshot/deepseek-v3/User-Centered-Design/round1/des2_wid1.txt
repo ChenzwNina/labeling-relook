@@ -1,0 +1,5 @@
+Question 1: The widget features a clean, vertical navigation panel with a light gray background (#f8f9fa) and subtle shadow. Category titles are in dark blue (#2c3e50) with 18px font size, while links are medium blue (#3498db) at 16px. The design uses ample white space, subtle borders, and hover effects for clarity and ease of use. These choices enhance readability, create visual hierarchy, and maintain a professional ecommerce aesthetic.
+
+    Question 2: This widget appears persistently in the left sidebar of product listing pages, or can be toggled via a "Categories" button on mobile views. It's always visible to help users quickly navigate between product categories.
+
+    Question 3: Users can: 1) Click any category link to filter products, with the active category highlighted in red. 2) Hover over links to see a color change and underline effect. 3) On mobile, they can expand/collapse the menu. The design provides clear visual feedback for all interactions.

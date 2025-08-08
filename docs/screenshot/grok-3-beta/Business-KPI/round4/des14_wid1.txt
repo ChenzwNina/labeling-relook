@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation. It uses a green progress bar (#28a745) for visual tracking, blue accents (#007BFF) for interactivity, and neutral grays (#333, #555) for text to ensure readability. The layout is centered with evenly spaced detail boxes for order info, ensuring clarity. Element sizes are balanced—24px headers, 16-18px text for hierarchy. These choices enhance trust, usability, and engagement, encouraging users to interact and stay on the site.
+
+Question 2: The widget appears automatically at the top of the page (20px margin) when a user logs in and has an active order. It remains sticky for easy access while scrolling, triggered by order status data fetched from the backend after authentication.
+
+Question 3: Users can view order details (ID, dates, status) passively. They can click the “View Detailed Updates” CTA button to access a full tracking page, prompting deeper engagement. Hover effects on the button provide feedback, enhancing UX. The progress bar visually updates based on real-time order status, maintaining user interest without direct interaction.
+***** -->

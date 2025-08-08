@@ -1,0 +1,17 @@
+-->
+<p>
+    Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+    <br><br>
+    Answer: The widget is a clean, wide banner that is fixed at the top of the viewport. It features a modern and minimalist aesthetic with a color palette dominated by white (#ffffff), light grays (#f4f5f7), and dark charcoal text (#111827). This creates a high-contrast, highly readable design that feels premium and doesn't clash with other site content. The layout is organized, with a clear title and a subtle 'close' button at the top, followed by a responsive four-column grid of product cards. Each card has a square image area, product name, category, price, and a bold, dark call-to-action button. These design choices are intentional: the fixed position ensures visibility, the clean palette focuses attention on the product imagery, and the structured grid provides an easy-to-scan overview, encouraging user exploration.
+</p>
+<p>
+    Question 2: What triggers the appearance of this widget?
+    <br><br>
+    Answer: The appearance of this widget is triggered by a page load event on key strategic pages within the e-commerce site. It's not a user-initiated component (like a search result); rather, it's a proactive marketing tool. It would typically be configured to display automatically on the homepage to greet new and returning visitors with curated selections. It might also appear on high-level category pages to promote best-sellers or new arrivals within that category. The goal is to immediately engage the user with attractive, relevant products without requiring them to first perform a search or navigate deep into the site structure. Its appearance is a direct business decision to drive focus toward specific items.
+</p>
+<p>
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+    <br><br>
+    Answer: Users have three main interactions with the widget. First is exploration through hover effects: moving the cursor over a product card causes it to lift with a subtle shadow, providing visual feedback that the item is interactive. Second is the primary call-to-action: clicking the "View Details" button on a product card, which navigates the user directly to that product's detailed page for purchase. The button's style changes on hover to further signify its clickability. The third interaction is dismissal: the user can click the '×' button in the top-right corner to close the banner. In a real-world application, this action would hide the widget and likely set a browser cookie to prevent it from reappearing for a set period, respecting the user's choice to remove it from their view.
+</p>
+</body>

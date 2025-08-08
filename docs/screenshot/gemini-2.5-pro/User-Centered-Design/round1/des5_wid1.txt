@@ -1,0 +1,26 @@
+Q1. Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+     A1. The product filter panel is a vertical, rectangular widget with rounded corners, approximately 300px wide, designed to be fixed on the left side of the viewport, starting 20px from the top. It has a light off-white background (`#fdfdfd`) with subtle grey borders (`#d1d1d1`, `#e0e0e0`) for section separation and a soft box shadow for depth.
+     Layout: The panel has a header with a "Filter By" title (dark grey, ~1.3em) and a "Clear All" link (blue). Below this, filter categories like "Price Range," "Brand," "Color," "Size," and "Customer Rating" are stacked vertically. Each category has a slightly smaller, bold heading (~1.05em, dark grey). Options within categories (font size ~0.9em, medium grey) use checkboxes, custom-styled color swatches (24x24px circles), pill-shaped size tags, and radio buttons for ratings. A prominent green "Apply Filters" button sits at the bottom.
+     Colors: Primary text is dark grey (`#333`, `#444`). Interactive elements and selections use a vibrant blue (`#007bff`) as an accent (e.g., selected states, links, focus rings). The "Apply Filters" button is green (`#28a745`) for positive action affordance. Star ratings use yellow (`#ffc107`).
+     Choices Rationale: This design prioritizes clarity, ease of use, and a modern e-commerce aesthetic. The consistent layout, clear typography hierarchy, and distinct visual cues (color, shape) for interactive elements ensure high visibility and affordance. The color palette is clean and professional, using standard web conventions for actions (blue for links/selection, green for apply). The fixed positioning and dedicated scroll ensure accessibility to all filter options regardless of page scroll.
+
+     Q2. Question 2: What triggers the appearance of this widget?
+     A2. In this specific implementation, the filter panel is designed to be persistently visible on pages where product filtering is relevant, such as category or search results pages. It appears automatically when such a page loads, positioned 20px from the top of the viewport as per the requirement.
+     However, in many common e-commerce UX patterns, a similar filter panel might be initially hidden and triggered to appear by a user action. This action is typically a click on a "Filter" button or icon, often located near product sorting options or above the main product grid. Upon triggering, the panel would then slide in from the side, appear as an overlay, or expand into view.
+
+     Q3. Question 3: Can you describe the full range of interactions users can have with the widget?
+     A3. Users can interact with the filter panel in the following ways:
+     1.  **Selecting/Deselecting Options:**
+         *   **Price/Brand:** Check or uncheck checkboxes. Multiple selections are possible.
+         *   **Color:** Click on circular color swatches to toggle selection (underlying checkboxes manage state). Selected swatches show a border and a checkmark. Multiple colors can be chosen.
+         *   **Size:** Click on pill-shaped size tags to toggle selection. Selected tags change background color. Multiple sizes can be selected.
+         *   **Rating:** Select a radio button for minimum customer rating (e.g., "★★★★☆ & Up"). Only one rating option can be active.
+     2.  **Applying Filters:** Click the "Apply Filters" button at the bottom. This would typically trigger a refresh of the product list based on the selected criteria. The button displays a count of selected filters (intended for JS update, shows "(0)" statically).
+     3.  **Clearing Filters:**
+         *   Click the "Clear All" link in the header to deselect all active filters across all categories.
+         *   Manually deselect individual options.
+     4.  **Searching Brands:** Type into the "Search Brands..." input field to narrow down the list of available brand checkboxes. (The dynamic filtering of the list itself would require JavaScript).
+     5.  **Scrolling:** If the list of brands or the entire panel content exceeds its visible area, users can scroll vertically within the brand list or the main panel respectively.
+     6.  **Focus Navigation:** Users can navigate interactive elements (checkboxes, buttons, links, search input) using a keyboard (Tab key), with clear focus indicators.
+*****Response***** -->
+</body>

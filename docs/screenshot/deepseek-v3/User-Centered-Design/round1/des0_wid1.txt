@@ -1,0 +1,5 @@
+Question 1: The widget features a clean, modern design with a light gray background and white product cards. Each card has a 200px tall image, clear product title (16px), prominent price in red (#e63946), and a teal "Add to Cart" button. The grid layout adapts to screen size. These choices create visual hierarchy, emphasize key information, and make the component accessible while maintaining aesthetic appeal.
+
+    Question 2: This widget would typically appear on the homepage or landing pages of an ecommerce site, loading automatically when the page loads. It might also appear on category pages or as a recommendation section after certain user actions like viewing a product.
+
+    Question 3: Users can: 1) Hover over cards to see a subtle lift effect, 2) Click product images/titles to view details, 3) Click "Add to Cart" buttons to purchase, 4) On larger screens, the grid shows 4 products; on smaller screens it responsively adjusts to fewer columns. The component is designed for both mouse and touch interactions.

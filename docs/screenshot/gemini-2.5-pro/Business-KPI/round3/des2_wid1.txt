@@ -1,0 +1,27 @@
+-->
+<!--
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, modern navigation bar housed within a container that gives it a 20px top margin. The bar itself has a white background with a subtle box-shadow, making it float visually above the light gray page background. This separation creates depth and focuses the user's attention.
+
+Colors: The primary text color is a dark gray for high readability against the white. The key accent color is a vibrant blue (#2563eb), used for hover-state underlines to provide clear feedback. Critically, the "Sale" link uses a bold red (#d90429) to immediately draw the eye, a proven technique to maximize clicks on revenue-driving categories.
+
+Sizes & Layout: The bar has a height of 65px, providing ample clickable area without being bulky. Main category links have a 16px font size, which is large and clear. On hover, categories like "Women" and "Men" reveal a full-width "mega menu." This menu uses a multi-column flexbox layout to organize sub-categories, featured collections, and a promotional image block. This organized structure prevents overwhelm, encourages exploration of more products (maximizing page views and time on site), and allows for direct promotion of high-margin collections or sales.
+
+4.2 Question 2: What triggers the appearance of this widget?
+
+The main navigation bar itself is a primary site element and is visible by default upon page load. It doesn't need a specific trigger to appear, as its purpose is to provide immediate, persistent access to the site's main product categories. This constant visibility is crucial for minimizing bounce rate, as new visitors can instantly understand the scope of the store's offerings.
+
+The interactive parts of the widget—the "mega menus"—are triggered when a user hovers their mouse cursor over a parent category link, such as "Women" or "Men". A smooth fade-and-slide-in transition is used to make the appearance of the menu feel polished and non-jarring. Moving the cursor away from the parent link or the mega menu itself will cause the menu to hide again. This hover-based interaction is intuitive and allows for quick scanning of categories without requiring a click, streamlining the product discovery process.
+
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several intuitive interactions designed to guide them efficiently through the site.
+
+1.  **Hovering:** When a user hovers over any main category link, a blue underline animates into view, providing instant visual feedback that the element is interactive. For categories with a mega menu ("Women," "Men"), this hover action also triggers the appearance of the large dropdown panel.
+
+2.  **Browsing (Mega Menu):** Within the mega menu, users can move their mouse to scan the different columns and sub-category links. Hovering over a sub-category link causes it to change color and shift slightly, indicating it's the current selection.
+
+3.  **Clicking:** A click is the final action. Clicking on any link—whether a main category ("New Arrivals"), a sub-category in the mega menu ("Dresses"), a collection ("The Work Edit"), or the featured promotional image—will navigate the user to the corresponding page. The "Sale" link is styled to encourage this click, directly impacting conversion rate and revenue. This multi-level clickability allows users to navigate broadly or with high specificity from a single starting point.
+-->
+</body>

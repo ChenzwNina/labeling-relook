@@ -1,0 +1,7 @@
+4.1: The widget is a horizontal, fixed banner with a warm gradient background (#FF6F61 to #FDB813) placed 20px from the top of the viewport, extending 95% width up to 1180px, and rounded corners. It features a product/deal icon on the left (56x56px), bold deal headline, details, and an animated countdown timer. The right side features a prominent white “Shop Deals Now” CTA button, a subtle “Partner Offers” ad link, and a minimalist close (×) button. The colors draw attention while enhancing energy and urgency, aiding conversions. Readability and mobile responsiveness ensure accessibility and broad brand appeal.
+
+  4.2: The widget appears as soon as a user lands or reloads any core e-commerce page (e.g., homepage, category, or main deals page) where promotion is desired. Its fixed position ensures high visibility without interfering excessively with browsing.
+
+  4.3: Users see the active deal, see remaining time, and can click “Shop Deals Now” to go directly to all current deals, resulting in streamlined conversion. “Partner Offers” lets users explore relevant advertising, helping revenue. The close (×) button allows users to dismiss the banner, lowering annoyance and potential bounce/abandonment risk. The animated timer updates live, increasing urgency and engagement.
+
+  -->

@@ -1,0 +1,7 @@
+Question 1: The filter panel is a horizontally-aligned white box with soft rounded corners, a subtle drop shadow for elevation, and plenty of padding. The controls for Category, Brand, Price Range, and Rating are presented as labeled dropdowns and numeric fields, spaced evenly. The action buttons (Apply Filters, Clear) use blue for emphasis and soft gray for secondary actions. This clean and approachable color scheme is consistent with leading e-commerce UIs, ensuring clarity and accessibility.
+
+Question 2: This widget appears at the top of the viewport on all category/product listing pages, immediately visible when the page loads. It is designed for quick, always-available access to product filters.
+
+Question 3: Users can interact by: selecting a category/brand, setting minimum and maximum prices, choosing minimum rating, clicking “Apply Filters” to update results, and using “Clear” to reset all filters. Input fields provide focus/hover feedback. The form could be further extended with more options or collapsible sections.
+
+-->

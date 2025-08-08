@@ -1,0 +1,20 @@
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+    The widget is a full-width horizontal banner fixed 20px from the top of the viewport.
+    **Layout**: It uses flexbox. On larger screens, it displays a "⚡" icon, then headline ("Flash Sale Frenzy! Today Only!") and subtext ("Save up to 70%...") aligned to the left. This is followed by a "Explore Deals" call-to-action (CTA) button. A close ("×") button is on the far right. On smaller screens (≤768px), the layout stacks: icon, then text, then CTA, all centered. The close button is positioned to the top-right corner of the banner.
+    **Colors**: The banner background is a vibrant purple-to-blue linear gradient (`#6A11CB` to `#2575FC`) for high visibility. All text (icon, headline, subtext, close button) is white (`#FFFFFF`) for strong contrast. The CTA button has a bright yellow/gold background (`#FFD700`) with dark grey text (`#1A1A1A`) to make it stand out as the primary interactive element.
+    **Element Sizes**: The headline is ~18px (bold), subtext ~14px. The icon is ~26px. The CTA button has `10px 20px` padding. Sizes are slightly reduced on smaller screens for better fit.
+    **Design Choices Rationale**: The fixed position and striking colors ensure the banner is immediately noticed (Rule 3.1). The layout guides users from information to action efficiently (Rule 3.6). High contrast and clear typography ensure readability. The CTA is distinct, affording clear action (Rule 3.5). Responsive stacking ensures usability on all devices. The overall design aims to be inviting and informative, enhancing user experience (Rule 3.7).
+
+    Question 2: What triggers the appearance of this widget?
+    The deals banner is designed to appear automatically upon page load on key pages of the e-commerce website. Typically, this would include the homepage, category landing pages, and potentially search results pages where promotions are highly relevant. It might also be triggered based on specific conditions such as a major sales event (e.g., Black Friday), for targeted user segments (e.g., new vs. returning customers), or as part of a specific marketing campaign. The intention is for the banner to proactively inform users of current offers without requiring any prior user interaction to be displayed. Once dismissed, its reappearance would ideally be managed (e.g., via cookies) to avoid repeatedly showing it within the same session or for a short period.
+
+    Question 3: Can you describe the full range of interactions users can have with the widget?
+    Users have two main interactions with the deals banner:
+    1.  **Engaging with the Promotion**:
+        *   Users can click the "Explore Deals" Call-to-Action (CTA) button. This action navigates them to a dedicated deals page, a specific product category relevant to the promotion, or applies filters to show discounted items. This directly facilitates task execution (Rule 3.6) by taking them to the advertised offers.
+    2.  **Dismissing the Banner**:
+        *   Users can click the "×" (close) button. This action immediately hides the banner from their view. This provides user control and a way to remove the banner if they are not interested or find it obstructive, contributing to a more satisfying experience (Rule 3.7). The banner's disappearance provides clear feedback (Rule 3.2).
+
+    There are no other inputs or complex navigations within the banner itself, keeping its purpose focused and interactions simple. Hover effects on the CTA and close button provide visual feedback before clicking (Rule 3.2).
+*****Response***** -->
+</body>

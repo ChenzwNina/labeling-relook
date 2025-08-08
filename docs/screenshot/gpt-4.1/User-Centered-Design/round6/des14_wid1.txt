@@ -1,0 +1,14 @@
+Question 1: 
+    The widget is a horizontally-oriented panel, width 540px, floating at the top center with rounded corners and shadow. It uses a white background to ensure clarity. The main row displays the order image, info, and address. A progress bar with five trackable steps (Placed, Confirmed, Shipped, Out for Delivery, Delivered) uses color coding for completed (blue), current (amber), and upcoming (gray). Below, delivery details and a “Track Package” button are present. Colors are high-contrast blue/amber for feedback, muted gray for secondary info. All clickable/interactive elements show visual affordance and feedback by style changes on hover/focus/disable. Layout is spacious, with responsive resizing on mobile.
+
+    Question 2: 
+    This widget appears immediately after the user places an order or when they visit their order history/track order page, ensuring they always have quick access to the latest order’s tracking status.
+
+    Question 3: 
+    Users can: 
+    - View order number, product image, address, order date.
+    - Comprehend tracking progress visually and textually.
+    - See delivery estimates and, unless delivered, click “Track Package” to go to the courier’s tracking portal.
+    The “Track Package” button is disabled when the order is fully delivered, preventing unnecessary action. The UI visually highlights the current step, and each icon supports tooltips for accessibility.
+  -->
+</body>

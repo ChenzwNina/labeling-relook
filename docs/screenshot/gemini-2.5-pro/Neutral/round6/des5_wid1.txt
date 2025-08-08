@@ -1,0 +1,27 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a vertical filter panel with a fixed width of 290px, positioned on the left side of the viewport. It has a clean, modern aesthetic with a white background, soft rounded corners, and a subtle box-shadow that makes it appear layered above the main page content.
+
+The layout is a single column of filter categories like "Category," "Brand," and "Price." The color scheme is predominantly neutral (white, shades of gray, and dark text) to ensure clarity and not distract from the products. A vibrant blue (`#007bff`) is used as an accent for interactive elements like selected checkboxes and links, guiding the user's attention. A success-green (`#28a745`) is used for the primary "Apply Filters" button to signify a positive action.
+
+These choices are deliberate: the fixed position keeps filters accessible while scrolling. The neutral colors and generous spacing prevent a cluttered look, while the accent color improves usability by clearly indicating what is interactive and selected. The consistent design language resembles leading e-commerce sites, providing users with a familiar and intuitive experience.
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is triggered by user navigation. It is designed to be persistently visible on a product listing page (PLP) or a category page. When a user clicks on a category like "Men's Apparel" or "Sneakers" from the main navigation, the website directs them to a page where this filter panel automatically appears alongside the grid of products.
+
+For the desktop experience shown here, there is no button to show or hide the panel; it loads with the page and remains fixed in place. This design is optimal for larger screens where there is ample space to display both the filters and the products simultaneously, allowing for seamless and immediate refinement of the product list. On mobile devices, this same panel would typically be collapsed and triggered by tapping a dedicated "Filter" icon to conserve valuable screen real estate.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have a comprehensive set of interactions designed for efficient product filtering.
+
+First, they can manage the view by clicking on section titles (e.g., "Brand") to expand or collapse each filter category, helping to reduce clutter and focus on relevant options.
+
+Second, they can select filters using various input types. For multi-select attributes like "Category" and "Brand," they can click on custom-styled checkboxes. For single-choice attributes like "Price Range," they use radio buttons. For "Color," they can click on visual color swatches, which function as checkboxes for selecting one or more colors.
+
+Third, users can reset their choices at any time by clicking the "Clear All" link in the header, which deselects all options across all categories.
+
+Finally, after making their selections, users click the prominent "Apply Filters" button at the bottom. This action submits their chosen criteria, which would then trigger a refresh of the product grid on the main page to display only the items that match the selected filters.
+-->
+</body>

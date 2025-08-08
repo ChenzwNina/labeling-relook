@@ -1,0 +1,7 @@
+4.1 Question 1: The widget sits at the top of the page in a stylish, soft white card with rounded corners and subtle shadows, making the products stand out. Each product card uses plenty of white space, prominent product images, bold titles, bright blue "Add to Cart" buttons, and attractive discount highlights (in red). Ratings, free shipping, and old prices make offers credible and enticing. The "Sort" dropdown and "View all offers" link help navigation and engagement, supporting user trust and time-on-site. All visual choices are based on popular e-commerce UI patterns for maximizing conversion and sales.
+
+  4.2 Question 2: The widget appears by default as soon as users arrive at the site or land on a major page (home or product pages). Alternatively, it could be triggered by scrolling to the top or as a sticky banner after an interaction, but in this implementation, it loads immediately on page view to drive engagement and purchases.
+
+  4.3 Question 3: Users can browse the product list, filter or sort items, click "Add to Cart" or "Wishlist" on each product, view stars/ratings and discounts, and go to the full product collection via "View all offers". Hover interactions highlight products and buttons, inviting clicks. This encourages product discovery, impulse buying, and list expansion, greatly minimizing cart abandonment and bounce rates.
+  -->
+</body>

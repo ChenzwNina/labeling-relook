@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The search panel is a fixed, full-width bar positioned 20px from the top with a white background and subtle shadow for depth. It features a centered container (max-width 800px) with a category dropdown, a wide search input, and a vibrant coral (#ff6f61) search button. The input and button have rounded corners for a modern look, and the button darkens on hover for interactivity. These choices ensure a clean, user-friendly design typical of e-commerce sites, prioritizing accessibility and visibility. -->
+
+    <!-- Question 2: The search panel appears persistently at the top of the page on every viewport, as it’s a critical navigation tool for an e-commerce site. It remains fixed to ensure users can search for products at any time without scrolling, enhancing user experience and encouraging product discovery. -->
+
+    <!-- Question 3: Users can interact with the widget by selecting a category from the dropdown to filter searches, typing queries into the input field, and clicking the search button to initiate a search. They can also press 'Enter' in the input field to search. The button’s hover effect provides visual feedback, enhancing usability and engagement. -->
+</body>

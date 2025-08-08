@@ -1,0 +1,7 @@
+4.1 The widget uses a clean, modern white card with soft shadows and rounded corners for broad visual appeal and trust. The product image is dominant, drawing attention with a prominent red discount badge. Brand colors (blue for buttons, accent orange for CTA) direct the eye to “Add to Cart.” The price and savings are clear, and ratings offer social proof. The component is compact (~380px wide), vertical, and well-spaced for visibility and touch-friendliness. A wishlist (heart) icon appeals to return visits. A subtle ad banner at the bottom (green highlight) promotes special offers, driving engagement and upsell.
+    
+    4.2 The widget appears automatically near the top of product grids, category lists, or search result pages, and is also used on individual product pages. It’s meant to be the primary visual and interaction element for each product wherever product listings appear.
+
+    4.3 Users can: view a large product image, click the title for more details, see ratings/reviews, hover for more info, add the item to cart, or add to wishlist. The ad banner is clickable, providing bonus offers. All elements are accessible and interactive, encouraging shopping, cross-promotion clicks, and list building, supporting remarketing and reducing abandonment.
+    -->
+</body>

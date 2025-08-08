@@ -1,0 +1,21 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a clean, modern card with rounded corners and a subtle shadow, making it appear to float above the page content. It has a maximum width of 450px to ensure it's focused and not overwhelming. 
+    The layout is vertical, with clear headings for "Shipping & Extras", "Choose a Delivery Speed", and "Optional Add-ons". This logical flow guides the user without confusion.
+    Colors are chosen for clarity and conversion. The background is white for high contrast. Selected options are highlighted with a soft blue border and background. The main Call-to-Action button is a vibrant green (#28a745), a color universally associated with "go" and success, to maximize click-through rate. A yellow "Best Value" badge draws attention to a mid-tier option, encouraging upselling to increase average order value. This entire design system is built to feel trustworthy, reduce cognitive load, and guide the user seamlessly towards completing their purchase, thus minimizing cart abandonment.
+
+    4.2 Question 2: What triggers the appearance of this widget?
+
+    This widget is an integral part of the checkout flow, not a pop-up triggered by a specific action like an exit-intent. It appears on the page when the user navigates to their shopping cart or the initial shipping step of the checkout process.
+    Crucially, it uses `position: sticky` and is placed 20px from the top of the viewport. This means that as the user scrolls down the page (for instance, to review a long list of cart items), the shipping widget remains fixed in their view. This ensures these vital options and the "Continue" button are always accessible, preventing the user from having to scroll back up. This persistent visibility is key to reducing friction and minimizing the chance of the user abandoning the cart.
+
+    4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    The user has a clear and intuitive set of interactions designed for ease of use:
+    1.  **Select Shipping Method:** Users can click anywhere on a shipping option's container, its label, or the custom radio button to select it. The chosen option becomes visually highlighted with a blue border, and a check appears in the radio button, providing immediate feedback. Only one shipping option can be active at a time.
+    2.  **Select Add-ons:** Users can click the checkbox or label for optional add-ons like "Gift Wrapping" or "Protect Your Order". These are independent selections, so the user can choose none, one, or multiple add-ons. A green checkmark appears for confirmation.
+    3.  **Visual Feedback:** Hovering over any clickable option (shipping or add-on) provides visual feedback, such as a border color change or background highlight, signaling interactivity.
+    4.  **Confirm and Proceed:** The primary interaction is clicking the large, green "Update & Continue" button. This action would confirm their selections, update the total order cost, and advance them to the next stage of the checkout process, such as payment information.
+    
+    *****Response***** -->
+</body>

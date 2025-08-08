@@ -1,0 +1,28 @@
+-->
+<!--
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+Answer: The navigation component is a clean, rectangular bar with rounded corners that floats near the top of the page with a subtle shadow, giving it a modern, layered feel. It uses a three-part layout for clarity and efficiency: the brand logo ("UrbanNest") on the left, primary category links in the center, and action items (search, account, cart) on the right.
+
+The color scheme is primarily white for the background and dark gray (`#333`) for text, ensuring high contrast and readability. A vibrant blue (`#007bff`) is used as an accent color for interactive elements like links on hover and the cart badge, drawing the user's attention to key functions and providing clear feedback.
+
+The logo has the largest font size to establish brand identity. Navigation links are well-spaced for easy clicking. Icons are clean, universally understood SVGs, ensuring a consistent and professional look. This design is chosen for its familiarity, which reduces cognitive load, and its clean aesthetic, which builds trust and provides a pleasant user experience.
+-->
+<!--
+Question 2: What triggers the appearance of this widget?
+
+Answer: This component is a primary navigation bar, a persistent and fundamental part of the website's user interface. Its appearance is not triggered by a specific user action like a click or hover. Instead, it loads and appears along with the rest of the page content as soon as a user navigates to the website.
+
+It is positioned using `position: fixed`, which means it remains "fixed" at the top of the viewport (with a 20px top margin) even when the user scrolls down the page. This ensures that essential functions like category navigation, search, and access to the user's account and cart are always visible and immediately accessible, supporting efficient task execution from anywhere on the page.
+-->
+<!--
+Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Answer: Users have several intuitive interaction points with this widget:
+
+1.  **Navigation**: Users can click the "UrbanNest" logo to return to the homepage. They can hover over any main category link ("Fashion," "Home," etc.), which provides visual feedback via a color change and an animated underline.
+2.  **Dropdown Menu**: Hovering specifically over the "Electronics" category reveals a dropdown menu with sub-categories. Users can then move their cursor down and click on any sub-category link to navigate directly to that page.
+3.  **Search**: Users can click into the search input field and type a product query. The field gains a blue highlight on focus, providing feedback. They can then submit their search by pressing "Enter" or clicking the magnifying glass icon.
+4.  **Account & Cart**: Users can click the user profile icon to navigate to their account page or the shopping cart icon to view their cart. The cart icon includes a badge with a number, giving immediate feedback on how many items are currently in their cart.
+-->
+</body>

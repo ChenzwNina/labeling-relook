@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, card-based design with white background and subtle shadow for depth. It uses a blue primary color (#007AFF) for active elements, with status indicators in different colors (orange for processing, blue for shipped, green for delivered). The layout is organized vertically with clear visual hierarchy: order number/status at top, progress bar, step indicators, details section, and action buttons. I chose this design for clarity, accessibility, and visual appeal - the colors communicate status intuitively, while the spacing and typography ensure readability.
+
+Question 2: This widget would typically appear when a user clicks on "Track Order" from their account page or order confirmation email. It might also automatically appear after checkout completion, or when accessing a tracking link from shipment notifications.
+
+Question 3: Users can: 1) View their order status and progress through visual indicators, 2) See key details like estimated delivery and tracking number, 3) Click "Track Package" to open carrier tracking in a new tab, 4) Click "Contact Support" to initiate a help request. The widget is primarily informational but provides clear CTAs for further actions.
+-->

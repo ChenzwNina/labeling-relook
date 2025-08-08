@@ -1,0 +1,30 @@
+-->
+<!--
+Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, modern navigation bar with a white background (#FFFFFF) and a subtle box-shadow, making it float visually above the page content. It's positioned 20px from the top and centered horizontally. The primary text color is a dark gray (#333) for high readability, using the 'Lato' font, which is clear and professional. Top-level links are generously spaced with a font size of 16px.
+
+On hover, the text color changes to a vibrant blue (#007bff), and a blue underline animates into view, providing clear, immediate feedback. Categories with sub-menus are marked with a small down-arrow, affording the discovery of more options. The dropdown mega-menu maintains the clean aesthetic, organizing sub-categories into logical columns with clear headings. This multi-column layout allows users to see many options at once, improving task efficiency. A promotional block with an image is included in one menu to engage users and drive sales, a common practice in real-world e-commerce design. These choices prioritize clarity, efficiency, and a visually pleasing, trustworthy experience.
+-->
+<!--
+Question 2: What triggers the appearance of this widget?
+
+This navigation component is a primary, persistent element of the website's interface. Its appearance is not triggered by a specific user action like clicking a button. Instead, it loads and becomes visible as soon as the user navigates to any page where it's included, such as the homepage, category pages, or product detail pages.
+
+It is designed to be "sticky" at the top of the viewport, meaning it remains fixed in place even as the user scrolls down the page. This ensures that the main product categories are always visible and accessible, allowing users to easily navigate to different sections of the site from anywhere on the page. This constant visibility supports efficient browsing and reinforces the site's structure, providing a consistent and reliable user experience.
+-->
+<!--
+Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can perform several intuitive interactions with this navigation widget.
+
+1.  **Hovering:** When a user moves their cursor over a top-level category link (e.g., "Home & Garden"), they receive immediate visual feedback: the link's text turns blue, and a blue underline animates beneath it. If the category has a mega-menu, it smoothly fades and slides into view. This provides clear feedback and reveals deeper navigation options without a click.
+
+2.  **Browsing Sub-categories:** Within an open mega-menu, users can hover over sub-category links (e.g., "Sofas & Couches"), which also change color to blue, indicating they are clickable.
+
+3.  **Clicking:** A user can click on any link—whether a top-level one like "Books" or a sub-category link like "Laptops"—which will navigate them to that specific category page. They can also click the call-to-action button in the promotional block.
+
+4.  **Dismissing:** To close an open mega-menu, the user simply moves their mouse cursor away from the parent navigation item and the mega-menu area, causing it to fade out smoothly. This predictable behavior gives the user full control over the interface.
+-->
+
+</body>

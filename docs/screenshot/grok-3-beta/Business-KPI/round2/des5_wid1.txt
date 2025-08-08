@@ -1,0 +1,6 @@
+Question 1: The filter panel has a clean, white background with subtle shadows for a modern look, positioned 20px from the top. It uses a coral red (#ff6f61) button for a bold call-to-action, enhancing visibility. The layout is responsive with flexbox, ensuring usability across devices. Font sizes are legible (18px for headings, 14px for options), and spacing is consistent (20px gaps). These choices prioritize clarity and ease of use, encouraging interaction to boost conversions and time on site.
+
+Question 2: The widget appears statically at the top of product listing pages, ensuring immediate visibility when users browse categories or search results. Its persistent placement reduces bounce rates by guiding users to refine searches early in their journey.
+
+Question 3: Users can interact by selecting multiple checkboxes across categories, price ranges, and brands to narrow down product results. Hover effects on the "Apply Filters" button provide feedback, while clicking it updates the product list dynamically. This interactivity enhances user control, reduces cart abandonment, and increases page views by keeping users engaged in the filtering process.
+-->

@@ -1,0 +1,6 @@
+4.1: The widget uses a clean white card background with subtle shadow, rounded corners, and padding for a premium feel. The average rating is accentuated in large amber text, with gold star icons for immediate recognition and trust. Ratings breakdown bars use gradient gold colors for "5 stars," with less saturation as ratings drop. Reviewer avatars add social proof. Key actions ("See all reviews," "Write a Review") are bright and highly visible, with primary green for CTAs. Links and microcopy use blue for brand trust. Responsive styles ensure clarity on mobile. This style boosts trust, user engagement, and drives review interactions—crucial for sales and reducing bounce/cart abandonments.
+
+4.2: The widget appears at the top of product or category pages as soon as the page loads. It's always visible without waiting for scrolling or any interaction, ensuring all users immediately see product credibility and social proof.
+
+4.3: Users can (1) click star or ratings bars to filter reviews by rating, (2) click "See all reviews" to view detailed feedback, (3) hover avatars to see recent reviewers, (4) click "Write a Review" to contribute ratings, (5) access info/help links. These interactions foster trust, engagement, and prompt action, maximizing conversions and user time on site.
+-->

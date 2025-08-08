@@ -1,0 +1,10 @@
+Question 1:
+    The widget is a horizontally centered, white, rounded box with subtle drop shadow, measuring 920px wide at desktop. It sits at the top of the viewport with a 20px margin. Inside, the heading "Trending Products" is bold and large. Products are displayed in a responsive grid (4 columns on desktop, fewer on smaller screens). Each product card has a faint border, rounded corners, displays a product image up top, the product name, blue price, and a prominent blue "Add to Cart" button. Hovering a card or button deepens the shadow or button color. These choices prioritize readability, visual space, and clear call-to-action found in modern e-commerce design.
+
+    Question 2:
+    This widget appears as the default product listing at the top of the e-commerce site—immediately visible when users arrive at the homepage or associated category page, with no user-trigger required.
+
+    Question 3:
+    Users can hover over product cards for a visual emphasis effect, click the "Add to Cart" button on any item (which would connect to a cart-adding function in a full implementation), and potentially click product images/names in a further developed version to visit product pages. On mobile, the grid reduces columns, remaining touch-friendly. The focus is visual browsing and adding items to the cart easily.
+    -->
+</body>

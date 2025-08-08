@@ -1,0 +1,25 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a clean, card-style component with a white background, soft corners, and a subtle shadow to make it "float" above the page. It’s positioned with a 20px top margin for prominence. The layout is structured into two clear sections: "Shipping" and "Optional Extras," separated by a fine horizontal line.
+
+Colors: The palette is minimalistic and trust-inspiring. A neutral white background (#FFFFFF) with dark grey text (#333) ensures high readability. The primary interactive color is a trustworthy blue (#007AFF), used for highlighting selected options. Critically, to maximize conversion, "FREE" shipping is not just text but is visually emphasized, implicitly guiding users to the most conversion-friendly choice.
+
+Elements: Font sizes are hierarchical, with a large, bold heading (22px) and clear option titles (16px). Interactive options are large, touch-friendly clickable areas. These choices reduce cognitive load and friction, which directly helps minimize cart abandonment (Rule 3.8) and maximize the conversion rate (Rule 3.2). The professional, uncluttered design builds trust and encourages users to complete their purchase.
+
+4.2 Question 2: What triggers the appearance of this widget?
+
+This widget is a core part of the e-commerce checkout flow. Its appearance is triggered when a user proceeds to the shipping stage of their purchase, typically after they have filled out their delivery address. At this point, the website's backend has calculated the available shipping methods and costs based on the customer’s location and cart contents. The widget is then dynamically populated with these personalized options. It serves as a dedicated step to confirm shipping preferences and consider valuable add-ons before moving to the final payment stage. This focused approach prevents overwhelming the user with too many decisions at once, a key strategy for minimizing shopping cart abandonment (Rule 3.8). It keeps the user engaged in a clear, linear process, maximizing their time on site (Rule 3.5) in a productive way.
+
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+User interactions are designed to be intuitive and efficient to maximize conversion and minimize friction.
+
+1.  **Selection:** Users can select one shipping method from a list. Clicking anywhere on an option's container selects the corresponding radio button, visually highlighting the entire option with a blue border and shadow. This large-target interaction is mobile-friendly and improves usability.
+
+2.  **Upselling:** Users can choose to add optional extras, like gift wrapping or insurance, by clicking the checkbox options. These are independent choices that can be toggled on or off. This interaction is designed to seamlessly increase the average order size (Rule 3.3).
+
+3.  **Visual Feedback:** Hovering over any option subtly changes its border color, indicating it's clickable. The selected state is persistent and unambiguous.
+
+4.  **Information Discovery:** Users can quickly scan option titles, prices, and descriptions to make an informed choice. The content is crafted to highlight value ("Peace of Mind," "Perfect for presents!"), which aids in decision-making and helps maximize revenue (Rule 3.1).
+-->
+</body>

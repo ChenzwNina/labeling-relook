@@ -1,0 +1,7 @@
+4.1: The widget is a prominent card centered at the top with a 20px top margin. It uses a white background with gentle box-shadow and rounded corners for a trustworthy, inviting feel. Main action colors include blue gradients for authority and trust, yellow for promotion, and subtle grays for input clarity. Key actions ("Sign In" button, social sign-ins) are visually distinct and sized for easy tap/click access, with a streamlined vertical flow. This hierarchy and contrast guide the user through sign-in, maximize conversion, and reduce errors/friction.
+
+  4.2: The appearance of this widget is triggered when a user visits the e-commerce site and is either not already authenticated or clicks any "Sign In" link in the header or checkout process. It is designed to be above the fold to capture intent early, especially before checkout.
+
+  4.3: Users can enter email and password to sign in, recover their password, or go to the account creation flow. They can also sign in instantly via Google, Facebook, or Apple, boosting conversion. Clear visual feedback is applied to input focus and button hovers. Promotional text, policy links, and sign-up CTAs create opportunities for upsell and greater user engagement.
+  -->
+</body>

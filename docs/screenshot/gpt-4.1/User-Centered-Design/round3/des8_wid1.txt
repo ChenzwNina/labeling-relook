@@ -1,0 +1,10 @@
+Question 1:
+  The widget is a medium-sized card (370px wide, rounded corners) with a clean white background, a subtle drop shadow, and 20px top margin. It displays a title bar ("Your Cart"), a close (×) button, scrollable cart items (each showing an image, product name, options, quantity controls, price, and remove button), a total, and two action buttons. Key colors: white, dark blue for text, orange (#e67e22) for highlights and total, light gray for dividers/backgrounds, and blue/gray for controls. Sizes and layout ensure prominence, easy access, and task clarity. These choices foster strong visibility, hierarchy, and comfort, reflecting modern e-commerce standard UX.
+
+  Question 2:
+  The widget appears when the user clicks a cart icon/button anywhere on the site’s navigation or header. It’s intended as an overlay or slide-down at the top of the viewport, quickly showing cart contents and actions without leaving the current page.
+
+  Question 3:
+  Users can: (1) adjust item quantity with +/– (– is disabled at minimum allowed), (2) remove items, (3) click "View Full Cart" to access a detailed cart page, (4) click "Checkout" if items exist (disabled otherwise), and (5) close the widget. All buttons provide clear feedback (hover, disabled states), and constraints prevent errors (e.g., can’t reduce quantity below 1).
+  -->
+</body>

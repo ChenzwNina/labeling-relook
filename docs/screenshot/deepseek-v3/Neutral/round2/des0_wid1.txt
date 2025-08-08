@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based layout with a white background and blue accents. Product cards are 250px wide with consistent 200px tall images. I chose this design for visual consistency, mobile responsiveness, and to highlight products effectively. The blue color scheme promotes trust and action, while the hover effects provide visual feedback.
+    
+    Question 2: This widget appears on the homepage or category pages of an ecommerce site, triggered by page load. It could also appear after user actions like searches or when promoting seasonal items.
+    
+    Question 3: Users can: 1) View product images and details, 2) Click "Add to Cart" buttons, 3) Hover over cards for elevation effect, 4) Click "View All" to see more products, and 5) Click product cards (though not implemented here) to view details.
+    -->
+</body>

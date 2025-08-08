@@ -1,0 +1,5 @@
+-->
+    <!-- Question 1: The shopping cart widget features a clean white background with a subtle shadow for depth, positioned at the top-right corner for easy access. It uses a green checkout button (#4caf50) for prominence, red remove buttons (#ff5252) for clear action cues, and neutral grays (#333, #666) for text to ensure readability. Elements like item images (50x50px) and text are compact for efficiency, while the layout is vertical for clarity. These choices prioritize visibility, consistency, and a professional e-commerce aesthetic. -->
+    <!-- Question 2: The widget appears when the user clicks the cart icon (🛒) located at the top-right corner of the viewport. It toggles visibility, allowing users to view or hide their cart contents as needed. -->
+    <!-- Question 3: Users can interact with the widget by clicking the cart icon to open/close it, clicking 'Remove' to delete items (with immediate visual feedback as the item disappears), and clicking 'Proceed to Checkout' to initiate purchase (with an alert as confirmation). Hover effects on buttons provide additional feedback, enhancing usability and interaction clarity. -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, minimalist design with white background (#fff) and subtle shadows for depth. It uses a 400px width container with 30px padding, making it compact yet spacious. The color scheme uses red (#e74c3c) for the cancel button to draw attention, with neutral grays for text (#333, #666) and borders (#ddd). These choices create visual hierarchy, ensure readability, and use color psychology (red for irreversible actions) while maintaining a professional appearance.
+
+Question 2: The widget appears when a user clicks a "Cancel Membership" link in their account settings. This could be triggered from a user profile page or membership management section, following standard ecommerce patterns where destructive actions require explicit user initiation.
+
+Question 3: Users can: 1) Select a cancellation reason from a dropdown, 2) Provide optional feedback in a textarea, 3) Click "Cancel Membership" to confirm (which would trigger backend processing), or 4) Click "Keep Membership" to dismiss the widget. The interaction flow is linear with clear exit points, balancing user intent confirmation with opportunity to reconsider.
+-->

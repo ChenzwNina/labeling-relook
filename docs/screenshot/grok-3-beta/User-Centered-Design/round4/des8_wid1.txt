@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The shopping cart widget features a clean white background with a subtle shadow for depth, positioned at the top-right corner with a 20px margin. It uses a blue color scheme (#3182ce) for buttons to evoke trust and consistency with e-commerce branding. Cart items are displayed in a compact list with 50x50px images, clear typography (Arial), and red (#e53e3e) for remove buttons to signify deletion. The layout is narrow (350px) to avoid obstructing the main content, with hover effects for interactivity. These choices prioritize clarity, familiarity, and efficient use of space. -->
+
+    <!-- Question 2: The widget appears when the user clicks the cart toggle button (a shopping cart icon) located at the top-right corner. It can also be triggered programmatically after adding an item to the cart (though not implemented in this code), ensuring users get immediate feedback on their actions. -->
+
+    <!-- Question 3: Users can open/close the cart via the toggle button, view item details (image, name, quantity, price), remove items using the red button (with hover feedback), and proceed to checkout with a prominent blue button. Hover effects on buttons enhance interactivity, while the fixed position ensures accessibility at all times. -->
+</body>

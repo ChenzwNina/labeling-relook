@@ -1,0 +1,7 @@
+4.1 Question 1: The widget features a bright, trustworthy palette (white, blues) akin to leading e-commerce sites, with rounded corners and subtle shadow for approachability and focus. Call to action buttons are bold and distinct (blue for "Keep Membership", outlined blue for "Cancel"), benefits are highlighted in a colored info box to reinforce value. A prominent title with empathetic language, supporting image, and an ad banner below offer draws the user’s eye and gently prompt reconsideration. Generous white space and concise layout aim for fast readability and reduced friction.
+
+  4.2 Question 2: This widget appears whenever a logged-in user expresses intent to cancel (e.g. after clicking “Cancel” in account settings or subscription page). It interrupts the flow just enough to maximize retention, but frames the process clearly and empathetically.
+
+  4.3 Question 3: Users can cancel (triggers confirmation), opt to keep membership (triggers acknowledgment), give feedback (triggers feedback modal/popup), or click the ad banner to learn about exclusive upgrade/retention offers. The benefits list is informative only; all call-to-actions are visually clear and responsive to clicks. On mobile, the layout adapts for accessibility.
+  -->
+</body>

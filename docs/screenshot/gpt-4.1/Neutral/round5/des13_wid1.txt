@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-style container with a white background, subtle box-shadow, and rounded corners set against a light gray backdrop. The logo sits on the left of the "Sign In to ShopEase" title, establishing brand identity. Input fields are wide, lightly bordered, and softly padded for comfortable interaction. The primary button uses a modern blue (#536dfe) for prominence. Secondary links use a lighter blue, while all text uses dark grays for high contrast. Components are spaced for clarity. This style matches leading e-commerce practices emphasizing clarity, trust, and ease-of-use.
+
+  Question 2: The appearance of this sign-in widget is triggered when a user chooses to sign in—typically by clicking a "Sign In" or "Account" link/button in the website's navigation header, or when they try to access account-restricted features such as viewing orders or saving items.
+
+  Question 3: Users can enter their email and password, opt to be remembered on the device, recover a forgotten password via the "Forgot password?" link, and submit the form to sign in. If they don’t have an account, they can click "Create one" to start registration. The primary interaction is through input fields, the sign-in button, and navigation links for account assistance or registration.
+  -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget is a compact card centered at the top with a 20px margin. It uses a clean white background, soft blue accents (#397be7), and subtle box shadows. The layout stacks a circular logo, title, guidance text, labeled fields, action buttons, and clear division for Google login. Inputs are generously sized for touch and readability. Disabled/enabled states and error messaging give timely feedback. These design choices increase trust, clarity, and usability in an ecommerce context.
+
+  Question 2: The sign-in widget appears when a user wants to log in—typically triggered via a "Sign In" link or button at the site header or when accessing user-specific features (orders, account, etc). In this file, it appears at the top of the page directly.
+
+  Question 3: Users can: input their email and password (with input validation), click "Sign In" (disabled until valid), recover a forgotten password via link, sign in with Google, and transition to the account creation screen. Error feedback appears immediately for failed login attempts. Interactive feedback (focus, hover) guides actions, while constraints prevent submission of invalid forms.
+  -->

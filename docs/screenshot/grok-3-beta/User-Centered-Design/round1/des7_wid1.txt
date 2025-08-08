@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadows for depth. The color scheme uses gold (#f1c40f) for star ratings to signify quality, paired with neutral grays and blues for text and buttons for readability. The layout is centered with a max-width of 1200px for responsiveness, and elements like cards (15px padding) and buttons (10px padding) are sized for clarity. These choices ensure high visibility, consistency, and a professional e-commerce aesthetic.
+
+Question 2: The widget appears on the product detail page of an e-commerce website, typically below the product description and images. It is triggered by default when a user navigates to a specific product to provide social proof and influence purchase decisions.
+
+Question 3: Users can view the overall rating summary and individual reviews with detailed comments. They can interact by clicking the "Submit Your Review" button to leave feedback, which provides clear feedback via hover states and disables the button if not logged in (constraint). The design supports efficient reading with structured cards and ensures a satisfying experience through actionable elements.
+***** -->

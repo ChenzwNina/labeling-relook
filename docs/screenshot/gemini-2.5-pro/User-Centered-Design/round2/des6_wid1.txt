@@ -1,0 +1,34 @@
+**Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+    The widget is a sleek, rectangular card fixed at the top-center of the viewport, 20 pixels from the top edge. It has a white background (`#FFFFFF`) with a subtle shadow and rounded corners for a modern feel.
+    **Layout:** Horizontally, it features a product image (approx. 160px wide) on the left and product details on the right. On smaller screens (below 600px), it stacks vertically with the image centered above the details. This responsive design ensures optimal viewing on all devices.
+    **Colors:**
+    *   Text: Dark grey (`#212529`) for product name and primary info for high readability, lighter grey (`#6c757d`) for brand and review count.
+    *   Price: Current price is a prominent green (`#28a745`); original price is lighter grey and struck-through.
+    *   Buttons: "Add to Cart" uses a vibrant blue (`#007bff`) as the primary call-to-action. "Add to Wishlist" is a secondary style with a light background and grey text/border.
+    *   Badge: A bright red (`#dc3545`) "SALE" badge draws immediate attention.
+    *   Rating Stars: Yellow/gold (`#ffc107`).
+    **Element Sizes:**
+    *   Product Name: 20px, bold.
+    *   Current Price: 24px, bold.
+    *   Buttons: Appropriately sized for easy clicking/tapping with clear text.
+    **Design Choices Rationale:** The design prioritizes clarity, visual appeal, and user trust, common in e-commerce. Colors are used strategically to guide attention and indicate interactivity. The fixed positioning (as requested) makes it suitable for a high-visibility promotion or featured item. The layout efficiently presents key information and actions.
+
+    **Question 2: What triggers the appearance of this widget?**
+
+    Given its fixed position at the top of the viewport and its promotional nature (e.g., "33% OFF" badge), this widget's appearance is likely triggered automatically when a user loads a page where this specific product is being highlighted. Examples include:
+    1.  Landing on the homepage if it's a "Deal of the Day" or a site-wide featured product.
+    2.  Navigating to a specific category page where this item is a spotlight product.
+    3.  Potentially, it could appear as part of a targeted promotion based on user browsing history or a marketing campaign.
+    The component itself doesn't contain logic for triggering its appearance; it's designed to be displayed by the parent page's logic when deemed appropriate to feature this product prominently and persistently.
+
+    **Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+    Users can engage with the widget in the following ways:
+    1.  **View Information:** Read the product's brand, name, a short descriptive snippet, check its price (current and original), and see its average star rating along with the number of reviews.
+    2.  **Examine Image:** View the product image. In a full e-commerce site, clicking this might open a larger image gallery.
+    3.  **Add to Cart:** Click the primary "Add to Cart" button (with a cart icon). This action is designed to be the main conversion goal. The button provides visual feedback on hover and click.
+    4.  **Add to Wishlist:** Click the secondary "Add to Wishlist" button (with a heart icon) to save the item for later. This button also offers hover and click feedback.
+    The widget is focused on information display and these two primary e-commerce actions. It doesn't include options like quantity selection or variant choices to maintain its role as a concise, fixed promotional display.
+*****Response***** -->
+</body>

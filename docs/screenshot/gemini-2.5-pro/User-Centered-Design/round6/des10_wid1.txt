@@ -1,0 +1,24 @@
+## Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The component is a sleek, wide banner designed to be positioned near the top of the page. It features a sophisticated color palette with a deep navy blue background (#1a253c) and crisp white text for high contrast and readability. The primary call-to-action button, labeled "Join for Free," uses a vibrant gold color (#f7b733) to immediately draw the user's attention and create a sense of premium value.
+
+    The layout is organized using flexbox, aligning the text content to the left and the email submission form to the right, with a small ‘×’ close button on the far right. The heading is large (24px) to be impactful, while the descriptive text is a standard readable size (16px). This design was chosen to feel professional and trustworthy, encouraging sign-ups by clearly presenting the value proposition and making the action step (the form) visually prominent and easy to use.
+
+    ## Question 2: What triggers the appearance of this widget?
+
+    This widget is designed to appear automatically on page load for specific users. Its appearance is not triggered by a user action like a click or scroll, but rather by the user's status. It would typically be shown to all first-time visitors or any user who is not logged in as a member. 
+    
+    To ensure a good user experience, its visibility would be controlled by cookies or session storage. For instance, once a user signs up or explicitly dismisses the banner by clicking the close button, a cookie would be set to prevent it from appearing on subsequent page loads during their session or for a set period. This ensures the offer is highly visible to potential members without becoming a persistent annoyance to those who have already made a decision.
+
+    ## Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users have three primary interactions with this widget:
+
+    1.  **Signing Up:** The main intended interaction is to sign up. The user can click on the input field, which will show a gold focus outline for clear feedback. They can type their email address (the field requires a valid email format) and then click the "Join for Free" button. The button provides visual feedback by lifting slightly and changing color on hover, and clicking it would submit the form.
+
+    2.  **Dismissing:** If the user is not interested, they can dismiss the banner. The universally recognized '×' icon on the top right serves as a close button. Hovering over it makes it brighter, indicating it's clickable. Clicking it would permanently hide the banner for the user's session.
+
+    3.  **Ignoring:** The user can choose to ignore the banner entirely. Since it is positioned 'sticky' at the top of the viewport, it will remain in view as they scroll down the page, serving as a persistent but unobtrusive reminder of the membership offer.
+    
+    *****Response***** -->
+</body>

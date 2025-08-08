@@ -1,0 +1,5 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation. It uses a blue color scheme (#007BFF) for prices and CTAs to draw attention and encourage clicks, aligning with trust and urgency cues. The layout is split into two sections for shipping and add-ons, with card-based options (gray background, #f9f9f9) for clarity. Text sizes are hierarchical (1.5rem for titles, 1.1rem for options) to guide focus. This design maximizes readability and conversion by simplifying choices and highlighting value.
+
+Question 2: The widget appears during the checkout process or when a user views their cart, ensuring it’s relevant to the purchase decision. It can also be triggered on product pages to upsell shipping and add-ons early, increasing order value.
+
+Question 3: Users can interact by clicking on shipping options or add-ons to select them, with hover effects providing visual feedback. Clicking the “Add Selected Options to Cart” button confirms choices. The design allows deselection by re-clicking cards, ensuring flexibility and reducing cart abandonment through clear control. -->

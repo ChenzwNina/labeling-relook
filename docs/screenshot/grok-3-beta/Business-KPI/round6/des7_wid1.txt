@@ -1,0 +1,7 @@
+-->
+    <!-- Question 4.1: The widget features a clean white background with subtle shadows for depth, positioned 20px from the top. It uses a coral CTA button (#ff6f61) for visibility, gold stars (#f1c40f) for ratings to attract attention, and blue links (#007bff) for product navigation. The layout is centered with a max-width of 1200px, displaying three rating cards (280px wide) with hover effects for interactivity. These choices build trust through social proof, encourage clicks with vibrant colors, and maximize readability with balanced spacing, all driving conversions and engagement. -->
+
+    <!-- Question 4.2: The widget appears statically at the top of the homepage or product pages to immediately showcase customer feedback. It’s triggered on page load to ensure visibility without disrupting user flow, reinforcing trust early in the shopping journey to reduce bounce rates and cart abandonment. -->
+
+    <!-- Question 4.3: Users can hover over rating cards for a subtle lift effect, enhancing engagement. They can click product links to view items, driving page views, and click the “See More Reviews” button to explore additional feedback, increasing time on site. These interactions build trust, encourage purchases, and reduce abandonment. -->
+</body>

@@ -1,0 +1,29 @@
+-->
+<!--
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, modern navigation bar that is horizontally centered and fixed 20 pixels from the top of the viewport. It features a soft white background (`#FFFFFF`) with a subtle box-shadow, making it float above the page content and establishing its importance. The primary text is a dark grey (`#333333`) using the 'Lato' font for excellent readability. Main category links are a prominent 16px, bold, and uppercase to be easily scannable.
+
+The "Sale" link is styled in a vibrant red (`#e63946`) to act as a powerful call-to-action, directly addressing Rule 3.1 (maximize sales). Hovering over links changes their color to a professional blue (`#007bff`), providing clear user feedback. Hovering over "Women" or "Men" reveals a large, well-organized mega menu. This menu uses columns to neatly display sub-categories, preventing user overwhelm and encouraging exploration, which supports Rule 3.5 (maximize time on site) and 3.6 (maximize page views). One mega menu includes a promotional image block to maximize click-through rates on featured collections (Rule 3.4). This entire design is intended to feel trustworthy, premium, and effortless to navigate.
+-->
+<!--
+4.2 Question 2: What triggers the appearance of this widget?
+
+The navigation bar's appearance is triggered by the page load itself. It is a persistent, static element designed to be immediately visible and accessible to the user from the moment they land on the site. Its `position: fixed` CSS property ensures it does not scroll with the page content, remaining locked in place at the top of the viewport.
+
+This immediate and constant availability is a critical design choice for a primary navigation component. It minimizes user friction and cognitive load, as users don't have to search for navigation controls. By always being present, it directly helps to minimize the bounce rate (Rule 3.9), as users can instantly see clear paths to browse the site's offerings. The *mega menus* within the component are the only parts triggered by a specific user action, appearing when the user hovers their mouse over a corresponding main category link.
+-->
+<!--
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have several clear and intuitive interactions with this navigation widget, designed to guide them efficiently through the site.
+
+1.  **Hovering:** When a user moves their mouse cursor over a main category link like "Women" or "Men", a large "mega menu" gracefully fades and slides into view. This reveals multiple columns of sub-categories without requiring a click, allowing for quick exploration of the product range. This interaction is designed to maximize page views and time on site (Rules 3.5, 3.6).
+
+2.  **Clicking on Main Links:** A direct click on a main category link (e.g., "Accessories" or the "Sale" button) will navigate the user to the respective main category landing page. The "Sale" link is intentionally distinct to draw clicks and maximize revenue (Rule 3.1).
+
+3.  **Clicking on Sub-category Links:** Within the mega menu, users can click on more specific links like "Summer Dresses" or "Graphic T-Shirts." This provides a direct path to a filtered product listing page, streamlining the shopping process and increasing the conversion rate (Rule 3.2).
+
+4.  **Clicking on Promotions:** The promotional block within the mega menu is also clickable. Users can click on the image or the "Shop The Collection" link to be taken directly to a featured campaign or new arrivals page, maximizing click-through on high-margin items (Rule 3.4).
+-->
+</body>

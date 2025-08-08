@@ -1,0 +1,57 @@
+-->
+<!--
+Q1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The ratings widget is a card-like component with a clean white background (#ffffff), rounded corners, and a subtle box shadow for depth. It's centered horizontally and fixed 20px from the top of the viewport, ensuring it's always visible. The page has a light gray background (#e9e9e9) to make the widget pop.
+
+Colors:
+- Text: Dark grays (#333, #2c3e50) ensure high readability.
+- Stars: Bright gold (#FFC107) for filled/active stars, and light gray (#e0e0e0) for empty ones (though for a 4.6 rating, all 5 average stars are shown as gold, reflecting common rounding).
+- Progress Bars: A color spectrum from green (#28a745 for 5-stars) to red (#dc3545 for 1-star) offers an intuitive visual summary of rating distribution.
+- CTA Button: A vibrant blue (#007bff) with white text, a standard for primary actions, drawing user attention.
+
+Sizes:
+- Overall Score (e.g., "4.6"): Prominently displayed at 48px.
+- Average Stars: 24px, clearly visible.
+- Title ("Customer Reviews for..."): 22px, establishing hierarchy.
+- Breakdown Text/Labels: 14px for detailed percentages and star counts, maintaining clarity.
+
+Layout:
+1.  Header: Product-specific title (e.g., "Customer Reviews for Premium Organic Matcha Tea Powder").
+2.  Main Content: A two-column flex layout (on wider screens).
+    *   Left Column: Displays the large numerical average rating, its visual star equivalent, and the total number of reviews.
+    *   Right Column: Shows a detailed breakdown of ratings by star (5 down to 1), each with a label, a horizontal progress bar, and the percentage of reviews.
+3.  Footer: A centered "Rate This Product" call-to-action button.
+On smaller screens (<600px), the two columns stack vertically for better mobile usability.
+
+Design Rationale:
+These choices aim for high clarity, trust, and ease of use, common in e-commerce. The visual hierarchy guides users from the overall summary to details. Standard colors and interactive feedback (hovers) enhance affordance and user experience. Progress bars offer quick insights into review sentiment distribution.
+-->
+
+<!--
+Q2: What triggers the appearance of this widget?
+
+The appearance of this ratings widget is triggered by the loading of a product detail page on the e-commerce website. It's designed as an integral part of the product's information, not as a conditional pop-up or overlay. When a user navigates to a specific product page, the HTML and CSS for this component are rendered along with other product details like images, description, and price.
+
+Because it's styled with `position: fixed` and a `top: 20px` offset, it appears at the top of the viewport as soon as the page (or at least that part of the DOM) loads and remains there even if the user scrolls down the page, providing persistent visibility of the customer ratings summary.
+-->
+
+<!--
+Q3: Can you describe the full range of interactions users can have with the widget?
+
+Users can engage with the ratings widget in the following ways:
+
+1.  **Information Consumption:**
+    *   View the overall average numerical rating (e.g., "4.6").
+    *   See the visual representation of this average via gold-colored stars.
+    *   Read the total number of reviews contributing to the average (e.g., "Based on 432 reviews").
+    *   Examine the detailed star-by-star breakdown, observing the percentage and visual progress bar for each rating tier (1 to 5 stars).
+
+2.  **Interactive Exploration (Affordances & Feedback):**
+    *   Hovering over any row in the rating breakdown (e.g., "4 stars - 18%") changes its background color, providing visual feedback and indicating it as a distinct interactive element.
+    *   Each breakdown row includes a `title` attribute that reveals the exact count of reviews for that star level on hover (e.g., "View 4-star reviews (78 reviews)"), offering more granular data. While not functional in this static example, this suggests potential for filtering reviews in a live application.
+
+3.  **Initiating a Review Submission:**
+    *   Users can click the "Rate This Product" button. This button provides clear visual feedback with hover (color change, slight lift) and active (darker color) states.
+    *   Clicking this button is intended to either scroll the user to a review form further down the page (as suggested by the `href="#write-review-form"`) or trigger a modal/pop-up containing a form for submitting their own star rating and textual review.
+-->

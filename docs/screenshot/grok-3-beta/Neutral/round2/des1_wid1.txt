@@ -1,0 +1,6 @@
+Question 1: The deals banner spans the full width of the viewport with a gradient background transitioning from coral (#ff6f61) to a warm peach (#ffb88c), creating a vibrant and attention-grabbing look. The text is white, 18px, and bold for readability, while the "Shop Now" button is white with coral text, 16px, for contrast. The layout uses flexbox to center content horizontally (or vertically on mobile for responsiveness). These choices mimic e-commerce trends—bright colors evoke urgency, and a clear CTA button drives action.
+
+Question 2: The banner appears automatically when a user loads the homepage or navigates to key sections like product categories. It could also be triggered by a time-based event, such as the start of a flash sale, or by user behavior, like returning after a period of inactivity, to re-engage them with current promotions.
+
+Question 3: Users can interact with the banner by clicking the "Shop Now" button, which redirects to the deals page. Hovering over the button changes its background to a light pink for visual feedback. On mobile, the layout adjusts for easier readability and tap targets. No other direct interactions are included to maintain simplicity and focus on the CTA.
+***** -->

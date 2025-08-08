@@ -1,0 +1,7 @@
+4.1 Question 1: The widget is a compact, centered sign-in card with a white background, soft shadow, and rounded corners, positioned 20px from the top for visibility. Key elements include the ShopEase logo, bold "Sign in to ShopEase" header, clear labelled fields for email and password, "Remember me" checkbox, "Forgot password?" link, blue gradient sign-in button, an "or" separator, a Google sign-in button with logo, and a prompt with a link to register. Inputs and buttons have strong affordances and clear feedback, using blue tones for actions and error (or success) messages for guidance. These choices create confidence, maintain consistent e-commerce standards, and make all actions clear.
+
+  4.2 Question 2: This sign-in widget appears when users select “Sign in” from the site’s top navigation bar, during checkout (when authentication is required), or are redirected from a restricted page. It's designed as a main authentication entry point for returning customers.
+
+  4.3 Question 3: Users can enter their email and password, toggle “Remember me,” click “Forgot password?” to recover access, or use “Sign in with Google.” All input errors (such as missing or invalid email/password) provide immediate feedback. Submission is blocked until valid. Users can also access registration if they don’t have an account. Interactive elements give visual feedback on focus/hover, and buttons show progress after clicking.
+  -->
+</body>

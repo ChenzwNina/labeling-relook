@@ -1,0 +1,5 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for elevation. It uses a green (#2ecc71) for active status steps to indicate progress and blue (#3498db) for the button to draw attention. The layout is centered with a max-width of 800px for readability, and elements like the status tracker use a visual timeline with icons for clarity. Font sizes are hierarchical (1.5rem for header, 1rem for details) to guide focus. These choices mimic e-commerce standards for trust and usability. -->
+    <!-- Question 2: This widget appears when a user logs into their account and has an active order, or when they navigate to an order tracking page. It can also be triggered by clicking a notification or email link related to their order status. -->
+    <!-- Question 3: Users can view key order details at a glance, observe the progress via the status tracker, and interact by clicking the "View Full Details" button to access a detailed tracking page. Hover effects on the button provide visual feedback, enhancing usability. -->
+</body>

@@ -1,0 +1,8 @@
+4.1 Question 1: The widget is a compact, visually appealing sign-up form with a 20px margin from the top. It uses a white card-style background with rounded corners, subtle drop-shadow, and the brand logo at the top. The header text is bold, with a subheader explaining the value of creating an account. Input fields are spacious and modern with clear labels. A benefits list uses checkmarks for trust/clarity. The CTA button uses a warm gradient (orange/yellow) for attention and urgency. Alternative sign-up options (Google/Facebook) use familiar brand colors. "Already have an account?" and a "See latest deals" link keep engagement options open. These design choices focus on trust, clarity, conversion, and easy navigation.
+
+  4.2 Question 2: The widget is displayed automatically for new users or users who click “Sign up” anywhere on the site. It can also appear as a modal or inline on landing, deals, or checkout pages for conversion optimization.
+
+  4.3 Question 3: Users can enter their name, email, and password (toggle show/hide), accept terms, and submit the form. They can also sign up with Google or Facebook. Links allow users to switch to sign-in or view current promotions (keeping the user on-site). Invalid submissions will be handled by usual form validation, minimizing abandonment.
+
+  -->
+</body>

@@ -1,0 +1,29 @@
+-->
+<!--
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, horizontal banner that is positioned at the top of the viewport. It has rounded corners and a subtle box-shadow, making it appear modern and layered above the page content.
+
+*   **Layout:** It uses a flexbox layout to neatly align elements: a delivery truck icon on the left, the main tracking information in the center, and a call-to-action (CTA) button and close icon on the right. This creates a clear, scannable path for the user.
+*   **Colors:** The primary color palette is white, black/dark gray, and a vibrant, trustworthy blue (#007aff). The background is white for a clean look. Text is dark for high readability. The blue is used as an accent for the icon and the CTA button, drawing attention to key elements. A positive green (#34c759) is used for the ETA to convey good news. This color strategy is designed to build user trust and confidence in the brand.
+*   **Elements:** A progress bar provides an immediate visual summary of the order's journey. Text is sized hierarchically, with the main status being the most prominent. These choices reduce customer anxiety and the need to contact support, fostering a positive post-purchase experience that encourages repeat business (Rule 3.7).
+-->
+<!--
+4.2 Question 2: What triggers the appearance of this widget?
+
+The appearance of this widget is triggered for a logged-in user who has a recent, active order in the final stages of delivery (e.g., status is "Shipped" or "Out for Delivery"). It would load automatically when the user visits key pages of the website, such as the homepage, their account dashboard, or even a product page.
+
+To avoid being intrusive, its appearance would be managed by a session cookie. Once the user dismisses the banner using the 'X' button, the cookie would prevent it from reappearing on subsequent page loads within that same browsing session. The banner would reappear in a future session if the order is still in transit, or it would be replaced by a new banner for a subsequent order. This balances providing helpful, proactive information with respecting the user's control over their interface, which helps minimize user friction and potential bounce rate (Rule 3.9).
+-->
+<!--
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three main interactions with the widget, designed to be both informative and user-friendly:
+
+1.  **Passive Information Consumption:** The primary interaction is simply viewing the banner. Without any clicks, the user can instantly see their order's status, the specific item, their order number, and the estimated delivery time. The progress bar offers an immediate visual cue of the delivery journey. This fulfills the core purpose of proactive communication, reducing customer anxiety and building brand trust.
+
+2.  **Active Engagement (CTA Click):** The user can click the prominent "Track Package" button. This is the main call-to-action. This click directs them to a dedicated, more detailed tracking page, which could feature a map view, a complete history of shipping scans, and carrier details. This interaction is designed to increase user engagement metrics like page views per visit and time on site (Rules 3.5, 3.6).
+
+3.  **Dismissal (Close Button):** The user can click the 'X' icon to close the banner. This action immediately hides the widget and sets a session cookie, preventing it from reappearing during their current visit. This respects the user's focus and ensures the widget doesn't become an annoyance, which is crucial for maintaining a positive user experience and minimizing site abandonment (Rule 3.8).
+-->
+</body>

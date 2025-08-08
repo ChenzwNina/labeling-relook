@@ -1,0 +1,6 @@
+Question 1: The widget is a clean, modern horizontal search bar with a white background, subtle box-shadow, and rounded corners, centered near the top of the viewport (20px margin). On the left, it features a shop logo placeholder image (40x40px), followed by a wide search field with soft gray background and light border that highlights blue when active. To the right of the input is a blue 'Search' button with white text and slight hover darkening. On wider screens, a hint below suggests popular searches in muted gray. The layout is compact yet prominent, drawing users to the primary search function, while remaining visually consistent with contemporary e-commerce UI trends.
+
+Question 2: This widget appears fixed at the top of the e-commerce website's home page, or on subsequent pages where a prominent product search is required. It is intended to always be visible to users upon page load, so they can immediately begin searching for products.
+
+Question 3: Users can interact with the widget by clicking on the input field to focus and type their search query. They can also submit their search using the "Search" button or by pressing Enter. The popular searches hint can guide users but is non-interactive. The logo can be adjusted to be clickable (e.g., home navigation) if needed. The panel is responsive, adjusting layout and size for smaller screens.
+-->

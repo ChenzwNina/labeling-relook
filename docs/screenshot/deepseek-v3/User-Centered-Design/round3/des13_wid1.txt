@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth. Input fields are full-width with light borders that turn blue on focus. The sign-in button is a prominent blue color that darkens on hover. Text sizes are hierarchical (24px for header, 14px for labels, 16px for button) for clear information flow. These choices prioritize usability - sufficient contrast for readability, clear visual feedback for interactions, and a layout that guides users naturally through the sign-in process.
+
+    Question 2: This widget would typically appear when a user clicks a "Sign In" link in the website's header navigation. It could also appear automatically when a user attempts to access account-specific features like viewing order history or proceeding to checkout while not logged in.
+
+    Question 3: Users can: 1) Enter email and password in the text fields, 2) Submit the form by clicking the button or pressing Enter, 3) Click "Forgot password" to initiate password recovery, 4) Click "Sign up" to navigate to account creation. The interface provides visual feedback - field borders change color on focus, the button darkens on hover, and required field validation would occur on submission attempt.
+    -->

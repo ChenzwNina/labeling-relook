@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and blue accents. It has a width of 350px with appropriate padding, making it compact yet readable. Input fields are full-width with subtle borders that highlight on focus. The color scheme (blue buttons, dark gray text) creates good contrast while maintaining a professional e-commerce aesthetic. The layout is intuitive with labels above inputs, following standard form design patterns for optimal usability.
+
+    Question 2: This widget would typically appear when a user clicks a "Sign Up" or "Create Account" button in the website's header/navigation, or when attempting to checkout without an account. It could also appear as a modal overlay when first-time visitors land on product pages.
+
+    Question 3: Users can: 1) Fill in form fields (name, email, password), 2) See real-time validation errors, 3) Submit the form (with success feedback), 4) Click the login link to switch to login mode, 5) Get password requirements guidance on focus. The form prevents submission until all validations pass, ensuring data quality.
+    -->
+</body>

@@ -1,0 +1,9 @@
+Question 1: The widget is a fixed banner with a linear gradient background ranging from orange (#ff9800) to deep orange (#ff5722), signifying urgency and excitement. Elements are horizontally arranged: a circular white icon area (54px), bold deal text, and prominent "View Deals" button (rounded, white background, orange text). A large '×' close icon sits top-right. Layout is spacious; all text is highly legible. Hover/focus states highlight interactivity. These choices maximize visibility, clarity, and ensure mobile responsiveness.
+
+  Question 2: The widget automatically appears at the top of the viewport on page load, positioned 20px from the top. Its prominent animation (slide down) and striking colors instantly draw user attention, fitting the time-sensitive nature of deals.
+
+  Question 3: Users can:
+  - Click "View Deals" to be taken directly to the deals page.
+  - Click/keyboard on the close (×) button to dismiss the banner (which immediately hides it).
+  All interactive elements have hover/focus states and ARIA labels for accessibility. No other actions are permitted.
+  -->

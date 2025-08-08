@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, modern design with a white background and subtle shadow. It displays the average rating (4.7) in large bold text, gold stars for visual appeal, and a breakdown of ratings by percentage. The design uses a neutral color palette with gold accents to highlight important elements while maintaining readability. The layout is organized hierarchically to guide users from the overall rating to detailed breakdowns, ending with a clear call-to-action button.
+
+    Question 2: This widget would typically appear on a product page, either immediately visible or triggered when a user clicks a "See Reviews" button. It might also appear in a popup when hovering over a product's star rating in search results or category pages.
+
+    Question 3: Users can view the average rating and distribution of ratings. They can click the "Write a Review" button to submit their own rating and review. The widget could be expanded to allow filtering reviews by star rating (clicking on a star bar), sorting reviews, or viewing individual reviews in more detail.
+    -->
+</body>

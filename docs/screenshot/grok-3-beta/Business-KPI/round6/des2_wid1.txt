@@ -1,0 +1,6 @@
+Question 1: The widget features a clean, white background with a subtle shadow for depth, positioned fixed at the top with a 20px margin. The layout is horizontal, with a centered container for alignment, using a bold red (#e74c3c) for highlights like "Hot Deals" and promotional text to draw attention. Navigation items are evenly spaced with a modern font size (16px) for readability. Hover effects include color change and slight scaling for interactivity. These choices enhance visibility, encourage clicks (maximizing conversion), and create a professional, trustworthy look to retain users.
+
+Question 2: The widget appears on every page load as a persistent navigation bar at the top of the viewport. It remains fixed while scrolling, ensuring constant access to categories, which minimizes bounce rate and maximizes page views by facilitating easy exploration.
+
+Question 3: Users can interact by hovering over category links for visual feedback (color change and scale), clicking to navigate to specific product sections, and noticing the promo text for shipping offers, encouraging larger orders. These interactions drive engagement, reduce cart abandonment by promoting deals, and increase time on site through seamless navigation.
+-->

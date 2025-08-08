@@ -1,0 +1,47 @@
+## 3.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The widget is a rectangular, modal-like container with rounded corners (10px) and a soft box shadow, giving it a modern, elevated appearance against the page background. It's positioned 20px from the top of the viewport and centered horizontally.
+
+    **Colors:**
+    *   Background: Clean white (#ffffff) for the main card.
+    *   Text: Uses a hierarchy of dark blue-greys for titles (#2c3e50, #34495e) and text (#3f5161, #5a6a78), ensuring high readability.
+    *   Prices: A distinct green (#1a9657) to associate with value and positivity.
+    *   Interactive Elements: Radio buttons and checkboxes use a primary blue (`accent-color: #007bff`) for their selected state. The main call-to-action button is a vibrant green (#28a745).
+    *   Borders/Separators: Subtle light greys (#dee2e6, #ecf0f1, #f1f3f5) for structure without visual clutter.
+
+    **Size of Elements:**
+    *   Overall dimensions: Max-width of 580px, responsive via `width: 90%`.
+    *   Typography: Main title (H2) is ~1.7em, section titles (H3) ~1.3em. Option text is around 0.98em, with strong tags slightly larger and small descriptive text smaller, creating clear visual hierarchy.
+    *   Inputs: Radio/checkboxes are scaled (1.15x) for easier tapping/clicking.
+    *   Button: Prominently sized with ample padding and 1.15em font size.
+
+    **Layout:**
+    *   The overall layout is a single column with clear sections for "Shipping Method" and "Optional Order Enhancements."
+    *   Each option within these sections uses a flexbox layout: input (radio/checkbox) on the left, then a block for option details (title and sub-description stacked vertically), and finally the price aligned to the far right. This is a common and scannable pattern for e-commerce choices.
+    *   Generous padding and margins are used throughout for spacing and visual separation.
+
+    **Design Choices Rationale:**
+    These choices aim for a clean, user-friendly, and trustworthy interface, typical of modern e-commerce sites. The color palette emphasizes readability and clear calls to action. The layout prioritizes scannability and ease of selection. Rounded corners and shadows provide a soft, contemporary feel. Responsiveness ensures usability across device sizes.
+
+    ## 3.2 Question 2: What triggers the appearance of this widget?
+
+    This widget is typically triggered during the checkout process on an e-commerce website. Common scenarios for its appearance include:
+    1.  **Advancing from the Cart:** After a user reviews their shopping cart and clicks a button like "Proceed to Checkout" or "Enter Shipping Details."
+    2.  **After Address Entry:** Once the user has submitted their shipping address, as shipping options and costs can be location-dependent. This widget would then allow them to choose from available services for that address.
+    3.  **Dedicated Checkout Step:** In a multi-step checkout flow (e.g., Cart -> Address -> Shipping -> Payment), this widget would constitute the "Shipping" step.
+    4.  **Modal Trigger:** It could also appear as a modal overlay if the user clicks a specific link or button on the cart/checkout page like "Change Shipping Options" or if these selections are mandatory and haven't been made yet.
+
+    The most common trigger is moving to the stage where shipping details need to be confirmed before payment.
+
+    ## 3.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+    Users can interact with the widget in the following ways:
+
+    1.  **View Information:** Users can read the available shipping methods and optional add-ons, including their names, descriptive details (like delivery times or what's included), and associated costs.
+    2.  **Select Shipping Method:** They can click on a radio button or the associated option text/area for a shipping method. Only one shipping method can be active at a time; selecting a new one deselects any previous choice. The `checked` state is visually indicated.
+    3.  **Select/Deselect Add-ons:** Users can click on a checkbox or its associated option text/area for an add-on. Multiple add-ons can be selected independently. Clicking a selected checkbox will deselect it. The `checked` state is visually indicated.
+    4.  **Hover Feedback:** Hovering over selectable options (the entire `.option` div) provides a subtle background color change, and hovering over the call-to-action button changes its background color and shadow, indicating interactivity.
+    5.  **Confirm Choices:** Users click the "Confirm & Continue to Payment" button. This action typically finalizes their shipping and add-on selections, updates the order total (which would be handled by JavaScript/backend), and navigates them to the next step in the checkout, usually payment.
+    6.  **No Direct Close (in this design):** As designed, there's no explicit "close" or "cancel" button on the widget itself, implying it's a mandatory step in a flow. If it were a true modal overlay for optional changes, a close icon/button would typically be present.
+*****Response***** -->
+</body>

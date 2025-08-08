@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based design with a white background, subtle shadow, and rounded corners. It includes a product image (200px height), title (16px), price (18px, blue), and rating (14px, yellow stars). The "Add to Cart" button is green with white text. These choices create visual hierarchy, emphasize key information, and follow e-commerce best practices for readability and conversion.
+
+    Question 2: This widget appears as part of a product listing page, category page, or search results in an e-commerce site. It can also appear in recommendation sections ("Customers also bought") or promotional displays. The component renders when the page loads these product listings.
+
+    Question 3: Users can: 1) Click the product image/title to view details, 2) Click the heart icon to toggle wishlist status (turns red when active), 3) Click "Add to Cart" to add the item to their cart, 4) Hover over the card to see a subtle lift effect. These interactions provide essential e-commerce functionality while maintaining simplicity.
+    -->
+</body>

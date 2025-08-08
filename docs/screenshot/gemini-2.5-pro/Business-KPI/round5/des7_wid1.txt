@@ -1,0 +1,35 @@
+-->
+<!--
+Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a clean, modern-looking bar centered at the top of the viewport. It has a soft white background, rounded corners, and a subtle drop shadow to make it float above the page content. The layout is a horizontal flexbox, ensuring elements are neatly aligned.
+
+- **Colors:** The palette is chosen to build trust. A prominent green checkmark icon conveys verification and positivity. Star ratings are a classic gold/yellow, a universally understood symbol for quality. The primary call-to-action (CTA) button is a strong, confident blue to attract clicks, while the main text is a highly readable dark grey/black.
+
+- **Size & Layout:** The widget is not full-width, preventing it from feeling like an intrusive ad banner. This focused size draws the eye without overwhelming the page. The content is organized with a clear hierarchy: a large "Trusted by..." social proof headline, followed by the specific star rating, and finally the action-oriented CTA. This layout guides the user from establishing trust to taking a revenue-generating action. The design is responsive, stacking vertically on smaller screens for optimal readability.
+-->
+<!--
+Question 4.2: What triggers the appearance of this widget?
+
+The appearance of this widget is triggered primarily for new or unauthenticated visitors landing on the site for the first time, especially those arriving from external marketing channels like paid ads, social media, or email campaigns. The goal is to immediately build trust and reduce the bounce rate for this critical user segment.
+
+Technically, it would be triggered by the absence of a specific cookie on the user's browser. The widget appears shortly after the page loads (using a 0.5s fade-in animation) to avoid being jarring.
+
+It would be configured NOT to appear for:
+1.  Returning customers who have already made a purchase.
+2.  Any user who has previously dismissed the widget by clicking the 'close' button (this would set the cookie to prevent reappearance for a set duration, e.g., 30 days).
+
+This conditional triggering ensures the message is impactful for the right audience without annoying loyal or returning users.
+-->
+<!--
+Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three main interactions with the widget, each designed to support different user intents and business goals:
+
+1.  **Clicking the "Explore Best-Sellers" CTA:** This is the primary intended action. It directly leverages the trust established by the ratings to guide users toward a high-conversion page featuring popular products. This interaction is designed to maximize sales, increase average order value, and improve page views per visit.
+
+2.  **Clicking the Main Content Area:** A user might click on the text or the star rating itself out of curiosity. This secondary interaction would navigate them to a dedicated, detailed customer reviews page. This caters to users who need more information before trusting the brand, helping to increase their time on site and further solidifying their confidence in making a purchase.
+
+3.  **Dismissing the Widget:** Users can click the 'X' icon to close the widget. This is a crucial user experience feature that respects user choice. Upon clicking, the widget disappears, and a cookie is set to prevent it from showing again for a significant period. This minimizes user annoyance and ensures the tool remains a positive brand touchpoint rather than an intrusive element.
+-->
+</body>

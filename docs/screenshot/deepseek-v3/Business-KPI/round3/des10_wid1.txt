@@ -1,0 +1,6 @@
+Question 1: The widget has a clean, modern design with a white background and blue accents. It's 350px wide with rounded corners and subtle shadow for depth. Input fields are full-width with proper spacing, and the submit button is a prominent blue. This design ensures readability, accessibility, and visual hierarchy while maintaining a professional ecommerce aesthetic.
+
+    Question 2: This widget would typically appear when a user clicks a "Join Membership" or "Sign Up" button in the website header/navigation, or as a popup after adding items to cart for first-time visitors. It could also appear as a persistent section on account/login pages.
+
+    Question 3: Users can: 1) Fill in form fields (name, email, password) with validation, 2) Submit the form which triggers success feedback, 3) View membership benefits listed below the form, and 4) Close the widget if implemented as a modal (though not shown in this basic implementation).
+    -->

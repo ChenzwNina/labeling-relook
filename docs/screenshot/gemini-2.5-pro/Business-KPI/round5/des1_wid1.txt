@@ -1,0 +1,25 @@
+-->
+<!-- 
+    Question 4.1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+    The component is a wide, rectangular banner fixed near the top of the viewport. It features a rich, dark blue gradient background (#1a2a6c to #2d46a8) which conveys trust and professionalism while being eye-catching. The text is high-contrast white ('Poppins' font) for maximum readability. 
+    
+    The layout is organized using flexbox. On wider screens, it has a prominent headline on the left, followed by a vertical separator, and then three distinct deal sections spread horizontally. Each deal has a bold title, a descriptive subtitle, and a bright orange call-to-action (CTA) button. This orange contrasts sharply with the blue background, drawing the user's eye and encouraging clicks (a key principle for conversion). The banner has rounded corners and a subtle drop shadow, giving it a modern, "lifted" feel that separates it from the page content. These choices create a visually appealing, uncluttered, and actionable component designed to immediately present value to the user.
+-->
+<!-- 
+    Question 4.2: What triggers the appearance of this widget?
+
+    The appearance of this widget is triggered on page load. As soon as a user lands on a key page of the website—such as the homepage, a category page, or even a product page—the banner animates in from the top. This immediate visibility ensures that every visitor is instantly aware of the current top promotions, which is critical for maximizing sales and conversion rates. This strategy serves to capture the user's attention right away, providing them with compelling reasons to engage with the site and explore its offerings rather than bouncing. For a better user experience, once the banner is dismissed by the user, it should not reappear during the same browsing session, a behavior typically managed with a session cookie or browser sessionStorage.
+-->
+<!-- 
+    Question 4.3: Can you describe the full range of interactions users can have with the widget?
+
+    Users have three primary interactions with the deals banner:
+
+    1.  **Clicking a Deal:** Each of the three promotional sections is a clickable zone. Clicking on a specific deal (e.g., "Up to 50% Off Winter Wear") or its corresponding "Shop Now" button navigates the user directly to the relevant landing page. This targeted navigation streamlines the user journey, reduces friction, and increases the likelihood of conversion for that specific offer.
+
+    2.  **Dismissing the Banner:** A user can click the '×' icon located at the top-right corner to close the banner. This is a crucial user experience feature, giving control to the visitor and preventing the banner from becoming an annoyance. This action removes the banner from view for the remainder of their session.
+
+    3.  **Visual Feedback on Hover:** When a user hovers their mouse over any of the individual deal items or the CTA buttons, they receive visual feedback. The deal area might subtly lift or change background color, and the CTA button brightens. This interactivity confirms that the elements are clickable and makes the interface feel more responsive and engaging.
+-->
+</body>

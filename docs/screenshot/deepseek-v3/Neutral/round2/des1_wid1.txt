@@ -1,0 +1,6 @@
+Question 1: The widget features a gradient banner (pink to teal) with white text for contrast. Deal items have semi-transparent white backgrounds with rounded corners, sized at minimum 200px width. The layout uses flexbox for responsive spacing. These choices create visual appeal while maintaining readability and mobile responsiveness. The hover effect adds interactivity.
+
+    Question 2: The banner appears automatically on page load as it's placed in the document body. In a real implementation, this might be triggered by user behavior (first visit, returning after time away) or timed promotions.
+
+    Question 3: Users can: 1) View multiple deals at once, 2) Hover over deals for a slight zoom effect, 3) Click anywhere on a deal (would link to relevant products), 4) Close the banner entirely using the × button (would require JavaScript in implementation).
+    -->

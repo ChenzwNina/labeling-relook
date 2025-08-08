@@ -1,0 +1,7 @@
+Question 1: The widget has a clean, modern design with a white background and subtle shadow. It uses Amazon-style orange (#FFA41C) for ratings to leverage familiar e-commerce conventions. The layout shows the average rating prominently (large font) with star visuals, followed by detailed breakdown bars. I chose this design because it's immediately recognizable, provides comprehensive information at a glance, and maintains good visual hierarchy with contrasting sizes and spacing.
+
+    Question 2: This widget typically appears on product pages, triggered when a user views a product listing. It loads automatically with the page content, as ratings are crucial purchase decision factors. The "Write a review" button would trigger a modal or new page when clicked.
+
+    Question 3: Users can: 1) View the average rating and total reviews, 2) Scan the visual breakdown of star distribution, 3) Click the "Write a review" button to submit their own rating (which would open a review form), and 4) Potentially hover over elements for more details (like exact percentages) if implemented with interactivity.
+    -->
+</body>

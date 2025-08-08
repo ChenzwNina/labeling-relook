@@ -1,0 +1,6 @@
+Question 1: The search panel is designed with a clean, modern look using a white background with subtle shadow for elevation, ensuring it stands out at the top of the page. The search bar is wide (60% of viewport, max 600px) for easy input, with a rounded design for a friendly feel. The blue (#007bff) search button contrasts with the white input field, drawing attention and encouraging clicks. Quick links in blue provide easy navigation to popular categories. These choices prioritize visibility, usability, and brand consistency to drive conversions and engagement.
+
+Question 2: The search panel appears persistently at the top of the page (fixed position with 20px margin) on every page of the e-commerce site. It is always visible to ensure users can search or navigate at any time without scrolling, reducing friction and bounce rates.
+
+Question 3: Users can interact with the widget by typing queries into the search bar, clicking the search button to initiate a search, and hovering over or clicking quick links to navigate to curated sections like "Top Deals" or "Best Sellers." The search input highlights on focus, and the button changes shade on hover, providing visual feedback to enhance user experience.
+-->

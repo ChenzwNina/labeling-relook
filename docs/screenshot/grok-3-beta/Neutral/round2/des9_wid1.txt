@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget features a clean, modern design with a white background and subtle shadow for depth, mimicking e-commerce aesthetics. It uses a blue color scheme (#007bff) for prices and buttons to draw attention and evoke trust. Cards for shipping options and add-ons have a consistent layout with clear typography (bold titles at 1.1rem, descriptions at 0.9rem) for readability. The container spans full width with 90% inner content width for balance. These choices ensure a professional, user-friendly experience aligned with e-commerce standards. -->
+
+    <!-- Question 2: This widget appears during the checkout process, typically after users add items to their cart and proceed to finalize their order. It is triggered on the shipping or payment page to allow users to customize their purchase with shipping speed and optional extras before completing the transaction. -->
+
+    <!-- Question 3: Users can interact with the widget by selecting a shipping option via the "Select" button, which may highlight the chosen card or update the order summary. They can also add optional extras like gift wrapping by clicking "Add" buttons. Hover effects on cards and buttons provide visual feedback, enhancing usability. Users may deselect or change options if the interface allows toggling. -->
+</body>

@@ -1,0 +1,7 @@
+4.1: The widget is a clean, elevated card with a white background, rounded corners, and subtle shadow, centered at the top with 20px margin. The header includes a 44x44px icon and bold title. Two main sections provide shipping options (radio buttons in outlined cards with color feedback) and optional add-ons (checkbox rows with price, in a colored outline on selection). Buttons are large and visually distinct: blue for "Continue to Payment", yellow for "See Order Details". At the bottom, a wide banner advertises a timely offer with a vibrant image and CTA. Colors for CTAs (blue, orange) are chosen for high contrast and conversion focus; layout is compact but clear to reduce friction and focus attention. Choices encourage conversion, up-sells, and ad clicks.
+
+  4.2: This widget appears at checkout after items are added to the cart and the customer proceeds to shipping/payment, or as a sticky step when reviewing the order prior to placing it (top of checkout, always visible due to sticky positioning).
+
+  4.3: Users select a shipping method (one radio, instant update of highlight), select/deselect add-ons (by clicking rows or checkboxes, which animate and change border colors), click to view "Order Details" (for review/upsell/cross-sell), proceed to payment with a prominent button, and interact with the ad banner for related promotions—all to reduce friction, maximize engagement, and order value.
+
+  -->

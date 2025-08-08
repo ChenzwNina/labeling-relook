@@ -1,0 +1,7 @@
+-->
+    <!-- Question 1: The widget uses a clean, white background with subtle shadows for elevation, ensuring a modern e-commerce look. Blue (#007bff) highlights selected options and interactive elements, providing contrast and focus. Cards for shipping and add-ons are uniformly sized with consistent spacing (15px padding, 10px margin), aiding readability. The layout is centered with a max-width of 1200px for responsiveness. These choices enhance visibility, consistency, and user satisfaction by aligning with familiar e-commerce design patterns. -->
+
+    <!-- Question 2: This widget appears during the checkout process, typically after the user has added items to their cart and proceeds to finalize shipping details. It is triggered by navigating to the shipping or payment page, ensuring users make necessary selections before completing their purchase. -->
+
+    <!-- Question 3: Users can interact by clicking shipping option cards to select one (highlighted in blue for feedback), toggling checkboxes for add-ons, and clicking the 'Confirm Selection' button to proceed. Hover effects on cards and buttons provide visual cues. The button is disabled until a shipping option is selected, preventing errors. These interactions ensure efficient task completion and clear affordances. -->
+</body>

@@ -1,0 +1,6 @@
+Question 1: The widget is a vivid, modern box centered at the top with rounded corners, subtle shadow, and 20px top margin. It’s 430px wide with clear titles and grouping. Each shipping option is a selectable row: rounded, color-highlighted on select, with radio input, description, and price. Add-ons are below, each with checkboxes, labels, and concise description lines. Total cost updates live, styled in prominent color. The primary button is large, bold, and blue, with state feedback. All padding, colors (#2366e8 for blue, light neutrals for backgrounds), font-sizes (~1rem), and layout follow ecommerce best practices for clarity, hierarchy, and usability.
+
+Question 2: The widget appears at the top of the checkout or cart page, as soon as the user needs to make shipping choices before completing their checkout. It’s positioned with a 20px margin from the top viewport, so it’s immediately visible after the user adds an item to their cart and proceeds toward order completion.
+
+Question 3: Users can 1) choose one shipping method with a radio button (highlighted row); 2) select any add-ons via checkboxes; 3) observe total price updating automatically; 4) “Continue to Payment” only when a method is chosen; 5) see feedback via selection highlights and button states. Focus and keyboard navigation for accessibility is supported. 
+-->

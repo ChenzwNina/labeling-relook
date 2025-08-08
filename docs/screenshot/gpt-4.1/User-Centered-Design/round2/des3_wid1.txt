@@ -1,0 +1,11 @@
+Question 1:
+  The widget features a clean, modern card at the top center of the viewport, 20px from the top. Colors use a bold blue for impactful elements (buttons and header icons) and soft gray for backgrounds and input outlines, enhancing clarity and contrast. The header is prominent (1.22rem), and buttons are large, easy to click, and clearly highlight affordance. The layout is compact (max-width: 540px) yet spacious, using adequate padding and spacing for comfort and visibility. Consistent iconography aids function recognition.
+
+  Question 2:
+  The search panel widget appears automatically upon landing on the page (top of the viewport). It is always visible to allow fast product searching, making product discovery efficient and central to the shopping experience.
+
+  Question 3:
+  Users can type a query in the input field (with clear focus/focus-within feedback), submit the search with the button or Enter, and see a helpful example hint for forming queries. The input enforces a character limit and cannot be left empty, preventing empty searches. The button gives hover/focus feedback, and the input's placeholder and icons clarify functionality.
+
+  -->
+</body>

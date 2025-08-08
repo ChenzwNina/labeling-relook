@@ -1,0 +1,6 @@
+Question 1: The filter panel is a fixed-position sidebar, 250px wide, with a clean white background, subtle shadow, and rounded corners for a modern look. It uses a bold orange (#e44d26) for the apply button and checked filter labels to draw attention and encourage action, aligning with maximizing conversions and sales. Text hierarchy (h3, h4) and spacing ensure readability, reducing bounce rates. The compact, scrollable design fits various screen sizes, enhancing user engagement and time on site.
+
+Question 2: The widget appears automatically on product listing pages, positioned at the top-left with a 20px margin from the top. It remains visible as users scroll, ensuring constant access to filtering options, which minimizes cart abandonment by simplifying product discovery.
+
+Question 3: Users can interact by selecting multiple checkboxes across categories like price, brand, and category to refine product searches. Hover effects on labels and the apply button provide visual feedback. Clicking "Apply Filters" updates the product list dynamically (assumed functionality), encouraging deeper exploration, increasing page views, and supporting higher order sizes through tailored results.
+***** -->

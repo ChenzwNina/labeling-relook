@@ -1,0 +1,7 @@
+Question 1: The widget features a horizontal navigation bar with a light gray background (#f8f9fa) and subtle shadow. Main category links are dark gray (#333) with 16px font size, turning blue (#0d6efd) on hover. Dropdown menus appear below with white background and stronger shadow, containing 200px-wide items. This clean, minimalist design ensures readability while providing visual feedback through hover states and smooth transitions.
+
+    Question 2: The widget appears as a persistent navigation element at the top of the page. Dropdown menus are triggered by hovering over main category items, appearing with a smooth fade-in effect. The main navigation is always visible to ensure constant access to product categories.
+
+    Question 3: Users can: 1) Hover over main categories to reveal dropdown menus, 2) Click any category or subcategory link to navigate, 3) Experience visual feedback (color change, background highlight) during interactions. The dropdown remains visible while hovering over it, disappearing when the cursor leaves the category area.
+    -->
+</body>

@@ -1,0 +1,20 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, self-contained card with rounded corners and a subtle shadow, making it float visually on the page. It uses a single-column layout for mobile-first clarity, with a maximum width of 480px for readability on larger screens. 
+
+The color palette is strategic: a strong, trustworthy blue (#0052cc) is used for the primary call-to-action button and to highlight selected options, guiding the user’s focus. A vibrant green (#28a745) is used for positive text like "FREE" and the security lock icon, reinforcing value and trust. The typography is clean and sans-serif, with clear size hierarchy: a large main heading (22px), smaller subheadings (18px), and readable body text (14-16px). This structure ensures information is easy to scan and digest. Interactive elements have clear hover and selected states, providing immediate visual feedback. This entire design is intended to feel professional, clear, and secure, minimizing friction and encouraging the user to complete their purchase.
+
+4.2 Question 2: What triggers the appearance of this widget?
+
+This component is not a pop-up or an intermittently appearing widget. It is a fundamental, static part of the multi-step checkout process. Its appearance is triggered when a user, having already added items to their shopping cart, clicks on a button like "Proceed to Checkout" or completes the initial cart review page. This component would represent the "Shipping" or "Delivery" step of the checkout flow, typically appearing after the user has entered their shipping address and before they enter their payment information. It is an expected and integral part of the transactional journey, designed to gather necessary information from the user to calculate the final order total and proceed with the purchase.
+
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can perform several key actions within this component, designed to be intuitive and efficient. The primary interaction is selecting a shipping method from a list of options using radio buttons. Clicking anywhere on an option's container selects it, and only one can be active at a time. The selected option is clearly highlighted with a colored border and shadow. 
+
+Second, users can add optional services or products, such as gift wrapping or an extended warranty, by checking the corresponding checkboxes. These are independent selections. 
+
+Finally, the user's primary goal is to click the prominent "Continue to Payment" button to advance to the next step in the checkout process. Hovering over any interactive element provides visual feedback. Although not functional in this static example, the total order cost would dynamically update in a real implementation as the user changes their shipping and add-on selections, providing instant cost transparency.
+*****Response***** -->
+
+</body>

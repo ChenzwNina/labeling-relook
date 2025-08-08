@@ -1,0 +1,9 @@
+4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+The widget is a modern, card-like panel fixed 20px from the top of the page, centered for high visibility. It uses a white background with a soft drop-shadow to distinguish it from the page. Brand-confidence blue gradients highlight the header and checkout button. Product items are laid out with mini images, bold names, subtle options, intuitive quantity selectors, and pricing—all optimizing scan-ability. Action buttons are prominent, and a trust badge reinforces security. The design is approachable, encourages engagement, and minimizes distractions, maximizing conversion and decreasing abandonment.
+
+4.2 Question 2: What triggers the appearance of this widget?
+The cart widget appears when a user clicks the cart icon in the website's header, adds an item to the cart, or hovers over/opens the cart from navigation. It can also slide in to reduce bounce when a user adds products, thus serving as immediate feedback and call-to-action.
+
+4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+Users can increase or decrease item quantities, remove items, view full cart details, or proceed directly to checkout. The close button allows hiding the widget. The checkout and view cart buttons deepen engagement, and the widget encourages interaction with products and trust features to minimize abandonment and boost order size.
+-->

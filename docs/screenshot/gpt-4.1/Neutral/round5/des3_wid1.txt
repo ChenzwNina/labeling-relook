@@ -1,0 +1,7 @@
+3.1 Question 1: The search panel features a clean, white background with rounded corners and a subtle drop shadow, giving it a modern, elevated look. The store logo (placeholder_image.jpg) appears on the left, followed by an input box for queries, a neatly integrated category dropdown, and a bold blue "Search" button with a search icon. The input fields use soft grey borders and backgrounds; elements are spaced for clarity and easy interaction. These choices were made to match typical e-commerce design conventions (such as Amazon or Walmart), enhance usability, and maintain a trustworthy feel.
+
+3.2 Question 2: This search widget is meant to appear as soon as the page loads on the e-commerce website, always available at the top for users to start searching for products, categories, or brands immediately—crucial for a seamless shopping experience.
+
+3.3 Question 3: Users can interact with the search box by entering keywords, selecting a product category from the dropdown to narrow their search, and clicking the "Search" button (or pressing Enter) to initiate a product query. The input field highlights on focus. The form is responsive, adapting its layout on smaller screens for mobile usability.
+
+-->

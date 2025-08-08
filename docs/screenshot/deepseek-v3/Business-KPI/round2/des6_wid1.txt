@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based design with a white background, subtle shadow, and rounded corners. The image takes top prominence (200px height), followed by product details below. I used a green CTA button for high visibility, blue for price to denote value, and star ratings in gold. The layout prioritizes visual hierarchy with proper spacing. These choices enhance readability, create visual appeal, and follow e-commerce UX best practices for conversion.
+
+    Question 2: This product widget appears as part of a product listing page, category page, or search results in an e-commerce site. It can also appear in recommendation sections ("Customers also bought") or promotional displays. The trigger is the page load or dynamic loading when scrolling through product grids.
+
+    Question 3: Users can: 1) Click the product image/title to view details, 2) Click the wishlist heart to save items (turns red when active), 3) Click "Add to Cart" to purchase, 4) Hover for elevation effect showing interactivity. The widget may also support quick view on hover/click in some implementations. All interactions provide visual feedback (color changes, animations).
+    -->
+</body>

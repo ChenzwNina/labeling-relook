@@ -1,0 +1,7 @@
+Question 1: The widget features a gradient banner (reddish to dark blue) with white text for contrast. Deal items are in semi-transparent cards that lift slightly on hover. I chose these colors for visual appeal and readability, with the gradient creating urgency. The layout uses flexbox for responsive arrangement of deals. Sizes are large enough to be noticeable but not overwhelming (18-24px for key info).
+
+    Question 2: The banner appears automatically when the page loads, as it's important marketing content. In a real implementation, it might only show for first-time visitors or be controlled by cookies/localStorage to avoid repetition.
+
+    Question 3: Users can: 1) Click the close button to dismiss the banner, 2) Hover over deal items for visual feedback (lift effect), 3) Click on deals which would typically link to relevant product pages (not implemented here for simplicity). The banner is designed to be noticeable but not intrusive.
+    -->
+</body>

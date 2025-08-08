@@ -1,0 +1,25 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The component is a clean, card-style form with a white background and a subtle box-shadow, making it float visually above the light grey page background. It has a fixed width of 420px, providing a focused, uncluttered canvas for the user.
+
+**Layout & Sizing:** The layout is a single, vertical column, which is the most intuitive structure for a form. Elements are spaced generously with clear headings, labels, and input fields to guide the user's eye downwards. The primary call-to-action button, "Create Account," is large and spans the full width of the form to emphasize its importance.
+
+**Colors:** The color palette is minimal and professional. Text is a high-contrast dark grey (#172B4D) for readability. The primary action button and interactive link elements use a vibrant, trustworthy blue (#0065FF), drawing the user's attention to key actions. Input fields have a light grey border that turns blue on focus, giving clear visual feedback about the active element. This professional and clean design is chosen to build user trust, reduce cognitive load, and make the sign-up process feel simple and secure.
+
+### Question 2: What triggers the appearance of this widget?
+
+The appearance of this "Create Account" component is triggered by a direct and intentional user action. It is not an automatic pop-up. Typically, a user would click on a "Sign Up" or "Create Account" button located in the primary navigation header or on a promotional banner elsewhere on the e-commerce site. 
+
+This user-initiated approach respects the user's journey and intent. It avoids the disruptive experience of an unsolicited modal, ensuring that the form is presented only when the user has explicitly expressed interest in creating an account. This design choice aligns with creating a helpful and non-intrusive user experience, empowering the user to control their flow through the website. The component itself could be loaded on a dedicated `/signup` page or presented within a modal dialog overlaying the current page.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can engage with the component in several ways to efficiently complete the sign-up process:
+
+1.  **Input Data:** Users can click into the "Full Name," "Email Address," and "Password" fields to type their information. The fields support standard browser autofill for faster entry.
+2.  **Receive Feedback:** When a user clicks into an input field, its border highlights in blue, providing clear feedback on which field is currently active.
+3.  **Toggle Password Visibility:** Users can click the eye icon within the password field to toggle the visibility of their typed password. This helps prevent typos and improves usability. The icon changes to a crossed-out eye to clearly indicate the current state.
+4.  **Agree to Terms:** Users must click the checkbox to agree to the Terms of Service and Privacy Policy. The links to these policies are clickable for review.
+5.  **Submit the Form:** Clicking the "Create Account" button attempts to submit the form. The `required` attributes on the inputs provide browser-level validation, preventing submission if fields are empty.
+6.  **Navigate to Login:** If the user already has an account, they can click the "Log In" link at the bottom, which would redirect them to the login page.
+-->

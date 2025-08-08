@@ -1,0 +1,6 @@
+4.1: The widget is a card-style sign-in panel, centered at the top with 20px margin. It has a white background with soft box shadow and rounded corners, invoking trust and clarity. Brand logo and headings are prominent on top. Input fields are clear, spacious, and have subtle outline on focus. CTA buttons are vivid blue, driving action. Promos (green background) and an ad banner (purple) encourage offers and ads without distracting from signing-in. Social sign-in options include icons for trust and speed. All text and elements are highly readable and visually aligned for intuitive flow, catering to conversions and engagement.
+
+4.2: The widget is triggered to appear whenever the user navigates to a page where sign-in is required (e.g., account, checkout, wishlist). It could also appear as a modal or page-top component for personalized/homepage sign-in nudges, especially for returning users or after cart additions.
+
+4.3: Users can enter email and password, submit the form, recover password via 'Forgot password?,' use Google/Facebook sign-in, create a new account link, and click the "Sale of the Day" ad. The promo offer is clearly visible. Error handling (not implemented in this static code) would provide feedback. Social/login options reduce friction and maximize sign-in conversions.
+-->

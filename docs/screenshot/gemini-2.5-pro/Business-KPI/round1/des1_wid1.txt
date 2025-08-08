@@ -1,0 +1,35 @@
+## 4.1 Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget is a full-width banner, fixed 20px from the top of the viewport.
+
+**Layout**: It's a horizontal bar. On larger screens, the deal text is on the left/center, a Call to Action (CTA) button is to its right, and a close ('×') button is on the far right, all aligned on a single line using flexbox. On smaller screens (tablets/mobiles), elements stack vertically for better readability: deal text, then CTA, with the close button positioned at the top-right corner of the banner for easy access.
+
+**Colors**:
+*   Banner Background: A vibrant blue gradient (`#0077B6` to `#90E0EF`), chosen to be eye-catching, positive, and trustworthy. (Rule 3.4)
+*   Text: White (`#FFFFFF`) for maximum contrast and readability against the blue background. (Rule 3.9)
+*   CTA Button: Bright orange (`#FFA500`), a high-contrast, action-oriented color to draw attention and encourage clicks. (Rule 3.2)
+*   Close Button: White, matching the text, with opacity changes on hover.
+
+**Size of Elements**:
+*   Banner Height: Approximately 60-70px on desktop, adapting on mobile due to stacked content.
+*   Deal Text Font Size: 16px on desktop, scaling down slightly on smaller screens (14px-13px).
+*   CTA Button: Prominently sized with padding (10px 20px) and bold, 15px text.
+*   Close Button: Large enough (28px font size for '×') to be easily tapped/clicked.
+
+**Design Choices Rationale**:
+The design prioritizes clarity, urgency, and conversion. The blue gradient is professional yet attention-grabbing (Rule 3.4, 3.7). High-contrast text ensures the offer is easily digestible (Rule 3.9). The orange CTA stands out, guiding users to act (Rule 3.1, 3.2). Responsive design ensures usability across devices, crucial for e-commerce. Emojis (🎉, 🏡) add a friendly, engaging touch. The layout aims to quickly convey value and provide a clear path to explore offers, boosting page views and time on site (Rule 3.5, 3.6), and ultimately driving sales by highlighting compelling discounts and free shipping thresholds (Rule 3.3). The close button provides user control, minimizing potential annoyance (Rule 3.9).
+
+## 4.2 Question 2: What triggers the appearance of this widget?
+
+The widget is designed to appear immediately upon page load. It's not triggered by a specific user action like scrolling, time on page, or exit intent. Its purpose is to serve as an upfront, persistent announcement of current promotions and deals available on the e-commerce site. It remains visible at the top of the viewport (20px from the top edge) as the user scrolls, ensuring the deals are always in sight until the user explicitly closes it. This immediate visibility aims to capture user attention right away and inform them of value propositions, potentially influencing their browsing and purchasing decisions from the moment they land on the site.
+
+## 4.3 Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users can interact with the deal banner in the following ways:
+
+1.  **Viewing the Offer**: Passively, users see the banner and read the promotional text (e.g., "Weekend Mega Sale! Up to 60% OFF..."). This informs them of current opportunities to save.
+2.  **Clicking the Call to Action (CTA)**: Users can click the "Shop All Deals" button. This is the primary intended interaction. Clicking this button would typically navigate the user to a dedicated sales page, a category page featuring discounted items, or a page filtered by the promotion. This directly supports sales and conversion goals (Rules 3.1, 3.2).
+3.  **Closing the Banner**: Users can click the '×' (close) button. This action is intended to hide the banner from their view. In this HTML/CSS-only implementation, the banner would reappear on page reload or navigation to a new page. True persistence of the closed state would require JavaScript and local storage/cookies. This interaction provides user control, improving experience by allowing them to dismiss information they're not interested in (Rule 3.9).
+4.  **Ignoring the Banner**: Users can choose not to interact with the banner at all and continue browsing or using the rest of the website content. The banner remains visible but doesn't obstruct critical site navigation or content below it.
+*****Response*****
+-->

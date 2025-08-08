@@ -1,0 +1,12 @@
+4.1. The filter panel is a fixed, wide widget at the top of the viewport with a soft white background, subtle box-shadow, and rounded corners for a premium feel. Icons and section labels use a blue, gray, and orange palette to signal interactivity and urgency (e.g., "Reset All" in orange, "Apply Filters" in blue). Typography is modern, clean, and bold for titles; element spacing and field sizes optimize readability and touch interaction. This design uses strong affordances, visual hierarchy, and brand-aligned colors to improve discoverability and conversion.
+
+  4.2. The widget appears upon page load for all product listing and search result pages, ensuring maximum visibility. Its fixed placement keeps filters always accessible, decreasing friction in exploration and increasing average basket size.
+
+  4.3. Users can: 
+  - Select from drop-downs for category and ratings.
+  - Check or uncheck brand and offer options.
+  - Enter price range values.
+  - Click "Apply Filters" to filter results instantly.
+  - Click "Reset All" to clear selections and return to default listings.
+  - The panel is responsive and touch-friendly for both mouse and mobile users, encouraging continued browsing and filter experimentation.
+  -->

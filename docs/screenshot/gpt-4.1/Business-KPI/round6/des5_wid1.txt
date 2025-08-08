@@ -1,0 +1,9 @@
+4.1 Question 1:
+The widget uses a modern, clean look with a white background, rounded corners, and subtle box-shadow for elevation. Primary action buttons use a blue (#1976d2) with white font, and hover effects improve interactivity. Sectioned filters (Category, Price, Rating, Brand) use readable fonts and proper spacing, each with clear labels in muted gray and options in darker text for visual hierarchy. An advertising banner uses soft green hues to draw attention but avoid distraction, showing a promo with a clear button. Layout is responsive, stacking vertically on smaller screens. These choices encourage exploration, easy filtering, and highlight key promos, driving both conversions and increased order size while maintaining strong branding.
+
+4.2 Question 2:
+This widget appears as a persistent panel at the top of the product listing or category pages. It is visible by default when a user visits a browse/search page, ensuring immediate access to filtering and promotional offers without requiring extra clicks.
+
+4.3 Question 3:
+Users can check/uncheck multiple categories and brands, adjust the min/max price, and select a rating threshold. They use “Apply Filters” to update product results or “Reset” to clear all filters. The ad banner is clickable; users can click to view the related promotion. All controls are keyboard accessible. The filter form is interactive, encouraging engagement and providing instant feedback when selections are made.
+-->

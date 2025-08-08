@@ -1,0 +1,11 @@
+Question 1:
+  The product card is a modern, elevated rectangular box with a white background, rounded corners, and subtle shadow. It sits at the top of the viewport with a 20px margin. The 120x120px image is left-aligned, next to product info (title, description, price, and rating) and a prominent blue “Add to Cart” button. Colors use high contrast for clarity: navy blue for actions, green for price, and gold for the rating. Layout is clear and tightly grouped, optimizing readability and interaction. Design choices ensure high visibility, clear affordances, and consistent aesthetics for user trust.
+
+  Question 2:
+  This widget appears as a reusable product listing element, triggered whenever a single product needs display — such as being rendered in a product grid, search result, or recommendation area. It automatically appears on page load as part of the product list or detail view.
+
+  Question 3:
+  Users can: (a) view the product image, name, description, price, and star rating; (b) click or tap “Add to Cart,” which gives visual feedback by button animation and disables if stock is out (disabled state prevents invalid action); (c) focus the card using keyboard navigation for accessibility; (d) hover/focus to highlight the card. The “Add to Cart” is the main interactive action, with clear constraints on use.
+
+  -->
+</body>

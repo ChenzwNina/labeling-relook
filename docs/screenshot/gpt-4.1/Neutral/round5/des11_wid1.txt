@@ -1,0 +1,9 @@
+Question 1:
+  The widget resembles a prominent modal/panel with a white background, rounded corners, and a subtle shadow to distinguish it from the main background. Main colors are white (#fff), dark slate (#222A38), and a strong red (#e53935) for the cancellation action button. Primary text is large and bold, while supporting info and form elements are readable and minimally styled. Buttons are spacious and clear, and spacing ensures focus and clarity—designs typical for high-traffic commerce sites, emphasizing focus and simplicity in a small footprint.
+
+  Question 2:
+  The widget is triggered when the user initiates a "Cancel Membership" action from their account or membership settings page. It appears at the top of the viewport with a 20px margin for visibility and focus.
+
+  Question 3:
+  Users can: (1) read details about the membership; (2) select a cancellation reason (required before proceeding); (3) click "Cancel Membership" to confirm (triggers a visual transition); (4) click "Keep Membership" to dismiss the panel. Buttons are disabled/enabled according to the form’s completion, and all interactions are client-side here for demo.
+  -->

@@ -1,0 +1,16 @@
+Question 1:
+  The widget is a horizontal, card-like panel fixed at the top of the viewport with a 20px margin. It features a crisp white background, rounded corners, and a gentle drop shadow to visually separate from the page. The panel contains clearly separated filter groups (Category, Price Range, Rating, Availability) with bold section titles and legible, consistent options. Main action buttons ("Apply Filters" in blue, "Clear All" as a link) are at the right. All controls are spaced for easy tapping/clicking. Blue accent color (#1976d2) ensures clear visibility and interactive feedback, echoing modern e-commerce UI themes.
+
+  Question 2:
+  This widget is always visible, fixed to the top of the viewport upon entering the product listing page or any page where product filtering is available. It is designed for immediate access, so users can filter items at any time.
+
+  Question 3:
+  Users can:
+  - Check/uncheck categories, customer rating, and availability checkboxes (except All Categories, which is preselected and non-editable for clarity).
+  - Enter price min/max (with validation; "Apply Filters" disables if range is invalid).
+  - Click "Apply Filters" to submit and see feedback ("Filters applied").
+  - Click "Clear All" to reset all checkboxes and price fields (feedback: "Filters reset").
+  Visual feedback is provided for both actions and validation errors, aiding fast and error-free filtering.
+
+  -->
+</body>

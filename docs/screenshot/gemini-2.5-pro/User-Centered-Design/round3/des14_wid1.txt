@@ -1,0 +1,23 @@
+### Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?
+
+The widget has a clean, modern design with a white background, rounded corners, and a subtle shadow, making it float above the page content. It's horizontally centered and fixed 20px from the top. The layout is structured vertically with clear sections for the header, order details, progress bar, and action button.
+
+- **Colors:** The palette is intentional. A strong blue (#2563eb) is used for the progress bar to denote progress and trust. A positive green (#16a34a) highlights the estimated time of arrival (ETA), providing quick, reassuring information. The primary call-to-action button is a premium dark gray/black (#1f2937) for high contrast and importance, while most text is a readable dark gray (#111827).
+- **Element Sizes:** The main status heading ("Your delivery is on its way!") and the ETA are given prominent font sizes to convey the most critical information instantly. The product image (64x64px) is large enough to be easily identifiable.
+- **Choices Rationale:** These choices are made for clarity and user confidence. The organized layout and color-coding guide the user's eye, making the status understandable at a glance, which supports efficient task execution and a helpful user experience.
+
+### Question 2: What triggers the appearance of this widget?
+
+This widget is triggered proactively and contextually. It appears automatically for a logged-in user when they visit a key page (like the homepage or their account dashboard) and have an active order that has reached a significant shipping milestone. Specifically, it would appear when an order's status changes to "Shipped," "Out for Delivery," or if it's arriving "Today." This design avoids forcing the user to hunt for tracking information. The widget acts as a helpful, timely notification rather than a persistent, user-initiated element. It would be dismissed for the session once the user closes it or after the package is delivered.
+
+### Question 3: Can you describe the full range of interactions users can have with the widget?
+
+Users have three main interactions with the widget, designed for simplicity and efficiency:
+
+1.  **Viewing Information (Passive Interaction):** The primary purpose is to inform. Users can immediately see the delivery status, ETA, a visual of their product, and their progress on the tracking bar without clicking anything. This fulfills the core need for a quick update.
+
+2.  **Requesting More Details:** The main interactive element is the "Track Package" button. Clicking this button would navigate the user away from the current page to a dedicated, comprehensive order tracking page. This page would show a detailed timeline, carrier information, and a map view. This interaction follows the principle of progressive disclosure, keeping the widget simple while providing a clear path to more information.
+
+3.  **Dismissing the Widget:** Users can click the '×' close button in the top-right corner. This action would hide the widget for the remainder of their browser session, respecting their screen space. This provides user control and ensures the component is not intrusive. Hovering over the buttons also provides subtle visual feedback.
+-->
+</body>

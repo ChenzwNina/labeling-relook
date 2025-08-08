@@ -1,0 +1,9 @@
+Question 1:
+The widget has a clean, crisp card appearance (520px wide, rounded corners, drop shadow) with a white background for clarity. The header shows a large, bold average rating (4.5) and 5 stars (in gold #ffc94d), using half-stars where needed for precision. Below, a breakdown uses rows with clear "N Stars" labels, horizontal light-gray progress bars filled proportionally with gold and showing exact star counts to the right. The action button "Rate this Product" is prominent in blue with a white label, rounded, and gives clear affordance. A temporary snackbar-style feedback appears on rating. The color palette is soft (white, gold, blue, gray), matching e-commerce best practices for readability and trust. All paddings/margins support scan-ability.
+
+Question 2:
+This widget appears at the top of a product detail, category, or review section—always visible due to user-focused placement. It’s loaded as part of the page structure and does not require any special trigger; users see it immediately when they visit a product.
+
+Question 3:
+Users can: (1) visually scan average rating and breakdown instantly; (2) click "Rate this Product" for instant feedback (the button disables after use, preventing duplicate submission, and a thank-you message confirms the action); (3) because actions are constrained (no double rating, all visuals are non-clickable except the button), the widget prevents confusion or invalid input.
+-->

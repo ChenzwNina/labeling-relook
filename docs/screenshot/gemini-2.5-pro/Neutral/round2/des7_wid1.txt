@@ -1,0 +1,32 @@
+**Question 1: Can you describe how the widget looks, such as its colors, size of elements, and layout? Why do you make these design choices?**
+
+The user ratings widget is a prominent, yet refined banner with a clean aesthetic. It features a white background (`#ffffff`) with a light gray border (`#dee2e6`) and a soft box shadow (`0 5px 15px rgba(0,0,0,0.08)`), giving it a modern, floating appearance. It is horizontally centered and fixed 20px from the top of the viewport.
+
+Key elements:
+- **Layout**: A horizontal flex layout aligns a circular icon and rating details on the left/center, with a distinct call-to-action (CTA) button on the right. On screens narrower than 650px, it responsively stacks elements vertically for optimal mobile viewing.
+- **Icon**: A 50x50px circular placeholder image (`placeholder_image.jpg`) with a bright blue border (`#007bff`), serving as a visual anchor, perhaps for a brand logo or trust seal.
+- **Rating Text**: The average rating (e.g., "4.7 / 5.0") is clearly displayed. Four gold (`#ffc107`) stars and one light gray (`#ced4da`) outlined star visually reinforce the score. The rating value itself is bold and dark (`#495057`).
+- **Review Count**: Below the stars, smaller, lighter gray text (`#6c757d`) states the basis of the rating, like "Rated by <strong>9,820+</strong> AquaPure Filters Customers."
+- **CTA Button**: A rounded blue (`#007bff`) button with white text ("Discover Why Customers Love Us") encourages user engagement.
+
+**Design Choices Rationale**:
+- **Colors**: The palette (white, grays, primary blue, gold) is chosen for trustworthiness and clarity. Gold stars are universally understood. Blue for the CTA draws focus to the primary interaction.
+- **Typography**: 'Segoe UI' or similar sans-serif fonts ensure high readability. A clear hierarchy is established through varying font sizes and weights.
+- **Size & Spacing**: Generous padding (20px 28px) and element spacing (gap: 20px) make the component feel uncluttered and easy to parse. The `max-width: 680px` ensures it doesn't dominate larger screens.
+- **Responsiveness**: Media queries ensure the banner adapts gracefully to different screen sizes, maintaining usability and visual appeal on all devices. The fixed positioning keeps this trust signal constantly in view.
+
+**Question 2: What triggers the appearance of this widget?**
+
+The appearance of this user ratings widget is not triggered by a specific user action (like a click or scroll event). Instead, it's designed to be an integral part of the page interface, loading automatically as soon as the webpage content is rendered by the browser. Its `position: fixed; top: 20px;` CSS properties ensure it is displayed at the top of the viewport consistently across relevant pages of the e-commerce site (e.g., homepage, product listings, individual product pages). The primary trigger is page load, making it an immediate and persistent social proof element for visitors.
+
+**Question 3: Can you describe the full range of interactions users can have with the widget?**
+
+Users can interact with the widget in the following ways:
+1.  **Information Consumption (Passive)**: The primary purpose is for users to view and absorb the rating information: the star visualization, the numerical average score, and the total number of reviews. This helps build trust and informs their purchasing decisions.
+2.  **Clicking the Call-to-Action (CTA) Button**: The main active interaction is clicking the "Discover Why Customers Love Us" button. This is designed to navigate the user to a dedicated page containing detailed customer reviews, testimonials, or further information about the company's customer satisfaction.
+3.  **Hover Effects**: Hovering over the CTA button provides visual feedback – the button's background color darkens slightly, and it subtly lifts (transform: translateY(-2px)), indicating its interactivity and inviting a click. An active/pressed state further darkens the button.
+4.  **Text Selection**: Standard browser functionality allows users to select and copy the textual content (rating, review count) if they wish.
+
+The widget does not offer functionality to submit a rating or dismiss the banner, as its role is to consistently display aggregated site-wide or brand-level user satisfaction.
+*****Response*****
+-->

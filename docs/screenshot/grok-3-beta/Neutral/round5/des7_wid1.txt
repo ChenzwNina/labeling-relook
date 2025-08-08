@@ -1,0 +1,6 @@
+Question 1: The widget is a sticky horizontal bar at the top of the viewport with a 20px margin, featuring a clean white background and subtle shadow for elevation. The layout is divided into three sections: a bold 4.5 rating in gold (#f1c40f) for visibility, a breakdown of star ratings with progress bars for quick insight, and a blue "Write a Review" button for action. Fonts are sized for hierarchy (24px for score, 14px for labels). These choices mimic modern e-commerce designs, prioritizing clarity and user engagement.
+
+Question 2: This widget appears on product detail pages, triggered by the page load of a specific product. It remains sticky at the top to ensure constant visibility as users scroll through product information, reviews, or related items, reinforcing trust through accessible rating data.
+
+Question 3: Users can interact with the widget in two primary ways: viewing the aggregated rating (4.5/5) and detailed star distribution via progress bars for a quick trust assessment, and clicking the "Write a Review" button to submit feedback. Hovering over the button provides visual feedback with a color change, enhancing usability. No other direct interactions are included to maintain simplicity.
+-->

@@ -1,0 +1,7 @@
+Question 1: The widget features a clean, card-based design with a white background, subtle border, and soft shadow. The image is prominently displayed at the top (300x200px), followed by the product title (18px bold), rating stars (yellow), price (20px red), and description (14px gray). Buttons are green (add to cart) and red (wishlist). This design emphasizes visual hierarchy, with important elements (price, CTA) standing out, while maintaining a clean aesthetic that aligns with modern e-commerce trends.
+
+    Question 2: This widget appears as part of a product listing page, category page, or search results in an e-commerce site. It can also appear in recommendation sections ("Customers also bought") or promotional displays. The component is rendered when the page loads these product listings or when filtered/search results are displayed.
+
+    Question 3: Users can: 1) View product details (image, title, price, description), 2) Click "Add to Cart" to purchase, 3) Click the heart icon to add to wishlist (turns red when active), 4) Hover over the card for a lift effect. The component could be expanded to include more interactions like quick view, color/size selection, or product comparison.
+    -->
+</body>
